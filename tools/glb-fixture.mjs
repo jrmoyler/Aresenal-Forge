@@ -1,0 +1,4 @@
+// Test-only triangle, never a production asset.
+export function glbFixture(){
+ const json={asset:{version:'2.0'},scene:0,scenes:[{nodes:[0]}],nodes:[{mesh:0,name:'grip.primary'}],meshes:[{primitives:[{attributes:{POSITION:0},material:0}]}],materials:[{doubleSided:true,pbrMetallicRoughness:{baseColorFactor:[.8,.6,.2,1],metallicFactor:.6,roughnessFactor:.4}}],buffers:[{byteLength:36}],bufferViews:[{buffer:0,byteLength:36}],accessors:[{bufferView:0,componentType:5126,count:3,type:'VEC3',min:[-1,0,0],max:[1,1,0]}]};let text=JSON.stringify(json);text+=' '.repeat((4-text.length%4)%4);const b=Buffer.alloc(28+text.length+36);b.writeUInt32LE(0x46546c67,0);b.writeUInt32LE(2,4);b.writeUInt32LE(b.length,8);b.writeUInt32LE(text.length,12);b.writeUInt32LE(0x4e4f534a,16);b.write(text,20);b.writeUInt32LE(36,20+text.length);b.writeUInt32LE(0x004e4942,24+text.length);[-1,0,0,1,0,0,0,1,0].forEach((x,i)=>b.writeFloatLE(x,28+text.length+i*4));return b;
+}

@@ -1,0 +1,3977 @@
+[
+  {
+    "id": "arsenal:swords/longsword",
+    "name": "Longsword",
+    "family": "swords",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible longsword with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/swords/longsword.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "slash"
+    },
+    "movement": {
+      "idle": "swords_idle",
+      "primary": "swords_attack_primary",
+      "secondary": "swords_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:swords/saber",
+    "name": "Saber",
+    "family": "swords",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible saber with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/swords/saber.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "slash"
+    },
+    "movement": {
+      "idle": "swords_idle",
+      "primary": "swords_attack_primary",
+      "secondary": "swords_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:swords/katana",
+    "name": "Katana",
+    "family": "swords",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible katana with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/swords/katana.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "slash"
+    },
+    "movement": {
+      "idle": "swords_idle",
+      "primary": "swords_attack_primary",
+      "secondary": "swords_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:swords/greatsword",
+    "name": "Greatsword",
+    "family": "swords",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible greatsword with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/swords/greatsword.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "slash"
+    },
+    "movement": {
+      "idle": "swords_idle",
+      "primary": "swords_attack_primary",
+      "secondary": "swords_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:swords/rapier",
+    "name": "Rapier",
+    "family": "swords",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible rapier with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/swords/rapier.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "slash"
+    },
+    "movement": {
+      "idle": "swords_idle",
+      "primary": "swords_attack_primary",
+      "secondary": "swords_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/dagger",
+    "name": "Dagger",
+    "family": "short_blades",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible dagger with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/short_blades/dagger.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "pierce"
+    },
+    "movement": {
+      "idle": "short_blades_idle",
+      "primary": "short_blades_attack_primary",
+      "secondary": "short_blades_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/kukri",
+    "name": "Kukri",
+    "family": "short_blades",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible kukri with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/short_blades/kukri.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "pierce"
+    },
+    "movement": {
+      "idle": "short_blades_idle",
+      "primary": "short_blades_attack_primary",
+      "secondary": "short_blades_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/twin-shortblade",
+    "name": "Twin Shortblade",
+    "family": "short_blades",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible twin shortblade with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/short_blades/twin-shortblade.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "pierce"
+    },
+    "movement": {
+      "idle": "short_blades_idle",
+      "primary": "short_blades_attack_primary",
+      "secondary": "short_blades_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/punch-dagger",
+    "name": "Punch Dagger",
+    "family": "short_blades",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible punch dagger with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/short_blades/punch-dagger.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "pierce"
+    },
+    "movement": {
+      "idle": "short_blades_idle",
+      "primary": "short_blades_attack_primary",
+      "secondary": "short_blades_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/tanto",
+    "name": "Tanto",
+    "family": "short_blades",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible tanto with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/short_blades/tanto.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "pierce"
+    },
+    "movement": {
+      "idle": "short_blades_idle",
+      "primary": "short_blades_attack_primary",
+      "secondary": "short_blades_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/spear",
+    "name": "Spear",
+    "family": "polearms",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible spear with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/polearms/spear.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "thrust"
+    },
+    "movement": {
+      "idle": "polearms_idle",
+      "primary": "polearms_attack_primary",
+      "secondary": "polearms_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/glaive",
+    "name": "Glaive",
+    "family": "polearms",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible glaive with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/polearms/glaive.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "thrust"
+    },
+    "movement": {
+      "idle": "polearms_idle",
+      "primary": "polearms_attack_primary",
+      "secondary": "polearms_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/halberd",
+    "name": "Halberd",
+    "family": "polearms",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible halberd with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/polearms/halberd.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "thrust"
+    },
+    "movement": {
+      "idle": "polearms_idle",
+      "primary": "polearms_attack_primary",
+      "secondary": "polearms_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/trident",
+    "name": "Trident",
+    "family": "polearms",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible trident with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/polearms/trident.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "thrust"
+    },
+    "movement": {
+      "idle": "polearms_idle",
+      "primary": "polearms_attack_primary",
+      "secondary": "polearms_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/war-lance",
+    "name": "War Lance",
+    "family": "polearms",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible war lance with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/polearms/war-lance.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "thrust"
+    },
+    "movement": {
+      "idle": "polearms_idle",
+      "primary": "polearms_attack_primary",
+      "secondary": "polearms_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/war-axe",
+    "name": "War Axe",
+    "family": "heavy_impact",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible war axe with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/heavy_impact/war-axe.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "crush"
+    },
+    "movement": {
+      "idle": "heavy_impact_idle",
+      "primary": "heavy_impact_attack_primary",
+      "secondary": "heavy_impact_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/great-axe",
+    "name": "Great Axe",
+    "family": "heavy_impact",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible great axe with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/heavy_impact/great-axe.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "crush"
+    },
+    "movement": {
+      "idle": "heavy_impact_idle",
+      "primary": "heavy_impact_attack_primary",
+      "secondary": "heavy_impact_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/warhammer",
+    "name": "Warhammer",
+    "family": "heavy_impact",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible warhammer with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/heavy_impact/warhammer.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "crush"
+    },
+    "movement": {
+      "idle": "heavy_impact_idle",
+      "primary": "heavy_impact_attack_primary",
+      "secondary": "heavy_impact_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/flanged-mace",
+    "name": "Flanged Mace",
+    "family": "heavy_impact",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible flanged mace with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/heavy_impact/flanged-mace.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "crush"
+    },
+    "movement": {
+      "idle": "heavy_impact_idle",
+      "primary": "heavy_impact_attack_primary",
+      "secondary": "heavy_impact_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/military-pick",
+    "name": "Military Pick",
+    "family": "heavy_impact",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible military pick with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/heavy_impact/military-pick.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "crush"
+    },
+    "movement": {
+      "idle": "heavy_impact_idle",
+      "primary": "heavy_impact_attack_primary",
+      "secondary": "heavy_impact_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:archery/longbow",
+    "name": "Longbow",
+    "family": "archery",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible longbow with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/archery/longbow.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "piercing-projectile"
+    },
+    "movement": {
+      "idle": "archery_idle",
+      "primary": "archery_attack_primary",
+      "secondary": "archery_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:archery/recurve-bow",
+    "name": "Recurve Bow",
+    "family": "archery",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible recurve bow with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/archery/recurve-bow.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "piercing-projectile"
+    },
+    "movement": {
+      "idle": "archery_idle",
+      "primary": "archery_attack_primary",
+      "secondary": "archery_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:archery/crossbow",
+    "name": "Crossbow",
+    "family": "archery",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible crossbow with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/archery/crossbow.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "piercing-projectile"
+    },
+    "movement": {
+      "idle": "archery_idle",
+      "primary": "archery_attack_primary",
+      "secondary": "archery_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:archery/repeating-crossbow",
+    "name": "Repeating Crossbow",
+    "family": "archery",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible repeating crossbow with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/archery/repeating-crossbow.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "piercing-projectile"
+    },
+    "movement": {
+      "idle": "archery_idle",
+      "primary": "archery_attack_primary",
+      "secondary": "archery_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:archery/composite-bow",
+    "name": "Composite Bow",
+    "family": "archery",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible composite bow with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/archery/composite-bow.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "piercing-projectile"
+    },
+    "movement": {
+      "idle": "archery_idle",
+      "primary": "archery_attack_primary",
+      "secondary": "archery_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/oak-staff",
+    "name": "Oak Staff",
+    "family": "casting_implements",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible oak staff with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/casting_implements/oak-staff.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "focus"
+    },
+    "movement": {
+      "idle": "casting_implements_idle",
+      "primary": "casting_implements_attack_primary",
+      "secondary": "casting_implements_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/crystal-staff",
+    "name": "Crystal Staff",
+    "family": "casting_implements",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible crystal staff with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/casting_implements/crystal-staff.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "focus"
+    },
+    "movement": {
+      "idle": "casting_implements_idle",
+      "primary": "casting_implements_attack_primary",
+      "secondary": "casting_implements_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/wand",
+    "name": "Wand",
+    "family": "casting_implements",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible wand with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/casting_implements/wand.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "focus"
+    },
+    "movement": {
+      "idle": "casting_implements_idle",
+      "primary": "casting_implements_attack_primary",
+      "secondary": "casting_implements_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/scepter",
+    "name": "Scepter",
+    "family": "casting_implements",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible scepter with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/casting_implements/scepter.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "focus"
+    },
+    "movement": {
+      "idle": "casting_implements_idle",
+      "primary": "casting_implements_attack_primary",
+      "secondary": "casting_implements_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/channeling-rod",
+    "name": "Channeling Rod",
+    "family": "casting_implements",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible channeling rod with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/casting_implements/channeling-rod.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "focus"
+    },
+    "movement": {
+      "idle": "casting_implements_idle",
+      "primary": "casting_implements_attack_primary",
+      "secondary": "casting_implements_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/grimoire",
+    "name": "Grimoire",
+    "family": "ritual",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible grimoire with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/ritual/grimoire.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "channel"
+    },
+    "movement": {
+      "idle": "ritual_idle",
+      "primary": "ritual_attack_primary",
+      "secondary": "ritual_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/rune-tablet",
+    "name": "Rune Tablet",
+    "family": "ritual",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible rune tablet with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/ritual/rune-tablet.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "channel"
+    },
+    "movement": {
+      "idle": "ritual_idle",
+      "primary": "ritual_attack_primary",
+      "secondary": "ritual_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/ceremonial-seal",
+    "name": "Ceremonial Seal",
+    "family": "ritual",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible ceremonial seal with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/ritual/ceremonial-seal.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "channel"
+    },
+    "movement": {
+      "idle": "ritual_idle",
+      "primary": "ritual_attack_primary",
+      "secondary": "ritual_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/talisman-array",
+    "name": "Talisman Array",
+    "family": "ritual",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible talisman array with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/ritual/talisman-array.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "channel"
+    },
+    "movement": {
+      "idle": "ritual_idle",
+      "primary": "ritual_attack_primary",
+      "secondary": "ritual_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/relic-orb",
+    "name": "Relic Orb",
+    "family": "ritual",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible relic orb with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/ritual/relic-orb.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "channel"
+    },
+    "movement": {
+      "idle": "ritual_idle",
+      "primary": "ritual_attack_primary",
+      "secondary": "ritual_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:martial/cestus",
+    "name": "Cestus",
+    "family": "martial",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible cestus with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/martial/cestus.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "blunt"
+    },
+    "movement": {
+      "idle": "martial_idle",
+      "primary": "martial_attack_primary",
+      "secondary": "martial_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:martial/arm-blade",
+    "name": "Arm Blade",
+    "family": "martial",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible arm blade with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/martial/arm-blade.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "blunt"
+    },
+    "movement": {
+      "idle": "martial_idle",
+      "primary": "martial_attack_primary",
+      "secondary": "martial_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:martial/talons",
+    "name": "Talons",
+    "family": "martial",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible talons with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/martial/talons.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "blunt"
+    },
+    "movement": {
+      "idle": "martial_idle",
+      "primary": "martial_attack_primary",
+      "secondary": "martial_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:martial/power-knuckles",
+    "name": "Power Knuckles",
+    "family": "martial",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible power knuckles with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/martial/power-knuckles.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "blunt"
+    },
+    "movement": {
+      "idle": "martial_idle",
+      "primary": "martial_attack_primary",
+      "secondary": "martial_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:martial/hook-claws",
+    "name": "Hook Claws",
+    "family": "martial",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible hook claws with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/martial/hook-claws.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "blunt"
+    },
+    "movement": {
+      "idle": "martial_idle",
+      "primary": "martial_attack_primary",
+      "secondary": "martial_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/chain-sickle",
+    "name": "Chain Sickle",
+    "family": "flexible",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible chain sickle with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/flexible/chain-sickle.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "sweep"
+    },
+    "movement": {
+      "idle": "flexible_idle",
+      "primary": "flexible_attack_primary",
+      "secondary": "flexible_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/whip",
+    "name": "Whip",
+    "family": "flexible",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible whip with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/flexible/whip.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "sweep"
+    },
+    "movement": {
+      "idle": "flexible_idle",
+      "primary": "flexible_attack_primary",
+      "secondary": "flexible_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/rope-dart",
+    "name": "Rope Dart",
+    "family": "flexible",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible rope dart with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/flexible/rope-dart.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "sweep"
+    },
+    "movement": {
+      "idle": "flexible_idle",
+      "primary": "flexible_attack_primary",
+      "secondary": "flexible_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/meteor-hammer",
+    "name": "Meteor Hammer",
+    "family": "flexible",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible meteor hammer with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/flexible/meteor-hammer.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "sweep"
+    },
+    "movement": {
+      "idle": "flexible_idle",
+      "primary": "flexible_attack_primary",
+      "secondary": "flexible_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/weighted-chain",
+    "name": "Weighted Chain",
+    "family": "flexible",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible weighted chain with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/flexible/weighted-chain.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "sweep"
+    },
+    "movement": {
+      "idle": "flexible_idle",
+      "primary": "flexible_attack_primary",
+      "secondary": "flexible_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/chakram",
+    "name": "Chakram",
+    "family": "thrown",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible chakram with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/thrown/chakram.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "projectile"
+    },
+    "movement": {
+      "idle": "thrown_idle",
+      "primary": "thrown_attack_primary",
+      "secondary": "thrown_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/kunai",
+    "name": "Kunai",
+    "family": "thrown",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible kunai with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/thrown/kunai.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "projectile"
+    },
+    "movement": {
+      "idle": "thrown_idle",
+      "primary": "thrown_attack_primary",
+      "secondary": "thrown_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/shuriken",
+    "name": "Shuriken",
+    "family": "thrown",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible shuriken with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/thrown/shuriken.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "projectile"
+    },
+    "movement": {
+      "idle": "thrown_idle",
+      "primary": "thrown_attack_primary",
+      "secondary": "thrown_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/boomerang",
+    "name": "Boomerang",
+    "family": "thrown",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible boomerang with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/thrown/boomerang.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "projectile"
+    },
+    "movement": {
+      "idle": "thrown_idle",
+      "primary": "thrown_attack_primary",
+      "secondary": "thrown_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/javelin",
+    "name": "Javelin",
+    "family": "thrown",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible javelin with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/thrown/javelin.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "projectile"
+    },
+    "movement": {
+      "idle": "thrown_idle",
+      "primary": "thrown_attack_primary",
+      "secondary": "thrown_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/sidearm",
+    "name": "Sidearm",
+    "family": "tech_ranged",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible sidearm with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/tech_ranged/sidearm.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "ballistic"
+    },
+    "movement": {
+      "idle": "tech_ranged_idle",
+      "primary": "tech_ranged_attack_primary",
+      "secondary": "tech_ranged_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/pulse-rifle",
+    "name": "Pulse Rifle",
+    "family": "tech_ranged",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible pulse rifle with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/tech_ranged/pulse-rifle.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "ballistic"
+    },
+    "movement": {
+      "idle": "tech_ranged_idle",
+      "primary": "tech_ranged_attack_primary",
+      "secondary": "tech_ranged_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/railgun",
+    "name": "Railgun",
+    "family": "tech_ranged",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible railgun with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/tech_ranged/railgun.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "ballistic"
+    },
+    "movement": {
+      "idle": "tech_ranged_idle",
+      "primary": "tech_ranged_attack_primary",
+      "secondary": "tech_ranged_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/beam-projector",
+    "name": "Beam Projector",
+    "family": "tech_ranged",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible beam projector with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/tech_ranged/beam-projector.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "ballistic"
+    },
+    "movement": {
+      "idle": "tech_ranged_idle",
+      "primary": "tech_ranged_attack_primary",
+      "secondary": "tech_ranged_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/grenade-launcher",
+    "name": "Grenade Launcher",
+    "family": "tech_ranged",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible grenade launcher with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/tech_ranged/grenade-launcher.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "ballistic"
+    },
+    "movement": {
+      "idle": "tech_ranged_idle",
+      "primary": "tech_ranged_attack_primary",
+      "secondary": "tech_ranged_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/wrist-emitter",
+    "name": "Wrist Emitter",
+    "family": "integrated",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible wrist emitter with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/integrated/wrist-emitter.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "energy"
+    },
+    "movement": {
+      "idle": "integrated_idle",
+      "primary": "integrated_attack_primary",
+      "secondary": "integrated_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/servo-blade",
+    "name": "Servo Blade",
+    "family": "integrated",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible servo blade with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/integrated/servo-blade.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "energy"
+    },
+    "movement": {
+      "idle": "integrated_idle",
+      "primary": "integrated_attack_primary",
+      "secondary": "integrated_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/shoulder-mount",
+    "name": "Shoulder Mount",
+    "family": "integrated",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible shoulder mount with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/integrated/shoulder-mount.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "energy"
+    },
+    "movement": {
+      "idle": "integrated_idle",
+      "primary": "integrated_attack_primary",
+      "secondary": "integrated_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/energy-gauntlet",
+    "name": "Energy Gauntlet",
+    "family": "integrated",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible energy gauntlet with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/integrated/energy-gauntlet.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "energy"
+    },
+    "movement": {
+      "idle": "integrated_idle",
+      "primary": "integrated_attack_primary",
+      "secondary": "integrated_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/exo-arm",
+    "name": "Exo-Arm",
+    "family": "integrated",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible exo-arm with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/integrated/exo-arm.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "energy"
+    },
+    "movement": {
+      "idle": "integrated_idle",
+      "primary": "integrated_attack_primary",
+      "secondary": "integrated_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:shields/buckler",
+    "name": "Buckler",
+    "family": "shields",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible buckler with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/shields/buckler.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "block"
+    },
+    "movement": {
+      "idle": "shields_idle",
+      "primary": "shields_attack_primary",
+      "secondary": "shields_attack_secondary",
+      "block": "guard",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:shields/kite-shield",
+    "name": "Kite Shield",
+    "family": "shields",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible kite shield with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/shields/kite-shield.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "block"
+    },
+    "movement": {
+      "idle": "shields_idle",
+      "primary": "shields_attack_primary",
+      "secondary": "shields_attack_secondary",
+      "block": "guard",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:shields/tower-shield",
+    "name": "Tower Shield",
+    "family": "shields",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible tower shield with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/shields/tower-shield.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "block"
+    },
+    "movement": {
+      "idle": "shields_idle",
+      "primary": "shields_attack_primary",
+      "secondary": "shields_attack_secondary",
+      "block": "guard",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:shields/round-shield",
+    "name": "Round Shield",
+    "family": "shields",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible round shield with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/shields/round-shield.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "block"
+    },
+    "movement": {
+      "idle": "shields_idle",
+      "primary": "shields_attack_primary",
+      "secondary": "shields_attack_secondary",
+      "block": "guard",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:shields/kinetic-disc",
+    "name": "Kinetic Disc",
+    "family": "shields",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible kinetic disc with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/shields/kinetic-disc.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "block"
+    },
+    "movement": {
+      "idle": "shields_idle",
+      "primary": "shields_attack_primary",
+      "secondary": "shields_attack_secondary",
+      "block": "guard",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/flame-sword",
+    "name": "Flame Sword",
+    "family": "manifested",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible flame sword with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/manifested/flame-sword.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "elemental"
+    },
+    "movement": {
+      "idle": "manifested_idle",
+      "primary": "manifested_attack_primary",
+      "secondary": "manifested_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/ice-spear",
+    "name": "Ice Spear",
+    "family": "manifested",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible ice spear with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/manifested/ice-spear.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "elemental"
+    },
+    "movement": {
+      "idle": "manifested_idle",
+      "primary": "manifested_attack_primary",
+      "secondary": "manifested_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/crystal-scythe",
+    "name": "Crystal Scythe",
+    "family": "manifested",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible crystal scythe with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/manifested/crystal-scythe.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "elemental"
+    },
+    "movement": {
+      "idle": "manifested_idle",
+      "primary": "manifested_attack_primary",
+      "secondary": "manifested_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/light-blade",
+    "name": "Light Blade",
+    "family": "manifested",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible light blade with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/manifested/light-blade.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "elemental"
+    },
+    "movement": {
+      "idle": "manifested_idle",
+      "primary": "manifested_attack_primary",
+      "secondary": "manifested_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/void-disc",
+    "name": "Void Disc",
+    "family": "manifested",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible void disc with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/manifested/void-disc.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "elemental"
+    },
+    "movement": {
+      "idle": "manifested_idle",
+      "primary": "manifested_attack_primary",
+      "secondary": "manifested_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/turret",
+    "name": "Turret",
+    "family": "deployables",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible turret with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/deployables/turret.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "deploy"
+    },
+    "movement": {
+      "idle": "deployables_idle",
+      "primary": "deployables_attack_primary",
+      "secondary": "deployables_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/trip-mine",
+    "name": "Trip Mine",
+    "family": "deployables",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible trip mine with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/deployables/trip-mine.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "deploy"
+    },
+    "movement": {
+      "idle": "deployables_idle",
+      "primary": "deployables_attack_primary",
+      "secondary": "deployables_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/combat-drone",
+    "name": "Combat Drone",
+    "family": "deployables",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible combat drone with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/deployables/combat-drone.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "deploy"
+    },
+    "movement": {
+      "idle": "deployables_idle",
+      "primary": "deployables_attack_primary",
+      "secondary": "deployables_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/pulse-pylon",
+    "name": "Pulse Pylon",
+    "family": "deployables",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible pulse pylon with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/deployables/pulse-pylon.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "deploy"
+    },
+    "movement": {
+      "idle": "deployables_idle",
+      "primary": "deployables_attack_primary",
+      "secondary": "deployables_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/sentry-node",
+    "name": "Sentry Node",
+    "family": "deployables",
+    "status": "production-required",
+    "visualBrief": "Individually authored, physically credible sentry node with unique silhouette, PBR roughness response, readable wear, correct manufacturing joints, no toy-like extrusions. Match approved reference front/side/back before asset signoff.",
+    "geometry": {
+      "glb": "assets/weapons/deployables/sentry-node.glb",
+      "unit": "m",
+      "lods": [
+        0,
+        1,
+        2
+      ],
+      "sockets": [
+        "grip.primary",
+        "grip.secondary",
+        "edge.base",
+        "edge.tip",
+        "vfx.muzzle",
+        "holster"
+      ],
+      "hitProfile": "deploy"
+    },
+    "movement": {
+      "idle": "deployables_idle",
+      "primary": "deployables_attack_primary",
+      "secondary": "deployables_attack_secondary",
+      "block": "optional",
+      "windows": "author in frame-window data, not guessed defaults"
+    },
+    "gameplay": {
+      "reachMeters": "derive from measured model; never fabricated",
+      "collision": "swept segments/volumes against world-space sockets",
+      "materialResponses": [
+        "metal",
+        "stone",
+        "wood",
+        "organic",
+        "water",
+        "crystal",
+        "armor"
+      ]
+    },
+    "requirements": [
+      "Three.js GLTF visual test",
+      "Babylon.js GLB import test",
+      "LOD silhouette parity",
+      "no duplicate hit within same window",
+      "element infusion for all 23 IDs with explicit overrides",
+      "metadata and source provenance"
+    ]
+  }
+]

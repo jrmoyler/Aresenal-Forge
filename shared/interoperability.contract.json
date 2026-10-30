@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "collective-interoperability/1.0.0",
+  "coordinateSystem": {
+    "handedness": "right-handed authoring GLB",
+    "units": "meters",
+    "upAxis": "Y",
+    "forwardAxis": "-Z",
+    "note": "Babylon/Three conversion adapters must explicitly transform coordinates, winding, tangent space and animation orientation. Validate in both."
+  },
+  "elements": [
+    "fire",
+    "frost",
+    "storm",
+    "water",
+    "earth",
+    "crystal",
+    "wind",
+    "sound",
+    "nature",
+    "poison",
+    "light",
+    "holy",
+    "cosmic",
+    "gravity",
+    "shadow",
+    "void",
+    "blood",
+    "arcane",
+    "illusion",
+    "time",
+    "motion",
+    "tech",
+    "force"
+  ],
+  "lightningId": "storm",
+  "packs": {
+    "ability_matrix": {
+      "repo": "jrmoyler/Ability-Matrix",
+      "ucsm": "packs/sandbox/src/combat/ucsm/CombatStateManager.js",
+      "ontology": "packs/sandbox/src/combat/ucsm/ontology.js",
+      "adapter": "packs/sandbox/src/combat/ucsm/PackAdapter.js",
+      "default_baseline": "230 active, 161 proposed; verify at integration time"
+    },
+    "biome_triad": {
+      "repo": "jrmoyler/biome-triad",
+      "registry": "Helios.registerBiome(...)",
+      "baseline": "six registered worlds; environment surface extension is a separate integration artifact"
+    },
+    "aetherion": {
+      "repo": "jrmoyler/Aetherion-The-Fifteen-Oaths",
+      "runtime": "Babylon.js MMO in game/ and separate Three.js Ability Matrix sandbox",
+      "authority": "Server/host authoritativeness to be established via game/CONTRACTS.md; do not assume UCSM alone is network server authority"
+    }
+  },
+  "events": {
+    "required": [
+      "eventId",
+      "tick",
+      "actorId",
+      "ownerId",
+      "teamId",
+      "abilityUid",
+      "element",
+      "position",
+      "targetIds",
+      "intensity"
+    ],
+    "ucsmTypes": [
+      "cast-start",
+      "spawn",
+      "hit",
+      "status",
+      "terrain-impact",
+      "expire",
+      "interrupt"
+    ],
+    "inputSample": {
+      "eventId": "integration:demo:1",
+      "tick": 42,
+      "type": "terrain-impact",
+      "actorId": "player:1",
+      "ownerId": "player:1",
+      "teamId": "blue",
+      "abilityUid": "codex/solarlash",
+      "castId": "demo:cast:1",
+      "element": "fire",
+      "mechanic": "standard",
+      "targetIds": [],
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "shape": {
+        "kind": "disc",
+        "x": 0,
+        "z": 0,
+        "r": 2
+      },
+      "tags": [
+        "heat"
+      ],
+      "intensity": 1,
+      "durationTicks": 60,
+      "depth": 0
+    }
+  },
+  "ownership": {
+    "ability_matrix_ucsm": "combat statuses, reaction rules, ownership, kill/secondary gameplay effects",
+    "biome_triad": "material/surface state, terrain/weather/environment evolution",
+    "arsenal_forge": "equipment definitions, sockets and attack geometry source data",
+    "combat_dynamics_lab": "presentation cues and deterministic hit geometry instrumentation; no unsolicited damage",
+    "character_forge": "meshes, skeletons, motion clips, bodies, sockets; no damage authority",
+    "aetherion_host": "world scheduling, entity IDs, network/game state and runtime adapters"
+  },
+  "requirements": [
+    "No direct circular library imports",
+    "Emit idempotent events using stable eventId and castId",
+    "Pin any external reference by commit and path during integration",
+    "Do not emit kill/damage from presentation-only effects",
+    "All runtime entity and asset IDs are stable and namespaced",
+    "Provide compatible Three.js and Babylon.js adapters or document a verified shared glTF pathway",
+    "Never treat world properties as combat statuses without bridge-level mapping",
+    "Maintain versioned serialization, migration and deterministic test fixtures"
+  ]
+}

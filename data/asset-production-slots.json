@@ -1,0 +1,3694 @@
+{
+  "interactive_props": [
+    {
+      "id": "arsenal:interactive_props/001",
+      "productionName": "Interactive Props #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/002",
+      "productionName": "Interactive Props #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/003",
+      "productionName": "Interactive Props #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/004",
+      "productionName": "Interactive Props #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/005",
+      "productionName": "Interactive Props #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/006",
+      "productionName": "Interactive Props #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/007",
+      "productionName": "Interactive Props #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/008",
+      "productionName": "Interactive Props #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/009",
+      "productionName": "Interactive Props #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/010",
+      "productionName": "Interactive Props #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/011",
+      "productionName": "Interactive Props #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/012",
+      "productionName": "Interactive Props #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/013",
+      "productionName": "Interactive Props #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/014",
+      "productionName": "Interactive Props #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/015",
+      "productionName": "Interactive Props #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/016",
+      "productionName": "Interactive Props #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/017",
+      "productionName": "Interactive Props #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/018",
+      "productionName": "Interactive Props #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/019",
+      "productionName": "Interactive Props #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/020",
+      "productionName": "Interactive Props #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/021",
+      "productionName": "Interactive Props #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/022",
+      "productionName": "Interactive Props #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/023",
+      "productionName": "Interactive Props #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/024",
+      "productionName": "Interactive Props #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/025",
+      "productionName": "Interactive Props #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/026",
+      "productionName": "Interactive Props #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/027",
+      "productionName": "Interactive Props #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/028",
+      "productionName": "Interactive Props #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/029",
+      "productionName": "Interactive Props #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/030",
+      "productionName": "Interactive Props #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/031",
+      "productionName": "Interactive Props #031",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/032",
+      "productionName": "Interactive Props #032",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/033",
+      "productionName": "Interactive Props #033",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/034",
+      "productionName": "Interactive Props #034",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/035",
+      "productionName": "Interactive Props #035",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/036",
+      "productionName": "Interactive Props #036",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/037",
+      "productionName": "Interactive Props #037",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/038",
+      "productionName": "Interactive Props #038",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/039",
+      "productionName": "Interactive Props #039",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/040",
+      "productionName": "Interactive Props #040",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/041",
+      "productionName": "Interactive Props #041",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/042",
+      "productionName": "Interactive Props #042",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/043",
+      "productionName": "Interactive Props #043",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/044",
+      "productionName": "Interactive Props #044",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/045",
+      "productionName": "Interactive Props #045",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/046",
+      "productionName": "Interactive Props #046",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/047",
+      "productionName": "Interactive Props #047",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/048",
+      "productionName": "Interactive Props #048",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/049",
+      "productionName": "Interactive Props #049",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/050",
+      "productionName": "Interactive Props #050",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/051",
+      "productionName": "Interactive Props #051",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/052",
+      "productionName": "Interactive Props #052",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/053",
+      "productionName": "Interactive Props #053",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/054",
+      "productionName": "Interactive Props #054",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/055",
+      "productionName": "Interactive Props #055",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/056",
+      "productionName": "Interactive Props #056",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/057",
+      "productionName": "Interactive Props #057",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/058",
+      "productionName": "Interactive Props #058",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/059",
+      "productionName": "Interactive Props #059",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/060",
+      "productionName": "Interactive Props #060",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/061",
+      "productionName": "Interactive Props #061",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/062",
+      "productionName": "Interactive Props #062",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/063",
+      "productionName": "Interactive Props #063",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/064",
+      "productionName": "Interactive Props #064",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/065",
+      "productionName": "Interactive Props #065",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/066",
+      "productionName": "Interactive Props #066",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/067",
+      "productionName": "Interactive Props #067",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/068",
+      "productionName": "Interactive Props #068",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/069",
+      "productionName": "Interactive Props #069",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/070",
+      "productionName": "Interactive Props #070",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/071",
+      "productionName": "Interactive Props #071",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/072",
+      "productionName": "Interactive Props #072",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/073",
+      "productionName": "Interactive Props #073",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/074",
+      "productionName": "Interactive Props #074",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/075",
+      "productionName": "Interactive Props #075",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/076",
+      "productionName": "Interactive Props #076",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/077",
+      "productionName": "Interactive Props #077",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/078",
+      "productionName": "Interactive Props #078",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/079",
+      "productionName": "Interactive Props #079",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/080",
+      "productionName": "Interactive Props #080",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/081",
+      "productionName": "Interactive Props #081",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/082",
+      "productionName": "Interactive Props #082",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/083",
+      "productionName": "Interactive Props #083",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/084",
+      "productionName": "Interactive Props #084",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/085",
+      "productionName": "Interactive Props #085",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/086",
+      "productionName": "Interactive Props #086",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/087",
+      "productionName": "Interactive Props #087",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/088",
+      "productionName": "Interactive Props #088",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/089",
+      "productionName": "Interactive Props #089",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/090",
+      "productionName": "Interactive Props #090",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/091",
+      "productionName": "Interactive Props #091",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/092",
+      "productionName": "Interactive Props #092",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/093",
+      "productionName": "Interactive Props #093",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/094",
+      "productionName": "Interactive Props #094",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/095",
+      "productionName": "Interactive Props #095",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/096",
+      "productionName": "Interactive Props #096",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/097",
+      "productionName": "Interactive Props #097",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/098",
+      "productionName": "Interactive Props #098",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/099",
+      "productionName": "Interactive Props #099",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:interactive_props/100",
+      "productionName": "Interactive Props #100",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ],
+  "environment_props": [
+    {
+      "id": "arsenal:environment_props/001",
+      "productionName": "Environment Props #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/002",
+      "productionName": "Environment Props #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/003",
+      "productionName": "Environment Props #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/004",
+      "productionName": "Environment Props #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/005",
+      "productionName": "Environment Props #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/006",
+      "productionName": "Environment Props #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/007",
+      "productionName": "Environment Props #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/008",
+      "productionName": "Environment Props #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/009",
+      "productionName": "Environment Props #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/010",
+      "productionName": "Environment Props #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/011",
+      "productionName": "Environment Props #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/012",
+      "productionName": "Environment Props #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/013",
+      "productionName": "Environment Props #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/014",
+      "productionName": "Environment Props #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/015",
+      "productionName": "Environment Props #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/016",
+      "productionName": "Environment Props #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/017",
+      "productionName": "Environment Props #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/018",
+      "productionName": "Environment Props #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/019",
+      "productionName": "Environment Props #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/020",
+      "productionName": "Environment Props #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/021",
+      "productionName": "Environment Props #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/022",
+      "productionName": "Environment Props #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/023",
+      "productionName": "Environment Props #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/024",
+      "productionName": "Environment Props #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/025",
+      "productionName": "Environment Props #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/026",
+      "productionName": "Environment Props #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/027",
+      "productionName": "Environment Props #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/028",
+      "productionName": "Environment Props #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/029",
+      "productionName": "Environment Props #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/030",
+      "productionName": "Environment Props #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/031",
+      "productionName": "Environment Props #031",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/032",
+      "productionName": "Environment Props #032",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/033",
+      "productionName": "Environment Props #033",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/034",
+      "productionName": "Environment Props #034",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/035",
+      "productionName": "Environment Props #035",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/036",
+      "productionName": "Environment Props #036",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/037",
+      "productionName": "Environment Props #037",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/038",
+      "productionName": "Environment Props #038",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/039",
+      "productionName": "Environment Props #039",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/040",
+      "productionName": "Environment Props #040",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/041",
+      "productionName": "Environment Props #041",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/042",
+      "productionName": "Environment Props #042",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/043",
+      "productionName": "Environment Props #043",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/044",
+      "productionName": "Environment Props #044",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/045",
+      "productionName": "Environment Props #045",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/046",
+      "productionName": "Environment Props #046",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/047",
+      "productionName": "Environment Props #047",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/048",
+      "productionName": "Environment Props #048",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/049",
+      "productionName": "Environment Props #049",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/050",
+      "productionName": "Environment Props #050",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/051",
+      "productionName": "Environment Props #051",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/052",
+      "productionName": "Environment Props #052",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/053",
+      "productionName": "Environment Props #053",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/054",
+      "productionName": "Environment Props #054",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/055",
+      "productionName": "Environment Props #055",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/056",
+      "productionName": "Environment Props #056",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/057",
+      "productionName": "Environment Props #057",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/058",
+      "productionName": "Environment Props #058",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/059",
+      "productionName": "Environment Props #059",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/060",
+      "productionName": "Environment Props #060",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/061",
+      "productionName": "Environment Props #061",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/062",
+      "productionName": "Environment Props #062",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/063",
+      "productionName": "Environment Props #063",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/064",
+      "productionName": "Environment Props #064",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/065",
+      "productionName": "Environment Props #065",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/066",
+      "productionName": "Environment Props #066",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/067",
+      "productionName": "Environment Props #067",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/068",
+      "productionName": "Environment Props #068",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/069",
+      "productionName": "Environment Props #069",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/070",
+      "productionName": "Environment Props #070",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/071",
+      "productionName": "Environment Props #071",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/072",
+      "productionName": "Environment Props #072",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/073",
+      "productionName": "Environment Props #073",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/074",
+      "productionName": "Environment Props #074",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/075",
+      "productionName": "Environment Props #075",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/076",
+      "productionName": "Environment Props #076",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/077",
+      "productionName": "Environment Props #077",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/078",
+      "productionName": "Environment Props #078",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/079",
+      "productionName": "Environment Props #079",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/080",
+      "productionName": "Environment Props #080",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/081",
+      "productionName": "Environment Props #081",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/082",
+      "productionName": "Environment Props #082",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/083",
+      "productionName": "Environment Props #083",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/084",
+      "productionName": "Environment Props #084",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/085",
+      "productionName": "Environment Props #085",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/086",
+      "productionName": "Environment Props #086",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/087",
+      "productionName": "Environment Props #087",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/088",
+      "productionName": "Environment Props #088",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/089",
+      "productionName": "Environment Props #089",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/090",
+      "productionName": "Environment Props #090",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/091",
+      "productionName": "Environment Props #091",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/092",
+      "productionName": "Environment Props #092",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/093",
+      "productionName": "Environment Props #093",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/094",
+      "productionName": "Environment Props #094",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/095",
+      "productionName": "Environment Props #095",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/096",
+      "productionName": "Environment Props #096",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/097",
+      "productionName": "Environment Props #097",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/098",
+      "productionName": "Environment Props #098",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/099",
+      "productionName": "Environment Props #099",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/100",
+      "productionName": "Environment Props #100",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/101",
+      "productionName": "Environment Props #101",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/102",
+      "productionName": "Environment Props #102",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/103",
+      "productionName": "Environment Props #103",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/104",
+      "productionName": "Environment Props #104",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/105",
+      "productionName": "Environment Props #105",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/106",
+      "productionName": "Environment Props #106",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/107",
+      "productionName": "Environment Props #107",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/108",
+      "productionName": "Environment Props #108",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/109",
+      "productionName": "Environment Props #109",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/110",
+      "productionName": "Environment Props #110",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/111",
+      "productionName": "Environment Props #111",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/112",
+      "productionName": "Environment Props #112",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/113",
+      "productionName": "Environment Props #113",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/114",
+      "productionName": "Environment Props #114",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/115",
+      "productionName": "Environment Props #115",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/116",
+      "productionName": "Environment Props #116",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/117",
+      "productionName": "Environment Props #117",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/118",
+      "productionName": "Environment Props #118",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/119",
+      "productionName": "Environment Props #119",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:environment_props/120",
+      "productionName": "Environment Props #120",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ],
+  "materials": [
+    {
+      "id": "arsenal:materials/001",
+      "productionName": "Materials #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/002",
+      "productionName": "Materials #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/003",
+      "productionName": "Materials #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/004",
+      "productionName": "Materials #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/005",
+      "productionName": "Materials #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/006",
+      "productionName": "Materials #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/007",
+      "productionName": "Materials #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/008",
+      "productionName": "Materials #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/009",
+      "productionName": "Materials #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/010",
+      "productionName": "Materials #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/011",
+      "productionName": "Materials #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/012",
+      "productionName": "Materials #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/013",
+      "productionName": "Materials #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/014",
+      "productionName": "Materials #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/015",
+      "productionName": "Materials #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/016",
+      "productionName": "Materials #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/017",
+      "productionName": "Materials #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/018",
+      "productionName": "Materials #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/019",
+      "productionName": "Materials #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/020",
+      "productionName": "Materials #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/021",
+      "productionName": "Materials #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/022",
+      "productionName": "Materials #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/023",
+      "productionName": "Materials #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/024",
+      "productionName": "Materials #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/025",
+      "productionName": "Materials #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/026",
+      "productionName": "Materials #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/027",
+      "productionName": "Materials #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/028",
+      "productionName": "Materials #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/029",
+      "productionName": "Materials #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/030",
+      "productionName": "Materials #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/031",
+      "productionName": "Materials #031",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/032",
+      "productionName": "Materials #032",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/033",
+      "productionName": "Materials #033",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/034",
+      "productionName": "Materials #034",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/035",
+      "productionName": "Materials #035",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/036",
+      "productionName": "Materials #036",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/037",
+      "productionName": "Materials #037",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/038",
+      "productionName": "Materials #038",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/039",
+      "productionName": "Materials #039",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/040",
+      "productionName": "Materials #040",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/041",
+      "productionName": "Materials #041",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/042",
+      "productionName": "Materials #042",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/043",
+      "productionName": "Materials #043",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/044",
+      "productionName": "Materials #044",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/045",
+      "productionName": "Materials #045",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/046",
+      "productionName": "Materials #046",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/047",
+      "productionName": "Materials #047",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/048",
+      "productionName": "Materials #048",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/049",
+      "productionName": "Materials #049",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/050",
+      "productionName": "Materials #050",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/051",
+      "productionName": "Materials #051",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/052",
+      "productionName": "Materials #052",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/053",
+      "productionName": "Materials #053",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/054",
+      "productionName": "Materials #054",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/055",
+      "productionName": "Materials #055",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/056",
+      "productionName": "Materials #056",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/057",
+      "productionName": "Materials #057",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/058",
+      "productionName": "Materials #058",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/059",
+      "productionName": "Materials #059",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/060",
+      "productionName": "Materials #060",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/061",
+      "productionName": "Materials #061",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/062",
+      "productionName": "Materials #062",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/063",
+      "productionName": "Materials #063",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/064",
+      "productionName": "Materials #064",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/065",
+      "productionName": "Materials #065",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/066",
+      "productionName": "Materials #066",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/067",
+      "productionName": "Materials #067",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/068",
+      "productionName": "Materials #068",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/069",
+      "productionName": "Materials #069",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/070",
+      "productionName": "Materials #070",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/071",
+      "productionName": "Materials #071",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/072",
+      "productionName": "Materials #072",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/073",
+      "productionName": "Materials #073",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/074",
+      "productionName": "Materials #074",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/075",
+      "productionName": "Materials #075",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/076",
+      "productionName": "Materials #076",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/077",
+      "productionName": "Materials #077",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/078",
+      "productionName": "Materials #078",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/079",
+      "productionName": "Materials #079",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/080",
+      "productionName": "Materials #080",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/081",
+      "productionName": "Materials #081",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/082",
+      "productionName": "Materials #082",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/083",
+      "productionName": "Materials #083",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/084",
+      "productionName": "Materials #084",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/085",
+      "productionName": "Materials #085",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/086",
+      "productionName": "Materials #086",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/087",
+      "productionName": "Materials #087",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/088",
+      "productionName": "Materials #088",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/089",
+      "productionName": "Materials #089",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/090",
+      "productionName": "Materials #090",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/091",
+      "productionName": "Materials #091",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/092",
+      "productionName": "Materials #092",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/093",
+      "productionName": "Materials #093",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/094",
+      "productionName": "Materials #094",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/095",
+      "productionName": "Materials #095",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/096",
+      "productionName": "Materials #096",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/097",
+      "productionName": "Materials #097",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/098",
+      "productionName": "Materials #098",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/099",
+      "productionName": "Materials #099",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:materials/100",
+      "productionName": "Materials #100",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "arsenal:attachments/001",
+      "productionName": "Attachments #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/002",
+      "productionName": "Attachments #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/003",
+      "productionName": "Attachments #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/004",
+      "productionName": "Attachments #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/005",
+      "productionName": "Attachments #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/006",
+      "productionName": "Attachments #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/007",
+      "productionName": "Attachments #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/008",
+      "productionName": "Attachments #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/009",
+      "productionName": "Attachments #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/010",
+      "productionName": "Attachments #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/011",
+      "productionName": "Attachments #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/012",
+      "productionName": "Attachments #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/013",
+      "productionName": "Attachments #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/014",
+      "productionName": "Attachments #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/015",
+      "productionName": "Attachments #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/016",
+      "productionName": "Attachments #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/017",
+      "productionName": "Attachments #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/018",
+      "productionName": "Attachments #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/019",
+      "productionName": "Attachments #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/020",
+      "productionName": "Attachments #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/021",
+      "productionName": "Attachments #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/022",
+      "productionName": "Attachments #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/023",
+      "productionName": "Attachments #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/024",
+      "productionName": "Attachments #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/025",
+      "productionName": "Attachments #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/026",
+      "productionName": "Attachments #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/027",
+      "productionName": "Attachments #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/028",
+      "productionName": "Attachments #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/029",
+      "productionName": "Attachments #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/030",
+      "productionName": "Attachments #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/031",
+      "productionName": "Attachments #031",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/032",
+      "productionName": "Attachments #032",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/033",
+      "productionName": "Attachments #033",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/034",
+      "productionName": "Attachments #034",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/035",
+      "productionName": "Attachments #035",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/036",
+      "productionName": "Attachments #036",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/037",
+      "productionName": "Attachments #037",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/038",
+      "productionName": "Attachments #038",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/039",
+      "productionName": "Attachments #039",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/040",
+      "productionName": "Attachments #040",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/041",
+      "productionName": "Attachments #041",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/042",
+      "productionName": "Attachments #042",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/043",
+      "productionName": "Attachments #043",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/044",
+      "productionName": "Attachments #044",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/045",
+      "productionName": "Attachments #045",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/046",
+      "productionName": "Attachments #046",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/047",
+      "productionName": "Attachments #047",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/048",
+      "productionName": "Attachments #048",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/049",
+      "productionName": "Attachments #049",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:attachments/050",
+      "productionName": "Attachments #050",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ],
+  "construction_modules": [
+    {
+      "id": "arsenal:construction_modules/001",
+      "productionName": "Construction Modules #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/002",
+      "productionName": "Construction Modules #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/003",
+      "productionName": "Construction Modules #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/004",
+      "productionName": "Construction Modules #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/005",
+      "productionName": "Construction Modules #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/006",
+      "productionName": "Construction Modules #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/007",
+      "productionName": "Construction Modules #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/008",
+      "productionName": "Construction Modules #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/009",
+      "productionName": "Construction Modules #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/010",
+      "productionName": "Construction Modules #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/011",
+      "productionName": "Construction Modules #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/012",
+      "productionName": "Construction Modules #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/013",
+      "productionName": "Construction Modules #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/014",
+      "productionName": "Construction Modules #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/015",
+      "productionName": "Construction Modules #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/016",
+      "productionName": "Construction Modules #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/017",
+      "productionName": "Construction Modules #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/018",
+      "productionName": "Construction Modules #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/019",
+      "productionName": "Construction Modules #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/020",
+      "productionName": "Construction Modules #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/021",
+      "productionName": "Construction Modules #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/022",
+      "productionName": "Construction Modules #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/023",
+      "productionName": "Construction Modules #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/024",
+      "productionName": "Construction Modules #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/025",
+      "productionName": "Construction Modules #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/026",
+      "productionName": "Construction Modules #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/027",
+      "productionName": "Construction Modules #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/028",
+      "productionName": "Construction Modules #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/029",
+      "productionName": "Construction Modules #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/030",
+      "productionName": "Construction Modules #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/031",
+      "productionName": "Construction Modules #031",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/032",
+      "productionName": "Construction Modules #032",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/033",
+      "productionName": "Construction Modules #033",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/034",
+      "productionName": "Construction Modules #034",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/035",
+      "productionName": "Construction Modules #035",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/036",
+      "productionName": "Construction Modules #036",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/037",
+      "productionName": "Construction Modules #037",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/038",
+      "productionName": "Construction Modules #038",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/039",
+      "productionName": "Construction Modules #039",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/040",
+      "productionName": "Construction Modules #040",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/041",
+      "productionName": "Construction Modules #041",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/042",
+      "productionName": "Construction Modules #042",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/043",
+      "productionName": "Construction Modules #043",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/044",
+      "productionName": "Construction Modules #044",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/045",
+      "productionName": "Construction Modules #045",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/046",
+      "productionName": "Construction Modules #046",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/047",
+      "productionName": "Construction Modules #047",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/048",
+      "productionName": "Construction Modules #048",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/049",
+      "productionName": "Construction Modules #049",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/050",
+      "productionName": "Construction Modules #050",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/051",
+      "productionName": "Construction Modules #051",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/052",
+      "productionName": "Construction Modules #052",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/053",
+      "productionName": "Construction Modules #053",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/054",
+      "productionName": "Construction Modules #054",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/055",
+      "productionName": "Construction Modules #055",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/056",
+      "productionName": "Construction Modules #056",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/057",
+      "productionName": "Construction Modules #057",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/058",
+      "productionName": "Construction Modules #058",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/059",
+      "productionName": "Construction Modules #059",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:construction_modules/060",
+      "productionName": "Construction Modules #060",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ],
+  "animated_mechanisms": [
+    {
+      "id": "arsenal:animated_mechanisms/001",
+      "productionName": "Animated Mechanisms #001",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/002",
+      "productionName": "Animated Mechanisms #002",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/003",
+      "productionName": "Animated Mechanisms #003",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/004",
+      "productionName": "Animated Mechanisms #004",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/005",
+      "productionName": "Animated Mechanisms #005",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/006",
+      "productionName": "Animated Mechanisms #006",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/007",
+      "productionName": "Animated Mechanisms #007",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/008",
+      "productionName": "Animated Mechanisms #008",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/009",
+      "productionName": "Animated Mechanisms #009",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/010",
+      "productionName": "Animated Mechanisms #010",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/011",
+      "productionName": "Animated Mechanisms #011",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/012",
+      "productionName": "Animated Mechanisms #012",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/013",
+      "productionName": "Animated Mechanisms #013",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/014",
+      "productionName": "Animated Mechanisms #014",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/015",
+      "productionName": "Animated Mechanisms #015",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/016",
+      "productionName": "Animated Mechanisms #016",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/017",
+      "productionName": "Animated Mechanisms #017",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/018",
+      "productionName": "Animated Mechanisms #018",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/019",
+      "productionName": "Animated Mechanisms #019",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/020",
+      "productionName": "Animated Mechanisms #020",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/021",
+      "productionName": "Animated Mechanisms #021",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/022",
+      "productionName": "Animated Mechanisms #022",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/023",
+      "productionName": "Animated Mechanisms #023",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/024",
+      "productionName": "Animated Mechanisms #024",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/025",
+      "productionName": "Animated Mechanisms #025",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/026",
+      "productionName": "Animated Mechanisms #026",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/027",
+      "productionName": "Animated Mechanisms #027",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/028",
+      "productionName": "Animated Mechanisms #028",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/029",
+      "productionName": "Animated Mechanisms #029",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    },
+    {
+      "id": "arsenal:animated_mechanisms/030",
+      "productionName": "Animated Mechanisms #030",
+      "status": "slot-needs-concept-and-reference",
+      "sourceAsset": null,
+      "approval": "not-started",
+      "note": "Production planning slot only; do not treat as authored asset"
+    }
+  ]
+}

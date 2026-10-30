@@ -1,0 +1,5367 @@
+{
+  "schemaVersion": "arsenal-forge/1.0.0",
+  "packId": "arsenal:core",
+  "coordinateSystem": {
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right"
+  },
+  "authority": "host",
+  "assets": [
+    {
+      "id": "arsenal:swords/longsword",
+      "name": "Longsword",
+      "kind": "weapons",
+      "family": "swords",
+      "expectedPath": "assets/weapons/swords/longsword.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:swords/saber",
+      "name": "Saber",
+      "kind": "weapons",
+      "family": "swords",
+      "expectedPath": "assets/weapons/swords/saber.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:swords/katana",
+      "name": "Katana",
+      "kind": "weapons",
+      "family": "swords",
+      "expectedPath": "assets/weapons/swords/katana.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:swords/greatsword",
+      "name": "Greatsword",
+      "kind": "weapons",
+      "family": "swords",
+      "expectedPath": "assets/weapons/swords/greatsword.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:swords/rapier",
+      "name": "Rapier",
+      "kind": "weapons",
+      "family": "swords",
+      "expectedPath": "assets/weapons/swords/rapier.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:short_blades/dagger",
+      "name": "Dagger",
+      "kind": "weapons",
+      "family": "short_blades",
+      "expectedPath": "assets/weapons/short_blades/dagger.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:short_blades/kukri",
+      "name": "Kukri",
+      "kind": "weapons",
+      "family": "short_blades",
+      "expectedPath": "assets/weapons/short_blades/kukri.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:short_blades/twin-shortblade",
+      "name": "Twin Shortblade",
+      "kind": "weapons",
+      "family": "short_blades",
+      "expectedPath": "assets/weapons/short_blades/twin-shortblade.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:short_blades/punch-dagger",
+      "name": "Punch Dagger",
+      "kind": "weapons",
+      "family": "short_blades",
+      "expectedPath": "assets/weapons/short_blades/punch-dagger.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:short_blades/tanto",
+      "name": "Tanto",
+      "kind": "weapons",
+      "family": "short_blades",
+      "expectedPath": "assets/weapons/short_blades/tanto.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:polearms/spear",
+      "name": "Spear",
+      "kind": "weapons",
+      "family": "polearms",
+      "expectedPath": "assets/weapons/polearms/spear.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:polearms/glaive",
+      "name": "Glaive",
+      "kind": "weapons",
+      "family": "polearms",
+      "expectedPath": "assets/weapons/polearms/glaive.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:polearms/halberd",
+      "name": "Halberd",
+      "kind": "weapons",
+      "family": "polearms",
+      "expectedPath": "assets/weapons/polearms/halberd.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:polearms/trident",
+      "name": "Trident",
+      "kind": "weapons",
+      "family": "polearms",
+      "expectedPath": "assets/weapons/polearms/trident.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:polearms/war-lance",
+      "name": "War Lance",
+      "kind": "weapons",
+      "family": "polearms",
+      "expectedPath": "assets/weapons/polearms/war-lance.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:heavy_impact/war-axe",
+      "name": "War Axe",
+      "kind": "weapons",
+      "family": "heavy_impact",
+      "expectedPath": "assets/weapons/heavy_impact/war-axe.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:heavy_impact/great-axe",
+      "name": "Great Axe",
+      "kind": "weapons",
+      "family": "heavy_impact",
+      "expectedPath": "assets/weapons/heavy_impact/great-axe.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:heavy_impact/warhammer",
+      "name": "Warhammer",
+      "kind": "weapons",
+      "family": "heavy_impact",
+      "expectedPath": "assets/weapons/heavy_impact/warhammer.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:heavy_impact/flanged-mace",
+      "name": "Flanged Mace",
+      "kind": "weapons",
+      "family": "heavy_impact",
+      "expectedPath": "assets/weapons/heavy_impact/flanged-mace.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:heavy_impact/military-pick",
+      "name": "Military Pick",
+      "kind": "weapons",
+      "family": "heavy_impact",
+      "expectedPath": "assets/weapons/heavy_impact/military-pick.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:archery/longbow",
+      "name": "Longbow",
+      "kind": "weapons",
+      "family": "archery",
+      "expectedPath": "assets/weapons/archery/longbow.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:archery/recurve-bow",
+      "name": "Recurve Bow",
+      "kind": "weapons",
+      "family": "archery",
+      "expectedPath": "assets/weapons/archery/recurve-bow.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:archery/crossbow",
+      "name": "Crossbow",
+      "kind": "weapons",
+      "family": "archery",
+      "expectedPath": "assets/weapons/archery/crossbow.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:archery/repeating-crossbow",
+      "name": "Repeating Crossbow",
+      "kind": "weapons",
+      "family": "archery",
+      "expectedPath": "assets/weapons/archery/repeating-crossbow.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:archery/composite-bow",
+      "name": "Composite Bow",
+      "kind": "weapons",
+      "family": "archery",
+      "expectedPath": "assets/weapons/archery/composite-bow.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:casting_implements/oak-staff",
+      "name": "Oak Staff",
+      "kind": "weapons",
+      "family": "casting_implements",
+      "expectedPath": "assets/weapons/casting_implements/oak-staff.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:casting_implements/crystal-staff",
+      "name": "Crystal Staff",
+      "kind": "weapons",
+      "family": "casting_implements",
+      "expectedPath": "assets/weapons/casting_implements/crystal-staff.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:casting_implements/wand",
+      "name": "Wand",
+      "kind": "weapons",
+      "family": "casting_implements",
+      "expectedPath": "assets/weapons/casting_implements/wand.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:casting_implements/scepter",
+      "name": "Scepter",
+      "kind": "weapons",
+      "family": "casting_implements",
+      "expectedPath": "assets/weapons/casting_implements/scepter.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:casting_implements/channeling-rod",
+      "name": "Channeling Rod",
+      "kind": "weapons",
+      "family": "casting_implements",
+      "expectedPath": "assets/weapons/casting_implements/channeling-rod.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:ritual/grimoire",
+      "name": "Grimoire",
+      "kind": "weapons",
+      "family": "ritual",
+      "expectedPath": "assets/weapons/ritual/grimoire.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:ritual/rune-tablet",
+      "name": "Rune Tablet",
+      "kind": "weapons",
+      "family": "ritual",
+      "expectedPath": "assets/weapons/ritual/rune-tablet.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:ritual/ceremonial-seal",
+      "name": "Ceremonial Seal",
+      "kind": "weapons",
+      "family": "ritual",
+      "expectedPath": "assets/weapons/ritual/ceremonial-seal.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:ritual/talisman-array",
+      "name": "Talisman Array",
+      "kind": "weapons",
+      "family": "ritual",
+      "expectedPath": "assets/weapons/ritual/talisman-array.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:ritual/relic-orb",
+      "name": "Relic Orb",
+      "kind": "weapons",
+      "family": "ritual",
+      "expectedPath": "assets/weapons/ritual/relic-orb.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:martial/cestus",
+      "name": "Cestus",
+      "kind": "weapons",
+      "family": "martial",
+      "expectedPath": "assets/weapons/martial/cestus.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:martial/arm-blade",
+      "name": "Arm Blade",
+      "kind": "weapons",
+      "family": "martial",
+      "expectedPath": "assets/weapons/martial/arm-blade.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:martial/talons",
+      "name": "Talons",
+      "kind": "weapons",
+      "family": "martial",
+      "expectedPath": "assets/weapons/martial/talons.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:martial/power-knuckles",
+      "name": "Power Knuckles",
+      "kind": "weapons",
+      "family": "martial",
+      "expectedPath": "assets/weapons/martial/power-knuckles.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:martial/hook-claws",
+      "name": "Hook Claws",
+      "kind": "weapons",
+      "family": "martial",
+      "expectedPath": "assets/weapons/martial/hook-claws.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:flexible/chain-sickle",
+      "name": "Chain Sickle",
+      "kind": "weapons",
+      "family": "flexible",
+      "expectedPath": "assets/weapons/flexible/chain-sickle.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:flexible/whip",
+      "name": "Whip",
+      "kind": "weapons",
+      "family": "flexible",
+      "expectedPath": "assets/weapons/flexible/whip.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:flexible/rope-dart",
+      "name": "Rope Dart",
+      "kind": "weapons",
+      "family": "flexible",
+      "expectedPath": "assets/weapons/flexible/rope-dart.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:flexible/meteor-hammer",
+      "name": "Meteor Hammer",
+      "kind": "weapons",
+      "family": "flexible",
+      "expectedPath": "assets/weapons/flexible/meteor-hammer.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:flexible/weighted-chain",
+      "name": "Weighted Chain",
+      "kind": "weapons",
+      "family": "flexible",
+      "expectedPath": "assets/weapons/flexible/weighted-chain.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:thrown/chakram",
+      "name": "Chakram",
+      "kind": "weapons",
+      "family": "thrown",
+      "expectedPath": "assets/weapons/thrown/chakram.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:thrown/kunai",
+      "name": "Kunai",
+      "kind": "weapons",
+      "family": "thrown",
+      "expectedPath": "assets/weapons/thrown/kunai.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:thrown/shuriken",
+      "name": "Shuriken",
+      "kind": "weapons",
+      "family": "thrown",
+      "expectedPath": "assets/weapons/thrown/shuriken.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:thrown/boomerang",
+      "name": "Boomerang",
+      "kind": "weapons",
+      "family": "thrown",
+      "expectedPath": "assets/weapons/thrown/boomerang.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:thrown/javelin",
+      "name": "Javelin",
+      "kind": "weapons",
+      "family": "thrown",
+      "expectedPath": "assets/weapons/thrown/javelin.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:tech_ranged/sidearm",
+      "name": "Sidearm",
+      "kind": "weapons",
+      "family": "tech_ranged",
+      "expectedPath": "assets/weapons/tech_ranged/sidearm.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:tech_ranged/pulse-rifle",
+      "name": "Pulse Rifle",
+      "kind": "weapons",
+      "family": "tech_ranged",
+      "expectedPath": "assets/weapons/tech_ranged/pulse-rifle.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:tech_ranged/railgun",
+      "name": "Railgun",
+      "kind": "weapons",
+      "family": "tech_ranged",
+      "expectedPath": "assets/weapons/tech_ranged/railgun.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:tech_ranged/beam-projector",
+      "name": "Beam Projector",
+      "kind": "weapons",
+      "family": "tech_ranged",
+      "expectedPath": "assets/weapons/tech_ranged/beam-projector.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:tech_ranged/grenade-launcher",
+      "name": "Grenade Launcher",
+      "kind": "weapons",
+      "family": "tech_ranged",
+      "expectedPath": "assets/weapons/tech_ranged/grenade-launcher.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:integrated/wrist-emitter",
+      "name": "Wrist Emitter",
+      "kind": "weapons",
+      "family": "integrated",
+      "expectedPath": "assets/weapons/integrated/wrist-emitter.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:integrated/servo-blade",
+      "name": "Servo Blade",
+      "kind": "weapons",
+      "family": "integrated",
+      "expectedPath": "assets/weapons/integrated/servo-blade.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:integrated/shoulder-mount",
+      "name": "Shoulder Mount",
+      "kind": "weapons",
+      "family": "integrated",
+      "expectedPath": "assets/weapons/integrated/shoulder-mount.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:integrated/energy-gauntlet",
+      "name": "Energy Gauntlet",
+      "kind": "weapons",
+      "family": "integrated",
+      "expectedPath": "assets/weapons/integrated/energy-gauntlet.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:integrated/exo-arm",
+      "name": "Exo-Arm",
+      "kind": "weapons",
+      "family": "integrated",
+      "expectedPath": "assets/weapons/integrated/exo-arm.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:shields/buckler",
+      "name": "Buckler",
+      "kind": "weapons",
+      "family": "shields",
+      "expectedPath": "assets/weapons/shields/buckler.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:shields/kite-shield",
+      "name": "Kite Shield",
+      "kind": "weapons",
+      "family": "shields",
+      "expectedPath": "assets/weapons/shields/kite-shield.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:shields/tower-shield",
+      "name": "Tower Shield",
+      "kind": "weapons",
+      "family": "shields",
+      "expectedPath": "assets/weapons/shields/tower-shield.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:shields/round-shield",
+      "name": "Round Shield",
+      "kind": "weapons",
+      "family": "shields",
+      "expectedPath": "assets/weapons/shields/round-shield.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:shields/kinetic-disc",
+      "name": "Kinetic Disc",
+      "kind": "weapons",
+      "family": "shields",
+      "expectedPath": "assets/weapons/shields/kinetic-disc.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:manifested/flame-sword",
+      "name": "Flame Sword",
+      "kind": "weapons",
+      "family": "manifested",
+      "expectedPath": "assets/weapons/manifested/flame-sword.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:manifested/ice-spear",
+      "name": "Ice Spear",
+      "kind": "weapons",
+      "family": "manifested",
+      "expectedPath": "assets/weapons/manifested/ice-spear.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:manifested/crystal-scythe",
+      "name": "Crystal Scythe",
+      "kind": "weapons",
+      "family": "manifested",
+      "expectedPath": "assets/weapons/manifested/crystal-scythe.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:manifested/light-blade",
+      "name": "Light Blade",
+      "kind": "weapons",
+      "family": "manifested",
+      "expectedPath": "assets/weapons/manifested/light-blade.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:manifested/void-disc",
+      "name": "Void Disc",
+      "kind": "weapons",
+      "family": "manifested",
+      "expectedPath": "assets/weapons/manifested/void-disc.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:deployables/turret",
+      "name": "Turret",
+      "kind": "weapons",
+      "family": "deployables",
+      "expectedPath": "assets/weapons/deployables/turret.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:deployables/trip-mine",
+      "name": "Trip Mine",
+      "kind": "weapons",
+      "family": "deployables",
+      "expectedPath": "assets/weapons/deployables/trip-mine.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:deployables/combat-drone",
+      "name": "Combat Drone",
+      "kind": "weapons",
+      "family": "deployables",
+      "expectedPath": "assets/weapons/deployables/combat-drone.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:deployables/pulse-pylon",
+      "name": "Pulse Pylon",
+      "kind": "weapons",
+      "family": "deployables",
+      "expectedPath": "assets/weapons/deployables/pulse-pylon.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:deployables/sentry-node",
+      "name": "Sentry Node",
+      "kind": "weapons",
+      "family": "deployables",
+      "expectedPath": "assets/weapons/deployables/sentry-node.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/helmet/01",
+      "name": "helmet 01",
+      "kind": "armor",
+      "family": "helmet",
+      "expectedPath": "assets/armor/helmet/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/helmet/02",
+      "name": "helmet 02",
+      "kind": "armor",
+      "family": "helmet",
+      "expectedPath": "assets/armor/helmet/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/helmet/03",
+      "name": "helmet 03",
+      "kind": "armor",
+      "family": "helmet",
+      "expectedPath": "assets/armor/helmet/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/helmet/04",
+      "name": "helmet 04",
+      "kind": "armor",
+      "family": "helmet",
+      "expectedPath": "assets/armor/helmet/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/helmet/05",
+      "name": "helmet 05",
+      "kind": "armor",
+      "family": "helmet",
+      "expectedPath": "assets/armor/helmet/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/chest/01",
+      "name": "chest 01",
+      "kind": "armor",
+      "family": "chest",
+      "expectedPath": "assets/armor/chest/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/chest/02",
+      "name": "chest 02",
+      "kind": "armor",
+      "family": "chest",
+      "expectedPath": "assets/armor/chest/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/chest/03",
+      "name": "chest 03",
+      "kind": "armor",
+      "family": "chest",
+      "expectedPath": "assets/armor/chest/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/chest/04",
+      "name": "chest 04",
+      "kind": "armor",
+      "family": "chest",
+      "expectedPath": "assets/armor/chest/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/chest/05",
+      "name": "chest 05",
+      "kind": "armor",
+      "family": "chest",
+      "expectedPath": "assets/armor/chest/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/shoulder/01",
+      "name": "shoulder 01",
+      "kind": "armor",
+      "family": "shoulder",
+      "expectedPath": "assets/armor/shoulder/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/shoulder/02",
+      "name": "shoulder 02",
+      "kind": "armor",
+      "family": "shoulder",
+      "expectedPath": "assets/armor/shoulder/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/shoulder/03",
+      "name": "shoulder 03",
+      "kind": "armor",
+      "family": "shoulder",
+      "expectedPath": "assets/armor/shoulder/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/shoulder/04",
+      "name": "shoulder 04",
+      "kind": "armor",
+      "family": "shoulder",
+      "expectedPath": "assets/armor/shoulder/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/shoulder/05",
+      "name": "shoulder 05",
+      "kind": "armor",
+      "family": "shoulder",
+      "expectedPath": "assets/armor/shoulder/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/arm/01",
+      "name": "arm 01",
+      "kind": "armor",
+      "family": "arm",
+      "expectedPath": "assets/armor/arm/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/arm/02",
+      "name": "arm 02",
+      "kind": "armor",
+      "family": "arm",
+      "expectedPath": "assets/armor/arm/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/arm/03",
+      "name": "arm 03",
+      "kind": "armor",
+      "family": "arm",
+      "expectedPath": "assets/armor/arm/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/arm/04",
+      "name": "arm 04",
+      "kind": "armor",
+      "family": "arm",
+      "expectedPath": "assets/armor/arm/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/arm/05",
+      "name": "arm 05",
+      "kind": "armor",
+      "family": "arm",
+      "expectedPath": "assets/armor/arm/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/glove/01",
+      "name": "glove 01",
+      "kind": "armor",
+      "family": "glove",
+      "expectedPath": "assets/armor/glove/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/glove/02",
+      "name": "glove 02",
+      "kind": "armor",
+      "family": "glove",
+      "expectedPath": "assets/armor/glove/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/glove/03",
+      "name": "glove 03",
+      "kind": "armor",
+      "family": "glove",
+      "expectedPath": "assets/armor/glove/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/glove/04",
+      "name": "glove 04",
+      "kind": "armor",
+      "family": "glove",
+      "expectedPath": "assets/armor/glove/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/glove/05",
+      "name": "glove 05",
+      "kind": "armor",
+      "family": "glove",
+      "expectedPath": "assets/armor/glove/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/belt/01",
+      "name": "belt 01",
+      "kind": "armor",
+      "family": "belt",
+      "expectedPath": "assets/armor/belt/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/belt/02",
+      "name": "belt 02",
+      "kind": "armor",
+      "family": "belt",
+      "expectedPath": "assets/armor/belt/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/belt/03",
+      "name": "belt 03",
+      "kind": "armor",
+      "family": "belt",
+      "expectedPath": "assets/armor/belt/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/belt/04",
+      "name": "belt 04",
+      "kind": "armor",
+      "family": "belt",
+      "expectedPath": "assets/armor/belt/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/belt/05",
+      "name": "belt 05",
+      "kind": "armor",
+      "family": "belt",
+      "expectedPath": "assets/armor/belt/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/legs/01",
+      "name": "legs 01",
+      "kind": "armor",
+      "family": "legs",
+      "expectedPath": "assets/armor/legs/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/legs/02",
+      "name": "legs 02",
+      "kind": "armor",
+      "family": "legs",
+      "expectedPath": "assets/armor/legs/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/legs/03",
+      "name": "legs 03",
+      "kind": "armor",
+      "family": "legs",
+      "expectedPath": "assets/armor/legs/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/legs/04",
+      "name": "legs 04",
+      "kind": "armor",
+      "family": "legs",
+      "expectedPath": "assets/armor/legs/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/legs/05",
+      "name": "legs 05",
+      "kind": "armor",
+      "family": "legs",
+      "expectedPath": "assets/armor/legs/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/boot/01",
+      "name": "boot 01",
+      "kind": "armor",
+      "family": "boot",
+      "expectedPath": "assets/armor/boot/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/boot/02",
+      "name": "boot 02",
+      "kind": "armor",
+      "family": "boot",
+      "expectedPath": "assets/armor/boot/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/boot/03",
+      "name": "boot 03",
+      "kind": "armor",
+      "family": "boot",
+      "expectedPath": "assets/armor/boot/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/boot/04",
+      "name": "boot 04",
+      "kind": "armor",
+      "family": "boot",
+      "expectedPath": "assets/armor/boot/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/boot/05",
+      "name": "boot 05",
+      "kind": "armor",
+      "family": "boot",
+      "expectedPath": "assets/armor/boot/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/cloak/01",
+      "name": "cloak 01",
+      "kind": "armor",
+      "family": "cloak",
+      "expectedPath": "assets/armor/cloak/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/cloak/02",
+      "name": "cloak 02",
+      "kind": "armor",
+      "family": "cloak",
+      "expectedPath": "assets/armor/cloak/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/cloak/03",
+      "name": "cloak 03",
+      "kind": "armor",
+      "family": "cloak",
+      "expectedPath": "assets/armor/cloak/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/cloak/04",
+      "name": "cloak 04",
+      "kind": "armor",
+      "family": "cloak",
+      "expectedPath": "assets/armor/cloak/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/cloak/05",
+      "name": "cloak 05",
+      "kind": "armor",
+      "family": "cloak",
+      "expectedPath": "assets/armor/cloak/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/mask/01",
+      "name": "mask 01",
+      "kind": "armor",
+      "family": "mask",
+      "expectedPath": "assets/armor/mask/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/mask/02",
+      "name": "mask 02",
+      "kind": "armor",
+      "family": "mask",
+      "expectedPath": "assets/armor/mask/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/mask/03",
+      "name": "mask 03",
+      "kind": "armor",
+      "family": "mask",
+      "expectedPath": "assets/armor/mask/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/mask/04",
+      "name": "mask 04",
+      "kind": "armor",
+      "family": "mask",
+      "expectedPath": "assets/armor/mask/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/mask/05",
+      "name": "mask 05",
+      "kind": "armor",
+      "family": "mask",
+      "expectedPath": "assets/armor/mask/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/robe/01",
+      "name": "robe 01",
+      "kind": "armor",
+      "family": "robe",
+      "expectedPath": "assets/armor/robe/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/robe/02",
+      "name": "robe 02",
+      "kind": "armor",
+      "family": "robe",
+      "expectedPath": "assets/armor/robe/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/robe/03",
+      "name": "robe 03",
+      "kind": "armor",
+      "family": "robe",
+      "expectedPath": "assets/armor/robe/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/robe/04",
+      "name": "robe 04",
+      "kind": "armor",
+      "family": "robe",
+      "expectedPath": "assets/armor/robe/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/robe/05",
+      "name": "robe 05",
+      "kind": "armor",
+      "family": "robe",
+      "expectedPath": "assets/armor/robe/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/accessory/01",
+      "name": "accessory 01",
+      "kind": "armor",
+      "family": "accessory",
+      "expectedPath": "assets/armor/accessory/01.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/accessory/02",
+      "name": "accessory 02",
+      "kind": "armor",
+      "family": "accessory",
+      "expectedPath": "assets/armor/accessory/02.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/accessory/03",
+      "name": "accessory 03",
+      "kind": "armor",
+      "family": "accessory",
+      "expectedPath": "assets/armor/accessory/03.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/accessory/04",
+      "name": "accessory 04",
+      "kind": "armor",
+      "family": "accessory",
+      "expectedPath": "assets/armor/accessory/04.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:armor/accessory/05",
+      "name": "accessory 05",
+      "kind": "armor",
+      "family": "accessory",
+      "expectedPath": "assets/armor/accessory/05.glb",
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/001",
+      "name": "Interactive Props #001",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/002",
+      "name": "Interactive Props #002",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/003",
+      "name": "Interactive Props #003",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/004",
+      "name": "Interactive Props #004",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/005",
+      "name": "Interactive Props #005",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/006",
+      "name": "Interactive Props #006",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/007",
+      "name": "Interactive Props #007",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/008",
+      "name": "Interactive Props #008",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/009",
+      "name": "Interactive Props #009",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/010",
+      "name": "Interactive Props #010",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/011",
+      "name": "Interactive Props #011",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/012",
+      "name": "Interactive Props #012",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/013",
+      "name": "Interactive Props #013",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/014",
+      "name": "Interactive Props #014",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/015",
+      "name": "Interactive Props #015",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/016",
+      "name": "Interactive Props #016",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/017",
+      "name": "Interactive Props #017",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/018",
+      "name": "Interactive Props #018",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/019",
+      "name": "Interactive Props #019",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/020",
+      "name": "Interactive Props #020",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/021",
+      "name": "Interactive Props #021",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/022",
+      "name": "Interactive Props #022",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/023",
+      "name": "Interactive Props #023",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/024",
+      "name": "Interactive Props #024",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/025",
+      "name": "Interactive Props #025",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/026",
+      "name": "Interactive Props #026",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/027",
+      "name": "Interactive Props #027",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/028",
+      "name": "Interactive Props #028",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/029",
+      "name": "Interactive Props #029",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/030",
+      "name": "Interactive Props #030",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/031",
+      "name": "Interactive Props #031",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/032",
+      "name": "Interactive Props #032",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/033",
+      "name": "Interactive Props #033",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/034",
+      "name": "Interactive Props #034",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/035",
+      "name": "Interactive Props #035",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/036",
+      "name": "Interactive Props #036",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/037",
+      "name": "Interactive Props #037",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/038",
+      "name": "Interactive Props #038",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/039",
+      "name": "Interactive Props #039",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/040",
+      "name": "Interactive Props #040",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/041",
+      "name": "Interactive Props #041",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/042",
+      "name": "Interactive Props #042",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/043",
+      "name": "Interactive Props #043",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/044",
+      "name": "Interactive Props #044",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/045",
+      "name": "Interactive Props #045",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/046",
+      "name": "Interactive Props #046",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/047",
+      "name": "Interactive Props #047",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/048",
+      "name": "Interactive Props #048",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/049",
+      "name": "Interactive Props #049",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/050",
+      "name": "Interactive Props #050",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/051",
+      "name": "Interactive Props #051",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/052",
+      "name": "Interactive Props #052",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/053",
+      "name": "Interactive Props #053",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/054",
+      "name": "Interactive Props #054",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/055",
+      "name": "Interactive Props #055",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/056",
+      "name": "Interactive Props #056",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/057",
+      "name": "Interactive Props #057",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/058",
+      "name": "Interactive Props #058",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/059",
+      "name": "Interactive Props #059",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/060",
+      "name": "Interactive Props #060",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/061",
+      "name": "Interactive Props #061",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/062",
+      "name": "Interactive Props #062",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/063",
+      "name": "Interactive Props #063",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/064",
+      "name": "Interactive Props #064",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/065",
+      "name": "Interactive Props #065",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/066",
+      "name": "Interactive Props #066",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/067",
+      "name": "Interactive Props #067",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/068",
+      "name": "Interactive Props #068",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/069",
+      "name": "Interactive Props #069",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/070",
+      "name": "Interactive Props #070",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/071",
+      "name": "Interactive Props #071",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/072",
+      "name": "Interactive Props #072",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/073",
+      "name": "Interactive Props #073",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/074",
+      "name": "Interactive Props #074",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/075",
+      "name": "Interactive Props #075",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/076",
+      "name": "Interactive Props #076",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/077",
+      "name": "Interactive Props #077",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/078",
+      "name": "Interactive Props #078",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/079",
+      "name": "Interactive Props #079",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/080",
+      "name": "Interactive Props #080",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/081",
+      "name": "Interactive Props #081",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/082",
+      "name": "Interactive Props #082",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/083",
+      "name": "Interactive Props #083",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/084",
+      "name": "Interactive Props #084",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/085",
+      "name": "Interactive Props #085",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/086",
+      "name": "Interactive Props #086",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/087",
+      "name": "Interactive Props #087",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/088",
+      "name": "Interactive Props #088",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/089",
+      "name": "Interactive Props #089",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/090",
+      "name": "Interactive Props #090",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/091",
+      "name": "Interactive Props #091",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/092",
+      "name": "Interactive Props #092",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/093",
+      "name": "Interactive Props #093",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/094",
+      "name": "Interactive Props #094",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/095",
+      "name": "Interactive Props #095",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/096",
+      "name": "Interactive Props #096",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/097",
+      "name": "Interactive Props #097",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/098",
+      "name": "Interactive Props #098",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/099",
+      "name": "Interactive Props #099",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:interactive_props/100",
+      "name": "Interactive Props #100",
+      "kind": "slots",
+      "family": "interactive_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/001",
+      "name": "Environment Props #001",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/002",
+      "name": "Environment Props #002",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/003",
+      "name": "Environment Props #003",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/004",
+      "name": "Environment Props #004",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/005",
+      "name": "Environment Props #005",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/006",
+      "name": "Environment Props #006",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/007",
+      "name": "Environment Props #007",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/008",
+      "name": "Environment Props #008",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/009",
+      "name": "Environment Props #009",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/010",
+      "name": "Environment Props #010",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/011",
+      "name": "Environment Props #011",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/012",
+      "name": "Environment Props #012",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/013",
+      "name": "Environment Props #013",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/014",
+      "name": "Environment Props #014",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/015",
+      "name": "Environment Props #015",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/016",
+      "name": "Environment Props #016",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/017",
+      "name": "Environment Props #017",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/018",
+      "name": "Environment Props #018",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/019",
+      "name": "Environment Props #019",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/020",
+      "name": "Environment Props #020",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/021",
+      "name": "Environment Props #021",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/022",
+      "name": "Environment Props #022",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/023",
+      "name": "Environment Props #023",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/024",
+      "name": "Environment Props #024",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/025",
+      "name": "Environment Props #025",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/026",
+      "name": "Environment Props #026",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/027",
+      "name": "Environment Props #027",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/028",
+      "name": "Environment Props #028",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/029",
+      "name": "Environment Props #029",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/030",
+      "name": "Environment Props #030",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/031",
+      "name": "Environment Props #031",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/032",
+      "name": "Environment Props #032",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/033",
+      "name": "Environment Props #033",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/034",
+      "name": "Environment Props #034",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/035",
+      "name": "Environment Props #035",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/036",
+      "name": "Environment Props #036",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/037",
+      "name": "Environment Props #037",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/038",
+      "name": "Environment Props #038",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/039",
+      "name": "Environment Props #039",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/040",
+      "name": "Environment Props #040",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/041",
+      "name": "Environment Props #041",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/042",
+      "name": "Environment Props #042",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/043",
+      "name": "Environment Props #043",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/044",
+      "name": "Environment Props #044",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/045",
+      "name": "Environment Props #045",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/046",
+      "name": "Environment Props #046",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/047",
+      "name": "Environment Props #047",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/048",
+      "name": "Environment Props #048",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/049",
+      "name": "Environment Props #049",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/050",
+      "name": "Environment Props #050",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/051",
+      "name": "Environment Props #051",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/052",
+      "name": "Environment Props #052",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/053",
+      "name": "Environment Props #053",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/054",
+      "name": "Environment Props #054",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/055",
+      "name": "Environment Props #055",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/056",
+      "name": "Environment Props #056",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/057",
+      "name": "Environment Props #057",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/058",
+      "name": "Environment Props #058",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/059",
+      "name": "Environment Props #059",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/060",
+      "name": "Environment Props #060",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/061",
+      "name": "Environment Props #061",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/062",
+      "name": "Environment Props #062",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/063",
+      "name": "Environment Props #063",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/064",
+      "name": "Environment Props #064",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/065",
+      "name": "Environment Props #065",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/066",
+      "name": "Environment Props #066",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/067",
+      "name": "Environment Props #067",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/068",
+      "name": "Environment Props #068",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/069",
+      "name": "Environment Props #069",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/070",
+      "name": "Environment Props #070",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/071",
+      "name": "Environment Props #071",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/072",
+      "name": "Environment Props #072",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/073",
+      "name": "Environment Props #073",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/074",
+      "name": "Environment Props #074",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/075",
+      "name": "Environment Props #075",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/076",
+      "name": "Environment Props #076",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/077",
+      "name": "Environment Props #077",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/078",
+      "name": "Environment Props #078",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/079",
+      "name": "Environment Props #079",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/080",
+      "name": "Environment Props #080",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/081",
+      "name": "Environment Props #081",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/082",
+      "name": "Environment Props #082",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/083",
+      "name": "Environment Props #083",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/084",
+      "name": "Environment Props #084",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/085",
+      "name": "Environment Props #085",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/086",
+      "name": "Environment Props #086",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/087",
+      "name": "Environment Props #087",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/088",
+      "name": "Environment Props #088",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/089",
+      "name": "Environment Props #089",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/090",
+      "name": "Environment Props #090",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/091",
+      "name": "Environment Props #091",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/092",
+      "name": "Environment Props #092",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/093",
+      "name": "Environment Props #093",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/094",
+      "name": "Environment Props #094",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/095",
+      "name": "Environment Props #095",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/096",
+      "name": "Environment Props #096",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/097",
+      "name": "Environment Props #097",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/098",
+      "name": "Environment Props #098",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/099",
+      "name": "Environment Props #099",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/100",
+      "name": "Environment Props #100",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/101",
+      "name": "Environment Props #101",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/102",
+      "name": "Environment Props #102",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/103",
+      "name": "Environment Props #103",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/104",
+      "name": "Environment Props #104",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/105",
+      "name": "Environment Props #105",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/106",
+      "name": "Environment Props #106",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/107",
+      "name": "Environment Props #107",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/108",
+      "name": "Environment Props #108",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/109",
+      "name": "Environment Props #109",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/110",
+      "name": "Environment Props #110",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/111",
+      "name": "Environment Props #111",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/112",
+      "name": "Environment Props #112",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/113",
+      "name": "Environment Props #113",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/114",
+      "name": "Environment Props #114",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/115",
+      "name": "Environment Props #115",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/116",
+      "name": "Environment Props #116",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/117",
+      "name": "Environment Props #117",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/118",
+      "name": "Environment Props #118",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/119",
+      "name": "Environment Props #119",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:environment_props/120",
+      "name": "Environment Props #120",
+      "kind": "slots",
+      "family": "environment_props",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/001",
+      "name": "Materials #001",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/002",
+      "name": "Materials #002",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/003",
+      "name": "Materials #003",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/004",
+      "name": "Materials #004",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/005",
+      "name": "Materials #005",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/006",
+      "name": "Materials #006",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/007",
+      "name": "Materials #007",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/008",
+      "name": "Materials #008",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/009",
+      "name": "Materials #009",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/010",
+      "name": "Materials #010",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/011",
+      "name": "Materials #011",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/012",
+      "name": "Materials #012",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/013",
+      "name": "Materials #013",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/014",
+      "name": "Materials #014",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/015",
+      "name": "Materials #015",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/016",
+      "name": "Materials #016",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/017",
+      "name": "Materials #017",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/018",
+      "name": "Materials #018",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/019",
+      "name": "Materials #019",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/020",
+      "name": "Materials #020",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/021",
+      "name": "Materials #021",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/022",
+      "name": "Materials #022",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/023",
+      "name": "Materials #023",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/024",
+      "name": "Materials #024",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/025",
+      "name": "Materials #025",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/026",
+      "name": "Materials #026",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/027",
+      "name": "Materials #027",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/028",
+      "name": "Materials #028",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/029",
+      "name": "Materials #029",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/030",
+      "name": "Materials #030",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/031",
+      "name": "Materials #031",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/032",
+      "name": "Materials #032",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/033",
+      "name": "Materials #033",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/034",
+      "name": "Materials #034",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/035",
+      "name": "Materials #035",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/036",
+      "name": "Materials #036",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/037",
+      "name": "Materials #037",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/038",
+      "name": "Materials #038",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/039",
+      "name": "Materials #039",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/040",
+      "name": "Materials #040",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/041",
+      "name": "Materials #041",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/042",
+      "name": "Materials #042",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/043",
+      "name": "Materials #043",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/044",
+      "name": "Materials #044",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/045",
+      "name": "Materials #045",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/046",
+      "name": "Materials #046",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/047",
+      "name": "Materials #047",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/048",
+      "name": "Materials #048",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/049",
+      "name": "Materials #049",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/050",
+      "name": "Materials #050",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/051",
+      "name": "Materials #051",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/052",
+      "name": "Materials #052",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/053",
+      "name": "Materials #053",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/054",
+      "name": "Materials #054",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/055",
+      "name": "Materials #055",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/056",
+      "name": "Materials #056",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/057",
+      "name": "Materials #057",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/058",
+      "name": "Materials #058",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/059",
+      "name": "Materials #059",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/060",
+      "name": "Materials #060",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/061",
+      "name": "Materials #061",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/062",
+      "name": "Materials #062",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/063",
+      "name": "Materials #063",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/064",
+      "name": "Materials #064",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/065",
+      "name": "Materials #065",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/066",
+      "name": "Materials #066",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/067",
+      "name": "Materials #067",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/068",
+      "name": "Materials #068",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/069",
+      "name": "Materials #069",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/070",
+      "name": "Materials #070",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/071",
+      "name": "Materials #071",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/072",
+      "name": "Materials #072",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/073",
+      "name": "Materials #073",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/074",
+      "name": "Materials #074",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/075",
+      "name": "Materials #075",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/076",
+      "name": "Materials #076",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/077",
+      "name": "Materials #077",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/078",
+      "name": "Materials #078",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/079",
+      "name": "Materials #079",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/080",
+      "name": "Materials #080",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/081",
+      "name": "Materials #081",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/082",
+      "name": "Materials #082",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/083",
+      "name": "Materials #083",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/084",
+      "name": "Materials #084",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/085",
+      "name": "Materials #085",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/086",
+      "name": "Materials #086",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/087",
+      "name": "Materials #087",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/088",
+      "name": "Materials #088",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/089",
+      "name": "Materials #089",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/090",
+      "name": "Materials #090",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/091",
+      "name": "Materials #091",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/092",
+      "name": "Materials #092",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/093",
+      "name": "Materials #093",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/094",
+      "name": "Materials #094",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/095",
+      "name": "Materials #095",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/096",
+      "name": "Materials #096",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/097",
+      "name": "Materials #097",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/098",
+      "name": "Materials #098",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/099",
+      "name": "Materials #099",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:materials/100",
+      "name": "Materials #100",
+      "kind": "slots",
+      "family": "materials",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/001",
+      "name": "Attachments #001",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/002",
+      "name": "Attachments #002",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/003",
+      "name": "Attachments #003",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/004",
+      "name": "Attachments #004",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/005",
+      "name": "Attachments #005",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/006",
+      "name": "Attachments #006",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/007",
+      "name": "Attachments #007",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/008",
+      "name": "Attachments #008",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/009",
+      "name": "Attachments #009",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/010",
+      "name": "Attachments #010",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/011",
+      "name": "Attachments #011",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/012",
+      "name": "Attachments #012",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/013",
+      "name": "Attachments #013",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/014",
+      "name": "Attachments #014",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/015",
+      "name": "Attachments #015",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/016",
+      "name": "Attachments #016",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/017",
+      "name": "Attachments #017",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/018",
+      "name": "Attachments #018",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/019",
+      "name": "Attachments #019",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/020",
+      "name": "Attachments #020",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/021",
+      "name": "Attachments #021",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/022",
+      "name": "Attachments #022",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/023",
+      "name": "Attachments #023",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/024",
+      "name": "Attachments #024",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/025",
+      "name": "Attachments #025",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/026",
+      "name": "Attachments #026",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/027",
+      "name": "Attachments #027",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/028",
+      "name": "Attachments #028",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/029",
+      "name": "Attachments #029",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/030",
+      "name": "Attachments #030",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/031",
+      "name": "Attachments #031",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/032",
+      "name": "Attachments #032",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/033",
+      "name": "Attachments #033",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/034",
+      "name": "Attachments #034",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/035",
+      "name": "Attachments #035",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/036",
+      "name": "Attachments #036",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/037",
+      "name": "Attachments #037",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/038",
+      "name": "Attachments #038",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/039",
+      "name": "Attachments #039",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/040",
+      "name": "Attachments #040",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/041",
+      "name": "Attachments #041",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/042",
+      "name": "Attachments #042",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/043",
+      "name": "Attachments #043",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/044",
+      "name": "Attachments #044",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/045",
+      "name": "Attachments #045",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/046",
+      "name": "Attachments #046",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/047",
+      "name": "Attachments #047",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/048",
+      "name": "Attachments #048",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/049",
+      "name": "Attachments #049",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:attachments/050",
+      "name": "Attachments #050",
+      "kind": "slots",
+      "family": "attachments",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/001",
+      "name": "Construction Modules #001",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/002",
+      "name": "Construction Modules #002",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/003",
+      "name": "Construction Modules #003",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/004",
+      "name": "Construction Modules #004",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/005",
+      "name": "Construction Modules #005",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/006",
+      "name": "Construction Modules #006",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/007",
+      "name": "Construction Modules #007",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/008",
+      "name": "Construction Modules #008",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/009",
+      "name": "Construction Modules #009",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/010",
+      "name": "Construction Modules #010",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/011",
+      "name": "Construction Modules #011",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/012",
+      "name": "Construction Modules #012",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/013",
+      "name": "Construction Modules #013",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/014",
+      "name": "Construction Modules #014",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/015",
+      "name": "Construction Modules #015",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/016",
+      "name": "Construction Modules #016",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/017",
+      "name": "Construction Modules #017",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/018",
+      "name": "Construction Modules #018",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/019",
+      "name": "Construction Modules #019",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/020",
+      "name": "Construction Modules #020",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/021",
+      "name": "Construction Modules #021",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/022",
+      "name": "Construction Modules #022",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/023",
+      "name": "Construction Modules #023",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/024",
+      "name": "Construction Modules #024",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/025",
+      "name": "Construction Modules #025",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/026",
+      "name": "Construction Modules #026",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/027",
+      "name": "Construction Modules #027",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/028",
+      "name": "Construction Modules #028",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/029",
+      "name": "Construction Modules #029",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/030",
+      "name": "Construction Modules #030",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/031",
+      "name": "Construction Modules #031",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/032",
+      "name": "Construction Modules #032",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/033",
+      "name": "Construction Modules #033",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/034",
+      "name": "Construction Modules #034",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/035",
+      "name": "Construction Modules #035",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/036",
+      "name": "Construction Modules #036",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/037",
+      "name": "Construction Modules #037",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/038",
+      "name": "Construction Modules #038",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/039",
+      "name": "Construction Modules #039",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/040",
+      "name": "Construction Modules #040",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/041",
+      "name": "Construction Modules #041",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/042",
+      "name": "Construction Modules #042",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/043",
+      "name": "Construction Modules #043",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/044",
+      "name": "Construction Modules #044",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/045",
+      "name": "Construction Modules #045",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/046",
+      "name": "Construction Modules #046",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/047",
+      "name": "Construction Modules #047",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/048",
+      "name": "Construction Modules #048",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/049",
+      "name": "Construction Modules #049",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/050",
+      "name": "Construction Modules #050",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/051",
+      "name": "Construction Modules #051",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/052",
+      "name": "Construction Modules #052",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/053",
+      "name": "Construction Modules #053",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/054",
+      "name": "Construction Modules #054",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/055",
+      "name": "Construction Modules #055",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/056",
+      "name": "Construction Modules #056",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/057",
+      "name": "Construction Modules #057",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/058",
+      "name": "Construction Modules #058",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/059",
+      "name": "Construction Modules #059",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:construction_modules/060",
+      "name": "Construction Modules #060",
+      "kind": "slots",
+      "family": "construction_modules",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/001",
+      "name": "Animated Mechanisms #001",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/002",
+      "name": "Animated Mechanisms #002",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/003",
+      "name": "Animated Mechanisms #003",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/004",
+      "name": "Animated Mechanisms #004",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/005",
+      "name": "Animated Mechanisms #005",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/006",
+      "name": "Animated Mechanisms #006",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/007",
+      "name": "Animated Mechanisms #007",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/008",
+      "name": "Animated Mechanisms #008",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/009",
+      "name": "Animated Mechanisms #009",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/010",
+      "name": "Animated Mechanisms #010",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/011",
+      "name": "Animated Mechanisms #011",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/012",
+      "name": "Animated Mechanisms #012",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/013",
+      "name": "Animated Mechanisms #013",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/014",
+      "name": "Animated Mechanisms #014",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/015",
+      "name": "Animated Mechanisms #015",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/016",
+      "name": "Animated Mechanisms #016",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/017",
+      "name": "Animated Mechanisms #017",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/018",
+      "name": "Animated Mechanisms #018",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/019",
+      "name": "Animated Mechanisms #019",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/020",
+      "name": "Animated Mechanisms #020",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/021",
+      "name": "Animated Mechanisms #021",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/022",
+      "name": "Animated Mechanisms #022",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/023",
+      "name": "Animated Mechanisms #023",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/024",
+      "name": "Animated Mechanisms #024",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/025",
+      "name": "Animated Mechanisms #025",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/026",
+      "name": "Animated Mechanisms #026",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/027",
+      "name": "Animated Mechanisms #027",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/028",
+      "name": "Animated Mechanisms #028",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/029",
+      "name": "Animated Mechanisms #029",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    },
+    {
+      "id": "arsenal:animated_mechanisms/030",
+      "name": "Animated Mechanisms #030",
+      "kind": "slots",
+      "family": "animated_mechanisms",
+      "expectedPath": null,
+      "stage": "missing",
+      "evidence": {}
+    }
+  ]
+}

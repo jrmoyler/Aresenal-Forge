@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "arsenal:armor/helmet/01",
+    "slot": "helmet",
+    "model": "assets/armor/helmet/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/02",
+    "slot": "helmet",
+    "model": "assets/armor/helmet/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/03",
+    "slot": "helmet",
+    "model": "assets/armor/helmet/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/04",
+    "slot": "helmet",
+    "model": "assets/armor/helmet/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/05",
+    "slot": "helmet",
+    "model": "assets/armor/helmet/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/01",
+    "slot": "chest",
+    "model": "assets/armor/chest/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/02",
+    "slot": "chest",
+    "model": "assets/armor/chest/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/03",
+    "slot": "chest",
+    "model": "assets/armor/chest/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/04",
+    "slot": "chest",
+    "model": "assets/armor/chest/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/05",
+    "slot": "chest",
+    "model": "assets/armor/chest/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/01",
+    "slot": "shoulder",
+    "model": "assets/armor/shoulder/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/02",
+    "slot": "shoulder",
+    "model": "assets/armor/shoulder/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/03",
+    "slot": "shoulder",
+    "model": "assets/armor/shoulder/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/04",
+    "slot": "shoulder",
+    "model": "assets/armor/shoulder/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/05",
+    "slot": "shoulder",
+    "model": "assets/armor/shoulder/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/01",
+    "slot": "arm",
+    "model": "assets/armor/arm/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/02",
+    "slot": "arm",
+    "model": "assets/armor/arm/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/03",
+    "slot": "arm",
+    "model": "assets/armor/arm/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/04",
+    "slot": "arm",
+    "model": "assets/armor/arm/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/05",
+    "slot": "arm",
+    "model": "assets/armor/arm/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/01",
+    "slot": "glove",
+    "model": "assets/armor/glove/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/02",
+    "slot": "glove",
+    "model": "assets/armor/glove/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/03",
+    "slot": "glove",
+    "model": "assets/armor/glove/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/04",
+    "slot": "glove",
+    "model": "assets/armor/glove/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/05",
+    "slot": "glove",
+    "model": "assets/armor/glove/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/01",
+    "slot": "belt",
+    "model": "assets/armor/belt/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/02",
+    "slot": "belt",
+    "model": "assets/armor/belt/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/03",
+    "slot": "belt",
+    "model": "assets/armor/belt/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/04",
+    "slot": "belt",
+    "model": "assets/armor/belt/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/05",
+    "slot": "belt",
+    "model": "assets/armor/belt/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/01",
+    "slot": "legs",
+    "model": "assets/armor/legs/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/02",
+    "slot": "legs",
+    "model": "assets/armor/legs/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/03",
+    "slot": "legs",
+    "model": "assets/armor/legs/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/04",
+    "slot": "legs",
+    "model": "assets/armor/legs/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/05",
+    "slot": "legs",
+    "model": "assets/armor/legs/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/01",
+    "slot": "boot",
+    "model": "assets/armor/boot/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/02",
+    "slot": "boot",
+    "model": "assets/armor/boot/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/03",
+    "slot": "boot",
+    "model": "assets/armor/boot/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/04",
+    "slot": "boot",
+    "model": "assets/armor/boot/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/05",
+    "slot": "boot",
+    "model": "assets/armor/boot/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/01",
+    "slot": "cloak",
+    "model": "assets/armor/cloak/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/02",
+    "slot": "cloak",
+    "model": "assets/armor/cloak/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/03",
+    "slot": "cloak",
+    "model": "assets/armor/cloak/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/04",
+    "slot": "cloak",
+    "model": "assets/armor/cloak/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/05",
+    "slot": "cloak",
+    "model": "assets/armor/cloak/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/01",
+    "slot": "mask",
+    "model": "assets/armor/mask/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/02",
+    "slot": "mask",
+    "model": "assets/armor/mask/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/03",
+    "slot": "mask",
+    "model": "assets/armor/mask/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/04",
+    "slot": "mask",
+    "model": "assets/armor/mask/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/05",
+    "slot": "mask",
+    "model": "assets/armor/mask/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/01",
+    "slot": "robe",
+    "model": "assets/armor/robe/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/02",
+    "slot": "robe",
+    "model": "assets/armor/robe/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/03",
+    "slot": "robe",
+    "model": "assets/armor/robe/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/04",
+    "slot": "robe",
+    "model": "assets/armor/robe/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/05",
+    "slot": "robe",
+    "model": "assets/armor/robe/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/01",
+    "slot": "accessory",
+    "model": "assets/armor/accessory/01.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/02",
+    "slot": "accessory",
+    "model": "assets/armor/accessory/02.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/03",
+    "slot": "accessory",
+    "model": "assets/armor/accessory/03.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/04",
+    "slot": "accessory",
+    "model": "assets/armor/accessory/04.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/05",
+    "slot": "accessory",
+    "model": "assets/armor/accessory/05.glb",
+    "variants": [
+      "base",
+      "worn",
+      "ornate"
+    ],
+    "referenceRequired": true,
+    "rigFit": "skeleton and morph fit against character canonical rigs; provide clip tests",
+    "materialSlots": [
+      "base",
+      "trim",
+      "infusion"
+    ]
+  }
+]
