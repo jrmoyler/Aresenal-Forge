@@ -17,4 +17,4 @@ export function productionStage(record={}){
  if(!record.testEvidence?.trim())return 'visually-approved';
  return 'tested';
 }
-export function exportManifest(catalog,records={}){return {schemaVersion:'arsenal-forge/1.0.0',packId:'arsenal:core',coordinateSystem:{units:'meters',upAxis:'Y',handedness:'right'},authority:'host',assets:catalog.map(x=>({id:x.id,name:x.name,kind:x.kind,family:x.family,expectedPath:shippedAssetPath(x),stage:productionStage(records[x.id]),evidence:structuredClone(records[x.id]??{})}))};}
+export function exportManifest(catalog,records={},shipped={}){return {schemaVersion:'arsenal-forge/1.0.0',packId:'arsenal:core',coordinateSystem:{units:'meters',upAxis:'Y',handedness:'right'},authority:'host',assets:catalog.map(x=>({id:x.id,name:x.name,kind:x.kind,family:x.family,expectedPath:shippedAssetPath(x),availability:shipped[x.id]?'listed-unverified':'not-listed',stage:productionStage(records[x.id]),evidence:structuredClone(records[x.id]??{})}))};}

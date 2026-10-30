@@ -1,6 +1,6 @@
 # Arsenal asset provenance
 
-The assets added by this production pass are original geometry authored in Three.js JavaScript, with mathematically generated PBR surface data. No downloaded models, stock textures, reference photographs, third-party character likenesses, or image-model outputs were used. The authoring code is editable in `src/assets/`; each catalog record has a corresponding recipe snapshot under `sources/assets/`.
+The existing review assets were generated using Three.js JavaScript and mathematically generated PBR surface data. The original authoring code and per-record recipe snapshots are not included in this checkout, despite paths in the pack manifest. Those paths are provenance references, not available source files. No downloaded models, stock textures, reference photographs, third-party character likenesses, or image-model outputs were reported for that production pass.
 
 The work was generated for this repository at the owner's request. No new license is imposed on the owner's project. Distribution follows the repository owner's licensing decision; this statement is provenance, not a claim of exclusive copyright or a third-party license grant. Three.js and tooling retain their respective package licenses.
 

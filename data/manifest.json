@@ -14,6 +14,7 @@
       "kind": "weapons",
       "family": "swords",
       "expectedPath": "assets/weapons/swords/longsword.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -23,6 +24,7 @@
       "kind": "weapons",
       "family": "swords",
       "expectedPath": "assets/weapons/swords/saber.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -32,6 +34,7 @@
       "kind": "weapons",
       "family": "swords",
       "expectedPath": "assets/weapons/swords/katana.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -41,6 +44,7 @@
       "kind": "weapons",
       "family": "swords",
       "expectedPath": "assets/weapons/swords/greatsword.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -50,6 +54,7 @@
       "kind": "weapons",
       "family": "swords",
       "expectedPath": "assets/weapons/swords/rapier.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -59,6 +64,7 @@
       "kind": "weapons",
       "family": "short_blades",
       "expectedPath": "assets/weapons/short_blades/dagger.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -68,6 +74,7 @@
       "kind": "weapons",
       "family": "short_blades",
       "expectedPath": "assets/weapons/short_blades/kukri.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -77,6 +84,7 @@
       "kind": "weapons",
       "family": "short_blades",
       "expectedPath": "assets/weapons/short_blades/twin-shortblade.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -86,6 +94,7 @@
       "kind": "weapons",
       "family": "short_blades",
       "expectedPath": "assets/weapons/short_blades/punch-dagger.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -95,6 +104,7 @@
       "kind": "weapons",
       "family": "short_blades",
       "expectedPath": "assets/weapons/short_blades/tanto.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -104,6 +114,7 @@
       "kind": "weapons",
       "family": "polearms",
       "expectedPath": "assets/weapons/polearms/spear.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -113,6 +124,7 @@
       "kind": "weapons",
       "family": "polearms",
       "expectedPath": "assets/weapons/polearms/glaive.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -122,6 +134,7 @@
       "kind": "weapons",
       "family": "polearms",
       "expectedPath": "assets/weapons/polearms/halberd.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -131,6 +144,7 @@
       "kind": "weapons",
       "family": "polearms",
       "expectedPath": "assets/weapons/polearms/trident.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -140,6 +154,7 @@
       "kind": "weapons",
       "family": "polearms",
       "expectedPath": "assets/weapons/polearms/war-lance.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -149,6 +164,7 @@
       "kind": "weapons",
       "family": "heavy_impact",
       "expectedPath": "assets/weapons/heavy_impact/war-axe.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -158,6 +174,7 @@
       "kind": "weapons",
       "family": "heavy_impact",
       "expectedPath": "assets/weapons/heavy_impact/great-axe.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -167,6 +184,7 @@
       "kind": "weapons",
       "family": "heavy_impact",
       "expectedPath": "assets/weapons/heavy_impact/warhammer.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -176,6 +194,7 @@
       "kind": "weapons",
       "family": "heavy_impact",
       "expectedPath": "assets/weapons/heavy_impact/flanged-mace.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -185,6 +204,7 @@
       "kind": "weapons",
       "family": "heavy_impact",
       "expectedPath": "assets/weapons/heavy_impact/military-pick.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -194,6 +214,7 @@
       "kind": "weapons",
       "family": "archery",
       "expectedPath": "assets/weapons/archery/longbow.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -203,6 +224,7 @@
       "kind": "weapons",
       "family": "archery",
       "expectedPath": "assets/weapons/archery/recurve-bow.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -212,6 +234,7 @@
       "kind": "weapons",
       "family": "archery",
       "expectedPath": "assets/weapons/archery/crossbow.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -221,6 +244,7 @@
       "kind": "weapons",
       "family": "archery",
       "expectedPath": "assets/weapons/archery/repeating-crossbow.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -230,6 +254,7 @@
       "kind": "weapons",
       "family": "archery",
       "expectedPath": "assets/weapons/archery/composite-bow.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -239,6 +264,7 @@
       "kind": "weapons",
       "family": "casting_implements",
       "expectedPath": "assets/weapons/casting_implements/oak-staff.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -248,6 +274,7 @@
       "kind": "weapons",
       "family": "casting_implements",
       "expectedPath": "assets/weapons/casting_implements/crystal-staff.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -257,6 +284,7 @@
       "kind": "weapons",
       "family": "casting_implements",
       "expectedPath": "assets/weapons/casting_implements/wand.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -266,6 +294,7 @@
       "kind": "weapons",
       "family": "casting_implements",
       "expectedPath": "assets/weapons/casting_implements/scepter.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -275,6 +304,7 @@
       "kind": "weapons",
       "family": "casting_implements",
       "expectedPath": "assets/weapons/casting_implements/channeling-rod.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -284,6 +314,7 @@
       "kind": "weapons",
       "family": "ritual",
       "expectedPath": "assets/weapons/ritual/grimoire.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -293,6 +324,7 @@
       "kind": "weapons",
       "family": "ritual",
       "expectedPath": "assets/weapons/ritual/rune-tablet.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -302,6 +334,7 @@
       "kind": "weapons",
       "family": "ritual",
       "expectedPath": "assets/weapons/ritual/ceremonial-seal.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -311,6 +344,7 @@
       "kind": "weapons",
       "family": "ritual",
       "expectedPath": "assets/weapons/ritual/talisman-array.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -320,6 +354,7 @@
       "kind": "weapons",
       "family": "ritual",
       "expectedPath": "assets/weapons/ritual/relic-orb.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -329,6 +364,7 @@
       "kind": "weapons",
       "family": "martial",
       "expectedPath": "assets/weapons/martial/cestus.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -338,6 +374,7 @@
       "kind": "weapons",
       "family": "martial",
       "expectedPath": "assets/weapons/martial/arm-blade.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -347,6 +384,7 @@
       "kind": "weapons",
       "family": "martial",
       "expectedPath": "assets/weapons/martial/talons.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -356,6 +394,7 @@
       "kind": "weapons",
       "family": "martial",
       "expectedPath": "assets/weapons/martial/power-knuckles.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -365,6 +404,7 @@
       "kind": "weapons",
       "family": "martial",
       "expectedPath": "assets/weapons/martial/hook-claws.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -374,6 +414,7 @@
       "kind": "weapons",
       "family": "flexible",
       "expectedPath": "assets/weapons/flexible/chain-sickle.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -383,6 +424,7 @@
       "kind": "weapons",
       "family": "flexible",
       "expectedPath": "assets/weapons/flexible/whip.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -392,6 +434,7 @@
       "kind": "weapons",
       "family": "flexible",
       "expectedPath": "assets/weapons/flexible/rope-dart.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -401,6 +444,7 @@
       "kind": "weapons",
       "family": "flexible",
       "expectedPath": "assets/weapons/flexible/meteor-hammer.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -410,6 +454,7 @@
       "kind": "weapons",
       "family": "flexible",
       "expectedPath": "assets/weapons/flexible/weighted-chain.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -419,6 +464,7 @@
       "kind": "weapons",
       "family": "thrown",
       "expectedPath": "assets/weapons/thrown/chakram.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -428,6 +474,7 @@
       "kind": "weapons",
       "family": "thrown",
       "expectedPath": "assets/weapons/thrown/kunai.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -437,6 +484,7 @@
       "kind": "weapons",
       "family": "thrown",
       "expectedPath": "assets/weapons/thrown/shuriken.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -446,6 +494,7 @@
       "kind": "weapons",
       "family": "thrown",
       "expectedPath": "assets/weapons/thrown/boomerang.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -455,6 +504,7 @@
       "kind": "weapons",
       "family": "thrown",
       "expectedPath": "assets/weapons/thrown/javelin.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -464,6 +514,7 @@
       "kind": "weapons",
       "family": "tech_ranged",
       "expectedPath": "assets/weapons/tech_ranged/sidearm.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -473,6 +524,7 @@
       "kind": "weapons",
       "family": "tech_ranged",
       "expectedPath": "assets/weapons/tech_ranged/pulse-rifle.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -482,6 +534,7 @@
       "kind": "weapons",
       "family": "tech_ranged",
       "expectedPath": "assets/weapons/tech_ranged/railgun.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -491,6 +544,7 @@
       "kind": "weapons",
       "family": "tech_ranged",
       "expectedPath": "assets/weapons/tech_ranged/beam-projector.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -500,6 +554,7 @@
       "kind": "weapons",
       "family": "tech_ranged",
       "expectedPath": "assets/weapons/tech_ranged/grenade-launcher.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -509,6 +564,7 @@
       "kind": "weapons",
       "family": "integrated",
       "expectedPath": "assets/weapons/integrated/wrist-emitter.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -518,6 +574,7 @@
       "kind": "weapons",
       "family": "integrated",
       "expectedPath": "assets/weapons/integrated/servo-blade.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -527,6 +584,7 @@
       "kind": "weapons",
       "family": "integrated",
       "expectedPath": "assets/weapons/integrated/shoulder-mount.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -536,6 +594,7 @@
       "kind": "weapons",
       "family": "integrated",
       "expectedPath": "assets/weapons/integrated/energy-gauntlet.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -545,6 +604,7 @@
       "kind": "weapons",
       "family": "integrated",
       "expectedPath": "assets/weapons/integrated/exo-arm.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -554,6 +614,7 @@
       "kind": "weapons",
       "family": "shields",
       "expectedPath": "assets/weapons/shields/buckler.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -563,6 +624,7 @@
       "kind": "weapons",
       "family": "shields",
       "expectedPath": "assets/weapons/shields/kite-shield.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -572,6 +634,7 @@
       "kind": "weapons",
       "family": "shields",
       "expectedPath": "assets/weapons/shields/tower-shield.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -581,6 +644,7 @@
       "kind": "weapons",
       "family": "shields",
       "expectedPath": "assets/weapons/shields/round-shield.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -590,6 +654,7 @@
       "kind": "weapons",
       "family": "shields",
       "expectedPath": "assets/weapons/shields/kinetic-disc.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -599,6 +664,7 @@
       "kind": "weapons",
       "family": "manifested",
       "expectedPath": "assets/weapons/manifested/flame-sword.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -608,6 +674,7 @@
       "kind": "weapons",
       "family": "manifested",
       "expectedPath": "assets/weapons/manifested/ice-spear.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -617,6 +684,7 @@
       "kind": "weapons",
       "family": "manifested",
       "expectedPath": "assets/weapons/manifested/crystal-scythe.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -626,6 +694,7 @@
       "kind": "weapons",
       "family": "manifested",
       "expectedPath": "assets/weapons/manifested/light-blade.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -635,6 +704,7 @@
       "kind": "weapons",
       "family": "manifested",
       "expectedPath": "assets/weapons/manifested/void-disc.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -644,6 +714,7 @@
       "kind": "weapons",
       "family": "deployables",
       "expectedPath": "assets/weapons/deployables/turret.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -653,6 +724,7 @@
       "kind": "weapons",
       "family": "deployables",
       "expectedPath": "assets/weapons/deployables/trip-mine.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -662,6 +734,7 @@
       "kind": "weapons",
       "family": "deployables",
       "expectedPath": "assets/weapons/deployables/combat-drone.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -671,6 +744,7 @@
       "kind": "weapons",
       "family": "deployables",
       "expectedPath": "assets/weapons/deployables/pulse-pylon.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -680,6 +754,7 @@
       "kind": "weapons",
       "family": "deployables",
       "expectedPath": "assets/weapons/deployables/sentry-node.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -689,6 +764,7 @@
       "kind": "armor",
       "family": "helmet",
       "expectedPath": "assets/armor/helmet/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -698,6 +774,7 @@
       "kind": "armor",
       "family": "helmet",
       "expectedPath": "assets/armor/helmet/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -707,6 +784,7 @@
       "kind": "armor",
       "family": "helmet",
       "expectedPath": "assets/armor/helmet/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -716,6 +794,7 @@
       "kind": "armor",
       "family": "helmet",
       "expectedPath": "assets/armor/helmet/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -725,6 +804,7 @@
       "kind": "armor",
       "family": "helmet",
       "expectedPath": "assets/armor/helmet/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -734,6 +814,7 @@
       "kind": "armor",
       "family": "chest",
       "expectedPath": "assets/armor/chest/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -743,6 +824,7 @@
       "kind": "armor",
       "family": "chest",
       "expectedPath": "assets/armor/chest/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -752,6 +834,7 @@
       "kind": "armor",
       "family": "chest",
       "expectedPath": "assets/armor/chest/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -761,6 +844,7 @@
       "kind": "armor",
       "family": "chest",
       "expectedPath": "assets/armor/chest/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -770,6 +854,7 @@
       "kind": "armor",
       "family": "chest",
       "expectedPath": "assets/armor/chest/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -779,6 +864,7 @@
       "kind": "armor",
       "family": "shoulder",
       "expectedPath": "assets/armor/shoulder/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -788,6 +874,7 @@
       "kind": "armor",
       "family": "shoulder",
       "expectedPath": "assets/armor/shoulder/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -797,6 +884,7 @@
       "kind": "armor",
       "family": "shoulder",
       "expectedPath": "assets/armor/shoulder/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -806,6 +894,7 @@
       "kind": "armor",
       "family": "shoulder",
       "expectedPath": "assets/armor/shoulder/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -815,6 +904,7 @@
       "kind": "armor",
       "family": "shoulder",
       "expectedPath": "assets/armor/shoulder/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -824,6 +914,7 @@
       "kind": "armor",
       "family": "arm",
       "expectedPath": "assets/armor/arm/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -833,6 +924,7 @@
       "kind": "armor",
       "family": "arm",
       "expectedPath": "assets/armor/arm/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -842,6 +934,7 @@
       "kind": "armor",
       "family": "arm",
       "expectedPath": "assets/armor/arm/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -851,6 +944,7 @@
       "kind": "armor",
       "family": "arm",
       "expectedPath": "assets/armor/arm/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -860,6 +954,7 @@
       "kind": "armor",
       "family": "arm",
       "expectedPath": "assets/armor/arm/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -869,6 +964,7 @@
       "kind": "armor",
       "family": "glove",
       "expectedPath": "assets/armor/glove/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -878,6 +974,7 @@
       "kind": "armor",
       "family": "glove",
       "expectedPath": "assets/armor/glove/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -887,6 +984,7 @@
       "kind": "armor",
       "family": "glove",
       "expectedPath": "assets/armor/glove/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -896,6 +994,7 @@
       "kind": "armor",
       "family": "glove",
       "expectedPath": "assets/armor/glove/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -905,6 +1004,7 @@
       "kind": "armor",
       "family": "glove",
       "expectedPath": "assets/armor/glove/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -914,6 +1014,7 @@
       "kind": "armor",
       "family": "belt",
       "expectedPath": "assets/armor/belt/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -923,6 +1024,7 @@
       "kind": "armor",
       "family": "belt",
       "expectedPath": "assets/armor/belt/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -932,6 +1034,7 @@
       "kind": "armor",
       "family": "belt",
       "expectedPath": "assets/armor/belt/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -941,6 +1044,7 @@
       "kind": "armor",
       "family": "belt",
       "expectedPath": "assets/armor/belt/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -950,6 +1054,7 @@
       "kind": "armor",
       "family": "belt",
       "expectedPath": "assets/armor/belt/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -959,6 +1064,7 @@
       "kind": "armor",
       "family": "legs",
       "expectedPath": "assets/armor/legs/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -968,6 +1074,7 @@
       "kind": "armor",
       "family": "legs",
       "expectedPath": "assets/armor/legs/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -977,6 +1084,7 @@
       "kind": "armor",
       "family": "legs",
       "expectedPath": "assets/armor/legs/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -986,6 +1094,7 @@
       "kind": "armor",
       "family": "legs",
       "expectedPath": "assets/armor/legs/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -995,6 +1104,7 @@
       "kind": "armor",
       "family": "legs",
       "expectedPath": "assets/armor/legs/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1004,6 +1114,7 @@
       "kind": "armor",
       "family": "boot",
       "expectedPath": "assets/armor/boot/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1013,6 +1124,7 @@
       "kind": "armor",
       "family": "boot",
       "expectedPath": "assets/armor/boot/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1022,6 +1134,7 @@
       "kind": "armor",
       "family": "boot",
       "expectedPath": "assets/armor/boot/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1031,6 +1144,7 @@
       "kind": "armor",
       "family": "boot",
       "expectedPath": "assets/armor/boot/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1040,6 +1154,7 @@
       "kind": "armor",
       "family": "boot",
       "expectedPath": "assets/armor/boot/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1049,6 +1164,7 @@
       "kind": "armor",
       "family": "cloak",
       "expectedPath": "assets/armor/cloak/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1058,6 +1174,7 @@
       "kind": "armor",
       "family": "cloak",
       "expectedPath": "assets/armor/cloak/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1067,6 +1184,7 @@
       "kind": "armor",
       "family": "cloak",
       "expectedPath": "assets/armor/cloak/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1076,6 +1194,7 @@
       "kind": "armor",
       "family": "cloak",
       "expectedPath": "assets/armor/cloak/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1085,6 +1204,7 @@
       "kind": "armor",
       "family": "cloak",
       "expectedPath": "assets/armor/cloak/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1094,6 +1214,7 @@
       "kind": "armor",
       "family": "mask",
       "expectedPath": "assets/armor/mask/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1103,6 +1224,7 @@
       "kind": "armor",
       "family": "mask",
       "expectedPath": "assets/armor/mask/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1112,6 +1234,7 @@
       "kind": "armor",
       "family": "mask",
       "expectedPath": "assets/armor/mask/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1121,6 +1244,7 @@
       "kind": "armor",
       "family": "mask",
       "expectedPath": "assets/armor/mask/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1130,6 +1254,7 @@
       "kind": "armor",
       "family": "mask",
       "expectedPath": "assets/armor/mask/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1139,6 +1264,7 @@
       "kind": "armor",
       "family": "robe",
       "expectedPath": "assets/armor/robe/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1148,6 +1274,7 @@
       "kind": "armor",
       "family": "robe",
       "expectedPath": "assets/armor/robe/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1157,6 +1284,7 @@
       "kind": "armor",
       "family": "robe",
       "expectedPath": "assets/armor/robe/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1166,6 +1294,7 @@
       "kind": "armor",
       "family": "robe",
       "expectedPath": "assets/armor/robe/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1175,6 +1304,7 @@
       "kind": "armor",
       "family": "robe",
       "expectedPath": "assets/armor/robe/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1184,6 +1314,7 @@
       "kind": "armor",
       "family": "accessory",
       "expectedPath": "assets/armor/accessory/01.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1193,6 +1324,7 @@
       "kind": "armor",
       "family": "accessory",
       "expectedPath": "assets/armor/accessory/02.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1202,6 +1334,7 @@
       "kind": "armor",
       "family": "accessory",
       "expectedPath": "assets/armor/accessory/03.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1211,6 +1344,7 @@
       "kind": "armor",
       "family": "accessory",
       "expectedPath": "assets/armor/accessory/04.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1220,6 +1354,7 @@
       "kind": "armor",
       "family": "accessory",
       "expectedPath": "assets/armor/accessory/05.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1229,6 +1364,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1238,6 +1374,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1247,6 +1384,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1256,6 +1394,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1265,6 +1404,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1274,6 +1414,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1283,6 +1424,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1292,6 +1434,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1301,6 +1444,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1310,6 +1454,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1319,6 +1464,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1328,6 +1474,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1337,6 +1484,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1346,6 +1494,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1355,6 +1504,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1364,6 +1514,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1373,6 +1524,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1382,6 +1534,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1391,6 +1544,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1400,6 +1554,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1409,6 +1564,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1418,6 +1574,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1427,6 +1584,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1436,6 +1594,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1445,6 +1604,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1454,6 +1614,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1463,6 +1624,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1472,6 +1634,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1481,6 +1644,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1490,6 +1654,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1499,6 +1664,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/031.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1508,6 +1674,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/032.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1517,6 +1684,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/033.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1526,6 +1694,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/034.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1535,6 +1704,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/035.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1544,6 +1714,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/036.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1553,6 +1724,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/037.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1562,6 +1734,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/038.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1571,6 +1744,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/039.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1580,6 +1754,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/040.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1589,6 +1764,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/041.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1598,6 +1774,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/042.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1607,6 +1784,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/043.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1616,6 +1794,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/044.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1625,6 +1804,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/045.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1634,6 +1814,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/046.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1643,6 +1824,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/047.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1652,6 +1834,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/048.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1661,6 +1844,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/049.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1670,6 +1854,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/050.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1679,6 +1864,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/051.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1688,6 +1874,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/052.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1697,6 +1884,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/053.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1706,6 +1894,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/054.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1715,6 +1904,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/055.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1724,6 +1914,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/056.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1733,6 +1924,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/057.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1742,6 +1934,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/058.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1751,6 +1944,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/059.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1760,6 +1954,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/060.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1769,6 +1964,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/061.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1778,6 +1974,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/062.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1787,6 +1984,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/063.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1796,6 +1994,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/064.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1805,6 +2004,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/065.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1814,6 +2014,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/066.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1823,6 +2024,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/067.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1832,6 +2034,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/068.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1841,6 +2044,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/069.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1850,6 +2054,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/070.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1859,6 +2064,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/071.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1868,6 +2074,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/072.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1877,6 +2084,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/073.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1886,6 +2094,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/074.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1895,6 +2104,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/075.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1904,6 +2114,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/076.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1913,6 +2124,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/077.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1922,6 +2134,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/078.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1931,6 +2144,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/079.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1940,6 +2154,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/080.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1949,6 +2164,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/081.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1958,6 +2174,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/082.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1967,6 +2184,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/083.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1976,6 +2194,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/084.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1985,6 +2204,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/085.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -1994,6 +2214,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/086.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2003,6 +2224,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/087.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2012,6 +2234,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/088.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2021,6 +2244,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/089.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2030,6 +2254,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/090.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2039,6 +2264,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/091.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2048,6 +2274,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/092.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2057,6 +2284,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/093.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2066,6 +2294,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/094.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2075,6 +2304,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/095.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2084,6 +2314,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/096.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2093,6 +2324,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/097.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2102,6 +2334,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/098.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2111,6 +2344,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/099.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2120,6 +2354,7 @@
       "kind": "slots",
       "family": "interactive_props",
       "expectedPath": "assets/interactive_props/100.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2129,6 +2364,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2138,6 +2374,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2147,6 +2384,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2156,6 +2394,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2165,6 +2404,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2174,6 +2414,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2183,6 +2424,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2192,6 +2434,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2201,6 +2444,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2210,6 +2454,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2219,6 +2464,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2228,6 +2474,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2237,6 +2484,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2246,6 +2494,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2255,6 +2504,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2264,6 +2514,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2273,6 +2524,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2282,6 +2534,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2291,6 +2544,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2300,6 +2554,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2309,6 +2564,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2318,6 +2574,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2327,6 +2584,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2336,6 +2594,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2345,6 +2604,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2354,6 +2614,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2363,6 +2624,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2372,6 +2634,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2381,6 +2644,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2390,6 +2654,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2399,6 +2664,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/031.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2408,6 +2674,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/032.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2417,6 +2684,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/033.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2426,6 +2694,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/034.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2435,6 +2704,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/035.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2444,6 +2714,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/036.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2453,6 +2724,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/037.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2462,6 +2734,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/038.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2471,6 +2744,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/039.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2480,6 +2754,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/040.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2489,6 +2764,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/041.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2498,6 +2774,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/042.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2507,6 +2784,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/043.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2516,6 +2794,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/044.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2525,6 +2804,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/045.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2534,6 +2814,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/046.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2543,6 +2824,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/047.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2552,6 +2834,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/048.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2561,6 +2844,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/049.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2570,6 +2854,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/050.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2579,6 +2864,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/051.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2588,6 +2874,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/052.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2597,6 +2884,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/053.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2606,6 +2894,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/054.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2615,6 +2904,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/055.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2624,6 +2914,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/056.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2633,6 +2924,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/057.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2642,6 +2934,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/058.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2651,6 +2944,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/059.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2660,6 +2954,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/060.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2669,6 +2964,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/061.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2678,6 +2974,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/062.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2687,6 +2984,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/063.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2696,6 +2994,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/064.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2705,6 +3004,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/065.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2714,6 +3014,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/066.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2723,6 +3024,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/067.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2732,6 +3034,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/068.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2741,6 +3044,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/069.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2750,6 +3054,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/070.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2759,6 +3064,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/071.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2768,6 +3074,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/072.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2777,6 +3084,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/073.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2786,6 +3094,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/074.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2795,6 +3104,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/075.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2804,6 +3114,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/076.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2813,6 +3124,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/077.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2822,6 +3134,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/078.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2831,6 +3144,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/079.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2840,6 +3154,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/080.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2849,6 +3164,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/081.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2858,6 +3174,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/082.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2867,6 +3184,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/083.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2876,6 +3194,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/084.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2885,6 +3204,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/085.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2894,6 +3214,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/086.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2903,6 +3224,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/087.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2912,6 +3234,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/088.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2921,6 +3244,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/089.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2930,6 +3254,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/090.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2939,6 +3264,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/091.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2948,6 +3274,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/092.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2957,6 +3284,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/093.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2966,6 +3294,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/094.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2975,6 +3304,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/095.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2984,6 +3314,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/096.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -2993,6 +3324,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/097.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3002,6 +3334,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/098.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3011,6 +3344,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/099.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3020,6 +3354,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/100.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3029,6 +3364,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/101.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3038,6 +3374,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/102.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3047,6 +3384,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/103.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3056,6 +3394,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/104.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3065,6 +3404,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/105.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3074,6 +3414,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/106.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3083,6 +3424,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/107.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3092,6 +3434,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/108.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3101,6 +3444,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/109.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3110,6 +3454,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/110.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3119,6 +3464,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/111.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3128,6 +3474,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/112.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3137,6 +3484,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/113.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3146,6 +3494,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/114.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3155,6 +3504,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/115.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3164,6 +3514,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/116.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3173,6 +3524,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/117.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3182,6 +3534,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/118.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3191,6 +3544,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/119.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3200,6 +3554,7 @@
       "kind": "slots",
       "family": "environment_props",
       "expectedPath": "assets/environment_props/120.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3209,6 +3564,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3218,6 +3574,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3227,6 +3584,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3236,6 +3594,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3245,6 +3604,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3254,6 +3614,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3263,6 +3624,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3272,6 +3634,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3281,6 +3644,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3290,6 +3654,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3299,6 +3664,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3308,6 +3674,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3317,6 +3684,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3326,6 +3694,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3335,6 +3704,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3344,6 +3714,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3353,6 +3724,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3362,6 +3734,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3371,6 +3744,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3380,6 +3754,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3389,6 +3764,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3398,6 +3774,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3407,6 +3784,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3416,6 +3794,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3425,6 +3804,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3434,6 +3814,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3443,6 +3824,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3452,6 +3834,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3461,6 +3844,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3470,6 +3854,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3479,6 +3864,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/031.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3488,6 +3874,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/032.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3497,6 +3884,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/033.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3506,6 +3894,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/034.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3515,6 +3904,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/035.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3524,6 +3914,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/036.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3533,6 +3924,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/037.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3542,6 +3934,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/038.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3551,6 +3944,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/039.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3560,6 +3954,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/040.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3569,6 +3964,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/041.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3578,6 +3974,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/042.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3587,6 +3984,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/043.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3596,6 +3994,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/044.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3605,6 +4004,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/045.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3614,6 +4014,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/046.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3623,6 +4024,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/047.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3632,6 +4034,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/048.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3641,6 +4044,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/049.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3650,6 +4054,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/050.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3659,6 +4064,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/051.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3668,6 +4074,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/052.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3677,6 +4084,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/053.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3686,6 +4094,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/054.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3695,6 +4104,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/055.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3704,6 +4114,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/056.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3713,6 +4124,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/057.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3722,6 +4134,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/058.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3731,6 +4144,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/059.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3740,6 +4154,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/060.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3749,6 +4164,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/061.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3758,6 +4174,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/062.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3767,6 +4184,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/063.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3776,6 +4194,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/064.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3785,6 +4204,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/065.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3794,6 +4214,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/066.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3803,6 +4224,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/067.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3812,6 +4234,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/068.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3821,6 +4244,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/069.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3830,6 +4254,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/070.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3839,6 +4264,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/071.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3848,6 +4274,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/072.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3857,6 +4284,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/073.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3866,6 +4294,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/074.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3875,6 +4304,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/075.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3884,6 +4314,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/076.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3893,6 +4324,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/077.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3902,6 +4334,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/078.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3911,6 +4344,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/079.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3920,6 +4354,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/080.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3929,6 +4364,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/081.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3938,6 +4374,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/082.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3947,6 +4384,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/083.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3956,6 +4394,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/084.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3965,6 +4404,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/085.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3974,6 +4414,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/086.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3983,6 +4424,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/087.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -3992,6 +4434,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/088.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4001,6 +4444,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/089.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4010,6 +4454,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/090.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4019,6 +4464,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/091.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4028,6 +4474,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/092.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4037,6 +4484,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/093.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4046,6 +4494,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/094.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4055,6 +4504,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/095.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4064,6 +4514,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/096.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4073,6 +4524,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/097.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4082,6 +4534,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/098.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4091,6 +4544,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/099.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4100,6 +4554,7 @@
       "kind": "slots",
       "family": "materials",
       "expectedPath": "assets/materials/100.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4109,6 +4564,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4118,6 +4574,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4127,6 +4584,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4136,6 +4594,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4145,6 +4604,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4154,6 +4614,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4163,6 +4624,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4172,6 +4634,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4181,6 +4644,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4190,6 +4654,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4199,6 +4664,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4208,6 +4674,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4217,6 +4684,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4226,6 +4694,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4235,6 +4704,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4244,6 +4714,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4253,6 +4724,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4262,6 +4734,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4271,6 +4744,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4280,6 +4754,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4289,6 +4764,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4298,6 +4774,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4307,6 +4784,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4316,6 +4794,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4325,6 +4804,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4334,6 +4814,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4343,6 +4824,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4352,6 +4834,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4361,6 +4844,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4370,6 +4854,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4379,6 +4864,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/031.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4388,6 +4874,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/032.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4397,6 +4884,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/033.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4406,6 +4894,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/034.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4415,6 +4904,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/035.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4424,6 +4914,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/036.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4433,6 +4924,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/037.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4442,6 +4934,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/038.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4451,6 +4944,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/039.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4460,6 +4954,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/040.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4469,6 +4964,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/041.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4478,6 +4974,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/042.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4487,6 +4984,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/043.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4496,6 +4994,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/044.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4505,6 +5004,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/045.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4514,6 +5014,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/046.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4523,6 +5024,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/047.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4532,6 +5034,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/048.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4541,6 +5044,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/049.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4550,6 +5054,7 @@
       "kind": "slots",
       "family": "attachments",
       "expectedPath": "assets/attachments/050.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4559,6 +5064,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4568,6 +5074,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4577,6 +5084,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4586,6 +5094,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4595,6 +5104,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4604,6 +5114,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4613,6 +5124,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4622,6 +5134,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4631,6 +5144,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4640,6 +5154,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4649,6 +5164,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4658,6 +5174,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4667,6 +5184,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4676,6 +5194,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4685,6 +5204,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4694,6 +5214,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4703,6 +5224,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4712,6 +5234,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4721,6 +5244,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4730,6 +5254,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4739,6 +5264,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4748,6 +5274,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4757,6 +5284,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4766,6 +5294,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4775,6 +5304,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4784,6 +5314,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4793,6 +5324,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4802,6 +5334,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4811,6 +5344,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4820,6 +5354,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4829,6 +5364,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/031.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4838,6 +5374,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/032.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4847,6 +5384,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/033.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4856,6 +5394,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/034.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4865,6 +5404,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/035.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4874,6 +5414,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/036.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4883,6 +5424,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/037.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4892,6 +5434,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/038.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4901,6 +5444,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/039.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4910,6 +5454,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/040.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4919,6 +5464,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/041.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4928,6 +5474,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/042.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4937,6 +5484,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/043.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4946,6 +5494,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/044.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4955,6 +5504,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/045.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4964,6 +5514,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/046.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4973,6 +5524,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/047.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4982,6 +5534,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/048.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -4991,6 +5544,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/049.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5000,6 +5554,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/050.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5009,6 +5564,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/051.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5018,6 +5574,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/052.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5027,6 +5584,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/053.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5036,6 +5594,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/054.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5045,6 +5604,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/055.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5054,6 +5614,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/056.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5063,6 +5624,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/057.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5072,6 +5634,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/058.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5081,6 +5644,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/059.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5090,6 +5654,7 @@
       "kind": "slots",
       "family": "construction_modules",
       "expectedPath": "assets/construction_modules/060.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5099,6 +5664,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/001.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5108,6 +5674,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/002.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5117,6 +5684,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/003.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5126,6 +5694,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/004.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5135,6 +5704,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/005.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5144,6 +5714,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/006.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5153,6 +5724,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/007.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5162,6 +5734,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/008.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5171,6 +5744,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/009.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5180,6 +5754,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/010.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5189,6 +5764,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/011.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5198,6 +5774,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/012.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5207,6 +5784,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/013.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5216,6 +5794,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/014.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5225,6 +5804,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/015.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5234,6 +5814,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/016.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5243,6 +5824,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/017.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5252,6 +5834,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/018.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5261,6 +5844,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/019.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5270,6 +5854,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/020.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5279,6 +5864,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/021.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5288,6 +5874,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/022.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5297,6 +5884,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/023.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5306,6 +5894,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/024.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5315,6 +5904,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/025.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5324,6 +5914,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/026.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5333,6 +5924,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/027.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5342,6 +5934,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/028.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5351,6 +5944,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/029.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     },
@@ -5360,6 +5954,7 @@
       "kind": "slots",
       "family": "animated_mechanisms",
       "expectedPath": "assets/animated_mechanisms/030.glb",
+      "availability": "listed-unverified",
       "stage": "missing",
       "evidence": {}
     }

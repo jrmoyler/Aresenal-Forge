@@ -42,3 +42,7 @@ See `docs/SOURCE_AUDIT.md` for current upstream findings. Original supplied inst
 ## Verification
 
 `npm test` covers catalog conservation, evidence gates, export isolation, malformed GLBs, vectors, deduplication and surface sampling. `npm run validate` writes the baseline `data/manifest.json` (all missing) from source records. Browser checks require `npx playwright install chromium`, then run `node tools/browser-check.mjs` (it starts its own local server). QA screenshots are under `docs/evidence/`.
+
+### Availability and production evidence
+
+The catalog lists models named in the bundled asset manifest as “Listed · not checked”. Selecting one verifies that its GLB can be fetched and parsed; failures are shown as unavailable with the underlying error. Browser imports override the bundled model. The exported manifest records `listed-unverified` separately from the production `stage`; a listing alone does not imply integration, visual approval, or testing. The legacy `missing` stage means production evidence is absent, not that the model file was checked and found absent.
