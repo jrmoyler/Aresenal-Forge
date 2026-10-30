@@ -1,0 +1,47 @@
+name: Author and upload artwork batches
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'sources/upgrades/**'
+      - 'tools/render-upgrades.mjs'
+      - 'tools/record-upgrade-batch.mjs'
+      - '.github/workflows/artwork-batches.yml'
+permissions:
+  contents: write
+concurrency:
+  group: arsenal-artwork-pr2
+  cancel-in-progress: false
+jobs:
+  upload-batches:
+    if: github.event.pull_request.number == 2 && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'feat/forge-asset-upgrade'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/forge-asset-upgrade
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Generate, render, verify and upload six artwork batches
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for batch in armor weapons interactive environment mechanisms materials-attachments; do
+            node "sources/upgrades/$batch.mjs"
+            node tools/render-upgrades.mjs "$batch"
+            node tools/record-upgrade-batch.mjs "$batch"
+            npm run verify:upload
+            git add public/assets docs/SHA256SUMS.txt docs/evidence/upgrades sources/upgrades
+            if ! git diff --cached --quiet; then
+              git commit -m "Upload authored artwork batch: $batch"
+              git push origin HEAD:feat/forge-asset-upgrade
+            fi
+          done
+      - run: npm test && npm run validate && npm run build

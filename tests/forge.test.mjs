@@ -10,3 +10,12 @@ test('contact values are copied, finite, nonnegative ticks and normalized',()=>{
 test('surface sampling uses x/z and cannot mutate biome state',()=>{const cell={wetness:.4};let args;const copy=sampleSurface({sample:(...v)=>(args=v,cell)},[1,7,3]);assert.deepEqual(args,[1,3]);copy.wetness=1;assert.equal(cell.wetness,.4);assert.throws(()=>sampleSurface(null,[0,0,0]));});
 function glb(json){let text=JSON.stringify(json);text+=' '.repeat((4-text.length%4)%4);const b=new ArrayBuffer(20+text.length),v=new DataView(b);[0x46546c67,2,b.byteLength,text.length,0x4e4f534a].forEach((x,i)=>v.setUint32(i*4,x,true));new Uint8Array(b,20).set(new TextEncoder().encode(text));return b;}
 test('GLB rejects truncation, external resources, missing mesh and binary buffers',()=>{assert.throws(()=>inspectGLB(new ArrayBuffer(4)));const valid={asset:{version:'2.0'},meshes:[{primitives:[]}],nodes:[{name:'grip.primary'}]};assert.equal(inspectGLB(glb(valid)).nodes[0],'grip.primary');for(const json of [{asset:{version:'2.0'}},{...valid,images:[{uri:'https://example.com/private'}]},{...valid,buffers:[{byteLength:100}]}])assert.throws(()=>inspectGLB(glb(json)));const b=glb(valid);new DataView(b).setUint32(8,30,true);assert.throws(()=>inspectGLB(b));});
+
+test('manifest separates listed asset availability from production evidence',()=>{const m=exportManifest(c,{}, {[w[0].id]:{id:w[0].id}});assert.equal(m.assets[0].availability,'listed-unverified');assert.equal(m.assets[0].stage,'missing');assert.equal(m.assets[1].availability,'not-listed');});
+test('verified editable shipped source supplies authored evidence without approving integration',()=>{
+ const asset={id:w[0].id,sha256:'content-hash',source:'sources/upgrades/weapons.mjs',sourceSHA256:'source-hash',sourceAvailable:true,license:'Original project authored',evidence:{authored:true,runtimeImport:'Three.js capture passed'}};
+ assert.equal(exportManifest(c,{}, {[w[0].id]:asset}).assets[0].stage,'authored');
+ assert.equal(exportManifest(c,{}, {[w[0].id]:{...asset,sourceAvailable:false}}).assets[0].stage,'missing');
+ const local={[w[0].id]:{asset:{sha256:'different-local-model'},source:'',license:''}};
+ assert.equal(exportManifest(c,local,{[w[0].id]:asset}).assets[0].stage,'missing');
+});
