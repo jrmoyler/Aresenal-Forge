@@ -1,0 +1,47 @@
+name: Publish authored asset library
+on:
+  push:
+    branches: [feat/generated-asset-library]
+    paths:
+      - 'src/assets/**'
+      - 'src/asset-factory.mjs'
+      - 'tools/asset-authoring/**'
+      - 'tools/generate-assets.mjs'
+      - '.github/workflows/produce-assets.yml'
+permissions:
+  contents: write
+concurrency:
+  group: publish-arsenal-assets
+  cancel-in-progress: false
+jobs:
+  produce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run assets:generate
+      - run: npm run assets:validate
+      - run: npm run validate
+      - run: npm test
+      - run: npx playwright install --with-deps chromium
+      - run: python3 -m pip install pillow==11.3.0
+      - run: npm run assets:render
+      - run: npm run assets:babylon
+      - run: npm run assets:sheets
+      - run: node tools/browser-check.mjs
+      - run: node tools/check-native-studio.mjs
+      - run: npm run build
+      - name: Commit generated library and review evidence
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/assets sources/assets data/generated-assets.json data/manifest.json docs/evidence
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish generated Arsenal assets and render evidence [skip ci]'
+            git push origin HEAD:feat/generated-asset-library
+          fi

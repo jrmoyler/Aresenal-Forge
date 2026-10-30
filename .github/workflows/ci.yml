@@ -10,6 +10,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: npm run assets:generate
+      - run: npm run assets:validate
       - run: npm test
       - run: npm run validate
       - run: npm run build

@@ -1,0 +1,16 @@
+import * as T from 'three';
+export {T};
+export const mats={ember:[.94,.25,.035,0,.35],steel:[.46,.51,.55, .88,.31],iron:[.13,.16,.19,.85,.48],brass:[.52,.32,.12,.78,.38],wood:[.22,.10,.045,0,.75],leather:[.085,.038,.022,0,.82],cloth:[.10,.16,.19,0,.95],stone:[.30,.31,.29,0,.9],crystal:[.12,.49,.57,.3,.2],ceramic:[.58,.53,.40,0,.35]};
+export function builder(detail=1){const root=new T.Group();let serial=0;const seg=detail===2?32:detail?16:8;
+function mesh(g,mat='steel',pos=[0,0,0],rot=[0,0,0],name){const m=new T.Mesh(g);m.name=name??`${mat}.${serial++}`;m.userData.material=mat;m.position.set(...pos);m.rotation.set(...rot);root.add(m);return m;}
+const box=(s,p,m='steel',r=[0,0,0],n)=>{const bevel=Math.min(...s)*.12;const g=new T.BoxGeometry(...s,2,2,2),pos=g.attributes.position;for(let i=0;i<pos.count;i++){const v=new T.Vector3().fromBufferAttribute(pos,i),c=new T.Vector3(...s.map((d,k)=>Math.max(-d/2+bevel,Math.min(d/2-bevel,v.getComponent(k))))),normal=v.clone().sub(c).normalize();v.copy(c).addScaledVector(normal,bevel);pos.setXYZ(i,v.x,v.y,v.z);}g.computeVertexNormals();return mesh(g,m,p,r,n);};
+const cyl=(a,b,h,p,m='steel',r=[0,0,0],n)=>mesh(new T.CylinderGeometry(a,b,h,seg),m,p,r,n);
+const ball=(s,p,m='steel',n)=>{const x=mesh(new T.SphereGeometry(1,seg,Math.ceil(seg*.6)),m,p,undefined,n);x.scale.set(...s);return x;};
+const ring=(r,t,p,m='steel',rot=[0,0,0])=>mesh(new T.TorusGeometry(r,t,8,seg*2),m,p,rot);
+function line(points,r=.01,mat='steel',name){return mesh(new T.TubeGeometry(new T.CatmullRomCurve3(points.map(p=>new T.Vector3(...p))),detail===2?48:detail?24:12,r,detail?8:5,false),mat,[0,0,0],[0,0,0],name);}
+function plate(points,depth=.02,mat='steel',pos=[0,0,0],name){const shape=new T.Shape();shape.moveTo(...points[0]);points.slice(1).forEach(p=>shape.lineTo(...p));shape.closePath();const g=new T.ExtrudeGeometry(shape,{depth,bevelEnabled:true,bevelSize:depth*.25,bevelThickness:depth*.25,bevelSegments:detail?2:1,steps:1});g.translate(0,0,-depth/2);return mesh(g,mat,pos,[0,0,0],name);}
+function blade(length,width,curve=0,y=.18,mat='steel'){const positions=[],uv=[],indices=[];const profile=[[-.5,0],[-.28,.006],[.28,.006],[.5,0],[.28,-.006],[-.28,-.006]],stations=[[0,1],[.12,1],[.72,.78],[.94,.24],[1,.002]];for(const [t,w] of stations)for(const [x,z]of profile){positions.push(x*width*w+curve*t*t,t*length,z*w);uv.push(x+.5,t);}for(let j=0;j<stations.length-1;j++)for(let i=0;i<6;i++){const a=j*6+i,b=j*6+(i+1)%6,c=a+6,d=b+6;indices.push(a,b,c,b,d,c);}for(let i=1;i<5;i++){indices.push(0,i+1,i);const k=(stations.length-1)*6;indices.push(k,k+i,k+i+1);}const g=new T.BufferGeometry();g.setAttribute('position',new T.Float32BufferAttribute(positions,3));g.setAttribute('uv',new T.Float32BufferAttribute(uv,2));g.setIndex(indices);g.computeVertexNormals();return mesh(g,mat,[0,y,0],[0,0,0],'blade');}
+function handle(len=.23){cyl(.022,.025,len,[0,len/2,0],'leather');for(let i=0;i<9;i++)ring(.023,.003,[0,.015+i*len/9,0],'brass',[Math.PI/2,0,0]);ball([.032,.025,.032],[0,-.01,0],'brass');}
+function rivets(points,r=.007){points.forEach(p=>ball([r,r,r*.5],p,'brass'));}
+function socket(name,p){const n=new T.Object3D();n.name=name;n.position.set(...p);root.add(n);}
+return {root,mesh,box,cyl,ball,ring,line,plate,blade,handle,rivets,socket,detail};}

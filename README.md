@@ -21,6 +21,7 @@ Deploy the generated `dist/` folder to any static host, or use Vercel's Vite pre
 - All 75 weapon briefs, 60 armor candidates and 460 supplementary production slots, preserving the supplied IDs and data.
 - Search, family filtering, pagination and selected-item inspection across the complete catalog.
 - Self-contained GLB import (50 MB limit), structural inspection and SHA-256 hashing. External resources are rejected.
+- Bundled authored models with SHA-256 checks and downloads. Native Three.js asset factory for host games.
 - Three.js PBR preview with orbit/zoom, environment lighting, camera fitting and playback of the first embedded animation. GPU resources are disposed when changing assets.
 - IndexedDB asset persistence, local production notes and provenance, license, integration, visual-review and test-evidence fields.
 - Evidence-derived production stages and JSON exports for the whole manifest or selected brief. Exports include metadata, not GLB bytes; preserve original binaries separately. Local edits are browser-local, not automatically pushed to GitHub.
@@ -29,9 +30,11 @@ Deploy the generated `dist/` folder to any static host, or use Vercel's Vite pre
 
 ## Content status
 
-**595 records; 0 approved shipping assets.** The attached ZIP contains briefs and planning slots, no models, source geometry, textures, animations, audio, or approved references. This application does not invent substitute art or mark those slots complete. Importing a GLB does not certify its appearance, sockets, gameplay or engine parity. Stages are based on the evidence the operator records; they are not independent verification.
+**595 authored assets are included:** 75 weapons, 60 armor pieces, 100 interactive props, 120 environment props, 100 PBR material swatches, 50 attachments, 60 construction modules and 30 animated mechanisms. Weapons include 150 additional LOD exports. The material library includes 300 PNG maps.
 
-The full art-production definition of done in `agent/AGENT_TASK.md` remains outstanding: individual editable sources and licensed references, approved PBR GLBs, animation/sweep authoring, all 23 elemental integrations, both-engine captures, and physical Steam Deck testing. The Forge workspace is implemented; the 595-asset production program is not complete.
+Every asset has editable Three.js authoring code, a per-record source recipe, a self-contained GLB, hashes, measured bounds and mesh statistics. Models load automatically in the inspector. Use `createArsenalAsset(id)` from `src/asset-factory.mjs` to build them directly in a Three.js game without fetching GLBs. See [the asset guide](docs/GENERATED_ASSETS.md) and [provenance](ASSET_PROVENANCE.md).
+
+These assets are at the **authored** stage, with no automatic shipping-art approval. Armor remains rigid and needs character rig fitting. Attack sweeps, host combat/element integration, visual signoff and actual Steam Deck performance remain outstanding. Supplementary slot designs are proposed and use explicitly documented construction variants.
 
 ## Integration
 
@@ -39,4 +42,4 @@ See `docs/SOURCE_AUDIT.md` for current upstream findings. Original supplied inst
 
 ## Verification
 
-`npm test` covers catalog conservation, evidence gates, export isolation, malformed GLBs, vectors, deduplication and surface sampling. `npm run validate` writes the baseline `data/manifest.json` (all missing) from source records. Browser checks require `npx playwright install chromium`, then run `node tools/browser-check.mjs` (it starts its own local server). QA screenshots are under `docs/evidence/`.
+`npm test` covers catalog conservation, evidence gates, export isolation, malformed GLBs, vectors, deduplication and surface sampling. `npm run validate` writes `data/manifest.json` from source records and bundled asset evidence. Browser checks require `npx playwright install chromium`, then run `node tools/browser-check.mjs` (it starts its own local server). QA screenshots are under `docs/evidence/`.
