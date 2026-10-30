@@ -1,0 +1,2649 @@
+{
+  "scope": "Three.js import, studio still, and animation sampling; not art approval or gameplay certification",
+  "assets": [
+    {
+      "id": "arsenal:armor/helmet/01",
+      "path": "assets/armor/helmet/01.glb",
+      "preview": "assets/previews/arsenal-armor-helmet-01.webp",
+      "bounds": {
+        "min": [
+          -0.12478521466255188,
+          0.031027717515826225,
+          -0.16106794774532318
+        ],
+        "max": [
+          0.12469721585512161,
+          0.28999999165534973,
+          0.16921529173851013
+        ]
+      },
+      "dimensionsMeters": [
+        0.2494824305176735,
+        0.2589722741395235,
+        0.3302832394838333
+      ],
+      "triangles": 19402,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/helmet/01",
+        "hammered plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "recess and lining",
+        "attach.helmet"
+      ],
+      "meshNames": [
+        "hammered_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "recess_and_lining"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/helmet/02",
+      "path": "assets/armor/helmet/02.glb",
+      "preview": "assets/previews/arsenal-armor-helmet-02.webp",
+      "bounds": {
+        "min": [
+          -0.1314016729593277,
+          -0.02262091636657715,
+          -0.1469470113515854
+        ],
+        "max": [
+          0.13137781620025635,
+          0.3700000047683716,
+          0.13838379085063934
+        ]
+      },
+      "dimensionsMeters": [
+        0.26277948915958405,
+        0.39262092113494873,
+        0.28533080220222473
+      ],
+      "triangles": 26920,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/helmet/02",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "oiled strap leather",
+        "woven wool",
+        "attach.helmet"
+      ],
+      "meshNames": [
+        "blackened_lamellar_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "oiled_strap_leather",
+        "woven_wool"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/helmet/03",
+      "path": "assets/armor/helmet/03.glb",
+      "preview": "assets/previews/arsenal-armor-helmet-03.webp",
+      "bounds": {
+        "min": [
+          -0.11992500722408295,
+          -0.027564866468310356,
+          -0.1388900727033615
+        ],
+        "max": [
+          0.11992500722408295,
+          0.2841910421848297,
+          0.1343815177679062
+        ]
+      },
+      "dimensionsMeters": [
+        0.2398500144481659,
+        0.31175590865314007,
+        0.2732715904712677
+      ],
+      "triangles": 21482,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/helmet/03",
+        "tanned leather",
+        "oiled strap leather",
+        "quilted linen lining",
+        "waxed linen thread",
+        "weathered plate",
+        "aged alloy edge",
+        "attach.helmet"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "quilted_linen_lining",
+        "waxed_linen_thread",
+        "weathered_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/helmet/04",
+      "path": "assets/armor/helmet/04.glb",
+      "preview": "assets/previews/arsenal-armor-helmet-04.webp",
+      "bounds": {
+        "min": [
+          -0.12889358401298523,
+          0.02086827903985977,
+          -0.14411133527755737
+        ],
+        "max": [
+          0.12881191074848175,
+          0.32137107849121094,
+          0.19191306829452515
+        ]
+      },
+      "dimensionsMeters": [
+        0.257705494761467,
+        0.30050279945135117,
+        0.3360244035720825
+      ],
+      "triangles": 25382,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/helmet/04",
+        "polished fluted plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "recess and lining",
+        "oiled strap leather",
+        "attach.helmet"
+      ],
+      "meshNames": [
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/helmet/05",
+      "path": "assets/armor/helmet/05.glb",
+      "preview": "assets/previews/arsenal-armor-helmet-05.webp",
+      "bounds": {
+        "min": [
+          -0.14277157187461853,
+          -0.02777797542512417,
+          -0.17112067341804504
+        ],
+        "max": [
+          0.14277157187461853,
+          0.39980843663215637,
+          0.13544373214244843
+        ]
+      },
+      "dimensionsMeters": [
+        0.28554314374923706,
+        0.42758641205728054,
+        0.30656440556049347
+      ],
+      "triangles": 22412,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/helmet/05",
+        "blued scale plate",
+        "gilded alloy",
+        "quilted linen lining",
+        "oiled strap leather",
+        "woven wool",
+        "attach.helmet"
+      ],
+      "meshNames": [
+        "blued_scale_plate",
+        "gilded_alloy",
+        "quilted_linen_lining",
+        "oiled_strap_leather",
+        "woven_wool"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/chest/01",
+      "path": "assets/armor/chest/01.glb",
+      "preview": "assets/previews/arsenal-armor-chest-01.webp",
+      "bounds": {
+        "min": [
+          -0.19606263935565948,
+          -0.10971184074878693,
+          -0.11967021226882935
+        ],
+        "max": [
+          0.19606263935565948,
+          0.5368218421936035,
+          0.1653079390525818
+        ]
+      },
+      "dimensionsMeters": [
+        0.39212527871131897,
+        0.6465336829423904,
+        0.28497815132141113
+      ],
+      "triangles": 26179,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/chest/01",
+        "quilted linen lining",
+        "recess and lining",
+        "hammered plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.chest"
+      ],
+      "meshNames": [
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "hammered_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/chest/02",
+      "path": "assets/armor/chest/02.glb",
+      "preview": "assets/previews/arsenal-armor-chest-02.webp",
+      "bounds": {
+        "min": [
+          -0.1962861716747284,
+          -0.10971181094646454,
+          -0.11967021226882935
+        ],
+        "max": [
+          0.1962861716747284,
+          0.5369114875793457,
+          0.1474110335111618
+        ]
+      },
+      "dimensionsMeters": [
+        0.3925723433494568,
+        0.6466232985258102,
+        0.26708124577999115
+      ],
+      "triangles": 48630,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/chest/02",
+        "quilted linen lining",
+        "recess and lining",
+        "oiled strap leather",
+        "aged alloy edge",
+        "blackened lamellar plate",
+        "woven wool",
+        "attach.chest"
+      ],
+      "meshNames": [
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "blackened_lamellar_plate",
+        "woven_wool"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/chest/03",
+      "path": "assets/armor/chest/03.glb",
+      "preview": "assets/previews/arsenal-armor-chest-03.webp",
+      "bounds": {
+        "min": [
+          -0.19606319069862366,
+          -0.10971181839704514,
+          -0.11967021226882935
+        ],
+        "max": [
+          0.19606319069862366,
+          0.5369052290916443,
+          0.1575452834367752
+        ]
+      },
+      "dimensionsMeters": [
+        0.3921263813972473,
+        0.6466170474886894,
+        0.27721549570560455
+      ],
+      "triangles": 34221,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/chest/03",
+        "quilted linen lining",
+        "recess and lining",
+        "tanned leather",
+        "oiled strap leather",
+        "aged alloy edge",
+        "waxed linen thread",
+        "weathered plate",
+        "attach.chest"
+      ],
+      "meshNames": [
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "tanned_leather",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "waxed_linen_thread",
+        "weathered_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/chest/04",
+      "path": "assets/armor/chest/04.glb",
+      "preview": "assets/previews/arsenal-armor-chest-04.webp",
+      "bounds": {
+        "min": [
+          -0.19606250524520874,
+          -0.14571185410022736,
+          -0.11967021226882935
+        ],
+        "max": [
+          0.19606250524520874,
+          0.5368308424949646,
+          0.18209686875343323
+        ]
+      },
+      "dimensionsMeters": [
+        0.3921250104904175,
+        0.682542696595192,
+        0.3017670810222626
+      ],
+      "triangles": 32075,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/chest/04",
+        "quilted linen lining",
+        "recess and lining",
+        "polished fluted plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.chest"
+      ],
+      "meshNames": [
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/chest/05",
+      "path": "assets/armor/chest/05.glb",
+      "preview": "assets/previews/arsenal-armor-chest-05.webp",
+      "bounds": {
+        "min": [
+          -0.19606274366378784,
+          -0.10971183329820633,
+          -0.11967021226882935
+        ],
+        "max": [
+          0.19606274366378784,
+          0.5368191003799438,
+          0.1841460019350052
+        ]
+      },
+      "dimensionsMeters": [
+        0.3921254873275757,
+        0.6465309336781502,
+        0.30381621420383453
+      ],
+      "triangles": 39823,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/chest/05",
+        "quilted linen lining",
+        "recess and lining",
+        "blued scale plate",
+        "gilded alloy",
+        "oiled strap leather",
+        "polished cabochon stone",
+        "attach.chest"
+      ],
+      "meshNames": [
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "blued_scale_plate",
+        "gilded_alloy",
+        "oiled_strap_leather",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/shoulder/01",
+      "path": "assets/armor/shoulder/01.glb",
+      "preview": "assets/previews/arsenal-armor-shoulder-01.webp",
+      "bounds": {
+        "min": [
+          -0.07975000143051147,
+          0.01390073262155056,
+          -0.12417811900377274
+        ],
+        "max": [
+          0.11613637953996658,
+          0.28086909651756287,
+          0.12417811900377274
+        ]
+      },
+      "dimensionsMeters": [
+        0.19588638097047806,
+        0.2669683638960123,
+        0.24835623800754547
+      ],
+      "triangles": 13075,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/shoulder/01",
+        "hammered plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.shoulder"
+      ],
+      "meshNames": [
+        "hammered_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/shoulder/02",
+      "path": "assets/armor/shoulder/02.glb",
+      "preview": "assets/previews/arsenal-armor-shoulder-02.webp",
+      "bounds": {
+        "min": [
+          -0.07975000143051147,
+          0.01390073262155056,
+          -0.1275281310081482
+        ],
+        "max": [
+          0.11971069872379303,
+          0.28086909651756287,
+          0.1275281310081482
+        ]
+      },
+      "dimensionsMeters": [
+        0.1994607001543045,
+        0.2669683638960123,
+        0.2550562620162964
+      ],
+      "triangles": 21644,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/shoulder/02",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "woven wool",
+        "attach.shoulder"
+      ],
+      "meshNames": [
+        "blackened_lamellar_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather",
+        "woven_wool"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/shoulder/03",
+      "path": "assets/armor/shoulder/03.glb",
+      "preview": "assets/previews/arsenal-armor-shoulder-03.webp",
+      "bounds": {
+        "min": [
+          -0.07975000143051147,
+          0.04788382351398468,
+          -0.12075386196374893
+        ],
+        "max": [
+          0.1128687635064125,
+          0.28086909651756287,
+          0.12075386196374893
+        ]
+      },
+      "dimensionsMeters": [
+        0.19261876493692398,
+        0.23298527300357819,
+        0.24150772392749786
+      ],
+      "triangles": 14771,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/shoulder/03",
+        "tanned leather",
+        "oiled strap leather",
+        "aged alloy edge",
+        "waxed linen thread",
+        "weathered plate",
+        "attach.shoulder"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "waxed_linen_thread",
+        "weathered_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/shoulder/04",
+      "path": "assets/armor/shoulder/04.glb",
+      "preview": "assets/previews/arsenal-armor-shoulder-04.webp",
+      "bounds": {
+        "min": [
+          -0.07975000143051147,
+          -0.020128434523940086,
+          -0.1298554241657257
+        ],
+        "max": [
+          0.12145521491765976,
+          0.3323499262332916,
+          0.1298554241657257
+        ]
+      },
+      "dimensionsMeters": [
+        0.20120521634817123,
+        0.3524783607572317,
+        0.2597108483314514
+      ],
+      "triangles": 16005,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/shoulder/04",
+        "polished fluted plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.shoulder"
+      ],
+      "meshNames": [
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/shoulder/05",
+      "path": "assets/armor/shoulder/05.glb",
+      "preview": "assets/previews/arsenal-armor-shoulder-05.webp",
+      "bounds": {
+        "min": [
+          -0.07975000143051147,
+          0.01390073262155056,
+          -0.12417811900377274
+        ],
+        "max": [
+          0.11613637953996658,
+          0.3323499262332916,
+          0.12417811900377274
+        ]
+      },
+      "dimensionsMeters": [
+        0.19588638097047806,
+        0.31844919361174107,
+        0.24835623800754547
+      ],
+      "triangles": 19797,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/shoulder/05",
+        "oiled strap leather",
+        "gilded alloy",
+        "blued scale plate",
+        "attach.shoulder"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "gilded_alloy",
+        "blued_scale_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/arm/01",
+      "path": "assets/armor/arm/01.glb",
+      "preview": "assets/previews/arsenal-armor-arm-01.webp",
+      "bounds": {
+        "min": [
+          -0.07503575086593628,
+          -0.010554185137152672,
+          -0.0777520015835762
+        ],
+        "max": [
+          0.0751144215464592,
+          0.43332499265670776,
+          0.076042041182518
+        ]
+      },
+      "dimensionsMeters": [
+        0.15015017241239548,
+        0.44387917779386044,
+        0.1537940427660942
+      ],
+      "triangles": 19993,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/arm/01",
+        "hammered plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "oiled strap leather",
+        "attach.arm"
+      ],
+      "meshNames": [
+        "hammered_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/arm/02",
+      "path": "assets/armor/arm/02.glb",
+      "preview": "assets/previews/arsenal-armor-arm-02.webp",
+      "bounds": {
+        "min": [
+          -0.07503575086593628,
+          -0.010554185137152672,
+          -0.0777520015835762
+        ],
+        "max": [
+          0.0751144215464592,
+          0.43332499265670776,
+          0.076042041182518
+        ]
+      },
+      "dimensionsMeters": [
+        0.15015017241239548,
+        0.44387917779386044,
+        0.1537940427660942
+      ],
+      "triangles": 21981,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/arm/02",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "oiled strap leather",
+        "attach.arm"
+      ],
+      "meshNames": [
+        "blackened_lamellar_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/arm/03",
+      "path": "assets/armor/arm/03.glb",
+      "preview": "assets/previews/arsenal-armor-arm-03.webp",
+      "bounds": {
+        "min": [
+          -0.07293595373630524,
+          -0.010554185137152672,
+          -0.07601641118526459
+        ],
+        "max": [
+          0.07499726116657257,
+          0.4152306318283081,
+          0.076042041182518
+        ]
+      },
+      "dimensionsMeters": [
+        0.1479332149028778,
+        0.4257848169654608,
+        0.1520584523677826
+      ],
+      "triangles": 24387,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/arm/03",
+        "tanned leather",
+        "oiled strap leather",
+        "quilted linen lining",
+        "aged alloy edge",
+        "waxed linen thread",
+        "weathered plate",
+        "attach.arm"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "quilted_linen_lining",
+        "aged_alloy_edge",
+        "waxed_linen_thread",
+        "weathered_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/arm/04",
+      "path": "assets/armor/arm/04.glb",
+      "preview": "assets/previews/arsenal-armor-arm-04.webp",
+      "bounds": {
+        "min": [
+          -0.0768948420882225,
+          -0.010554185137152672,
+          -0.0777520015835762
+        ],
+        "max": [
+          0.07503018528223038,
+          0.43332499265670776,
+          0.07684384286403656
+        ]
+      },
+      "dimensionsMeters": [
+        0.15192502737045288,
+        0.44387917779386044,
+        0.15459584444761276
+      ],
+      "triangles": 19869,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/arm/04",
+        "polished fluted plate",
+        "aged alloy edge",
+        "quilted linen lining",
+        "oiled strap leather",
+        "attach.arm"
+      ],
+      "meshNames": [
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/arm/05",
+      "path": "assets/armor/arm/05.glb",
+      "preview": "assets/previews/arsenal-armor-arm-05.webp",
+      "bounds": {
+        "min": [
+          -0.07503575086593628,
+          -0.010554185137152672,
+          -0.0777520015835762
+        ],
+        "max": [
+          0.0751144215464592,
+          0.43332499265670776,
+          0.076042041182518
+        ]
+      },
+      "dimensionsMeters": [
+        0.15015017241239548,
+        0.44387917779386044,
+        0.1537940427660942
+      ],
+      "triangles": 24345,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/arm/05",
+        "blued scale plate",
+        "gilded alloy",
+        "quilted linen lining",
+        "oiled strap leather",
+        "attach.arm"
+      ],
+      "meshNames": [
+        "blued_scale_plate",
+        "gilded_alloy",
+        "quilted_linen_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/glove/01",
+      "path": "assets/armor/glove/01.glb",
+      "preview": "assets/previews/arsenal-armor-glove-01.webp",
+      "bounds": {
+        "min": [
+          -0.09946757555007935,
+          -0.03995519503951073,
+          -0.05302145704627037
+        ],
+        "max": [
+          0.06732974946498871,
+          0.2632339894771576,
+          0.05342137813568115
+        ]
+      },
+      "dimensionsMeters": [
+        0.16679732501506805,
+        0.3031891845166683,
+        0.10644283518195152
+      ],
+      "triangles": 16070,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/glove/01",
+        "tanned leather",
+        "hammered plate",
+        "aged alloy edge",
+        "attach.glove"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "hammered_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/glove/02",
+      "path": "assets/armor/glove/02.glb",
+      "preview": "assets/previews/arsenal-armor-glove-02.webp",
+      "bounds": {
+        "min": [
+          -0.09946757555007935,
+          -0.03995519503951073,
+          -0.053020868450403214
+        ],
+        "max": [
+          0.06732950359582901,
+          0.26323381066322327,
+          0.0534215047955513
+        ]
+      },
+      "dimensionsMeters": [
+        0.16679707914590836,
+        0.303189005702734,
+        0.10644237324595451
+      ],
+      "triangles": 17262,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/glove/02",
+        "tanned leather",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "attach.glove"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "blackened_lamellar_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/glove/03",
+      "path": "assets/armor/glove/03.glb",
+      "preview": "assets/previews/arsenal-armor-glove-03.webp",
+      "bounds": {
+        "min": [
+          -0.09946757555007935,
+          -0.03995519503951073,
+          -0.05302145704627037
+        ],
+        "max": [
+          0.06732974946498871,
+          0.2632339894771576,
+          0.05357162281870842
+        ]
+      },
+      "dimensionsMeters": [
+        0.16679732501506805,
+        0.3031891845166683,
+        0.10659307986497879
+      ],
+      "triangles": 14546,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/glove/03",
+        "tanned leather",
+        "waxed linen thread",
+        "oiled strap leather",
+        "weathered plate",
+        "aged alloy edge",
+        "attach.glove"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "waxed_linen_thread",
+        "oiled_strap_leather",
+        "weathered_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/glove/04",
+      "path": "assets/armor/glove/04.glb",
+      "preview": "assets/previews/arsenal-armor-glove-04.webp",
+      "bounds": {
+        "min": [
+          -0.09946757555007935,
+          -0.03995519503951073,
+          -0.05536368116736412
+        ],
+        "max": [
+          0.06680195778608322,
+          0.290067583322525,
+          0.055817048996686935
+        ]
+      },
+      "dimensionsMeters": [
+        0.16626953333616257,
+        0.33002277836203575,
+        0.11118073016405106
+      ],
+      "triangles": 16118,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/glove/04",
+        "tanned leather",
+        "polished fluted plate",
+        "aged alloy edge",
+        "attach.glove"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "polished_fluted_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/glove/05",
+      "path": "assets/armor/glove/05.glb",
+      "preview": "assets/previews/arsenal-armor-glove-05.webp",
+      "bounds": {
+        "min": [
+          -0.09946757555007935,
+          -0.03995519503951073,
+          -0.053020868450403214
+        ],
+        "max": [
+          0.06783236563205719,
+          0.26323381066322327,
+          0.05471238121390343
+        ]
+      },
+      "dimensionsMeters": [
+        0.16729994118213654,
+        0.303189005702734,
+        0.10773324966430664
+      ],
+      "triangles": 20758,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/glove/05",
+        "tanned leather",
+        "blued scale plate",
+        "gilded alloy",
+        "attach.glove"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "blued_scale_plate",
+        "gilded_alloy"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/belt/01",
+      "path": "assets/armor/belt/01.glb",
+      "preview": "assets/previews/arsenal-armor-belt-01.webp",
+      "bounds": {
+        "min": [
+          -0.22609281539916992,
+          -0.03999999910593033,
+          -0.13649991154670715
+        ],
+        "max": [
+          0.23062211275100708,
+          0.0648237019777298,
+          0.15043936669826508
+        ]
+      },
+      "dimensionsMeters": [
+        0.456714928150177,
+        0.10482370108366013,
+        0.28693927824497223
+      ],
+      "triangles": 15966,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/belt/01",
+        "tanned leather",
+        "oiled strap leather",
+        "waxed linen thread",
+        "aged alloy edge",
+        "recess and lining",
+        "attach.belt"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "aged_alloy_edge",
+        "recess_and_lining"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/belt/02",
+      "path": "assets/armor/belt/02.glb",
+      "preview": "assets/previews/arsenal-armor-belt-02.webp",
+      "bounds": {
+        "min": [
+          -0.22609281539916992,
+          -0.18748503923416138,
+          -0.13649991154670715
+        ],
+        "max": [
+          0.23062211275100708,
+          0.0648237019777298,
+          0.15455281734466553
+        ]
+      },
+      "dimensionsMeters": [
+        0.456714928150177,
+        0.2523087412118912,
+        0.2910527288913727
+      ],
+      "triangles": 23042,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/belt/02",
+        "tanned leather",
+        "oiled strap leather",
+        "waxed linen thread",
+        "aged alloy edge",
+        "recess and lining",
+        "blackened lamellar plate",
+        "attach.belt"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "aged_alloy_edge",
+        "recess_and_lining",
+        "blackened_lamellar_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/belt/03",
+      "path": "assets/armor/belt/03.glb",
+      "preview": "assets/previews/arsenal-armor-belt-03.webp",
+      "bounds": {
+        "min": [
+          -0.22609281539916992,
+          -0.1950802057981491,
+          -0.13649991154670715
+        ],
+        "max": [
+          0.23062211275100708,
+          0.09122796356678009,
+          0.15043936669826508
+        ]
+      },
+      "dimensionsMeters": [
+        0.456714928150177,
+        0.2863081693649292,
+        0.28693927824497223
+      ],
+      "triangles": 16994,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/belt/03",
+        "tanned leather",
+        "oiled strap leather",
+        "waxed linen thread",
+        "aged alloy edge",
+        "recess and lining",
+        "attach.belt"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "aged_alloy_edge",
+        "recess_and_lining"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/belt/04",
+      "path": "assets/armor/belt/04.glb",
+      "preview": "assets/previews/arsenal-armor-belt-04.webp",
+      "bounds": {
+        "min": [
+          -0.22505079209804535,
+          -0.029999999329447746,
+          -0.14434050023555756
+        ],
+        "max": [
+          0.2029840052127838,
+          0.06482475996017456,
+          0.15043936669826508
+        ]
+      },
+      "dimensionsMeters": [
+        0.42803479731082916,
+        0.0948247592896223,
+        0.29477986693382263
+      ],
+      "triangles": 19667,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/belt/04",
+        "oiled strap leather",
+        "waxed linen thread",
+        "aged alloy edge",
+        "tanned leather",
+        "recess and lining",
+        "polished fluted plate",
+        "attach.belt"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "aged_alloy_edge",
+        "tanned_leather",
+        "recess_and_lining",
+        "polished_fluted_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/belt/05",
+      "path": "assets/armor/belt/05.glb",
+      "preview": "assets/previews/arsenal-armor-belt-05.webp",
+      "bounds": {
+        "min": [
+          -0.22609281539916992,
+          -0.18748503923416138,
+          -0.14099125564098358
+        ],
+        "max": [
+          0.23062211275100708,
+          0.0648237019777298,
+          0.15455281734466553
+        ]
+      },
+      "dimensionsMeters": [
+        0.456714928150177,
+        0.2523087412118912,
+        0.2955440729856491
+      ],
+      "triangles": 24944,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/belt/05",
+        "tanned leather",
+        "oiled strap leather",
+        "waxed linen thread",
+        "gilded alloy",
+        "recess and lining",
+        "blued scale plate",
+        "polished cabochon stone",
+        "attach.belt"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "gilded_alloy",
+        "recess_and_lining",
+        "blued_scale_plate",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/legs/01",
+      "path": "assets/armor/legs/01.glb",
+      "preview": "assets/previews/arsenal-armor-legs-01.webp",
+      "bounds": {
+        "min": [
+          -0.2101585566997528,
+          0.02628176473081112,
+          -0.09729320555925369
+        ],
+        "max": [
+          0.2101585566997528,
+          0.8405153751373291,
+          0.10121097415685654
+        ]
+      },
+      "dimensionsMeters": [
+        0.4203171133995056,
+        0.814233610406518,
+        0.19850417971611023
+      ],
+      "triangles": 35650,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/legs/01",
+        "hammered plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.legs"
+      ],
+      "meshNames": [
+        "hammered_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/legs/02",
+      "path": "assets/armor/legs/02.glb",
+      "preview": "assets/previews/arsenal-armor-legs-02.webp",
+      "bounds": {
+        "min": [
+          -0.2101585566997528,
+          0.02628176473081112,
+          -0.09729320555925369
+        ],
+        "max": [
+          0.2101585566997528,
+          0.8405153751373291,
+          0.10121097415685654
+        ]
+      },
+      "dimensionsMeters": [
+        0.4203171133995056,
+        0.814233610406518,
+        0.19850417971611023
+      ],
+      "triangles": 43252,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/legs/02",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.legs"
+      ],
+      "meshNames": [
+        "blackened_lamellar_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/legs/03",
+      "path": "assets/armor/legs/03.glb",
+      "preview": "assets/previews/arsenal-armor-legs-03.webp",
+      "bounds": {
+        "min": [
+          -0.2101585566997528,
+          0.02628176473081112,
+          -0.09729320555925369
+        ],
+        "max": [
+          0.2101585566997528,
+          0.8405153751373291,
+          0.10147891938686371
+        ]
+      },
+      "dimensionsMeters": [
+        0.4203171133995056,
+        0.814233610406518,
+        0.1987721249461174
+      ],
+      "triangles": 42178,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/legs/03",
+        "tanned leather",
+        "oiled strap leather",
+        "aged alloy edge",
+        "weathered plate",
+        "waxed linen thread",
+        "quilted linen lining",
+        "attach.legs"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "weathered_plate",
+        "waxed_linen_thread",
+        "quilted_linen_lining"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/legs/04",
+      "path": "assets/armor/legs/04.glb",
+      "preview": "assets/previews/arsenal-armor-legs-04.webp",
+      "bounds": {
+        "min": [
+          -0.2101585566997528,
+          0.02628176473081112,
+          -0.09729320555925369
+        ],
+        "max": [
+          0.2101585566997528,
+          0.8405153751373291,
+          0.10121097415685654
+        ]
+      },
+      "dimensionsMeters": [
+        0.4203171133995056,
+        0.814233610406518,
+        0.19850417971611023
+      ],
+      "triangles": 34978,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/legs/04",
+        "polished fluted plate",
+        "aged alloy edge",
+        "oiled strap leather",
+        "attach.legs"
+      ],
+      "meshNames": [
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/legs/05",
+      "path": "assets/armor/legs/05.glb",
+      "preview": "assets/previews/arsenal-armor-legs-05.webp",
+      "bounds": {
+        "min": [
+          -0.2101585566997528,
+          0.02628176473081112,
+          -0.09729320555925369
+        ],
+        "max": [
+          0.2101585566997528,
+          0.8405153751373291,
+          0.10121097415685654
+        ]
+      },
+      "dimensionsMeters": [
+        0.4203171133995056,
+        0.814233610406518,
+        0.19850417971611023
+      ],
+      "triangles": 46410,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/legs/05",
+        "blued scale plate",
+        "gilded alloy",
+        "oiled strap leather",
+        "attach.legs"
+      ],
+      "meshNames": [
+        "blued_scale_plate",
+        "gilded_alloy",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/boot/01",
+      "path": "assets/armor/boot/01.glb",
+      "preview": "assets/previews/arsenal-armor-boot-01.webp",
+      "bounds": {
+        "min": [
+          -0.05451301112771034,
+          -1.3038513844987332e-11,
+          -0.07636846601963043
+        ],
+        "max": [
+          0.05451301112771034,
+          0.3198840916156769,
+          0.20208892226219177
+        ]
+      },
+      "dimensionsMeters": [
+        0.10902602225542068,
+        0.3198840916287154,
+        0.2784573882818222
+      ],
+      "triangles": 20884,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/boot/01",
+        "oiled strap leather",
+        "recess and lining",
+        "tanned leather",
+        "quilted linen lining",
+        "hammered plate",
+        "aged alloy edge",
+        "attach.boot"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "recess_and_lining",
+        "tanned_leather",
+        "quilted_linen_lining",
+        "hammered_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/boot/02",
+      "path": "assets/armor/boot/02.glb",
+      "preview": "assets/previews/arsenal-armor-boot-02.webp",
+      "bounds": {
+        "min": [
+          -0.05451301112771034,
+          -1.3038513844987332e-11,
+          -0.07636846601963043
+        ],
+        "max": [
+          0.05451301112771034,
+          0.3198840916156769,
+          0.20208892226219177
+        ]
+      },
+      "dimensionsMeters": [
+        0.10902602225542068,
+        0.3198840916287154,
+        0.2784573882818222
+      ],
+      "triangles": 23140,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/boot/02",
+        "oiled strap leather",
+        "recess and lining",
+        "tanned leather",
+        "quilted linen lining",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "attach.boot"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "recess_and_lining",
+        "tanned_leather",
+        "quilted_linen_lining",
+        "blackened_lamellar_plate",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/boot/03",
+      "path": "assets/armor/boot/03.glb",
+      "preview": "assets/previews/arsenal-armor-boot-03.webp",
+      "bounds": {
+        "min": [
+          -0.058691009879112244,
+          -1.3038513844987332e-11,
+          -0.07893696427345276
+        ],
+        "max": [
+          0.058691009879112244,
+          0.3198840916156769,
+          0.20208892226219177
+        ]
+      },
+      "dimensionsMeters": [
+        0.11738201975822449,
+        0.3198840916287154,
+        0.28102588653564453
+      ],
+      "triangles": 18758,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/boot/03",
+        "oiled strap leather",
+        "recess and lining",
+        "tanned leather",
+        "quilted linen lining",
+        "waxed linen thread",
+        "aged alloy edge",
+        "attach.boot"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "recess_and_lining",
+        "tanned_leather",
+        "quilted_linen_lining",
+        "waxed_linen_thread",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/boot/04",
+      "path": "assets/armor/boot/04.glb",
+      "preview": "assets/previews/arsenal-armor-boot-04.webp",
+      "bounds": {
+        "min": [
+          -0.054629094898700714,
+          -1.3038513844987332e-11,
+          -0.12871494889259338
+        ],
+        "max": [
+          0.05462954193353653,
+          0.28990182280540466,
+          0.20208892226219177
+        ]
+      },
+      "dimensionsMeters": [
+        0.10925863683223724,
+        0.2899018228184432,
+        0.33080387115478516
+      ],
+      "triangles": 25064,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/boot/04",
+        "oiled strap leather",
+        "recess and lining",
+        "tanned leather",
+        "aged alloy edge",
+        "quilted linen lining",
+        "polished fluted plate",
+        "attach.boot"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "recess_and_lining",
+        "tanned_leather",
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "polished_fluted_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/boot/05",
+      "path": "assets/armor/boot/05.glb",
+      "preview": "assets/previews/arsenal-armor-boot-05.webp",
+      "bounds": {
+        "min": [
+          -0.05451301112771034,
+          -1.3038513844987332e-11,
+          -0.07636846601963043
+        ],
+        "max": [
+          0.05451301112771034,
+          0.3198840916156769,
+          0.20208892226219177
+        ]
+      },
+      "dimensionsMeters": [
+        0.10902602225542068,
+        0.3198840916287154,
+        0.2784573882818222
+      ],
+      "triangles": 27952,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/boot/05",
+        "oiled strap leather",
+        "recess and lining",
+        "tanned leather",
+        "quilted linen lining",
+        "blued scale plate",
+        "gilded alloy",
+        "attach.boot"
+      ],
+      "meshNames": [
+        "oiled_strap_leather",
+        "recess_and_lining",
+        "tanned_leather",
+        "quilted_linen_lining",
+        "blued_scale_plate",
+        "gilded_alloy"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/cloak/01",
+      "path": "assets/armor/cloak/01.glb",
+      "preview": "assets/previews/arsenal-armor-cloak-01.webp",
+      "bounds": {
+        "min": [
+          -0.43166109919548035,
+          -0.04341543838381767,
+          -0.31458234786987305
+        ],
+        "max": [
+          0.41847461462020874,
+          1.0245000123977661,
+          0.20117618143558502
+        ]
+      },
+      "dimensionsMeters": [
+        0.8501357138156891,
+        1.0679154507815838,
+        0.5157585293054581
+      ],
+      "triangles": 21906,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/cloak/01",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "aged alloy edge",
+        "attach.cloak"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/cloak/02",
+      "path": "assets/armor/cloak/02.glb",
+      "preview": "assets/previews/arsenal-armor-cloak-02.webp",
+      "bounds": {
+        "min": [
+          -0.4251667261123657,
+          -0.04118572548031807,
+          -0.30608299374580383
+        ],
+        "max": [
+          0.428047239780426,
+          1.1045000553131104,
+          0.20631025731563568
+        ]
+      },
+      "dimensionsMeters": [
+        0.8532139658927917,
+        1.1456857807934284,
+        0.5123932510614395
+      ],
+      "triangles": 34110,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/cloak/02",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "waxed linen thread",
+        "aged alloy edge",
+        "attach.cloak"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/cloak/03",
+      "path": "assets/armor/cloak/03.glb",
+      "preview": "assets/previews/arsenal-armor-cloak-03.webp",
+      "bounds": {
+        "min": [
+          -0.4049721658229828,
+          -0.04156719148159027,
+          -0.3180408477783203
+        ],
+        "max": [
+          0.4369283616542816,
+          1.1799999475479126,
+          0.23135285079479218
+        ]
+      },
+      "dimensionsMeters": [
+        0.8419005274772644,
+        1.2215671390295029,
+        0.5493936985731125
+      ],
+      "triangles": 23876,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/cloak/03",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "attach.cloak"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/cloak/04",
+      "path": "assets/armor/cloak/04.glb",
+      "preview": "assets/previews/arsenal-armor-cloak-04.webp",
+      "bounds": {
+        "min": [
+          -0.42577889561653137,
+          -0.04403700679540634,
+          -0.3269830048084259
+        ],
+        "max": [
+          0.4288844168186188,
+          0.8644999861717224,
+          0.17616373300552368
+        ]
+      },
+      "dimensionsMeters": [
+        0.8546633124351501,
+        0.9085369929671288,
+        0.5031467378139496
+      ],
+      "triangles": 29014,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/cloak/04",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "aged alloy edge",
+        "attach.cloak"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/cloak/05",
+      "path": "assets/armor/cloak/05.glb",
+      "preview": "assets/previews/arsenal-armor-cloak-05.webp",
+      "bounds": {
+        "min": [
+          -0.4260116219520569,
+          -0.04205368459224701,
+          -0.3106880486011505
+        ],
+        "max": [
+          0.4239640533924103,
+          1.2044999599456787,
+          0.2251640409231186
+        ]
+      },
+      "dimensionsMeters": [
+        0.8499756753444672,
+        1.2465536445379257,
+        0.5358520895242691
+      ],
+      "triangles": 34970,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/cloak/05",
+        "woven wool",
+        "brushed wool lining",
+        "gilded alloy",
+        "oiled strap leather",
+        "polished cabochon stone",
+        "attach.cloak"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "gilded_alloy",
+        "oiled_strap_leather",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/mask/01",
+      "path": "assets/armor/mask/01.glb",
+      "preview": "assets/previews/arsenal-armor-mask-01.webp",
+      "bounds": {
+        "min": [
+          -0.08701558411121368,
+          -0.0020187434274703264,
+          -0.03544382005929947
+        ],
+        "max": [
+          0.09114991128444672,
+          0.21750155091285706,
+          0.1079251766204834
+        ]
+      },
+      "dimensionsMeters": [
+        0.1781654953956604,
+        0.21952029434032738,
+        0.14336899667978287
+      ],
+      "triangles": 16424,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/mask/01",
+        "hammered plate",
+        "aged alloy edge",
+        "recess and lining",
+        "oiled strap leather",
+        "attach.mask"
+      ],
+      "meshNames": [
+        "hammered_plate",
+        "aged_alloy_edge",
+        "recess_and_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/mask/02",
+      "path": "assets/armor/mask/02.glb",
+      "preview": "assets/previews/arsenal-armor-mask-02.webp",
+      "bounds": {
+        "min": [
+          -0.08701558411121368,
+          -0.02524297684431076,
+          -0.03544382005929947
+        ],
+        "max": [
+          0.09114991128444672,
+          0.21750415861606598,
+          0.11702027916908264
+        ]
+      },
+      "dimensionsMeters": [
+        0.1781654953956604,
+        0.24274713546037674,
+        0.1524640992283821
+      ],
+      "triangles": 23254,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/mask/02",
+        "blackened lamellar plate",
+        "aged alloy edge",
+        "recess and lining",
+        "oiled strap leather",
+        "woven wool",
+        "attach.mask"
+      ],
+      "meshNames": [
+        "blackened_lamellar_plate",
+        "aged_alloy_edge",
+        "recess_and_lining",
+        "oiled_strap_leather",
+        "woven_wool"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/mask/03",
+      "path": "assets/armor/mask/03.glb",
+      "preview": "assets/previews/arsenal-armor-mask-03.webp",
+      "bounds": {
+        "min": [
+          -0.08701558411121368,
+          -0.007396487984806299,
+          -0.03544382005929947
+        ],
+        "max": [
+          0.09114991128444672,
+          0.12329123169183731,
+          0.10909641534090042
+        ]
+      },
+      "dimensionsMeters": [
+        0.1781654953956604,
+        0.1306877196766436,
+        0.1445402354001999
+      ],
+      "triangles": 16714,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/mask/03",
+        "tanned leather",
+        "oiled strap leather",
+        "aged alloy edge",
+        "recess and lining",
+        "waxed linen thread",
+        "weathered plate",
+        "attach.mask"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "recess_and_lining",
+        "waxed_linen_thread",
+        "weathered_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/mask/04",
+      "path": "assets/armor/mask/04.glb",
+      "preview": "assets/previews/arsenal-armor-mask-04.webp",
+      "bounds": {
+        "min": [
+          -0.08701558411121368,
+          -0.012364499270915985,
+          -0.03544382005929947
+        ],
+        "max": [
+          0.09114991128444672,
+          0.21714772284030914,
+          0.1079799011349678
+        ]
+      },
+      "dimensionsMeters": [
+        0.1781654953956604,
+        0.22951222211122513,
+        0.14342372119426727
+      ],
+      "triangles": 16608,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/mask/04",
+        "polished fluted plate",
+        "aged alloy edge",
+        "recess and lining",
+        "oiled strap leather",
+        "attach.mask"
+      ],
+      "meshNames": [
+        "polished_fluted_plate",
+        "aged_alloy_edge",
+        "recess_and_lining",
+        "oiled_strap_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/mask/05",
+      "path": "assets/armor/mask/05.glb",
+      "preview": "assets/previews/arsenal-armor-mask-05.webp",
+      "bounds": {
+        "min": [
+          -0.08701558411121368,
+          -0.0020195713732391596,
+          -0.03544382005929947
+        ],
+        "max": [
+          0.09114991128444672,
+          0.2350795418024063,
+          0.10792987793684006
+        ]
+      },
+      "dimensionsMeters": [
+        0.1781654953956604,
+        0.23709911317564547,
+        0.14337369799613953
+      ],
+      "triangles": 17084,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/mask/05",
+        "blued scale plate",
+        "gilded alloy",
+        "recess and lining",
+        "oiled strap leather",
+        "polished cabochon stone",
+        "attach.mask"
+      ],
+      "meshNames": [
+        "blued_scale_plate",
+        "gilded_alloy",
+        "recess_and_lining",
+        "oiled_strap_leather",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/robe/01",
+      "path": "assets/armor/robe/01.glb",
+      "preview": "assets/previews/arsenal-armor-robe-01.webp",
+      "bounds": {
+        "min": [
+          -0.4328064024448395,
+          -0.010339485481381416,
+          -0.2522120475769043
+        ],
+        "max": [
+          0.4340435564517975,
+          1.406000018119812,
+          0.2501201331615448
+        ]
+      },
+      "dimensionsMeters": [
+        0.866849958896637,
+        1.4163395036011934,
+        0.5023321807384491
+      ],
+      "triangles": 29640,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/robe/01",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "aged alloy edge",
+        "tanned leather",
+        "attach.robe"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "aged_alloy_edge",
+        "tanned_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/robe/02",
+      "path": "assets/armor/robe/02.glb",
+      "preview": "assets/previews/arsenal-armor-robe-02.webp",
+      "bounds": {
+        "min": [
+          -0.4328064024448395,
+          -0.010427748784422874,
+          -0.24451537430286407
+        ],
+        "max": [
+          0.4340435564517975,
+          1.406000018119812,
+          0.2593449354171753
+        ]
+      },
+      "dimensionsMeters": [
+        0.866849958896637,
+        1.4164277669042349,
+        0.5038603097200394
+      ],
+      "triangles": 43920,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/robe/02",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "waxed linen thread",
+        "tanned leather",
+        "aged alloy edge",
+        "attach.robe"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "waxed_linen_thread",
+        "tanned_leather",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/robe/03",
+      "path": "assets/armor/robe/03.glb",
+      "preview": "assets/previews/arsenal-armor-robe-03.webp",
+      "bounds": {
+        "min": [
+          -0.4328064024448395,
+          -0.010420987382531166,
+          -0.24793867766857147
+        ],
+        "max": [
+          0.4340435564517975,
+          1.406000018119812,
+          0.25767719745635986
+        ]
+      },
+      "dimensionsMeters": [
+        0.866849958896637,
+        1.4164210055023432,
+        0.5056158751249313
+      ],
+      "triangles": 32052,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/robe/03",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "tanned leather",
+        "attach.robe"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "tanned_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/robe/04",
+      "path": "assets/armor/robe/04.glb",
+      "preview": "assets/previews/arsenal-armor-robe-04.webp",
+      "bounds": {
+        "min": [
+          -0.4328064024448395,
+          -0.010226733051240444,
+          -0.25142425298690796
+        ],
+        "max": [
+          0.4340435564517975,
+          1.481358528137207,
+          0.25034743547439575
+        ]
+      },
+      "dimensionsMeters": [
+        0.866849958896637,
+        1.4915852611884475,
+        0.5017716884613037
+      ],
+      "triangles": 31624,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/robe/04",
+        "woven wool",
+        "brushed wool lining",
+        "oiled strap leather",
+        "tanned leather",
+        "aged alloy edge",
+        "attach.robe"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "oiled_strap_leather",
+        "tanned_leather",
+        "aged_alloy_edge"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/robe/05",
+      "path": "assets/armor/robe/05.glb",
+      "preview": "assets/previews/arsenal-armor-robe-05.webp",
+      "bounds": {
+        "min": [
+          -0.4328064024448395,
+          -0.010412543080747128,
+          -0.25678497552871704
+        ],
+        "max": [
+          0.4340435564517975,
+          1.406000018119812,
+          0.2495756894350052
+        ]
+      },
+      "dimensionsMeters": [
+        0.866849958896637,
+        1.4164125612005591,
+        0.5063606649637222
+      ],
+      "triangles": 38876,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/robe/05",
+        "woven wool",
+        "brushed wool lining",
+        "gilded alloy",
+        "attach.robe"
+      ],
+      "meshNames": [
+        "woven_wool",
+        "brushed_wool_lining",
+        "gilded_alloy"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/accessory/01",
+      "path": "assets/armor/accessory/01.glb",
+      "preview": "assets/previews/arsenal-armor-accessory-01.webp",
+      "bounds": {
+        "min": [
+          -0.0797092616558075,
+          -0.06676000356674194,
+          -0.011200000531971455
+        ],
+        "max": [
+          0.07978545874357224,
+          0.2346850484609604,
+          0.026399999856948853
+        ]
+      },
+      "dimensionsMeters": [
+        0.15949472039937973,
+        0.30144505202770233,
+        0.03760000038892031
+      ],
+      "triangles": 6946,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/accessory/01",
+        "aged alloy edge",
+        "woven wool",
+        "polished cabochon stone",
+        "attach.accessory"
+      ],
+      "meshNames": [
+        "aged_alloy_edge",
+        "woven_wool",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/accessory/02",
+      "path": "assets/armor/accessory/02.glb",
+      "preview": "assets/previews/arsenal-armor-accessory-02.webp",
+      "bounds": {
+        "min": [
+          -0.024399999529123306,
+          -0.024399999529123306,
+          -0.012142420746386051
+        ],
+        "max": [
+          0.024399999529123306,
+          0.03290000185370445,
+          0.012142420746386051
+        ]
+      },
+      "dimensionsMeters": [
+        0.04879999905824661,
+        0.05730000138282776,
+        0.024284841492772102
+      ],
+      "triangles": 2928,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/accessory/02",
+        "aged alloy edge",
+        "polished cabochon stone",
+        "attach.accessory"
+      ],
+      "meshNames": [
+        "aged_alloy_edge",
+        "polished_cabochon_stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/accessory/03",
+      "path": "assets/armor/accessory/03.glb",
+      "preview": "assets/previews/arsenal-armor-accessory-03.webp",
+      "bounds": {
+        "min": [
+          -0.07649999856948853,
+          -0.007300000637769699,
+          -0.038821522146463394
+        ],
+        "max": [
+          0.03596632182598114,
+          0.21230000257492065,
+          0.04010000079870224
+        ]
+      },
+      "dimensionsMeters": [
+        0.11246632039546967,
+        0.21960000321269035,
+        0.07892152294516563
+      ],
+      "triangles": 4648,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/accessory/03",
+        "tanned leather",
+        "aged alloy edge",
+        "oiled strap leather",
+        "waxed linen thread",
+        "attach.accessory"
+      ],
+      "meshNames": [
+        "tanned_leather",
+        "aged_alloy_edge",
+        "oiled_strap_leather",
+        "waxed_linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/accessory/04",
+      "path": "assets/armor/accessory/04.glb",
+      "preview": "assets/previews/arsenal-armor-accessory-04.webp",
+      "bounds": {
+        "min": [
+          -0.06599999964237213,
+          -0.06769860535860062,
+          -0.13474275171756744
+        ],
+        "max": [
+          0.06599999964237213,
+          0.11699999868869781,
+          0.017500000074505806
+        ]
+      },
+      "dimensionsMeters": [
+        0.13199999928474426,
+        0.18469860404729843,
+        0.15224275179207325
+      ],
+      "triangles": 4364,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/accessory/04",
+        "aged alloy edge",
+        "quilted linen lining",
+        "recess and lining",
+        "polished fluted plate",
+        "attach.accessory"
+      ],
+      "meshNames": [
+        "aged_alloy_edge",
+        "quilted_linen_lining",
+        "recess_and_lining",
+        "polished_fluted_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:armor/accessory/05",
+      "path": "assets/armor/accessory/05.glb",
+      "preview": "assets/previews/arsenal-armor-accessory-05.webp",
+      "bounds": {
+        "min": [
+          -0.07462146878242493,
+          -0.0401100218296051,
+          -0.00800000037997961
+        ],
+        "max": [
+          0.07462146878242493,
+          0.10754558444023132,
+          0.018200000748038292
+        ]
+      },
+      "dimensionsMeters": [
+        0.14924293756484985,
+        0.14765560626983643,
+        0.026200001128017902
+      ],
+      "triangles": 3588,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:armor/accessory/05",
+        "gilded alloy",
+        "polished cabochon stone",
+        "blued scale plate",
+        "attach.accessory"
+      ],
+      "meshNames": [
+        "gilded_alloy",
+        "polished_cabochon_stone",
+        "blued_scale_plate"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    }
+  ]
+}

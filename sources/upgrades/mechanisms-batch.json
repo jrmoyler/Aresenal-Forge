@@ -1,0 +1,2942 @@
+[
+  {
+    "id": "arsenal:construction_modules/001",
+    "path": "assets/construction_modules/001.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 434480,
+    "sha256": "0d9522fb2b6b5308a7f1821faae7c4167502088d099f0ff9f9da84c3f20d7015",
+    "triangles": 1092,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.24700000137090683
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.11999999731779099
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.12700000405311584
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/002",
+    "path": "assets/construction_modules/002.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 666836,
+    "sha256": "ca0f5e8153ed7884046c71f3dc849aa960b1bab852f365f0ac4bf187a4978a20",
+    "triangles": 1180,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.4000000059604645
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.20000000298023224
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.20000000298023224
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/003",
+    "path": "assets/construction_modules/003.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 716912,
+    "sha256": "5142c90e527750cf3dd0f5a4d009ecd710da94fe824396416d9261e508131b79",
+    "triangles": 1840,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.17999999225139618
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/004",
+    "path": "assets/construction_modules/004.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 507136,
+    "sha256": "362400f460cb701601e8d366103a4fccf2df44170ade5d3c131d5182d49be8b4",
+    "triangles": 2964,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      0.2820000067353249,
+      2
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.4901161415892261e-9,
+        -1
+      ],
+      "max": [
+        1,
+        0.28200000524520874,
+        1
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/005",
+    "path": "assets/construction_modules/005.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 472260,
+    "sha256": "ba6295f5d15c266676424251b658f034463d17785861c1ff30bd48deb6a1ad95",
+    "triangles": 1988,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.2999999523162842,
+      2.293255105614662,
+      2.182949662208557
+    ],
+    "bounds": {
+      "min": [
+        -0.6499999761581421,
+        -0.06633855402469635,
+        -1.1399999856948853
+      ],
+      "max": [
+        0.6499999761581421,
+        2.226916551589966,
+        1.0429496765136719
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/006",
+    "path": "assets/construction_modules/006.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 624896,
+    "sha256": "501e21b8dfd207520894c0795e617b49a3898ac5d9018952d3298ae1d7b4e4cc",
+    "triangles": 608,
+    "meshes": 6,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6534026861190796,
+      2.38000011742115,
+      0.6399999856948853
+    ],
+    "bounds": {
+      "min": [
+        -0.3267013430595398,
+        -2.9802322831784522e-9,
+        -0.3199999928474426
+      ],
+      "max": [
+        0.3267013430595398,
+        2.380000114440918,
+        0.3199999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/007",
+    "path": "assets/construction_modules/007.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 712988,
+    "sha256": "3d62cc4bbde1b503eb53ccd8b71eff53ce19847f2ef1604560509581f4b9084e",
+    "triangles": 1748,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0160000324249268,
+      2.8699998879432678,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -1.0080000162124634,
+        -2.38418573772492e-9,
+        -0.25
+      ],
+      "max": [
+        1.0080000162124634,
+        2.869999885559082,
+        0.25
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/008",
+    "path": "assets/construction_modules/008.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 699088,
+    "sha256": "9fc6772b714189d9cabab87a6be7df188219dbb2ff85af2d1480295dcb769b14",
+    "triangles": 4576,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2.066786527633667,
+      0.8800000064074993,
+      2.0199999809265137
+    ],
+    "bounds": {
+      "min": [
+        -1.0333932638168335,
+        0.05000000074505806,
+        -1.0099999904632568
+      ],
+      "max": [
+        1.0333932638168335,
+        0.9300000071525574,
+        1.0099999904632568
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/009",
+    "path": "assets/construction_modules/009.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 593544,
+    "sha256": "6237cddafd345aa791d26f65c00f934c0b445b5a23f1754d59b790168e5374dc",
+    "triangles": 660,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      0.870000034570694,
+      2.2927550165914,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.5300000309944153,
+        -0.0077549307607114315,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.3400000035762787,
+        2.2850000858306885,
+        0.3400000035762787
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/010",
+    "path": "assets/construction_modules/010.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 405960,
+    "sha256": "5ca72a497d80d686cfa5fd9568f67a9c487c769a2fffed7ff410e8a77e795622",
+    "triangles": 484,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      1.0650000548362732,
+      0.30000001192092896
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.38418573772492e-9,
+        -0.15000000596046448
+      ],
+      "max": [
+        1,
+        1.065000057220459,
+        0.15000000596046448
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/011",
+    "path": "assets/construction_modules/011.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 446108,
+    "sha256": "3fbc8300b9a4653c4262b56e4b172787f73c785e0bc427ca17801becaae9ec5b",
+    "triangles": 1776,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.1694999933242798,
+      1.9600000381469727,
+      0.1719999983906746
+    ],
+    "bounds": {
+      "min": [
+        -0.6119999885559082,
+        0.019999980926513672,
+        -0.08999999612569809
+      ],
+      "max": [
+        0.5575000047683716,
+        1.9800000190734863,
+        0.0820000022649765
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/012",
+    "path": "assets/construction_modules/012.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 799520,
+    "sha256": "ad7ff19b9829c9f100b5419c9929f7b29dc5efad7b1c3451c6501b68c52aaffa",
+    "triangles": 3844,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0399999618530273,
+      1.2699999824166297,
+      2.0399999618530273
+    ],
+    "bounds": {
+      "min": [
+        -1.0199999809265137,
+        -1.4901161415892261e-9,
+        -1.0199999809265137
+      ],
+      "max": [
+        1.0199999809265137,
+        1.2699999809265137,
+        1.0199999809265137
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/013",
+    "path": "assets/construction_modules/013.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 550236,
+    "sha256": "ecdb52fb101b7db2d0bb107e9093591f5ec9ddf36157fa503b2e6981110d7462",
+    "triangles": 1980,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.4000000715255734,
+      0.42000000178813934
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.3841858265427618e-8,
+        -0.18000000715255737
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/014",
+    "path": "assets/construction_modules/014.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 561596,
+    "sha256": "6b3828ad7e8c5e8f26dcd0ab30e0de500cad6dcf8ca59c995546ab5dbd8415d6",
+    "triangles": 2112,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.4000001239776605,
+      0.4399999976158142
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -2.8610228852699038e-8,
+        -0.20000000298023224
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/015",
+    "path": "assets/construction_modules/015.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 584928,
+    "sha256": "d825ba48b06e39ac41ef1b5bf3342d28cee90b7f80d40e9b63755bb083c07861",
+    "triangles": 2420,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.4000001072883608,
+      0.42000000178813934
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.1920929132713809e-8,
+        -0.18000000715255737
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/016",
+    "path": "assets/construction_modules/016.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 443364,
+    "sha256": "404a70329fcf1d6ca320b91b76cf1db3e5783e1bb807aa6f30202c22778423d0",
+    "triangles": 572,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      0.31999999433755877,
+      2
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.4901161415892261e-9,
+        -1
+      ],
+      "max": [
+        1,
+        0.3199999928474426,
+        1
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/017",
+    "path": "assets/construction_modules/017.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 319632,
+    "sha256": "d3ff1e1513bf5d82ad5514236a529e82941897a0eb9408df0a94ffea3838ad77",
+    "triangles": 1232,
+    "meshes": 1,
+    "animations": [],
+    "dimensionsMeters": [
+      1.2999999523162842,
+      2.293255105614662,
+      2.182949662208557
+    ],
+    "bounds": {
+      "min": [
+        -0.6499999761581421,
+        -0.06633855402469635,
+        -1.1399999856948853
+      ],
+      "max": [
+        0.6499999761581421,
+        2.226916551589966,
+        1.0429496765136719
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/018",
+    "path": "assets/construction_modules/018.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 440512,
+    "sha256": "98c075b161b8c6e6f62415cff6746a2e97de02786bf68a12e6237acc394ff77d",
+    "triangles": 900,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6399999856948853,
+      2.38000011742115,
+      0.6399999856948853
+    ],
+    "bounds": {
+      "min": [
+        -0.3199999928474426,
+        -2.9802322831784522e-9,
+        -0.3199999928474426
+      ],
+      "max": [
+        0.3199999928474426,
+        2.380000114440918,
+        0.3199999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/019",
+    "path": "assets/construction_modules/019.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 514464,
+    "sha256": "cbb3d4b7a2aa2b74a61d70eba1261afd0f376d0cc382012de9a9ad1f8dc1cce9",
+    "triangles": 1512,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0160000324249268,
+      2.727999927997589,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -1.0080000162124634,
+        -2.38418573772492e-9,
+        -0.25
+      ],
+      "max": [
+        1.0080000162124634,
+        2.7279999256134033,
+        0.25
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/020",
+    "path": "assets/construction_modules/020.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 870496,
+    "sha256": "5f68a0cc911cd7749148660cc0ba909dbf7a13a9a4c69fd1e197e799bb19a6b2",
+    "triangles": 4576,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2.066786527633667,
+      0.8800000064074993,
+      2.0199999809265137
+    ],
+    "bounds": {
+      "min": [
+        -1.0333932638168335,
+        0.05000000074505806,
+        -1.0099999904632568
+      ],
+      "max": [
+        1.0333932638168335,
+        0.9300000071525574,
+        1.0099999904632568
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/021",
+    "path": "assets/construction_modules/021.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 432316,
+    "sha256": "5cf684b70d82632c68919d239e7e5df4728da21c424fab9fdc0d402cb842d5c3",
+    "triangles": 440,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6800000071525574,
+      2.2850000834465027,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.3400000035762787,
+        2.38418573772492e-9,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.3400000035762787,
+        2.2850000858306885,
+        0.3400000035762787
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/022",
+    "path": "assets/construction_modules/022.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 465656,
+    "sha256": "ecace0a3523be9c304d3e5e7ac114aca26774917a986af6c4eea673dec1fc17e",
+    "triangles": 880,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      1.0650000548362732,
+      0.30000001192092896
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.38418573772492e-9,
+        -0.15000000596046448
+      ],
+      "max": [
+        1,
+        1.065000057220459,
+        0.15000000596046448
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/023",
+    "path": "assets/construction_modules/023.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 504520,
+    "sha256": "2e8c46f87501b27f61f145623aed8d4b3686cb158cdb55b1676787d89474c695",
+    "triangles": 3060,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.1694999933242798,
+      1.9600000381469727,
+      0.1719999983906746
+    ],
+    "bounds": {
+      "min": [
+        -0.6119999885559082,
+        0.019999980926513672,
+        -0.08999999612569809
+      ],
+      "max": [
+        0.5575000047683716,
+        1.9800000190734863,
+        0.0820000022649765
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/024",
+    "path": "assets/construction_modules/024.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 510072,
+    "sha256": "c5921659ebeb8854652d402e3956889771a88031314e7b4376ae20a3197e2cce",
+    "triangles": 1452,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0399999618530273,
+      1.2699999824166297,
+      2.0399999618530273
+    ],
+    "bounds": {
+      "min": [
+        -1.0199999809265137,
+        -1.4901161415892261e-9,
+        -1.0199999809265137
+      ],
+      "max": [
+        1.0199999809265137,
+        1.2699999809265137,
+        1.0199999809265137
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/025",
+    "path": "assets/construction_modules/025.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 959044,
+    "sha256": "0fa6a0bbca8b282350016efdf331c0572ae8db757a307098e4af3ed97723b382",
+    "triangles": 7516,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.2839999943971634
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.12999999523162842
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.15399999916553497
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/026",
+    "path": "assets/construction_modules/026.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 838968,
+    "sha256": "67da4f83fb14d852f856f2453ea0ba9f3154cae8ad7bfd10b705809b9de57293",
+    "triangles": 5932,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.4000000059604645
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.20000000298023224
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.20000000298023224
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/027",
+    "path": "assets/construction_modules/027.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 912336,
+    "sha256": "037d7a2225631a06c5b0b9efe6d9241947189aeed957c288fb2c115d0edfc6d8",
+    "triangles": 6900,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.17999999225139618
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/028",
+    "path": "assets/construction_modules/028.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 687340,
+    "sha256": "f2cf43f75629580a7594242fce8c046cafa100b37685c0436082f2c8acc6ab60",
+    "triangles": 6656,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      0.2899999931454659,
+      2
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.4901161415892261e-9,
+        -1
+      ],
+      "max": [
+        1,
+        0.28999999165534973,
+        1
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/029",
+    "path": "assets/construction_modules/029.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 641048,
+    "sha256": "9acacda39589c8c7c68e5e3c4b19562ff9de1a066c348bad4285fc5e963c51b5",
+    "triangles": 5588,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      1.2999999523162842,
+      2.293255105614662,
+      2.2050000429153442
+    ],
+    "bounds": {
+      "min": [
+        -0.6499999761581421,
+        -0.06633855402469635,
+        -1.1399999856948853
+      ],
+      "max": [
+        0.6499999761581421,
+        2.226916551589966,
+        1.065000057220459
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/030",
+    "path": "assets/construction_modules/030.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 478720,
+    "sha256": "4edcd45b1a0ed2f05da5de20e63634a098c41d7214079fd9f804dad902971a05",
+    "triangles": 788,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6399999856948853,
+      2.38000011742115,
+      0.6399999856948853
+    ],
+    "bounds": {
+      "min": [
+        -0.3199999928474426,
+        -2.9802322831784522e-9,
+        -0.3199999928474426
+      ],
+      "max": [
+        0.3199999928474426,
+        2.380000114440918,
+        0.3199999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/031",
+    "path": "assets/construction_modules/031.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 598740,
+    "sha256": "1abb86a0974a08a210b3a65e0cfaf87e344a0e889b7ecb953580f5c2104052c4",
+    "triangles": 2368,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0160000324249268,
+      2.727999927997589,
+      0.5069999992847443
+    ],
+    "bounds": {
+      "min": [
+        -1.0080000162124634,
+        -2.38418573772492e-9,
+        -0.25
+      ],
+      "max": [
+        1.0080000162124634,
+        2.7279999256134033,
+        0.25699999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/032",
+    "path": "assets/construction_modules/032.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 583544,
+    "sha256": "f67d96d6ced3a4dceb336e56e3421912f4d4c0fea3fa89d68651c2e2260bed0d",
+    "triangles": 3168,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0562407970428467,
+      0.8800000064074993,
+      2.0199999809265137
+    ],
+    "bounds": {
+      "min": [
+        -1.0281203985214233,
+        0.05000000074505806,
+        -1.0099999904632568
+      ],
+      "max": [
+        1.0281203985214233,
+        0.9300000071525574,
+        1.0099999904632568
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/033",
+    "path": "assets/construction_modules/033.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 445680,
+    "sha256": "88eb0574a9c74c6cd25ba0671cd58e2a758aaf2d5eb25664a9ea587f0befa98f",
+    "triangles": 616,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6800000071525574,
+      2.2850000834465027,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.3400000035762787,
+        2.38418573772492e-9,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.3400000035762787,
+        2.2850000858306885,
+        0.3400000035762787
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/034",
+    "path": "assets/construction_modules/034.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 295504,
+    "sha256": "9820233264ba3b6388b4ed9b1ffcf63ddc5353eaab124b44560a233949315656",
+    "triangles": 3940,
+    "meshes": 1,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      1.0650000548362732,
+      0.30000001192092896
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.38418573772492e-9,
+        -0.15000000596046448
+      ],
+      "max": [
+        1,
+        1.065000057220459,
+        0.15000000596046448
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/035",
+    "path": "assets/construction_modules/035.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 337272,
+    "sha256": "2217c8aa0c5bf1c8421a350fec134e625daff54d029a4c3b0b2b7603d579bf5f",
+    "triangles": 2812,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      1.171999990940094,
+      1.9600000381469727,
+      0.11200000159442425
+    ],
+    "bounds": {
+      "min": [
+        -0.6119999885559082,
+        0.019999980926513672,
+        -0.029999999329447746
+      ],
+      "max": [
+        0.5600000023841858,
+        1.9800000190734863,
+        0.0820000022649765
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/036",
+    "path": "assets/construction_modules/036.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 979692,
+    "sha256": "f9b6fdddd84b95318e1001be156300b1c498c55b2b406d32af1b8b503733c2d3",
+    "triangles": 7536,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0399999618530273,
+      1.2699999824166297,
+      2.0399999618530273
+    ],
+    "bounds": {
+      "min": [
+        -1.0199999809265137,
+        -1.4901161415892261e-9,
+        -1.0199999809265137
+      ],
+      "max": [
+        1.0199999809265137,
+        1.2699999809265137,
+        1.0199999809265137
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/037",
+    "path": "assets/construction_modules/037.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 498048,
+    "sha256": "3caf547252ce6713aede8feb73be21f3bbd438fc097311d4fa6385f7e0bda075",
+    "triangles": 1804,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.40000011920929,
+      0.3525000065565109
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -2.3841858265427618e-8,
+        -0.17000000178813934
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.18250000476837158
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/038",
+    "path": "assets/construction_modules/038.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 519436,
+    "sha256": "b5f3e1b5b08d730dff53a50388b4255fcaeb478a246ad9855c56d9b7d9c9a77a",
+    "triangles": 2068,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.4000001239776605,
+      0.4000000059604645
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -2.8610228852699038e-8,
+        -0.20000000298023224
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.20000000298023224
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/039",
+    "path": "assets/construction_modules/039.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 539428,
+    "sha256": "fcffe385985e49dc1fb1bfe4248e4044c96a85cd491b7433941a9f651771f689",
+    "triangles": 2332,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.40000011920929,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -2.3841858265427618e-8,
+        -0.17999999225139618
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/040",
+    "path": "assets/construction_modules/040.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 295348,
+    "sha256": "0587d83887ecdeb1655dd0d1c035f1c89c55dd2752cd0040f3ee711c5aff1aba",
+    "triangles": 880,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      0.31999999433755877,
+      2
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.4901161415892261e-9,
+        -1
+      ],
+      "max": [
+        1,
+        0.3199999928474426,
+        1
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/041",
+    "path": "assets/construction_modules/041.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 453560,
+    "sha256": "d58a3ff5ff2d3d9cf6f82d54fe446403cd465ef3a226b8ec3fc1e89d0ffaa2cc",
+    "triangles": 1232,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      1.2999999523162842,
+      2.293255105614662,
+      2.182949662208557
+    ],
+    "bounds": {
+      "min": [
+        -0.6499999761581421,
+        -0.06633855402469635,
+        -1.1399999856948853
+      ],
+      "max": [
+        0.6499999761581421,
+        2.226916551589966,
+        1.0429496765136719
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/042",
+    "path": "assets/construction_modules/042.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 408316,
+    "sha256": "bf8084ac23df11c00dff1b235d918ead4997c41f35ca5616c03d8f77a2a1ad6e",
+    "triangles": 988,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6399999856948853,
+      2.38000011742115,
+      0.6399999856948853
+    ],
+    "bounds": {
+      "min": [
+        -0.3199999928474426,
+        -2.9802322831784522e-9,
+        -0.3199999928474426
+      ],
+      "max": [
+        0.3199999928474426,
+        2.380000114440918,
+        0.3199999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/043",
+    "path": "assets/construction_modules/043.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 635828,
+    "sha256": "fbd900b09890003a8c5fc5afe41fbd78c401753c987e39571ebfac1efaf03de1",
+    "triangles": 3624,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0160000324249268,
+      2.727999927997589,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -1.0080000162124634,
+        -2.38418573772492e-9,
+        -0.25
+      ],
+      "max": [
+        1.0080000162124634,
+        2.7279999256134033,
+        0.25
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/044",
+    "path": "assets/construction_modules/044.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 606020,
+    "sha256": "f2989c7ffff03ba7550c6dde13a27086e6dc7090486541bb62c746efe4453524",
+    "triangles": 4576,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2.066786527633667,
+      0.8800000064074993,
+      2.0199999809265137
+    ],
+    "bounds": {
+      "min": [
+        -1.0333932638168335,
+        0.05000000074505806,
+        -1.0099999904632568
+      ],
+      "max": [
+        1.0333932638168335,
+        0.9300000071525574,
+        1.0099999904632568
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/045",
+    "path": "assets/construction_modules/045.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 393496,
+    "sha256": "f61750385acda6493d59968e7ba9cc94f74e64755c6695abbb92318c8d0adc09",
+    "triangles": 440,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6800000071525574,
+      2.2850000834465027,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.3400000035762787,
+        2.38418573772492e-9,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.3400000035762787,
+        2.2850000858306885,
+        0.3400000035762787
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/046",
+    "path": "assets/construction_modules/046.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 426660,
+    "sha256": "e79f3d69378a621b72d21436bac1e64579fb7167a97ca3ee242a5f68c26c1ba5",
+    "triangles": 2436,
+    "meshes": 2,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      1.085000035762787,
+      0.30000001192092896
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.38418573772492e-9,
+        -0.15000000596046448
+      ],
+      "max": [
+        1,
+        1.0850000381469727,
+        0.15000000596046448
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/047",
+    "path": "assets/construction_modules/047.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 356656,
+    "sha256": "a85b9add6c98d0071ee8630500ee36fe92e6269b3a5f36a41020c4039bff8eb3",
+    "triangles": 1864,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.171999990940094,
+      1.9600000381469727,
+      0.1719999983906746
+    ],
+    "bounds": {
+      "min": [
+        -0.6119999885559082,
+        0.019999980926513672,
+        -0.08999999612569809
+      ],
+      "max": [
+        0.5600000023841858,
+        1.9800000190734863,
+        0.0820000022649765
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/048",
+    "path": "assets/construction_modules/048.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 495928,
+    "sha256": "c0fa7c2d3a7a5a65cefe381ec3fa03421f5a39b69218e332c2b2d3726ed7d725",
+    "triangles": 1760,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0399999618530273,
+      1.2699999824166297,
+      2.0399999618530273
+    ],
+    "bounds": {
+      "min": [
+        -1.0199999809265137,
+        -1.4901161415892261e-9,
+        -1.0199999809265137
+      ],
+      "max": [
+        1.0199999809265137,
+        1.2699999809265137,
+        1.0199999809265137
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/049",
+    "path": "assets/construction_modules/049.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 461892,
+    "sha256": "3a6085f237565f3de4323ffee0c6a50ce1c02dd56f0cf094f82a5ff4cdcec1f4",
+    "triangles": 1568,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.24699999392032623
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.10999999940395355
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.13699999451637268
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/050",
+    "path": "assets/construction_modules/050.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 734276,
+    "sha256": "1a73bdf5d548d6bc17d47982a75729f187045cf7d50a383e99e44d6ad8fc3a7e",
+    "triangles": 2184,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.4000000059604645
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.20000000298023224
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.20000000298023224
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/051",
+    "path": "assets/construction_modules/051.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 744304,
+    "sha256": "ab5fac1d1d199180ac05d6fae610ffdbd4a86d11fda8bc10a503f53d347f3118",
+    "triangles": 2316,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      2.400000143051148,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -4.7683716530855236e-8,
+        -0.17999999225139618
+      ],
+      "max": [
+        1,
+        2.4000000953674316,
+        0.23999999463558197
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/052",
+    "path": "assets/construction_modules/052.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 383016,
+    "sha256": "add8af98d61c6c56de720e50c8a74082a1b889f8ffa223667e05f32058858996",
+    "triangles": 880,
+    "meshes": 3,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      0.2899999931454659,
+      2
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        -1.4901161415892261e-9,
+        -1
+      ],
+      "max": [
+        1,
+        0.28999999165534973,
+        1
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/053",
+    "path": "assets/construction_modules/053.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 472260,
+    "sha256": "dc53261811425f6f8099200c86c93fb7a1acc78bf5e89191804cf667fb208e8e",
+    "triangles": 1988,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.2999999523162842,
+      2.293255105614662,
+      2.182949662208557
+    ],
+    "bounds": {
+      "min": [
+        -0.6499999761581421,
+        -0.06633855402469635,
+        -1.1399999856948853
+      ],
+      "max": [
+        0.6499999761581421,
+        2.226916551589966,
+        1.0429496765136719
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/054",
+    "path": "assets/construction_modules/054.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 624896,
+    "sha256": "393ea27ffe2a1c759583f225d2a5bfa30ee1fbc66d6e3f551f2b4da009cf1d2b",
+    "triangles": 608,
+    "meshes": 6,
+    "animations": [],
+    "dimensionsMeters": [
+      0.6534026861190796,
+      2.38000011742115,
+      0.6399999856948853
+    ],
+    "bounds": {
+      "min": [
+        -0.3267013430595398,
+        -2.9802322831784522e-9,
+        -0.3199999928474426
+      ],
+      "max": [
+        0.3267013430595398,
+        2.380000114440918,
+        0.3199999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/055",
+    "path": "assets/construction_modules/055.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 712996,
+    "sha256": "7e4c0e0d724a2a202abf1ab62f2513a3f40488871cd1251f73b9c0f4a44abcfe",
+    "triangles": 1748,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0160000324249268,
+      2.8699998879432678,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -1.0080000162124634,
+        -2.38418573772492e-9,
+        -0.25
+      ],
+      "max": [
+        1.0080000162124634,
+        2.869999885559082,
+        0.25
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/056",
+    "path": "assets/construction_modules/056.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 473592,
+    "sha256": "102674eaa1b37bc6e5f6702b565af2aae46cb0756e8f5a49172046c5d2a6882f",
+    "triangles": 1584,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      2.200000047683716,
+      0.9098332226276398,
+      2.059999942779541
+    ],
+    "bounds": {
+      "min": [
+        -1.100000023841858,
+        0.030000001192092896,
+        -1.0299999713897705
+      ],
+      "max": [
+        1.100000023841858,
+        0.9398332238197327,
+        1.0299999713897705
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/057",
+    "path": "assets/construction_modules/057.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 593544,
+    "sha256": "7f8850e287ea7888e93dd253e8fee279ffd2f135b1d04a7b51f20a9327abbe43",
+    "triangles": 660,
+    "meshes": 5,
+    "animations": [],
+    "dimensionsMeters": [
+      0.870000034570694,
+      2.2927550165914,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.5300000309944153,
+        -0.0077549307607114315,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.3400000035762787,
+        2.2850000858306885,
+        0.3400000035762787
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/058",
+    "path": "assets/construction_modules/058.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 421844,
+    "sha256": "6e797f44a5ec4da3682dae733deda44e481a7cdc1aaba3a72fb03b24217e6f85",
+    "triangles": 692,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2,
+      1.1260000443458558,
+      0.30000001192092896
+    ],
+    "bounds": {
+      "min": [
+        -1,
+        2.38418573772492e-9,
+        -0.15000000596046448
+      ],
+      "max": [
+        1,
+        1.1260000467300415,
+        0.15000000596046448
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/059",
+    "path": "assets/construction_modules/059.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 462808,
+    "sha256": "f1057e74db5b66233cc60c3027e63e5fcf7e133cc1acee7c9faa3637cdce133f",
+    "triangles": 1996,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      1.1620000004768372,
+      1.9510000068694353,
+      0.1719999983906746
+    ],
+    "bounds": {
+      "min": [
+        -0.6119999885559082,
+        0.02099999599158764,
+        -0.08999999612569809
+      ],
+      "max": [
+        0.550000011920929,
+        1.972000002861023,
+        0.0820000022649765
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:construction_modules/060",
+    "path": "assets/construction_modules/060.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 675384,
+    "sha256": "7dd088cecab0349dc20c0055e5f115b3917a266dac2ae31c3c83ecd11d6fde43",
+    "triangles": 1760,
+    "meshes": 4,
+    "animations": [],
+    "dimensionsMeters": [
+      2.0399999618530273,
+      1.2699999824166297,
+      2.0399999618530273
+    ],
+    "bounds": {
+      "min": [
+        -1.0199999809265137,
+        -1.4901161415892261e-9,
+        -1.0199999809265137
+      ],
+      "max": [
+        1.0199999809265137,
+        1.2699999809265137,
+        1.0199999809265137
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/001",
+    "path": "assets/animated_mechanisms/001.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 851276,
+    "sha256": "173170a5b3dbb57ad662228cdb15ae3176fa0b4782269a302b031eed68916319",
+    "triangles": 2384,
+    "meshes": 9,
+    "animations": [
+      "open-close"
+    ],
+    "dimensionsMeters": [
+      1.6899999380111694,
+      2.4849999427795417,
+      0.29999999701976776
+    ],
+    "bounds": {
+      "min": [
+        -0.8449999690055847,
+        -4.7683716530855236e-8,
+        -0.14499999582767487
+      ],
+      "max": [
+        0.8449999690055847,
+        2.484999895095825,
+        0.1550000011920929
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/002",
+    "path": "assets/animated_mechanisms/002.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 801088,
+    "sha256": "5a289153a1c80694983ddaa02ea93307d48ab22b91ceedc473b7e75133367e34",
+    "triangles": 4188,
+    "meshes": 6,
+    "animations": [
+      "raise-lower"
+    ],
+    "dimensionsMeters": [
+      2.130000114440918,
+      2.964999912828207,
+      0.5600000023841858
+    ],
+    "bounds": {
+      "min": [
+        -1.065000057220459,
+        1.3411045607369942e-9,
+        -0.3700000047683716
+      ],
+      "max": [
+        1.065000057220459,
+        2.9649999141693115,
+        0.1899999976158142
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/003",
+    "path": "assets/animated_mechanisms/003.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 1211392,
+    "sha256": "cae8bc71e8f9046e5ceef889254c09193461b860d4d9045b6d66962698d020c0",
+    "triangles": 9572,
+    "meshes": 11,
+    "animations": [
+      "waterwheel-turn"
+    ],
+    "dimensionsMeters": [
+      1.9999999403953552,
+      1.8855738183483481,
+      1.2100000381469727
+    ],
+    "bounds": {
+      "min": [
+        -1.0499999523162842,
+        -0.015573813579976559,
+        -0.6050000190734863
+      ],
+      "max": [
+        0.949999988079071,
+        1.8700000047683716,
+        0.6050000190734863
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/004",
+    "path": "assets/animated_mechanisms/004.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 877052,
+    "sha256": "886dc331d3dbdcccd6e1a084cefe4b1ace43af894b603010430904db720fcebb",
+    "triangles": 5680,
+    "meshes": 10,
+    "animations": [
+      "gear-drive"
+    ],
+    "dimensionsMeters": [
+      1.3650000083446503,
+      1.069999995082617,
+      0.6400000154972076
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999964237213,
+        1.3411045607369942e-9,
+        -0.3400000035762787
+      ],
+      "max": [
+        0.675000011920929,
+        1.0699999964237215,
+        0.30000001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/005",
+    "path": "assets/animated_mechanisms/005.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 840620,
+    "sha256": "49a20e73dce79233f28a73938ce29e0c7ad84ee0170df69547f8064ae2319f79",
+    "triangles": 2392,
+    "meshes": 8,
+    "animations": [
+      "press-cycle"
+    ],
+    "dimensionsMeters": [
+      1.350000023841858,
+      2.3450000315904616,
+      0.8500000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.675000011920929,
+        -2.9802322831784522e-9,
+        -0.42500001192092896
+      ],
+      "max": [
+        0.675000011920929,
+        2.3450000286102295,
+        0.42500001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/006",
+    "path": "assets/animated_mechanisms/006.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 737596,
+    "sha256": "b6db8befb6fe63b3cf050a49528f35274354dcac3594777c876b87b7938df8d5",
+    "triangles": 2756,
+    "meshes": 7,
+    "animations": [
+      "bridge-lift"
+    ],
+    "dimensionsMeters": [
+      2.049999952316284,
+      1.6699999588727952,
+      2.2649999856948853
+    ],
+    "bounds": {
+      "min": [
+        -1.024999976158142,
+        -1.7881393032936899e-9,
+        -1.1050000190734863
+      ],
+      "max": [
+        1.024999976158142,
+        1.6699999570846558,
+        1.159999966621399
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/007",
+    "path": "assets/animated_mechanisms/007.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 874964,
+    "sha256": "44921cee2fab415669c65a1f0e29d0e57465cff4324ec6cfb2f73bbd221dadbd",
+    "triangles": 2692,
+    "meshes": 9,
+    "animations": [
+      "open-close"
+    ],
+    "dimensionsMeters": [
+      1.6899999380111694,
+      2.5500000000000007,
+      0.3199999928474426
+    ],
+    "bounds": {
+      "min": [
+        -0.8449999690055847,
+        -4.7683716530855236e-8,
+        -0.1599999964237213
+      ],
+      "max": [
+        0.8449999690055847,
+        2.549999952316284,
+        0.1599999964237213
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/008",
+    "path": "assets/animated_mechanisms/008.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 822324,
+    "sha256": "a11879f3849782b5e8d7debd4e07db19d4290321e5bbedaf305c6b9faaa0db0a",
+    "triangles": 4452,
+    "meshes": 7,
+    "animations": [
+      "raise-lower"
+    ],
+    "dimensionsMeters": [
+      2.130000114440918,
+      2.964999912828207,
+      0.5600000023841858
+    ],
+    "bounds": {
+      "min": [
+        -1.065000057220459,
+        1.3411045607369942e-9,
+        -0.3700000047683716
+      ],
+      "max": [
+        1.065000057220459,
+        2.9649999141693115,
+        0.1899999976158142
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/009",
+    "path": "assets/animated_mechanisms/009.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 1231404,
+    "sha256": "e96abd0ade20f8291ab66ef160f336fae7fa258a7a04f804b30edc80956b0043",
+    "triangles": 9836,
+    "meshes": 11,
+    "animations": [
+      "waterwheel-turn"
+    ],
+    "dimensionsMeters": [
+      1.9999999403953552,
+      1.8855738183483481,
+      1.2599999904632568
+    ],
+    "bounds": {
+      "min": [
+        -1.0499999523162842,
+        -0.015573813579976559,
+        -0.6299999952316284
+      ],
+      "max": [
+        0.949999988079071,
+        1.8700000047683716,
+        0.6299999952316284
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/010",
+    "path": "assets/animated_mechanisms/010.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 756608,
+    "sha256": "76e76dedc861075aedabf4874871e78a251544db842e7cfc1807ef27ce809005",
+    "triangles": 5944,
+    "meshes": 10,
+    "animations": [
+      "gear-drive"
+    ],
+    "dimensionsMeters": [
+      1.3650000083446503,
+      1.069999995082617,
+      0.6500000059604645
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999964237213,
+        1.3411045607369942e-9,
+        -0.3499999940395355
+      ],
+      "max": [
+        0.675000011920929,
+        1.0699999964237215,
+        0.30000001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/011",
+    "path": "assets/animated_mechanisms/011.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 720156,
+    "sha256": "cacd93ae0762667928803feb8279a3ff0d92bd61b7b6c61c5bffeced0231b05b",
+    "triangles": 2656,
+    "meshes": 8,
+    "animations": [
+      "press-cycle"
+    ],
+    "dimensionsMeters": [
+      1.350000023841858,
+      2.3450000315904616,
+      0.8500000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.675000011920929,
+        -2.9802322831784522e-9,
+        -0.42500001192092896
+      ],
+      "max": [
+        0.675000011920929,
+        2.3450000286102295,
+        0.42500001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/012",
+    "path": "assets/animated_mechanisms/012.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 757932,
+    "sha256": "6d104d5dae5f276597040143d7b29797f560c94fc1d3329659931f85022590a4",
+    "triangles": 3020,
+    "meshes": 7,
+    "animations": [
+      "bridge-lift"
+    ],
+    "dimensionsMeters": [
+      2.049999952316284,
+      1.6699999588727952,
+      2.2649999856948853
+    ],
+    "bounds": {
+      "min": [
+        -1.024999976158142,
+        -1.7881393032936899e-9,
+        -1.1050000190734863
+      ],
+      "max": [
+        1.024999976158142,
+        1.6699999570846558,
+        1.159999966621399
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/013",
+    "path": "assets/animated_mechanisms/013.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 784896,
+    "sha256": "ed98af7b299e73faca9e4c4b49215d47b86bb58bc6a10351fc55386de09bc97c",
+    "triangles": 4136,
+    "meshes": 7,
+    "animations": [
+      "open-close"
+    ],
+    "dimensionsMeters": [
+      1.6899999380111694,
+      2.4849999427795417,
+      0.3149999976158142
+    ],
+    "bounds": {
+      "min": [
+        -0.8449999690055847,
+        -4.7683716530855236e-8,
+        -0.1599999964237213
+      ],
+      "max": [
+        0.8449999690055847,
+        2.484999895095825,
+        0.1550000011920929
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/014",
+    "path": "assets/animated_mechanisms/014.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 845096,
+    "sha256": "e766639c40ea0d4f024c0d326137c652e168b039dae8963f31f9166616af6f18",
+    "triangles": 4884,
+    "meshes": 6,
+    "animations": [
+      "raise-lower"
+    ],
+    "dimensionsMeters": [
+      2.130000114440918,
+      2.964999912828207,
+      0.5600000023841858
+    ],
+    "bounds": {
+      "min": [
+        -1.065000057220459,
+        1.3411045607369942e-9,
+        -0.3700000047683716
+      ],
+      "max": [
+        1.065000057220459,
+        2.9649999141693115,
+        0.1899999976158142
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/015",
+    "path": "assets/animated_mechanisms/015.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 1255488,
+    "sha256": "7a1770750d23c38ef7b3b8d3f0d503bb0fa2d4850ed2c74e13d85788a6ae83a6",
+    "triangles": 10268,
+    "meshes": 11,
+    "animations": [
+      "waterwheel-turn"
+    ],
+    "dimensionsMeters": [
+      1.9999999403953552,
+      1.8855738183483481,
+      1.2369999885559082
+    ],
+    "bounds": {
+      "min": [
+        -1.0499999523162842,
+        -0.015573813579976559,
+        -0.6299999952316284
+      ],
+      "max": [
+        0.949999988079071,
+        1.8700000047683716,
+        0.6069999933242798
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/016",
+    "path": "assets/animated_mechanisms/016.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 780360,
+    "sha256": "21af051cce8ccd65b4d849ea922e4b10d9278f899f2f7b4a9b8c36b45f7cb829",
+    "triangles": 6376,
+    "meshes": 10,
+    "animations": [
+      "gear-drive"
+    ],
+    "dimensionsMeters": [
+      1.3650000083446503,
+      1.069999995082617,
+      0.6500000059604645
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999964237213,
+        1.3411045607369942e-9,
+        -0.3499999940395355
+      ],
+      "max": [
+        0.675000011920929,
+        1.0699999964237215,
+        0.30000001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/017",
+    "path": "assets/animated_mechanisms/017.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 742940,
+    "sha256": "5984c82681dc255fbfc64152b158f25d34e1920bf7614a106ed29e37a917dd41",
+    "triangles": 3088,
+    "meshes": 7,
+    "animations": [
+      "press-cycle"
+    ],
+    "dimensionsMeters": [
+      1.350000023841858,
+      2.3450000315904616,
+      0.8500000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.675000011920929,
+        -2.9802322831784522e-9,
+        -0.42500001192092896
+      ],
+      "max": [
+        0.675000011920929,
+        2.3450000286102295,
+        0.42500001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/018",
+    "path": "assets/animated_mechanisms/018.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 781704,
+    "sha256": "f177fb44ef4a5e96d932421ff23bfb2d32d0d36feca3cee71a00ed697c8036b5",
+    "triangles": 3452,
+    "meshes": 7,
+    "animations": [
+      "bridge-lift"
+    ],
+    "dimensionsMeters": [
+      2.049999952316284,
+      1.6699999588727952,
+      2.2649999856948853
+    ],
+    "bounds": {
+      "min": [
+        -1.024999976158142,
+        -1.7881393032936899e-9,
+        -1.1050000190734863
+      ],
+      "max": [
+        1.024999976158142,
+        1.6699999570846558,
+        1.159999966621399
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/019",
+    "path": "assets/animated_mechanisms/019.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 688532,
+    "sha256": "ddf214796387b81e0123c7c7d6f6cdce734706d0c4eaec4affc53928cb99a99f",
+    "triangles": 3044,
+    "meshes": 10,
+    "animations": [
+      "open-close"
+    ],
+    "dimensionsMeters": [
+      1.7400000095367432,
+      2.5500000000000007,
+      0.3799999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.8700000047683716,
+        -4.7683716530855236e-8,
+        -0.1899999976158142
+      ],
+      "max": [
+        0.8700000047683716,
+        2.549999952316284,
+        0.1899999976158142
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/020",
+    "path": "assets/animated_mechanisms/020.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 767520,
+    "sha256": "987c1c12c04a91e2fde4d2f972f292c0779fdbdbee00bba355c3f59c1278ff1e",
+    "triangles": 4804,
+    "meshes": 8,
+    "animations": [
+      "raise-lower"
+    ],
+    "dimensionsMeters": [
+      2.140000104904175,
+      2.964999913498759,
+      0.5600000023841858
+    ],
+    "bounds": {
+      "min": [
+        -1.0700000524520874,
+        6.705522803684971e-10,
+        -0.3700000047683716
+      ],
+      "max": [
+        1.0700000524520874,
+        2.9649999141693115,
+        0.1899999976158142
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/021",
+    "path": "assets/animated_mechanisms/021.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 1044984,
+    "sha256": "f9768ffefe39a9be175e56cfc7fba7b47830e837de89ae68a5917c23e7e6e46a",
+    "triangles": 10188,
+    "meshes": 12,
+    "animations": [
+      "waterwheel-turn"
+    ],
+    "dimensionsMeters": [
+      1.9999999403953552,
+      1.8855738183483481,
+      1.3200000524520874
+    ],
+    "bounds": {
+      "min": [
+        -1.0499999523162842,
+        -0.015573813579976559,
+        -0.6600000262260437
+      ],
+      "max": [
+        0.949999988079071,
+        1.8700000047683716,
+        0.6600000262260437
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/022",
+    "path": "assets/animated_mechanisms/022.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 703756,
+    "sha256": "39dc2146ff0ecaa9b606a4709995453d8ad2e4b83b8002e862fcd17bf4f94d67",
+    "triangles": 6296,
+    "meshes": 13,
+    "animations": [
+      "gear-drive"
+    ],
+    "dimensionsMeters": [
+      1.3650000083446503,
+      1.0699999957531692,
+      0.6800000071525574
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999964237213,
+        6.705522803684971e-10,
+        -0.3799999952316284
+      ],
+      "max": [
+        0.675000011920929,
+        1.0699999964237215,
+        0.30000001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/023",
+    "path": "assets/animated_mechanisms/023.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 533692,
+    "sha256": "cd7371977fdda18b5774073a9309a4c411e2d6b8e2891929ef34dd198c31ec89",
+    "triangles": 3008,
+    "meshes": 9,
+    "animations": [
+      "press-cycle"
+    ],
+    "dimensionsMeters": [
+      1.3799999952316284,
+      2.3450000315904616,
+      0.8500000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999976158142,
+        -2.9802322831784522e-9,
+        -0.42500001192092896
+      ],
+      "max": [
+        0.6899999976158142,
+        2.3450000286102295,
+        0.42500001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/024",
+    "path": "assets/animated_mechanisms/024.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 703116,
+    "sha256": "4c80060d98f9fcd0832680a802dde498e0ac489c96662458bf64c3612e9ed021",
+    "triangles": 3372,
+    "meshes": 8,
+    "animations": [
+      "bridge-lift"
+    ],
+    "dimensionsMeters": [
+      2.049999952316284,
+      1.6699999588727952,
+      2.2799999713897705
+    ],
+    "bounds": {
+      "min": [
+        -1.024999976158142,
+        -1.7881393032936899e-9,
+        -1.1200000047683716
+      ],
+      "max": [
+        1.024999976158142,
+        1.6699999570846558,
+        1.159999966621399
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/025",
+    "path": "assets/animated_mechanisms/025.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 866700,
+    "sha256": "510e5d8a3573068b111ee4bd6ff063854da2ef96ee63f1898183c3974c7e68a6",
+    "triangles": 2608,
+    "meshes": 9,
+    "animations": [
+      "open-close"
+    ],
+    "dimensionsMeters": [
+      1.6899999380111694,
+      2.4849999427795417,
+      0.44999998807907104
+    ],
+    "bounds": {
+      "min": [
+        -0.8449999690055847,
+        -4.7683716530855236e-8,
+        -0.22499999403953552
+      ],
+      "max": [
+        0.8449999690055847,
+        2.484999895095825,
+        0.22499999403953552
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/026",
+    "path": "assets/animated_mechanisms/026.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 816532,
+    "sha256": "1028b2fad53b0418693ab6213d45085626d3783c66389a04266a708f98c31168",
+    "triangles": 4412,
+    "meshes": 6,
+    "animations": [
+      "raise-lower"
+    ],
+    "dimensionsMeters": [
+      2.130000114440918,
+      2.964999913498759,
+      0.5949999988079071
+    ],
+    "bounds": {
+      "min": [
+        -1.065000057220459,
+        6.705522803684971e-10,
+        -0.3700000047683716
+      ],
+      "max": [
+        1.065000057220459,
+        2.9649999141693115,
+        0.22499999403953552
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/027",
+    "path": "assets/animated_mechanisms/027.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 1226844,
+    "sha256": "edc680abb0934d14c2773fc0f7ca5d8eb2cec46068e3e9adae0ff4ecd389b36a",
+    "triangles": 9796,
+    "meshes": 11,
+    "animations": [
+      "waterwheel-turn"
+    ],
+    "dimensionsMeters": [
+      1.9999999403953552,
+      1.8855738183483481,
+      1.3899999856948853
+    ],
+    "bounds": {
+      "min": [
+        -1.0499999523162842,
+        -0.015573813579976559,
+        -0.6949999928474426
+      ],
+      "max": [
+        0.949999988079071,
+        1.8700000047683716,
+        0.6949999928474426
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/028",
+    "path": "assets/animated_mechanisms/028.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 893472,
+    "sha256": "34d5c0909bc4256d6d9c7ca0bcddd0b5bae00e537a9a37bfad539331322e2195",
+    "triangles": 5904,
+    "meshes": 11,
+    "animations": [
+      "gear-drive"
+    ],
+    "dimensionsMeters": [
+      1.3650000083446503,
+      1.0699999957531692,
+      0.7150000035762787
+    ],
+    "bounds": {
+      "min": [
+        -0.6899999964237213,
+        6.705522803684971e-10,
+        -0.41499999165534973
+      ],
+      "max": [
+        0.675000011920929,
+        1.0699999964237215,
+        0.30000001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/029",
+    "path": "assets/animated_mechanisms/029.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 856060,
+    "sha256": "64b69015447c9f99dc6d61cf0782ec0b872056150bccb716ca556706335217d0",
+    "triangles": 2616,
+    "meshes": 8,
+    "animations": [
+      "press-cycle"
+    ],
+    "dimensionsMeters": [
+      1.350000023841858,
+      2.3450000315904616,
+      0.8500000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.675000011920929,
+        -2.9802322831784522e-9,
+        -0.42500001192092896
+      ],
+      "max": [
+        0.675000011920929,
+        2.3450000286102295,
+        0.42500001192092896
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  },
+  {
+    "id": "arsenal:animated_mechanisms/030",
+    "path": "assets/animated_mechanisms/030.glb",
+    "source": "sources/upgrades/mechanisms.mjs",
+    "bytes": 753984,
+    "sha256": "14d675a90b691a17c263b6a9ff6539305e591889f0c75fc9fea4bd9b1a328e1a",
+    "triangles": 2980,
+    "meshes": 8,
+    "animations": [
+      "bridge-lift"
+    ],
+    "dimensionsMeters": [
+      2.049999952316284,
+      1.6699999588727952,
+      2.3149999380111694
+    ],
+    "bounds": {
+      "min": [
+        -1.024999976158142,
+        -1.7881393032936899e-9,
+        -1.1549999713897705
+      ],
+      "max": [
+        1.024999976158142,
+        1.6699999570846558,
+        1.159999966621399
+      ]
+    },
+    "notes": [
+      "Original Three.js architectural/mechanical authoring",
+      "Static parts merged by material; moving pivots retained",
+      "No host collision, trigger wiring, cross-engine parity or physical device testing claimed"
+    ]
+  }
+]

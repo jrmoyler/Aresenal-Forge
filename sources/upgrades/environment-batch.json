@@ -1,0 +1,1566 @@
+{
+  "family": "environment_props",
+  "count": 120,
+  "assets": [
+    {
+      "id": "arsenal:environment_props/001",
+      "name": "Frontier Basalt outcrop",
+      "path": "assets/environment_props/001.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1724,
+      "bytes": 175140,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/002",
+      "name": "Frontier Layered cliff",
+      "path": "assets/environment_props/002.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1068,
+      "bytes": 121444,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/003",
+      "name": "Frontier Broken column",
+      "path": "assets/environment_props/003.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4955,
+      "bytes": 236064,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/004",
+      "name": "Frontier Stone cairn",
+      "path": "assets/environment_props/004.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 740,
+      "bytes": 93408,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/005",
+      "name": "Frontier Timber stump",
+      "path": "assets/environment_props/005.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2816,
+      "bytes": 144844,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/006",
+      "name": "Frontier Fallen log",
+      "path": "assets/environment_props/006.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3944,
+      "bytes": 216228,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/007",
+      "name": "Frontier Root cluster",
+      "path": "assets/environment_props/007.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3816,
+      "bytes": 268696,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/008",
+      "name": "Frontier Crystal cluster",
+      "path": "assets/environment_props/008.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 470,
+      "bytes": 76908,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/009",
+      "name": "Frontier Stalagmite cluster",
+      "path": "assets/environment_props/009.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3712,
+      "bytes": 195376,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/010",
+      "name": "Frontier Mushroom colony",
+      "path": "assets/environment_props/010.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6048,
+      "bytes": 326828,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/011",
+      "name": "Frontier Reed bed",
+      "path": "assets/environment_props/011.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3488,
+      "bytes": 261728,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/012",
+      "name": "Frontier Fern clump",
+      "path": "assets/environment_props/012.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5352,
+      "bytes": 318400,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/013",
+      "name": "Frontier Stone bench",
+      "path": "assets/environment_props/013.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 132,
+      "bytes": 46480,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/014",
+      "name": "Frontier Road marker",
+      "path": "assets/environment_props/014.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1798,
+      "bytes": 270976,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/015",
+      "name": "Frontier Ruin arch fragment",
+      "path": "assets/environment_props/015.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 896,
+      "bytes": 108100,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/016",
+      "name": "Frontier Market awning",
+      "path": "assets/environment_props/016.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 12348,
+      "bytes": 1030004,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/017",
+      "name": "Frontier Timber fence",
+      "path": "assets/environment_props/017.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2720,
+      "bytes": 308128,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/018",
+      "name": "Frontier Iron fence",
+      "path": "assets/environment_props/018.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3424,
+      "bytes": 340192,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/019",
+      "name": "Frontier Wall sconce",
+      "path": "assets/environment_props/019.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1300,
+      "bytes": 146540,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/020",
+      "name": "Frontier Rubble pile",
+      "path": "assets/environment_props/020.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2208,
+      "bytes": 249808,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/021",
+      "name": "Frontier Bridge piling",
+      "path": "assets/environment_props/021.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6524,
+      "bytes": 474300,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/022",
+      "name": "Frontier Ceramic urn",
+      "path": "assets/environment_props/022.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 13424,
+      "bytes": 465236,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/023",
+      "name": "Frontier Anchor",
+      "path": "assets/environment_props/023.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3008,
+      "bytes": 248116,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/024",
+      "name": "Frontier Supply cart",
+      "path": "assets/environment_props/024.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 9244,
+      "bytes": 736832,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/025",
+      "name": "Citadel Basalt outcrop",
+      "path": "assets/environment_props/025.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2136,
+      "bytes": 207360,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/026",
+      "name": "Citadel Layered cliff",
+      "path": "assets/environment_props/026.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 976,
+      "bytes": 114080,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/027",
+      "name": "Citadel Broken column",
+      "path": "assets/environment_props/027.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 7618,
+      "bytes": 339340,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/028",
+      "name": "Citadel Stone cairn",
+      "path": "assets/environment_props/028.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 920,
+      "bytes": 107208,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/029",
+      "name": "Citadel Timber stump",
+      "path": "assets/environment_props/029.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3084,
+      "bytes": 194960,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/030",
+      "name": "Citadel Fallen log",
+      "path": "assets/environment_props/030.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4340,
+      "bytes": 271276,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/031",
+      "name": "Citadel Root cluster",
+      "path": "assets/environment_props/031.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4160,
+      "bytes": 286864,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/032",
+      "name": "Citadel Crystal cluster",
+      "path": "assets/environment_props/032.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 600,
+      "bytes": 87228,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/033",
+      "name": "Citadel Stalagmite cluster",
+      "path": "assets/environment_props/033.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4216,
+      "bytes": 216824,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/034",
+      "name": "Citadel Mushroom colony",
+      "path": "assets/environment_props/034.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5596,
+      "bytes": 325920,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/035",
+      "name": "Citadel Reed bed",
+      "path": "assets/environment_props/035.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3960,
+      "bytes": 287780,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/036",
+      "name": "Citadel Fern clump",
+      "path": "assets/environment_props/036.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5880,
+      "bytes": 346200,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/037",
+      "name": "Citadel Stone bench",
+      "path": "assets/environment_props/037.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 324,
+      "bytes": 61844,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/038",
+      "name": "Citadel Road marker",
+      "path": "assets/environment_props/038.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2470,
+      "bytes": 331800,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/039",
+      "name": "Citadel Ruin arch fragment",
+      "path": "assets/environment_props/039.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 964,
+      "bytes": 113256,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/040",
+      "name": "Citadel Market awning",
+      "path": "assets/environment_props/040.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 11312,
+      "bytes": 1058916,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/041",
+      "name": "Citadel Timber fence",
+      "path": "assets/environment_props/041.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3452,
+      "bytes": 370120,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/042",
+      "name": "Citadel Iron fence",
+      "path": "assets/environment_props/042.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5424,
+      "bytes": 449872,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/043",
+      "name": "Citadel Wall sconce",
+      "path": "assets/environment_props/043.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1488,
+      "bytes": 155644,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/044",
+      "name": "Citadel Rubble pile",
+      "path": "assets/environment_props/044.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1812,
+      "bytes": 178828,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/045",
+      "name": "Citadel Bridge piling",
+      "path": "assets/environment_props/045.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 892,
+      "bytes": 106408,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/046",
+      "name": "Citadel Ceramic urn",
+      "path": "assets/environment_props/046.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 16128,
+      "bytes": 533548,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/047",
+      "name": "Citadel Anchor",
+      "path": "assets/environment_props/047.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3344,
+      "bytes": 263860,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/048",
+      "name": "Citadel Supply cart",
+      "path": "assets/environment_props/048.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 9436,
+      "bytes": 749948,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/049",
+      "name": "Foundry Basalt outcrop",
+      "path": "assets/environment_props/049.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1324,
+      "bytes": 142376,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/050",
+      "name": "Foundry Layered cliff",
+      "path": "assets/environment_props/050.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1340,
+      "bytes": 142932,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/051",
+      "name": "Foundry Broken column",
+      "path": "assets/environment_props/051.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6350,
+      "bytes": 283636,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/052",
+      "name": "Foundry Stone cairn",
+      "path": "assets/environment_props/052.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 836,
+      "bytes": 101140,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/053",
+      "name": "Foundry Timber stump",
+      "path": "assets/environment_props/053.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3264,
+      "bytes": 169096,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/054",
+      "name": "Foundry Fallen log",
+      "path": "assets/environment_props/054.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3940,
+      "bytes": 227748,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/055",
+      "name": "Foundry Root cluster",
+      "path": "assets/environment_props/055.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4500,
+      "bytes": 304120,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/056",
+      "name": "Foundry Crystal cluster",
+      "path": "assets/environment_props/056.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 620,
+      "bytes": 89316,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/057",
+      "name": "Foundry Stalagmite cluster",
+      "path": "assets/environment_props/057.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4656,
+      "bytes": 230200,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/058",
+      "name": "Foundry Mushroom colony",
+      "path": "assets/environment_props/058.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6300,
+      "bytes": 353124,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/059",
+      "name": "Foundry Reed bed",
+      "path": "assets/environment_props/059.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4400,
+      "bytes": 312068,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/060",
+      "name": "Foundry Fern clump",
+      "path": "assets/environment_props/060.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6408,
+      "bytes": 372912,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/061",
+      "name": "Foundry Stone bench",
+      "path": "assets/environment_props/061.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 656,
+      "bytes": 125776,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/062",
+      "name": "Foundry Road marker",
+      "path": "assets/environment_props/062.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1910,
+      "bytes": 279552,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/063",
+      "name": "Foundry Ruin arch fragment",
+      "path": "assets/environment_props/063.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 884,
+      "bytes": 107464,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/064",
+      "name": "Foundry Market awning",
+      "path": "assets/environment_props/064.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 12988,
+      "bytes": 1198116,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/065",
+      "name": "Foundry Timber fence",
+      "path": "assets/environment_props/065.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3660,
+      "bytes": 394004,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/066",
+      "name": "Foundry Iron fence",
+      "path": "assets/environment_props/066.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5464,
+      "bytes": 452752,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/067",
+      "name": "Foundry Wall sconce",
+      "path": "assets/environment_props/067.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1300,
+      "bytes": 146536,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/068",
+      "name": "Foundry Rubble pile",
+      "path": "assets/environment_props/068.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2508,
+      "bytes": 275204,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/069",
+      "name": "Foundry Bridge piling",
+      "path": "assets/environment_props/069.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6492,
+      "bytes": 472012,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/070",
+      "name": "Foundry Ceramic urn",
+      "path": "assets/environment_props/070.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 12832,
+      "bytes": 519228,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/071",
+      "name": "Foundry Anchor",
+      "path": "assets/environment_props/071.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3680,
+      "bytes": 279144,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/072",
+      "name": "Foundry Supply cart",
+      "path": "assets/environment_props/072.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 9628,
+      "bytes": 763068,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/073",
+      "name": "Sanctum Basalt outcrop",
+      "path": "assets/environment_props/073.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1852,
+      "bytes": 184360,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/074",
+      "name": "Sanctum Layered cliff",
+      "path": "assets/environment_props/074.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1268,
+      "bytes": 137456,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/075",
+      "name": "Sanctum Broken column",
+      "path": "assets/environment_props/075.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4900,
+      "bytes": 245236,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/076",
+      "name": "Sanctum Stone cairn",
+      "path": "assets/environment_props/076.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1044,
+      "bytes": 141412,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/077",
+      "name": "Sanctum Timber stump",
+      "path": "assets/environment_props/077.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4448,
+      "bytes": 244488,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/078",
+      "name": "Sanctum Fallen log",
+      "path": "assets/environment_props/078.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3964,
+      "bytes": 217164,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/079",
+      "name": "Sanctum Root cluster",
+      "path": "assets/environment_props/079.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4864,
+      "bytes": 325736,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/080",
+      "name": "Sanctum Crystal cluster",
+      "path": "assets/environment_props/080.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 722,
+      "bytes": 98132,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/081",
+      "name": "Sanctum Stalagmite cluster",
+      "path": "assets/environment_props/081.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5180,
+      "bytes": 256568,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/082",
+      "name": "Sanctum Mushroom colony",
+      "path": "assets/environment_props/082.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 7388,
+      "bytes": 404520,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/083",
+      "name": "Sanctum Reed bed",
+      "path": "assets/environment_props/083.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4872,
+      "bytes": 338260,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/084",
+      "name": "Sanctum Fern clump",
+      "path": "assets/environment_props/084.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6936,
+      "bytes": 400584,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/085",
+      "name": "Sanctum Stone bench",
+      "path": "assets/environment_props/085.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1852,
+      "bytes": 222952,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/086",
+      "name": "Sanctum Road marker",
+      "path": "assets/environment_props/086.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1256,
+      "bytes": 218768,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/087",
+      "name": "Sanctum Ruin arch fragment",
+      "path": "assets/environment_props/087.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2248,
+      "bytes": 261756,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/088",
+      "name": "Sanctum Market awning",
+      "path": "assets/environment_props/088.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 11776,
+      "bytes": 1079332,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/089",
+      "name": "Sanctum Timber fence",
+      "path": "assets/environment_props/089.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2720,
+      "bytes": 308132,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/090",
+      "name": "Sanctum Iron fence",
+      "path": "assets/environment_props/090.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6744,
+      "bytes": 502236,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/091",
+      "name": "Sanctum Wall sconce",
+      "path": "assets/environment_props/091.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1488,
+      "bytes": 155644,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/092",
+      "name": "Sanctum Rubble pile",
+      "path": "assets/environment_props/092.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2036,
+      "bytes": 196016,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/093",
+      "name": "Sanctum Bridge piling",
+      "path": "assets/environment_props/093.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 896,
+      "bytes": 106732,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/094",
+      "name": "Sanctum Ceramic urn",
+      "path": "assets/environment_props/094.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 16384,
+      "bytes": 534072,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/095",
+      "name": "Sanctum Anchor",
+      "path": "assets/environment_props/095.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4016,
+      "bytes": 295344,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/096",
+      "name": "Sanctum Supply cart",
+      "path": "assets/environment_props/096.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 9820,
+      "bytes": 776184,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/097",
+      "name": "Expedition Basalt outcrop",
+      "path": "assets/environment_props/097.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1920,
+      "bytes": 190580,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/098",
+      "name": "Expedition Layered cliff",
+      "path": "assets/environment_props/098.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1392,
+      "bytes": 147184,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/099",
+      "name": "Expedition Broken column",
+      "path": "assets/environment_props/099.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5135,
+      "bytes": 250744,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/100",
+      "name": "Expedition Stone cairn",
+      "path": "assets/environment_props/100.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 800,
+      "bytes": 150560,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/101",
+      "name": "Expedition Timber stump",
+      "path": "assets/environment_props/101.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 3980,
+      "bytes": 242108,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/102",
+      "name": "Expedition Fallen log",
+      "path": "assets/environment_props/102.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4200,
+      "bytes": 236984,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/103",
+      "name": "Expedition Root cluster",
+      "path": "assets/environment_props/103.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5216,
+      "bytes": 345428,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/104",
+      "name": "Expedition Crystal cluster",
+      "path": "assets/environment_props/104.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 800,
+      "bytes": 104472,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/105",
+      "name": "Expedition Stalagmite cluster",
+      "path": "assets/environment_props/105.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5604,
+      "bytes": 269420,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/106",
+      "name": "Expedition Mushroom colony",
+      "path": "assets/environment_props/106.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 10208,
+      "bytes": 519524,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/107",
+      "name": "Expedition Reed bed",
+      "path": "assets/environment_props/107.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5312,
+      "bytes": 362280,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/108",
+      "name": "Expedition Fern clump",
+      "path": "assets/environment_props/108.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 7464,
+      "bytes": 428172,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/109",
+      "name": "Expedition Stone bench",
+      "path": "assets/environment_props/109.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 332,
+      "bytes": 78908,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/110",
+      "name": "Expedition Road marker",
+      "path": "assets/environment_props/110.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2586,
+      "bytes": 340996,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/111",
+      "name": "Expedition Ruin arch fragment",
+      "path": "assets/environment_props/111.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 832,
+      "bytes": 103228,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/112",
+      "name": "Expedition Market awning",
+      "path": "assets/environment_props/112.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 12700,
+      "bytes": 1050408,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/113",
+      "name": "Expedition Timber fence",
+      "path": "assets/environment_props/113.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2420,
+      "bytes": 283364,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/114",
+      "name": "Expedition Iron fence",
+      "path": "assets/environment_props/114.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 5424,
+      "bytes": 449876,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/115",
+      "name": "Expedition Wall sconce",
+      "path": "assets/environment_props/115.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 1300,
+      "bytes": 146540,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/116",
+      "name": "Expedition Rubble pile",
+      "path": "assets/environment_props/116.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 2616,
+      "bytes": 281212,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/117",
+      "name": "Expedition Bridge piling",
+      "path": "assets/environment_props/117.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 6544,
+      "bytes": 475800,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/118",
+      "name": "Expedition Ceramic urn",
+      "path": "assets/environment_props/118.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 18048,
+      "bytes": 645932,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/119",
+      "name": "Expedition Anchor",
+      "path": "assets/environment_props/119.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 4352,
+      "bytes": 311092,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    },
+    {
+      "id": "arsenal:environment_props/120",
+      "name": "Expedition Supply cart",
+      "path": "assets/environment_props/120.glb",
+      "source": "sources/upgrades/environment.mjs",
+      "triangles": 10204,
+      "bytes": 797944,
+      "limitations": [
+        "Art approval pending",
+        "Host integration pending",
+        "Physical device profiling pending"
+      ]
+    }
+  ]
+}

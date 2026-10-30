@@ -1,0 +1,5399 @@
+{
+  "scope": "Three.js import, studio still, and animation sampling; not art approval or gameplay certification",
+  "assets": [
+    {
+      "id": "arsenal:interactive_props/002",
+      "path": "assets/interactive_props/002.glb",
+      "preview": "assets/previews/arsenal-interactive_props-002.webp",
+      "bounds": {
+        "min": [
+          -0.3838088810443878,
+          0,
+          -0.27900001406669617
+        ],
+        "max": [
+          0.3479999899864197,
+          0.5671146512031555,
+          0.28450000286102295
+        ]
+      },
+      "dimensionsMeters": [
+        0.7318088710308075,
+        0.5671146512031555,
+        0.5635000169277191
+      ],
+      "triangles": 8676,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/002",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "blackened strap iron",
+        "weathered plank hardwood",
+        "packing straw",
+        "woven straw",
+        "recesses"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "quarter-sawn_hardwood",
+        "worn_timber_edges",
+        "blackened_strap_iron",
+        "weathered_plank_hardwood",
+        "packing_straw",
+        "woven_straw",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/003",
+      "path": "assets/interactive_props/003.glb",
+      "preview": "assets/previews/arsenal-interactive_props-003.webp",
+      "bounds": {
+        "min": [
+          -0.2888490557670593,
+          0,
+          -0.28931403160095215
+        ],
+        "max": [
+          0.2888490557670593,
+          0.7609999775886536,
+          0.29544597864151
+        ]
+      },
+      "dimensionsMeters": [
+        0.5776981115341187,
+        0.7609999775886536,
+        0.5847600102424622
+      ],
+      "triangles": 6280,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/003",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "sawn end-grain timber",
+        "forged iron",
+        "blackened strap iron",
+        "recesses"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "sawn_end-grain_timber",
+        "forged_iron",
+        "blackened_strap_iron",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/004",
+      "path": "assets/interactive_props/004.glb",
+      "preview": "assets/previews/arsenal-interactive_props-004.webp",
+      "bounds": {
+        "min": [
+          -0.10499999672174454,
+          0,
+          -0.10499999672174454
+        ],
+        "max": [
+          0.1320154368877411,
+          0.35749998688697815,
+          0.10849999636411667
+        ]
+      },
+      "dimensionsMeters": [
+        0.23701543360948563,
+        0.35749998688697815,
+        0.2134999930858612
+      ],
+      "triangles": 1824,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/004",
+        "attach.origin",
+        "glazed stoneware",
+        "tooled stone trim",
+        "sawn end-grain timber",
+        "hemp rope",
+        "parchment",
+        "iron-gall ink"
+      ],
+      "meshNames": [
+        "glazed_stoneware",
+        "tooled_stone_trim",
+        "sawn_end-grain_timber",
+        "hemp_rope",
+        "parchment",
+        "iron-gall_ink"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/005",
+      "path": "assets/interactive_props/005.glb",
+      "preview": "assets/previews/arsenal-interactive_props-005.webp",
+      "bounds": {
+        "min": [
+          -0.1304822713136673,
+          0,
+          -0.1080000028014183
+        ],
+        "max": [
+          0.1340000033378601,
+          0.4958271086215973,
+          0.1080000028014183
+        ]
+      },
+      "dimensionsMeters": [
+        0.2644822746515274,
+        0.4958271086215973,
+        0.2160000056028366
+      ],
+      "triangles": 3824,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/005",
+        "attach.origin",
+        "forged iron",
+        "blown glass",
+        "aged brass fittings",
+        "linen thread",
+        "lamp flame",
+        "recesses"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "blown_glass",
+        "aged_brass_fittings",
+        "linen_thread",
+        "lamp_flame",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/006",
+      "path": "assets/interactive_props/006.glb",
+      "preview": "assets/previews/arsenal-interactive_props-006.webp",
+      "bounds": {
+        "min": [
+          -0.26100000739097595,
+          0,
+          -0.23999999463558197
+        ],
+        "max": [
+          0.4652999937534332,
+          0.8849999904632568,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        0.7263000011444092,
+        0.8849999904632568,
+        0.47999998927116394
+      ],
+      "triangles": 4424,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/006",
+        "attach.origin",
+        "rough bark timber",
+        "sawn end-grain timber",
+        "hardwood bevel and dark grain",
+        "blackened strap iron",
+        "forged iron",
+        "machined steel",
+        "recesses",
+        "worn timber edges"
+      ],
+      "meshNames": [
+        "rough_bark_timber",
+        "sawn_end-grain_timber",
+        "hardwood_bevel_and_dark_grain",
+        "blackened_strap_iron",
+        "forged_iron",
+        "machined_steel",
+        "recesses",
+        "worn_timber_edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/007",
+      "path": "assets/interactive_props/007.glb",
+      "preview": "assets/previews/arsenal-interactive_props-007.webp",
+      "bounds": {
+        "min": [
+          -0.6000000238418579,
+          -0.002195530803874135,
+          -0.2980000078678131
+        ],
+        "max": [
+          0.6000000238418579,
+          0.9375,
+          0.382999986410141
+        ]
+      },
+      "dimensionsMeters": [
+        1.2000000476837158,
+        0.9396955308038741,
+        0.6809999942779541
+      ],
+      "triangles": 7128,
+      "meshes": 9,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/007",
+        "bench_drawer",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "attach.origin",
+        "worn timber edges",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "machined steel",
+        "sawn end-grain timber"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "worn_timber_edges_1",
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain_1",
+        "weathered_plank_hardwood",
+        "machined_steel",
+        "sawn_end-grain_timber"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/008",
+      "path": "assets/interactive_props/008.glb",
+      "preview": "assets/previews/arsenal-interactive_props-008.webp",
+      "bounds": {
+        "min": [
+          -0.5450000166893005,
+          -1.490116086078075e-10,
+          -0.25
+        ],
+        "max": [
+          0.5450000166893005,
+          1.6699999570846558,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        1.090000033378601,
+        1.6699999572336675,
+        0.5
+      ],
+      "triangles": 9792,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/008",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "worn timber edges",
+        "forged iron",
+        "waxed leather",
+        "machined steel"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "worn_timber_edges",
+        "forged_iron",
+        "waxed_leather",
+        "machined_steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/009",
+      "path": "assets/interactive_props/009.glb",
+      "preview": "assets/previews/arsenal-interactive_props-009.webp",
+      "bounds": {
+        "min": [
+          -0.39053797721862793,
+          -0.006991466972976923,
+          -0.6250591278076172
+        ],
+        "max": [
+          0.39053797721862793,
+          1.5269914865493774,
+          0.6704734563827515
+        ]
+      },
+      "dimensionsMeters": [
+        0.7810759544372559,
+        1.5339829535223544,
+        1.2955325841903687
+      ],
+      "triangles": 16184,
+      "meshes": 14,
+      "materials": 14,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/009",
+        "attach.origin",
+        "woven straw",
+        "hemp rope",
+        "chalk white enamel",
+        "lamp-black enamel",
+        "blue enamel",
+        "faded red enamel",
+        "ochre enamel",
+        "worn timber edges",
+        "linen thread",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "woven_straw",
+        "hemp_rope",
+        "chalk_white_enamel",
+        "lamp-black_enamel",
+        "blue_enamel",
+        "faded_red_enamel",
+        "ochre_enamel",
+        "worn_timber_edges",
+        "linen_thread",
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron",
+        "blackened_strap_iron",
+        "aged_brass_fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/010",
+      "path": "assets/interactive_props/010.glb",
+      "preview": "assets/previews/arsenal-interactive_props-010.webp",
+      "bounds": {
+        "min": [
+          -0.26600000262260437,
+          0.0005000001401640475,
+          -0.2630000114440918
+        ],
+        "max": [
+          0.26600000262260437,
+          0.5223637223243713,
+          0.2630000114440918
+        ]
+      },
+      "dimensionsMeters": [
+        0.5320000052452087,
+        0.5218637221842073,
+        0.5260000228881836
+      ],
+      "triangles": 4276,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/010",
+        "attach.origin",
+        "forged iron",
+        "banked embers",
+        "charcoal"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "banked_embers",
+        "charcoal"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/011",
+      "path": "assets/interactive_props/011.glb",
+      "preview": "assets/previews/arsenal-interactive_props-011.webp",
+      "bounds": {
+        "min": [
+          -0.23000000417232513,
+          6.705522803684971e-10,
+          -0.17000000178813934
+        ],
+        "max": [
+          0.5496892285346985,
+          1.1071420088410378,
+          0.6949999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.7796892327070236,
+        1.1071420081704855,
+        0.864999994635582
+      ],
+      "triangles": 5496,
+      "meshes": 10,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/011",
+        "mechanism_11_0",
+        "machined steel",
+        "forged iron",
+        "worn timber edges",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "hardwood bevel and dark grain",
+        "forged iron",
+        "dressed stone",
+        "weathered plank hardwood",
+        "still water"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "forged_iron",
+        "worn_timber_edges",
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron_1",
+        "dressed_stone",
+        "weathered_plank_hardwood",
+        "still_water"
+      ],
+      "animations": [
+        "pump"
+      ],
+      "animationChecks": [
+        {
+          "name": "pump",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/012",
+      "path": "assets/interactive_props/012.glb",
+      "preview": "assets/previews/arsenal-interactive_props-012.webp",
+      "bounds": {
+        "min": [
+          -0.3100000023841858,
+          -7.450580707946131e-10,
+          -0.2549999952316284
+        ],
+        "max": [
+          0.3100000023841858,
+          0.6850000023841858,
+          0.3316991369128227
+        ]
+      },
+      "dimensionsMeters": [
+        0.6200000047683716,
+        0.6850000031292438,
+        0.5866991321444511
+      ],
+      "triangles": 5172,
+      "meshes": 10,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/012",
+        "mechanism_12_0",
+        "forged iron",
+        "recesses",
+        "aged brass fittings",
+        "machined steel",
+        "hardwood bevel and dark grain",
+        "attach.origin",
+        "forged iron",
+        "machined steel",
+        "velvet cushion",
+        "hardwood bevel and dark grain",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "machined_steel",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron_1",
+        "machined_steel_1",
+        "velvet_cushion",
+        "hardwood_bevel_and_dark_grain_1",
+        "blackened_strap_iron"
+      ],
+      "animations": [
+        "unlock_open"
+      ],
+      "animationChecks": [
+        {
+          "name": "unlock_open",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/013",
+      "path": "assets/interactive_props/013.glb",
+      "preview": "assets/previews/arsenal-interactive_props-013.webp",
+      "bounds": {
+        "min": [
+          -0.35179999470710754,
+          -0.007108960300683975,
+          -0.18967348337173462
+        ],
+        "max": [
+          0.37720000743865967,
+          0.9316928616166115,
+          0.358693927526474
+        ]
+      },
+      "dimensionsMeters": [
+        0.7290000021457672,
+        0.9388018219172954,
+        0.5483674108982086
+      ],
+      "triangles": 3332,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/013",
+        "mechanism_13_0",
+        "aged brass fittings",
+        "forged iron",
+        "blown glass",
+        "recesses",
+        "hardwood bevel and dark grain",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "aged brass fittings",
+        "forged iron"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "forged_iron",
+        "blown_glass",
+        "recesses",
+        "hardwood_bevel_and_dark_grain",
+        "quarter-sawn_hardwood",
+        "aged_brass_fittings_1",
+        "forged_iron_1"
+      ],
+      "animations": [
+        "survey"
+      ],
+      "animationChecks": [
+        {
+          "name": "survey",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/014",
+      "path": "assets/interactive_props/014.glb",
+      "preview": "assets/previews/arsenal-interactive_props-014.webp",
+      "bounds": {
+        "min": [
+          -0.28659385442733765,
+          0.017500000074505806,
+          -0.0949999988079071
+        ],
+        "max": [
+          0.28659385442733765,
+          0.6819999814033508,
+          0.14000000059604645
+        ]
+      },
+      "dimensionsMeters": [
+        0.5731877088546753,
+        0.664499981328845,
+        0.23499999940395355
+      ],
+      "triangles": 4306,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/014",
+        "attach.origin",
+        "waxed leather",
+        "oiled dark leather",
+        "aged brass fittings",
+        "recesses",
+        "linen thread",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "waxed_leather",
+        "oiled_dark_leather",
+        "aged_brass_fittings",
+        "recesses",
+        "linen_thread",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/015",
+      "path": "assets/interactive_props/015.glb",
+      "preview": "assets/previews/arsenal-interactive_props-015.webp",
+      "bounds": {
+        "min": [
+          -0.2849999964237213,
+          -1.8626451769865326e-10,
+          -0.11500000208616257
+        ],
+        "max": [
+          0.2849999964237213,
+          0.3319999873638153,
+          0.11500000208616257
+        ]
+      },
+      "dimensionsMeters": [
+        0.5699999928474426,
+        0.3319999875500798,
+        0.23000000417232513
+      ],
+      "triangles": 5660,
+      "meshes": 12,
+      "materials": 12,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/015",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink",
+        "second tincture fluid",
+        "forged iron",
+        "worn timber edges"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "quarter-sawn_hardwood",
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink",
+        "second_tincture_fluid",
+        "forged_iron",
+        "worn_timber_edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/016",
+      "path": "assets/interactive_props/016.glb",
+      "preview": "assets/previews/arsenal-interactive_props-016.webp",
+      "bounds": {
+        "min": [
+          -0.09000000357627869,
+          -5.215406578829018e-11,
+          -0.09000000357627869
+        ],
+        "max": [
+          0.2123240828514099,
+          0.5,
+          0.09000000357627869
+        ]
+      },
+      "dimensionsMeters": [
+        0.3023240864276886,
+        0.5000000000521541,
+        0.18000000715255737
+      ],
+      "triangles": 3260,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/016",
+        "attach.origin",
+        "waxed leather",
+        "aged brass fittings",
+        "forged iron",
+        "linen thread",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "waxed_leather",
+        "aged_brass_fittings",
+        "forged_iron",
+        "linen_thread",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/017",
+      "path": "assets/interactive_props/017.glb",
+      "preview": "assets/previews/arsenal-interactive_props-017.webp",
+      "bounds": {
+        "min": [
+          -0.36000001430511475,
+          -1.7881393032936899e-9,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.36000001430511475,
+          1.069200038909912,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.7200000286102295,
+        1.0692000406980515,
+        0.6299999952316284
+      ],
+      "triangles": 6294,
+      "meshes": 11,
+      "materials": 11,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/017",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "recesses",
+        "dyed linen cloth",
+        "ochre enamel",
+        "aged brass fittings",
+        "faded red enamel",
+        "tallow wax",
+        "lamp flame",
+        "cast bell bronze",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "recesses",
+        "dyed_linen_cloth",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "faded_red_enamel",
+        "tallow_wax",
+        "lamp_flame",
+        "cast_bell_bronze",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/018",
+      "path": "assets/interactive_props/018.glb",
+      "preview": "assets/previews/arsenal-interactive_props-018.webp",
+      "bounds": {
+        "min": [
+          -0.15700000524520874,
+          0,
+          -0.15700000524520874
+        ],
+        "max": [
+          0.17459940910339355,
+          0.31114786863327026,
+          0.15700000524520874
+        ]
+      },
+      "dimensionsMeters": [
+        0.3315994143486023,
+        0.31114786863327026,
+        0.3140000104904175
+      ],
+      "triangles": 2256,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/018",
+        "attach.origin",
+        "dressed stone",
+        "woven straw"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "woven_straw"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/019",
+      "path": "assets/interactive_props/019.glb",
+      "preview": "assets/previews/arsenal-interactive_props-019.webp",
+      "bounds": {
+        "min": [
+          -0.3700000047683716,
+          6.705522803684971e-10,
+          -0.20999999344348907
+        ],
+        "max": [
+          0.3700000047683716,
+          1.2200000286102295,
+          0.20999999344348907
+        ]
+      },
+      "dimensionsMeters": [
+        0.7400000095367432,
+        1.2200000279396772,
+        0.41999998688697815
+      ],
+      "triangles": 6470,
+      "meshes": 12,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/019",
+        "mechanism_19_0",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "cast bell bronze",
+        "aged brass fittings",
+        "forged iron",
+        "hemp rope",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "machined steel",
+        "forged iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "forged_iron",
+        "hemp_rope",
+        "quarter-sawn_hardwood_1",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "machined_steel",
+        "forged_iron_1",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "ring"
+      ],
+      "animationChecks": [
+        {
+          "name": "ring",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/020",
+      "path": "assets/interactive_props/020.glb",
+      "preview": "assets/previews/arsenal-interactive_props-020.webp",
+      "bounds": {
+        "min": [
+          -0.27000001072883606,
+          8.940696516468449e-10,
+          -0.23999999463558197
+        ],
+        "max": [
+          0.27000001072883606,
+          0.9192000031471252,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        0.5400000214576721,
+        0.9192000022530555,
+        0.47999998927116394
+      ],
+      "triangles": 3104,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/020",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "velvet cushion",
+        "ochre enamel",
+        "aged brass fittings",
+        "forged iron",
+        "tallow wax",
+        "recesses",
+        "lamp flame",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "velvet_cushion",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "forged_iron",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/021",
+      "path": "assets/interactive_props/021.glb",
+      "preview": "assets/previews/arsenal-interactive_props-021.webp",
+      "bounds": {
+        "min": [
+          -0.44999998807907104,
+          -8.940696516468449e-10,
+          -0.27399998903274536
+        ],
+        "max": [
+          0.44999998807907104,
+          0.6088331515789032,
+          0.27399998903274536
+        ]
+      },
+      "dimensionsMeters": [
+        0.8999999761581421,
+        0.6088331524729729,
+        0.5479999780654907
+      ],
+      "triangles": 13764,
+      "meshes": 14,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/021",
+        "mechanism_21_0",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "forged iron",
+        "blackened strap iron",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings",
+        "recesses"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron",
+        "blackened_strap_iron",
+        "hardwood_bevel_and_dark_grain_1",
+        "quarter-sawn_hardwood_1",
+        "weathered_plank_hardwood_1",
+        "worn_timber_edges_1",
+        "forged_iron_1",
+        "blackened_strap_iron_1",
+        "aged_brass_fittings",
+        "recesses"
+      ],
+      "animations": [
+        "open_close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open_close",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/022",
+      "path": "assets/interactive_props/022.glb",
+      "preview": "assets/previews/arsenal-interactive_props-022.webp",
+      "bounds": {
+        "min": [
+          -0.3425000011920929,
+          -7.450580430390374e-11,
+          -0.3154999911785126
+        ],
+        "max": [
+          0.3425000011920929,
+          0.6190000176429749,
+          0.3190000057220459
+        ]
+      },
+      "dimensionsMeters": [
+        0.6850000023841858,
+        0.6190000177174807,
+        0.6344999969005585
+      ],
+      "triangles": 12460,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/022",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "blackened strap iron",
+        "recesses",
+        "aged brass fittings",
+        "lamp-black enamel"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "blackened_strap_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "lamp-black_enamel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/023",
+      "path": "assets/interactive_props/023.glb",
+      "preview": "assets/previews/arsenal-interactive_props-023.webp",
+      "bounds": {
+        "min": [
+          -0.33000001311302185,
+          2.2351741291171123e-10,
+          -0.2670562267303467
+        ],
+        "max": [
+          0.4300000071525574,
+          0.6393142938613892,
+          0.2670562267303467
+        ]
+      },
+      "dimensionsMeters": [
+        0.7600000202655792,
+        0.6393142936378717,
+        0.5341124534606934
+      ],
+      "triangles": 8272,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/023",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "sawn end-grain timber",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "sawn_end-grain_timber",
+        "forged_iron",
+        "blackened_strap_iron",
+        "aged_brass_fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/024",
+      "path": "assets/interactive_props/024.glb",
+      "preview": "assets/previews/arsenal-interactive_props-024.webp",
+      "bounds": {
+        "min": [
+          -0.1589234471321106,
+          -0.004000000189989805,
+          -0.11874999850988388
+        ],
+        "max": [
+          0.1589234471321106,
+          0.5680000185966492,
+          0.18169914186000824
+        ]
+      },
+      "dimensionsMeters": [
+        0.3178468942642212,
+        0.572000018786639,
+        0.3004491403698921
+      ],
+      "triangles": 2484,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/024",
+        "attach.origin",
+        "forged iron",
+        "blown glass",
+        "tincture fluid",
+        "linen thread",
+        "aged brass fittings",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "blown_glass",
+        "tincture_fluid",
+        "linen_thread",
+        "aged_brass_fittings",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/025",
+      "path": "assets/interactive_props/025.glb",
+      "preview": "assets/previews/arsenal-interactive_props-025.webp",
+      "bounds": {
+        "min": [
+          -0.11313708126544952,
+          3.3527614018424856e-10,
+          -0.11313708126544952
+        ],
+        "max": [
+          0.11313708126544952,
+          0.5410000085830688,
+          0.11313708126544952
+        ]
+      },
+      "dimensionsMeters": [
+        0.22627416253089905,
+        0.5410000082477927,
+        0.22627416253089905
+      ],
+      "triangles": 2816,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/025",
+        "attach.origin",
+        "forged iron",
+        "blackened strap iron",
+        "blown glass",
+        "aged brass fittings",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "blackened_strap_iron",
+        "blown_glass",
+        "aged_brass_fittings",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/026",
+      "path": "assets/interactive_props/026.glb",
+      "preview": "assets/previews/arsenal-interactive_props-026.webp",
+      "bounds": {
+        "min": [
+          -0.43700000643730164,
+          -3.7252903539730653e-10,
+          -0.20999999344348907
+        ],
+        "max": [
+          0.5169999599456787,
+          0.8999999761581421,
+          0.41263115406036377
+        ]
+      },
+      "dimensionsMeters": [
+        0.9539999663829803,
+        0.8999999765306711,
+        0.6226311475038528
+      ],
+      "triangles": 3036,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/026",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "forged iron",
+        "machined steel",
+        "recesses",
+        "blackened strap iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "forged_iron",
+        "machined_steel",
+        "recesses",
+        "blackened_strap_iron",
+        "aged_brass_fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/027",
+      "path": "assets/interactive_props/027.glb",
+      "preview": "assets/previews/arsenal-interactive_props-027.webp",
+      "bounds": {
+        "min": [
+          -0.5600000023841858,
+          -1.0728836485895954e-8,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.5600000023841858,
+          1.1924999952316284,
+          0.4516991376876831
+        ]
+      },
+      "dimensionsMeters": [
+        1.1200000047683716,
+        1.192500005960465,
+        0.7616991400718689
+      ],
+      "triangles": 9944,
+      "meshes": 11,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/027",
+        "bench_drawer",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "attach.origin",
+        "weathered plank hardwood",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "machined steel",
+        "forged iron",
+        "recesses",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "weathered_plank_hardwood",
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain_1",
+        "worn_timber_edges_1",
+        "machined_steel",
+        "forged_iron",
+        "recesses",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/028",
+      "path": "assets/interactive_props/028.glb",
+      "preview": "assets/previews/arsenal-interactive_props-028.webp",
+      "bounds": {
+        "min": [
+          -0.5600000023841858,
+          -0.0066061425022780895,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.5600000023841858,
+          1.2699999809265137,
+          0.3100000023841858
+        ]
+      },
+      "dimensionsMeters": [
+        1.1200000047683716,
+        1.2766061234287918,
+        0.6200000047683716
+      ],
+      "triangles": 10160,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/028",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "recesses",
+        "waxed leather",
+        "machined steel",
+        "forged iron",
+        "aged brass fittings",
+        "oiled dark leather"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "recesses",
+        "waxed_leather",
+        "machined_steel",
+        "forged_iron",
+        "aged_brass_fittings",
+        "oiled_dark_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/029",
+      "path": "assets/interactive_props/029.glb",
+      "preview": "assets/previews/arsenal-interactive_props-029.webp",
+      "bounds": {
+        "min": [
+          -0.4749999940395355,
+          -0.005741307511925697,
+          -0.30000001192092896
+        ],
+        "max": [
+          0.4749999940395355,
+          1.0524479150772095,
+          0.8175974488258362
+        ]
+      },
+      "dimensionsMeters": [
+        0.949999988079071,
+        1.0581892225891352,
+        1.1175974607467651
+      ],
+      "triangles": 6262,
+      "meshes": 13,
+      "materials": 13,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/029",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "woven straw",
+        "hemp rope",
+        "parchment",
+        "chalk white enamel",
+        "lamp-black enamel",
+        "blue enamel",
+        "faded red enamel",
+        "ochre enamel",
+        "forged iron",
+        "worn timber edges",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "woven_straw",
+        "hemp_rope",
+        "parchment",
+        "chalk_white_enamel",
+        "lamp-black_enamel",
+        "blue_enamel",
+        "faded_red_enamel",
+        "ochre_enamel",
+        "forged_iron",
+        "worn_timber_edges",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/030",
+      "path": "assets/interactive_props/030.glb",
+      "preview": "assets/previews/arsenal-interactive_props-030.webp",
+      "bounds": {
+        "min": [
+          -0.3070000112056732,
+          0,
+          -0.3070000112056732
+        ],
+        "max": [
+          0.3070000112056732,
+          0.8164126873016357,
+          0.3070000112056732
+        ]
+      },
+      "dimensionsMeters": [
+        0.6140000224113464,
+        0.8164126873016357,
+        0.6140000224113464
+      ],
+      "triangles": 3440,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/030",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "cast bell bronze",
+        "banked embers",
+        "charcoal"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "cast_bell_bronze",
+        "banked_embers",
+        "charcoal"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/031",
+      "path": "assets/interactive_props/031.glb",
+      "preview": "assets/previews/arsenal-interactive_props-031.webp",
+      "bounds": {
+        "min": [
+          -0.4399999976158142,
+          0,
+          -0.4399999976158142
+        ],
+        "max": [
+          0.4399999976158142,
+          1.1119999885559082,
+          0.4399999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        0.8799999952316284,
+        1.1119999885559082,
+        0.8799999952316284
+      ],
+      "triangles": 4176,
+      "meshes": 9,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/031",
+        "mechanism_31_0",
+        "machined steel",
+        "forged iron",
+        "worn timber edges",
+        "attach.origin",
+        "dressed stone",
+        "still water",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings",
+        "recesses"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "forged_iron",
+        "worn_timber_edges",
+        "dressed_stone",
+        "still_water",
+        "forged_iron_1",
+        "blackened_strap_iron",
+        "aged_brass_fittings",
+        "recesses"
+      ],
+      "animations": [
+        "pump"
+      ],
+      "animationChecks": [
+        {
+          "name": "pump",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/032",
+      "path": "assets/interactive_props/032.glb",
+      "preview": "assets/previews/arsenal-interactive_props-032.webp",
+      "bounds": {
+        "min": [
+          -0.3499999940395355,
+          0.0026076887734234333,
+          -0.29499998688697815
+        ],
+        "max": [
+          0.3499999940395355,
+          1.0800000429153442,
+          0.38169913691282276
+        ]
+      },
+      "dimensionsMeters": [
+        0.699999988079071,
+        1.0773923541419208,
+        0.6766991237998009
+      ],
+      "triangles": 5360,
+      "meshes": 9,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/032",
+        "mechanism_32_0",
+        "forged iron",
+        "recesses",
+        "aged brass fittings",
+        "machined steel",
+        "ochre enamel",
+        "attach.origin",
+        "forged iron",
+        "machined steel",
+        "velvet cushion",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "machined_steel",
+        "ochre_enamel",
+        "forged_iron_1",
+        "machined_steel_1",
+        "velvet_cushion",
+        "blackened_strap_iron"
+      ],
+      "animations": [
+        "unlock_open"
+      ],
+      "animationChecks": [
+        {
+          "name": "unlock_open",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/033",
+      "path": "assets/interactive_props/033.glb",
+      "preview": "assets/previews/arsenal-interactive_props-033.webp",
+      "bounds": {
+        "min": [
+          -0.38359999656677246,
+          0,
+          -0.18424351513385773
+        ],
+        "max": [
+          0.4023999869823456,
+          1.06700000166893,
+          0.33924350142478943
+        ]
+      },
+      "dimensionsMeters": [
+        0.785999983549118,
+        1.06700000166893,
+        0.5234870165586472
+      ],
+      "triangles": 5780,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/033",
+        "mechanism_33_0",
+        "aged brass fittings",
+        "forged iron",
+        "blown glass",
+        "recesses",
+        "hardwood bevel and dark grain",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "forged_iron",
+        "blown_glass",
+        "recesses",
+        "hardwood_bevel_and_dark_grain",
+        "hardwood_bevel_and_dark_grain_1",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "survey"
+      ],
+      "animationChecks": [
+        {
+          "name": "survey",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/034",
+      "path": "assets/interactive_props/034.glb",
+      "preview": "assets/previews/arsenal-interactive_props-034.webp",
+      "bounds": {
+        "min": [
+          -0.2199999988079071,
+          0.009999994188547134,
+          -0.05999999865889549
+        ],
+        "max": [
+          0.2199999988079071,
+          0.38693666458129883,
+          0.06599999964237213
+        ]
+      },
+      "dimensionsMeters": [
+        0.4399999976158142,
+        0.3769366703927517,
+        0.12599999830126762
+      ],
+      "triangles": 2900,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/034",
+        "attach.origin",
+        "oiled dark leather",
+        "waxed leather",
+        "aged brass fittings",
+        "linen thread",
+        "recesses"
+      ],
+      "meshNames": [
+        "oiled_dark_leather",
+        "waxed_leather",
+        "aged_brass_fittings",
+        "linen_thread",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/035",
+      "path": "assets/interactive_props/035.glb",
+      "preview": "assets/previews/arsenal-interactive_props-035.webp",
+      "bounds": {
+        "min": [
+          -0.33000001311302185,
+          0,
+          -0.11999999731779099
+        ],
+        "max": [
+          0.33000001311302185,
+          0.5249999761581421,
+          0.11999999731779099
+        ]
+      },
+      "dimensionsMeters": [
+        0.6600000262260437,
+        0.5249999761581421,
+        0.23999999463558197
+      ],
+      "triangles": 11168,
+      "meshes": 13,
+      "materials": 13,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/035",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink",
+        "second tincture fluid",
+        "recesses"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink",
+        "second_tincture_fluid",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/036",
+      "path": "assets/interactive_props/036.glb",
+      "preview": "assets/previews/arsenal-interactive_props-036.webp",
+      "bounds": {
+        "min": [
+          -0.3228757679462433,
+          -1.8626451769865326e-10,
+          -0.10000000149011612
+        ],
+        "max": [
+          0.3228757679462433,
+          0.3059999942779541,
+          0.10000000149011612
+        ]
+      },
+      "dimensionsMeters": [
+        0.6457515358924866,
+        0.3059999944642186,
+        0.20000000298023224
+      ],
+      "triangles": 2310,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/036",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "velvet cushion",
+        "quarter-sawn hardwood",
+        "aged brass fittings",
+        "blackened strap iron",
+        "ochre enamel"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "velvet_cushion",
+        "quarter-sawn_hardwood",
+        "aged_brass_fittings",
+        "blackened_strap_iron",
+        "ochre_enamel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/037",
+      "path": "assets/interactive_props/037.glb",
+      "preview": "assets/previews/arsenal-interactive_props-037.webp",
+      "bounds": {
+        "min": [
+          -0.36000001430511475,
+          -1.7881393032936899e-9,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.36000001430511475,
+          1.069200038909912,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.7200000286102295,
+        1.0692000406980515,
+        0.6299999952316284
+      ],
+      "triangles": 6246,
+      "meshes": 11,
+      "materials": 11,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/037",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "dyed linen cloth",
+        "ochre enamel",
+        "aged brass fittings",
+        "faded red enamel",
+        "tallow wax",
+        "recesses",
+        "lamp flame",
+        "cast bell bronze",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "dyed_linen_cloth",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "faded_red_enamel",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame",
+        "cast_bell_bronze",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/038",
+      "path": "assets/interactive_props/038.glb",
+      "preview": "assets/previews/arsenal-interactive_props-038.webp",
+      "bounds": {
+        "min": [
+          -0.15199999511241913,
+          0,
+          -0.14000000059604645
+        ],
+        "max": [
+          0.15199999511241913,
+          0.30629655718803406,
+          0.14000000059604645
+        ]
+      },
+      "dimensionsMeters": [
+        0.30399999022483826,
+        0.30629655718803406,
+        0.2800000011920929
+      ],
+      "triangles": 1920,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/038",
+        "attach.origin",
+        "cast bell bronze",
+        "second tincture fluid"
+      ],
+      "meshNames": [
+        "cast_bell_bronze",
+        "second_tincture_fluid"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/039",
+      "path": "assets/interactive_props/039.glb",
+      "preview": "assets/previews/arsenal-interactive_props-039.webp",
+      "bounds": {
+        "min": [
+          -0.4660576283931732,
+          6.705522803684971e-10,
+          -0.2287999987602234
+        ],
+        "max": [
+          0.4660576283931732,
+          1.5099999904632568,
+          0.2287999987602234
+        ]
+      },
+      "dimensionsMeters": [
+        0.9321152567863464,
+        1.5099999897927046,
+        0.4575999975204468
+      ],
+      "triangles": 8876,
+      "meshes": 13,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/039",
+        "mechanism_39_0",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "cast bell bronze",
+        "aged brass fittings",
+        "forged iron",
+        "hemp rope",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "machined steel",
+        "forged iron",
+        "aged brass fittings",
+        "weathered plank hardwood"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "forged_iron",
+        "hemp_rope",
+        "quarter-sawn_hardwood_1",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "machined_steel",
+        "forged_iron_1",
+        "aged_brass_fittings_1",
+        "weathered_plank_hardwood"
+      ],
+      "animations": [
+        "ring"
+      ],
+      "animationChecks": [
+        {
+          "name": "ring",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/040",
+      "path": "assets/interactive_props/040.glb",
+      "preview": "assets/previews/arsenal-interactive_props-040.webp",
+      "bounds": {
+        "min": [
+          -0.27000001072883606,
+          8.940696516468449e-10,
+          -0.23999999463558197
+        ],
+        "max": [
+          0.27000001072883606,
+          0.8159999847412109,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        0.5400000214576721,
+        0.8159999838471412,
+        0.47999998927116394
+      ],
+      "triangles": 3180,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/040",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "velvet cushion",
+        "ochre enamel",
+        "aged brass fittings",
+        "recesses"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "velvet_cushion",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/041",
+      "path": "assets/interactive_props/041.glb",
+      "preview": "assets/previews/arsenal-interactive_props-041.webp",
+      "bounds": {
+        "min": [
+          -0.44999998807907104,
+          4.4703482582342247e-10,
+          -0.2840000092983246
+        ],
+        "max": [
+          0.44999998807907104,
+          0.48899999260902405,
+          0.2840000092983246
+        ]
+      },
+      "dimensionsMeters": [
+        0.8999999761581421,
+        0.4889999921619892,
+        0.5680000185966492
+      ],
+      "triangles": 16084,
+      "meshes": 10,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/041",
+        "mechanism_41_0",
+        "blackened strap iron",
+        "forged iron",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "weathered plank hardwood",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings",
+        "recesses"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "hardwood_bevel_and_dark_grain",
+        "quarter-sawn_hardwood",
+        "worn_timber_edges",
+        "weathered_plank_hardwood",
+        "forged_iron_1",
+        "blackened_strap_iron_1",
+        "aged_brass_fittings",
+        "recesses"
+      ],
+      "animations": [
+        "open_close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open_close",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/042",
+      "path": "assets/interactive_props/042.glb",
+      "preview": "assets/previews/arsenal-interactive_props-042.webp",
+      "bounds": {
+        "min": [
+          -0.36899998784065247,
+          -7.450580430390374e-11,
+          -0.30149999260902405
+        ],
+        "max": [
+          0.36899998784065247,
+          0.652999997138977,
+          0.30149999260902405
+        ]
+      },
+      "dimensionsMeters": [
+        0.7379999756813049,
+        0.6529999972134829,
+        0.6029999852180481
+      ],
+      "triangles": 15912,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/042",
+        "attach.origin",
+        "worn timber edges",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "hardwood bevel and dark grain",
+        "blackened strap iron",
+        "aged brass fittings",
+        "forged iron",
+        "machined steel",
+        "chalk white enamel"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "blackened_strap_iron",
+        "aged_brass_fittings",
+        "forged_iron",
+        "machined_steel",
+        "chalk_white_enamel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/043",
+      "path": "assets/interactive_props/043.glb",
+      "preview": "assets/previews/arsenal-interactive_props-043.webp",
+      "bounds": {
+        "min": [
+          -0.30598533153533936,
+          0,
+          -0.30598533153533936
+        ],
+        "max": [
+          0.30598533153533936,
+          0.8395000100135803,
+          0.30598533153533936
+        ]
+      },
+      "dimensionsMeters": [
+        0.6119706630706787,
+        0.8395000100135803,
+        0.6119706630706787
+      ],
+      "triangles": 8724,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/043",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "sawn end-grain timber",
+        "blackened strap iron",
+        "forged iron",
+        "aged brass fittings",
+        "machined steel"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "sawn_end-grain_timber",
+        "blackened_strap_iron",
+        "forged_iron",
+        "aged_brass_fittings",
+        "machined_steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/044",
+      "path": "assets/interactive_props/044.glb",
+      "preview": "assets/previews/arsenal-interactive_props-044.webp",
+      "bounds": {
+        "min": [
+          -0.10400000214576721,
+          0,
+          -0.10400000214576721
+        ],
+        "max": [
+          0.10400000214576721,
+          0.4601999819278717,
+          0.10400000214576721
+        ]
+      },
+      "dimensionsMeters": [
+        0.20800000429153442,
+        0.4601999819278717,
+        0.20800000429153442
+      ],
+      "triangles": 3512,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/044",
+        "attach.origin",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink",
+        "blackened strap iron",
+        "forged iron"
+      ],
+      "meshNames": [
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink",
+        "blackened_strap_iron",
+        "forged_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/045",
+      "path": "assets/interactive_props/045.glb",
+      "preview": "assets/previews/arsenal-interactive_props-045.webp",
+      "bounds": {
+        "min": [
+          -0.06300000101327896,
+          0,
+          -0.06300000101327896
+        ],
+        "max": [
+          0.06300000101327896,
+          0.4410904049873352,
+          0.06300000101327896
+        ]
+      },
+      "dimensionsMeters": [
+        0.12600000202655792,
+        0.4410904049873352,
+        0.12600000202655792
+      ],
+      "triangles": 2104,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/045",
+        "attach.origin",
+        "aged brass fittings",
+        "blown glass",
+        "machined steel",
+        "blackened strap iron",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "blown_glass",
+        "machined_steel",
+        "blackened_strap_iron",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/046",
+      "path": "assets/interactive_props/046.glb",
+      "preview": "assets/previews/arsenal-interactive_props-046.webp",
+      "bounds": {
+        "min": [
+          -0.28999999165534973,
+          6.556510889765832e-9,
+          -0.17550000548362732
+        ],
+        "max": [
+          0.5169999599456787,
+          0.8999999761581421,
+          0.17787785828113556
+        ]
+      },
+      "dimensionsMeters": [
+        0.8069999516010284,
+        0.8999999696016312,
+        0.3533778637647629
+      ],
+      "triangles": 3364,
+      "meshes": 8,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/046",
+        "attach.origin",
+        "sawn end-grain timber",
+        "blackened strap iron",
+        "aged brass fittings",
+        "forged iron",
+        "machined steel",
+        "recesses",
+        "worn timber edges",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "sawn_end-grain_timber",
+        "blackened_strap_iron",
+        "aged_brass_fittings",
+        "forged_iron",
+        "machined_steel",
+        "recesses",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/047",
+      "path": "assets/interactive_props/047.glb",
+      "preview": "assets/previews/arsenal-interactive_props-047.webp",
+      "bounds": {
+        "min": [
+          -0.5199999809265137,
+          -1.19209286886246e-9,
+          -0.321647584438324
+        ],
+        "max": [
+          0.5199999809265137,
+          0.9674999713897705,
+          0.43169912695884705
+        ]
+      },
+      "dimensionsMeters": [
+        1.0399999618530273,
+        0.9674999725818634,
+        0.753346711397171
+      ],
+      "triangles": 9188,
+      "meshes": 11,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/047",
+        "bench_drawer",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "machined steel",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "forged iron",
+        "blackened strap iron",
+        "machined steel",
+        "aged brass fittings",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "machined_steel",
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "worn_timber_edges_1",
+        "forged_iron",
+        "blackened_strap_iron",
+        "machined_steel_1",
+        "aged_brass_fittings",
+        "hardwood_bevel_and_dark_grain_1"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/048",
+      "path": "assets/interactive_props/048.glb",
+      "preview": "assets/previews/arsenal-interactive_props-048.webp",
+      "bounds": {
+        "min": [
+          -0.5600000023841858,
+          4.4703482582342247e-10,
+          -0.25
+        ],
+        "max": [
+          0.5600000023841858,
+          1.809999942779541,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        1.1200000047683716,
+        1.8099999423325062,
+        0.5
+      ],
+      "triangles": 4980,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/048",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "aged brass fittings",
+        "machined steel",
+        "worn timber edges"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "aged_brass_fittings",
+        "machined_steel",
+        "worn_timber_edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/049",
+      "path": "assets/interactive_props/049.glb",
+      "preview": "assets/previews/arsenal-interactive_props-049.webp",
+      "bounds": {
+        "min": [
+          -0.625,
+          -3.7252903539730653e-10,
+          -0.30000001192092896
+        ],
+        "max": [
+          0.625,
+          1.5049999952316284,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.25,
+        1.5049999956041575,
+        0.6000000238418579
+      ],
+      "triangles": 9664,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/049",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "machined steel",
+        "chalk white enamel",
+        "faded red enamel",
+        "waxed canvas"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "machined_steel",
+        "chalk_white_enamel",
+        "faded_red_enamel",
+        "waxed_canvas"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/050",
+      "path": "assets/interactive_props/050.glb",
+      "preview": "assets/previews/arsenal-interactive_props-050.webp",
+      "bounds": {
+        "min": [
+          -0.25546297430992126,
+          -0.0007637657690793276,
+          -0.25
+        ],
+        "max": [
+          0.25,
+          0.7824954986572266,
+          0.30590134859085083
+        ]
+      },
+      "dimensionsMeters": [
+        0.5054629743099213,
+        0.7832592644263059,
+        0.5559013485908508
+      ],
+      "triangles": 2780,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/050",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "banked embers",
+        "charcoal"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "banked_embers",
+        "charcoal"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/051",
+      "path": "assets/interactive_props/051.glb",
+      "preview": "assets/previews/arsenal-interactive_props-051.webp",
+      "bounds": {
+        "min": [
+          -0.18000000715255737,
+          -0.0004999988013878465,
+          -0.17499999701976776
+        ],
+        "max": [
+          0.4296892285346985,
+          0.7471420088410378,
+          0.17499999701976776
+        ]
+      },
+      "dimensionsMeters": [
+        0.6096892356872559,
+        0.7476420076424256,
+        0.3499999940395355
+      ],
+      "triangles": 4910,
+      "meshes": 10,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/051",
+        "mechanism_51_0",
+        "machined steel",
+        "forged iron",
+        "worn timber edges",
+        "attach.origin",
+        "dressed stone",
+        "forged iron",
+        "aged brass fittings",
+        "parchment",
+        "recesses",
+        "blackened strap iron",
+        "still water"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "forged_iron",
+        "worn_timber_edges",
+        "dressed_stone",
+        "forged_iron_1",
+        "aged_brass_fittings",
+        "parchment",
+        "recesses",
+        "blackened_strap_iron",
+        "still_water"
+      ],
+      "animations": [
+        "pump"
+      ],
+      "animationChecks": [
+        {
+          "name": "pump",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/052",
+      "path": "assets/interactive_props/052.glb",
+      "preview": "assets/previews/arsenal-interactive_props-052.webp",
+      "bounds": {
+        "min": [
+          -0.31866576880216596,
+          0.03999999538064003,
+          -0.25999999046325684
+        ],
+        "max": [
+          0.3165000081062317,
+          0.7800000309944153,
+          0.36669913691282274
+        ]
+      },
+      "dimensionsMeters": [
+        0.6351657769083976,
+        0.7400000356137753,
+        0.6266991273760796
+      ],
+      "triangles": 6964,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/052",
+        "mechanism_52_0",
+        "forged iron",
+        "recesses",
+        "aged brass fittings",
+        "machined steel",
+        "attach.origin",
+        "forged iron",
+        "machined steel",
+        "velvet cushion",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "machined_steel",
+        "forged_iron_1",
+        "machined_steel_1",
+        "velvet_cushion",
+        "blackened_strap_iron"
+      ],
+      "animations": [
+        "unlock_open"
+      ],
+      "animationChecks": [
+        {
+          "name": "unlock_open",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/053",
+      "path": "assets/interactive_props/053.glb",
+      "preview": "assets/previews/arsenal-interactive_props-053.webp",
+      "bounds": {
+        "min": [
+          -0.4790000021457672,
+          3.3527614018424856e-10,
+          -0.3499999940395355
+        ],
+        "max": [
+          0.4780000150203705,
+          1.1610000026226044,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        0.9570000171661377,
+        1.1610000022873281,
+        0.5999999940395355
+      ],
+      "triangles": 4036,
+      "meshes": 9,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/053",
+        "mechanism_53_0",
+        "aged brass fittings",
+        "forged iron",
+        "blown glass",
+        "recesses",
+        "hardwood bevel and dark grain",
+        "attach.origin",
+        "forged iron",
+        "blackened strap iron",
+        "aged brass fittings",
+        "machined steel"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "forged_iron",
+        "blown_glass",
+        "recesses",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron_1",
+        "blackened_strap_iron",
+        "aged_brass_fittings_1",
+        "machined_steel"
+      ],
+      "animations": [
+        "survey"
+      ],
+      "animationChecks": [
+        {
+          "name": "survey",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/054",
+      "path": "assets/interactive_props/054.glb",
+      "preview": "assets/previews/arsenal-interactive_props-054.webp",
+      "bounds": {
+        "min": [
+          -0.26146677136421204,
+          0.0015832376666367054,
+          -0.10999999940395355
+        ],
+        "max": [
+          0.2798837125301361,
+          0.4230000078678131,
+          0.11900000274181366
+        ]
+      },
+      "dimensionsMeters": [
+        0.5413504838943481,
+        0.4214167702011764,
+        0.2290000021457672
+      ],
+      "triangles": 2704,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/054",
+        "attach.origin",
+        "oiled dark leather",
+        "machined steel",
+        "aged brass fittings",
+        "waxed leather",
+        "worn timber edges",
+        "forged iron"
+      ],
+      "meshNames": [
+        "oiled_dark_leather",
+        "machined_steel",
+        "aged_brass_fittings",
+        "waxed_leather",
+        "worn_timber_edges",
+        "forged_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/055",
+      "path": "assets/interactive_props/055.glb",
+      "preview": "assets/previews/arsenal-interactive_props-055.webp",
+      "bounds": {
+        "min": [
+          -0.25,
+          -1.8626451769865326e-10,
+          -0.07999999821186066
+        ],
+        "max": [
+          0.25,
+          0.2680000066757202,
+          0.15870000422000885
+        ]
+      },
+      "dimensionsMeters": [
+        0.5,
+        0.2680000068619847,
+        0.2387000024318695
+      ],
+      "triangles": 5900,
+      "meshes": 11,
+      "materials": 11,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/055",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "aged brass fittings",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "second tincture fluid",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "aged_brass_fittings",
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "second_tincture_fluid",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/056",
+      "path": "assets/interactive_props/056.glb",
+      "preview": "assets/previews/arsenal-interactive_props-056.webp",
+      "bounds": {
+        "min": [
+          -0.28999999165534973,
+          2.2351741291171123e-10,
+          -0.10000000149011612
+        ],
+        "max": [
+          0.28999999165534973,
+          0.22266295552253723,
+          0.10000000149011612
+        ]
+      },
+      "dimensionsMeters": [
+        0.5799999833106995,
+        0.2226629552990198,
+        0.20000000298023224
+      ],
+      "triangles": 2628,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/056",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "aged_brass_fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/057",
+      "path": "assets/interactive_props/057.glb",
+      "preview": "assets/previews/arsenal-interactive_props-057.webp",
+      "bounds": {
+        "min": [
+          -0.36000001430511475,
+          -1.7881393032936899e-9,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.36000001430511475,
+          1.069200038909912,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.7200000286102295,
+        1.0692000406980515,
+        0.6299999952316284
+      ],
+      "triangles": 7386,
+      "meshes": 13,
+      "materials": 13,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/057",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "recesses",
+        "blackened strap iron",
+        "dyed linen cloth",
+        "ochre enamel",
+        "aged brass fittings",
+        "faded red enamel",
+        "tallow wax",
+        "lamp flame",
+        "cast bell bronze",
+        "hardwood bevel and dark grain",
+        "forged iron"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "recesses",
+        "blackened_strap_iron",
+        "dyed_linen_cloth",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "faded_red_enamel",
+        "tallow_wax",
+        "lamp_flame",
+        "cast_bell_bronze",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/058",
+      "path": "assets/interactive_props/058.glb",
+      "preview": "assets/previews/arsenal-interactive_props-058.webp",
+      "bounds": {
+        "min": [
+          -0.19499999284744263,
+          1.3411045607369942e-9,
+          -0.19599999487400055
+        ],
+        "max": [
+          0.20999999344348907,
+          0.47021111845970154,
+          0.19599999487400055
+        ]
+      },
+      "dimensionsMeters": [
+        0.4049999862909317,
+        0.470211117118597,
+        0.3919999897480011
+      ],
+      "triangles": 2460,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/058",
+        "attach.origin",
+        "sawn end-grain timber",
+        "blackened strap iron",
+        "woven straw",
+        "forged iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "sawn_end-grain_timber",
+        "blackened_strap_iron",
+        "woven_straw",
+        "forged_iron",
+        "aged_brass_fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/059",
+      "path": "assets/interactive_props/059.glb",
+      "preview": "assets/previews/arsenal-interactive_props-059.webp",
+      "bounds": {
+        "min": [
+          -0.3799999952316284,
+          6.705522803684971e-10,
+          -0.2184000015258789
+        ],
+        "max": [
+          0.3799999952316284,
+          1.3119999945163727,
+          0.2184000015258789
+        ]
+      },
+      "dimensionsMeters": [
+        0.7599999904632568,
+        1.3119999938458204,
+        0.4368000030517578
+      ],
+      "triangles": 8060,
+      "meshes": 12,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/059",
+        "mechanism_59_0",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "cast bell bronze",
+        "aged brass fittings",
+        "forged iron",
+        "hemp rope",
+        "attach.origin",
+        "blackened strap iron",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "machined steel",
+        "forged iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "forged_iron",
+        "hemp_rope",
+        "blackened_strap_iron_1",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "machined_steel",
+        "forged_iron_1",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "ring"
+      ],
+      "animationChecks": [
+        {
+          "name": "ring",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/060",
+      "path": "assets/interactive_props/060.glb",
+      "preview": "assets/previews/arsenal-interactive_props-060.webp",
+      "bounds": {
+        "min": [
+          -0.27000001072883606,
+          8.940696516468449e-10,
+          -0.23999999463558197
+        ],
+        "max": [
+          0.27000001072883606,
+          0.8159999847412109,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        0.5400000214576721,
+        0.8159999838471412,
+        0.47999998927116394
+      ],
+      "triangles": 3248,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/060",
+        "attach.origin",
+        "blackened strap iron",
+        "forged iron",
+        "aged brass fittings",
+        "velvet cushion",
+        "ochre enamel",
+        "machined steel"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "forged_iron",
+        "aged_brass_fittings",
+        "velvet_cushion",
+        "ochre_enamel",
+        "machined_steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/061",
+      "path": "assets/interactive_props/061.glb",
+      "preview": "assets/previews/arsenal-interactive_props-061.webp",
+      "bounds": {
+        "min": [
+          -0.3799999952316284,
+          -1.5199184133507515e-9,
+          -0.24250000715255737
+        ],
+        "max": [
+          0.3799999952316284,
+          0.6188527638912201,
+          0.2434999942779541
+        ]
+      },
+      "dimensionsMeters": [
+        0.7599999904632568,
+        0.6188527654111385,
+        0.4860000014305115
+      ],
+      "triangles": 13924,
+      "meshes": 14,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/061",
+        "mechanism_61_0",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "forged iron",
+        "blackened strap iron",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "weathered plank hardwood",
+        "aged brass fittings",
+        "forged iron",
+        "recesses"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "forged_iron",
+        "blackened_strap_iron",
+        "hardwood_bevel_and_dark_grain_1",
+        "quarter-sawn_hardwood_1",
+        "worn_timber_edges_1",
+        "weathered_plank_hardwood_1",
+        "aged_brass_fittings_1",
+        "forged_iron_1",
+        "recesses"
+      ],
+      "animations": [
+        "open_close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open_close",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/062",
+      "path": "assets/interactive_props/062.glb",
+      "preview": "assets/previews/arsenal-interactive_props-062.webp",
+      "bounds": {
+        "min": [
+          -0.3089490234851837,
+          3.3527614018424856e-10,
+          -0.20499999821186066
+        ],
+        "max": [
+          0.3089490234851837,
+          0.37599998712539673,
+          0.20499999821186066
+        ]
+      },
+      "dimensionsMeters": [
+        0.6178980469703674,
+        0.3759999867901206,
+        0.4099999964237213
+      ],
+      "triangles": 4568,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/062",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "sawn end-grain timber",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "hemp rope"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "sawn_end-grain_timber",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "hemp_rope"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/063",
+      "path": "assets/interactive_props/063.glb",
+      "preview": "assets/previews/arsenal-interactive_props-063.webp",
+      "bounds": {
+        "min": [
+          -0.20999999344348907,
+          0,
+          -0.20999999344348907
+        ],
+        "max": [
+          0.20999999344348907,
+          0.699999988079071,
+          0.2455875128507614
+        ]
+      },
+      "dimensionsMeters": [
+        0.41999998688697815,
+        0.699999988079071,
+        0.4555875062942505
+      ],
+      "triangles": 5892,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/063",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "sawn end-grain timber",
+        "aged brass fittings",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "sawn_end-grain_timber",
+        "aged_brass_fittings",
+        "blackened_strap_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/064",
+      "path": "assets/interactive_props/064.glb",
+      "preview": "assets/previews/arsenal-interactive_props-064.webp",
+      "bounds": {
+        "min": [
+          -0.11500000208616257,
+          0,
+          -0.11500000208616257
+        ],
+        "max": [
+          0.27000001072883606,
+          0.5108000040054321,
+          0.11500000208616257
+        ]
+      },
+      "dimensionsMeters": [
+        0.3850000128149986,
+        0.5108000040054321,
+        0.23000000417232513
+      ],
+      "triangles": 2320,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/064",
+        "attach.origin",
+        "tooled stone trim",
+        "blown glass",
+        "tincture fluid",
+        "linen thread",
+        "aged brass fittings",
+        "second tincture fluid"
+      ],
+      "meshNames": [
+        "tooled_stone_trim",
+        "blown_glass",
+        "tincture_fluid",
+        "linen_thread",
+        "aged_brass_fittings",
+        "second_tincture_fluid"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/065",
+      "path": "assets/interactive_props/065.glb",
+      "preview": "assets/previews/arsenal-interactive_props-065.webp",
+      "bounds": {
+        "min": [
+          -0.11999999731779099,
+          0,
+          -0.12999999523162842
+        ],
+        "max": [
+          0.11999999731779099,
+          0.6349999904632568,
+          0.12999999523162842
+        ]
+      },
+      "dimensionsMeters": [
+        0.23999999463558197,
+        0.6349999904632568,
+        0.25999999046325684
+      ],
+      "triangles": 1990,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/065",
+        "attach.origin",
+        "aged brass fittings",
+        "blown glass",
+        "tallow wax",
+        "recesses",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "blown_glass",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/066",
+      "path": "assets/interactive_props/066.glb",
+      "preview": "assets/previews/arsenal-interactive_props-066.webp",
+      "bounds": {
+        "min": [
+          -0.17499999701976776,
+          0,
+          -0.17499999701976776
+        ],
+        "max": [
+          0.2843499779701233,
+          0.5839999914169312,
+          0.17499999701976776
+        ]
+      },
+      "dimensionsMeters": [
+        0.45934997498989105,
+        0.5839999914169312,
+        0.3499999940395355
+      ],
+      "triangles": 2996,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/066",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "forged iron",
+        "machined steel",
+        "recesses",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "forged_iron",
+        "machined_steel",
+        "recesses",
+        "blackened_strap_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/067",
+      "path": "assets/interactive_props/067.glb",
+      "preview": "assets/previews/arsenal-interactive_props-067.webp",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.25999999046325684
+        ],
+        "max": [
+          0.5,
+          1.2215399742126465,
+          0.28700000047683716
+        ]
+      },
+      "dimensionsMeters": [
+        1,
+        1.2215399742126465,
+        0.546999990940094
+      ],
+      "triangles": 12616,
+      "meshes": 20,
+      "materials": 17,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/067",
+        "bench_drawer",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "blown glass",
+        "second tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "tincture fluid",
+        "parchment",
+        "oiled dark leather",
+        "iron-gall ink",
+        "chalk white enamel",
+        "aged brass fittings",
+        "tallow wax",
+        "recesses",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "quarter-sawn_hardwood",
+        "worn_timber_edges_1",
+        "hardwood_bevel_and_dark_grain_1",
+        "blown_glass",
+        "second_tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "tincture_fluid",
+        "parchment",
+        "oiled_dark_leather",
+        "iron-gall_ink",
+        "chalk_white_enamel",
+        "aged_brass_fittings_1",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/068",
+      "path": "assets/interactive_props/068.glb",
+      "preview": "assets/previews/arsenal-interactive_props-068.webp",
+      "bounds": {
+        "min": [
+          -0.33000001311302185,
+          0,
+          -0.33000001311302185
+        ],
+        "max": [
+          0.33000001311302185,
+          1.6699999570846558,
+          0.33000001311302185
+        ]
+      },
+      "dimensionsMeters": [
+        0.6600000262260437,
+        1.6699999570846558,
+        0.6600000262260437
+      ],
+      "triangles": 3712,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/068",
+        "attach.origin",
+        "dressed stone",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "worn timber edges",
+        "forged iron",
+        "machined steel"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "worn_timber_edges",
+        "forged_iron",
+        "machined_steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/069",
+      "path": "assets/interactive_props/069.glb",
+      "preview": "assets/previews/arsenal-interactive_props-069.webp",
+      "bounds": {
+        "min": [
+          -0.3619999885559082,
+          -0.005000000353902578,
+          -0.32157063484191895
+        ],
+        "max": [
+          0.3619999885559082,
+          1.360842227935791,
+          0.6341275572776794
+        ]
+      },
+      "dimensionsMeters": [
+        0.7239999771118164,
+        1.3658422282896936,
+        0.9556981921195984
+      ],
+      "triangles": 7314,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/069",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "forged iron",
+        "chalk white enamel",
+        "lamp-black enamel",
+        "blue enamel",
+        "faded red enamel",
+        "ochre enamel",
+        "worn timber edges",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "forged_iron",
+        "chalk_white_enamel",
+        "lamp-black_enamel",
+        "blue_enamel",
+        "faded_red_enamel",
+        "ochre_enamel",
+        "worn_timber_edges",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/070",
+      "path": "assets/interactive_props/070.glb",
+      "preview": "assets/previews/arsenal-interactive_props-070.webp",
+      "bounds": {
+        "min": [
+          -0.2771308720111847,
+          0.001999999862164259,
+          -0.2720000147819519
+        ],
+        "max": [
+          0.2771308720111847,
+          0.5830000042915344,
+          0.3243526518344879
+        ]
+      },
+      "dimensionsMeters": [
+        0.5542617440223694,
+        0.5810000044293702,
+        0.5963526666164398
+      ],
+      "triangles": 6100,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/070",
+        "attach.origin",
+        "cast bell bronze",
+        "aged brass fittings",
+        "banked embers",
+        "charcoal"
+      ],
+      "meshNames": [
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "banked_embers",
+        "charcoal"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/071",
+      "path": "assets/interactive_props/071.glb",
+      "preview": "assets/previews/arsenal-interactive_props-071.webp",
+      "bounds": {
+        "min": [
+          -0.41999998688697815,
+          3.5762786065873797e-9,
+          -0.25999999046325684
+        ],
+        "max": [
+          0.4296892285346985,
+          1.1271420088410378,
+          0.4099999964237213
+        ]
+      },
+      "dimensionsMeters": [
+        0.8496892154216766,
+        1.1271420052647592,
+        0.6699999868869781
+      ],
+      "triangles": 3176,
+      "meshes": 8,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/071",
+        "mechanism_71_0",
+        "machined steel",
+        "aged brass fittings",
+        "worn timber edges",
+        "attach.origin",
+        "dressed stone",
+        "still water",
+        "tooled stone trim",
+        "recesses",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "aged_brass_fittings",
+        "worn_timber_edges",
+        "dressed_stone",
+        "still_water",
+        "tooled_stone_trim",
+        "recesses",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "pump"
+      ],
+      "animationChecks": [
+        {
+          "name": "pump",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/072",
+      "path": "assets/interactive_props/072.glb",
+      "preview": "assets/previews/arsenal-interactive_props-072.webp",
+      "bounds": {
+        "min": [
+          -0.29499998688697815,
+          0,
+          -0.24500000476837158
+        ],
+        "max": [
+          0.29499998688697815,
+          0.8149999976158142,
+          0.3366991369128227
+        ]
+      },
+      "dimensionsMeters": [
+        0.5899999737739563,
+        0.8149999976158142,
+        0.5816991416811943
+      ],
+      "triangles": 5908,
+      "meshes": 10,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/072",
+        "mechanism_72_0",
+        "blackened strap iron",
+        "recesses",
+        "aged brass fittings",
+        "forged iron",
+        "machined steel",
+        "attach.origin",
+        "blackened strap iron",
+        "machined steel",
+        "velvet cushion",
+        "aged brass fittings",
+        "quarter-sawn hardwood"
+      ],
+      "meshNames": [
+        "blackened_strap_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "forged_iron",
+        "machined_steel",
+        "blackened_strap_iron_1",
+        "machined_steel_1",
+        "velvet_cushion",
+        "aged_brass_fittings_1",
+        "quarter-sawn_hardwood"
+      ],
+      "animations": [
+        "unlock_open"
+      ],
+      "animationChecks": [
+        {
+          "name": "unlock_open",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/073",
+      "path": "assets/interactive_props/073.glb",
+      "preview": "assets/previews/arsenal-interactive_props-073.webp",
+      "bounds": {
+        "min": [
+          -0.5320000052452087,
+          0,
+          -0.30000001192092896
+        ],
+        "max": [
+          0.5199999809265137,
+          1.0610000014305114,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.0519999861717224,
+        1.0610000014305114,
+        0.6000000238418579
+      ],
+      "triangles": 8212,
+      "meshes": 7,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/073",
+        "mechanism_73_0",
+        "aged brass fittings",
+        "forged iron",
+        "blown glass",
+        "recesses",
+        "hardwood bevel and dark grain",
+        "attach.origin",
+        "dressed stone",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "aged_brass_fittings",
+        "forged_iron",
+        "blown_glass",
+        "recesses",
+        "hardwood_bevel_and_dark_grain",
+        "dressed_stone",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "survey"
+      ],
+      "animationChecks": [
+        {
+          "name": "survey",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/074",
+      "path": "assets/interactive_props/074.glb",
+      "preview": "assets/previews/arsenal-interactive_props-074.webp",
+      "bounds": {
+        "min": [
+          -0.3355810046195984,
+          0.009999994188547134,
+          -0.05999999865889549
+        ],
+        "max": [
+          0.29558101296424866,
+          0.6919999718666077,
+          0.09799999743700027
+        ]
+      },
+      "dimensionsMeters": [
+        0.631162017583847,
+        0.6819999776780605,
+        0.15799999609589577
+      ],
+      "triangles": 3602,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/074",
+        "attach.origin",
+        "dyed linen cloth",
+        "waxed leather",
+        "aged brass fittings",
+        "parchment",
+        "hardwood bevel and dark grain",
+        "velvet cushion",
+        "linen thread"
+      ],
+      "meshNames": [
+        "dyed_linen_cloth",
+        "waxed_leather",
+        "aged_brass_fittings",
+        "parchment",
+        "hardwood_bevel_and_dark_grain",
+        "velvet_cushion",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/075",
+      "path": "assets/interactive_props/075.glb",
+      "preview": "assets/previews/arsenal-interactive_props-075.webp",
+      "bounds": {
+        "min": [
+          -0.25,
+          0,
+          -0.25
+        ],
+        "max": [
+          0.25,
+          0.46000000834465027,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        0.5,
+        0.46000000834465027,
+        0.5
+      ],
+      "triangles": 12312,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/075",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink",
+        "second tincture fluid"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink",
+        "second_tincture_fluid"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/076",
+      "path": "assets/interactive_props/076.glb",
+      "preview": "assets/previews/arsenal-interactive_props-076.webp",
+      "bounds": {
+        "min": [
+          -0.287548691034317,
+          2.2351741291171123e-10,
+          -0.1599999964237213
+        ],
+        "max": [
+          0.26600000262260437,
+          0.2460000067949295,
+          0.16366295516490936
+        ]
+      },
+      "dimensionsMeters": [
+        0.5535486936569214,
+        0.24600000657141208,
+        0.3236629515886307
+      ],
+      "triangles": 4292,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/076",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "aged brass fittings",
+        "parchment",
+        "velvet cushion",
+        "sealing wax"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "aged_brass_fittings",
+        "parchment",
+        "velvet_cushion",
+        "sealing_wax"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/077",
+      "path": "assets/interactive_props/077.glb",
+      "preview": "assets/previews/arsenal-interactive_props-077.webp",
+      "bounds": {
+        "min": [
+          -0.36000001430511475,
+          -1.7881393032936899e-9,
+          -0.3100000023841858
+        ],
+        "max": [
+          0.36000001430511475,
+          1.069200038909912,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.7200000286102295,
+        1.0692000406980515,
+        0.6299999952316284
+      ],
+      "triangles": 6426,
+      "meshes": 11,
+      "materials": 11,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/077",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "aged brass fittings",
+        "dyed linen cloth",
+        "ochre enamel",
+        "faded red enamel",
+        "tallow wax",
+        "recesses",
+        "lamp flame",
+        "cast bell bronze",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "aged_brass_fittings",
+        "dyed_linen_cloth",
+        "ochre_enamel",
+        "faded_red_enamel",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame",
+        "cast_bell_bronze",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/078",
+      "path": "assets/interactive_props/078.glb",
+      "preview": "assets/previews/arsenal-interactive_props-078.webp",
+      "bounds": {
+        "min": [
+          -0.1599999964237213,
+          0,
+          -0.1599999964237213
+        ],
+        "max": [
+          0.2073160856962204,
+          0.3278110921382904,
+          0.1599999964237213
+        ]
+      },
+      "dimensionsMeters": [
+        0.3673160821199417,
+        0.3278110921382904,
+        0.3199999928474426
+      ],
+      "triangles": 2732,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/078",
+        "attach.origin",
+        "dressed stone",
+        "second tincture fluid",
+        "tooled stone trim",
+        "aged brass fittings",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "second_tincture_fluid",
+        "tooled_stone_trim",
+        "aged_brass_fittings",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/079",
+      "path": "assets/interactive_props/079.glb",
+      "preview": "assets/previews/arsenal-interactive_props-079.webp",
+      "bounds": {
+        "min": [
+          -0.3700000047683716,
+          0,
+          -0.18719999492168427
+        ],
+        "max": [
+          0.3700000047683716,
+          1.2200000286102295,
+          0.18719999492168427
+        ]
+      },
+      "dimensionsMeters": [
+        0.7400000095367432,
+        1.2200000286102295,
+        0.37439998984336853
+      ],
+      "triangles": 4298,
+      "meshes": 11,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/079",
+        "mechanism_79_0",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "cast bell bronze",
+        "aged brass fittings",
+        "forged iron",
+        "hemp rope",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "machined steel",
+        "forged iron",
+        "aged brass fittings"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "forged_iron",
+        "hemp_rope",
+        "dressed_stone",
+        "tooled_stone_trim",
+        "machined_steel",
+        "forged_iron_1",
+        "aged_brass_fittings_1"
+      ],
+      "animations": [
+        "ring"
+      ],
+      "animationChecks": [
+        {
+          "name": "ring",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/080",
+      "path": "assets/interactive_props/080.glb",
+      "preview": "assets/previews/arsenal-interactive_props-080.webp",
+      "bounds": {
+        "min": [
+          -0.27000001072883606,
+          8.940696516468449e-10,
+          -0.23999999463558197
+        ],
+        "max": [
+          0.27000001072883606,
+          1.0240000486373901,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        0.5400000214576721,
+        1.0240000477433204,
+        0.47999998927116394
+      ],
+      "triangles": 4588,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/080",
+        "attach.origin",
+        "dressed stone",
+        "tooled stone trim",
+        "aged brass fittings",
+        "velvet cushion",
+        "ochre enamel",
+        "blown glass"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "tooled_stone_trim",
+        "aged_brass_fittings",
+        "velvet_cushion",
+        "ochre_enamel",
+        "blown_glass"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/081",
+      "path": "assets/interactive_props/081.glb",
+      "preview": "assets/previews/arsenal-interactive_props-081.webp",
+      "bounds": {
+        "min": [
+          -0.5292677283287048,
+          -1.490116086078075e-10,
+          -0.27250000834465027
+        ],
+        "max": [
+          0.5292677283287048,
+          0.49881441515684133,
+          0.2763531804084778
+        ]
+      },
+      "dimensionsMeters": [
+        1.0585354566574097,
+        0.4988144153058529,
+        0.548853188753128
+      ],
+      "triangles": 14834,
+      "meshes": 17,
+      "materials": 11,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/081",
+        "mechanism_81_0",
+        "quarter-sawn hardwood",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "waxed leather",
+        "forged iron",
+        "blackened strap iron",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "quarter-sawn hardwood",
+        "waxed leather",
+        "oiled dark leather",
+        "aged brass fittings",
+        "forged iron",
+        "recesses",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "waxed_leather",
+        "forged_iron",
+        "blackened_strap_iron",
+        "hardwood_bevel_and_dark_grain_1",
+        "weathered_plank_hardwood_1",
+        "worn_timber_edges_1",
+        "quarter-sawn_hardwood_1",
+        "waxed_leather_1",
+        "oiled_dark_leather",
+        "aged_brass_fittings",
+        "forged_iron_1",
+        "recesses",
+        "linen_thread"
+      ],
+      "animations": [
+        "open_close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open_close",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/082",
+      "path": "assets/interactive_props/082.glb",
+      "preview": "assets/previews/arsenal-interactive_props-082.webp",
+      "bounds": {
+        "min": [
+          -0.3799999952316284,
+          -7.450580430390374e-11,
+          -0.30000001192092896
+        ],
+        "max": [
+          0.3799999952316284,
+          0.5929999947547913,
+          0.3019999861717224
+        ]
+      },
+      "dimensionsMeters": [
+        0.7599999904632568,
+        0.5929999948292971,
+        0.6019999980926514
+      ],
+      "triangles": 13304,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/082",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "weathered plank hardwood",
+        "hardwood bevel and dark grain",
+        "waxed canvas",
+        "aged brass fittings",
+        "waxed leather",
+        "machined steel",
+        "hemp rope",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "worn_timber_edges",
+        "weathered_plank_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "waxed_canvas",
+        "aged_brass_fittings",
+        "waxed_leather",
+        "machined_steel",
+        "hemp_rope",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/083",
+      "path": "assets/interactive_props/083.glb",
+      "preview": "assets/previews/arsenal-interactive_props-083.webp",
+      "bounds": {
+        "min": [
+          -0.2831646800041199,
+          0,
+          -0.2199999988079071
+        ],
+        "max": [
+          0.3068428039550781,
+          0.5899999737739563,
+          0.2218145728111267
+        ]
+      },
+      "dimensionsMeters": [
+        0.590007483959198,
+        0.5899999737739563,
+        0.4418145716190338
+      ],
+      "triangles": 12020,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/083",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "weathered plank hardwood",
+        "worn timber edges",
+        "sawn end-grain timber",
+        "hemp rope",
+        "waxed canvas",
+        "machined steel",
+        "waxed leather",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "weathered_plank_hardwood",
+        "worn_timber_edges",
+        "sawn_end-grain_timber",
+        "hemp_rope",
+        "waxed_canvas",
+        "machined_steel",
+        "waxed_leather",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/084",
+      "path": "assets/interactive_props/084.glb",
+      "preview": "assets/previews/arsenal-interactive_props-084.webp",
+      "bounds": {
+        "min": [
+          -0.16705185174942017,
+          -0.004000000189989805,
+          -0.05345999822020531
+        ],
+        "max": [
+          0.16705185174942017,
+          0.47699999809265137,
+          0.05345999822020531
+        ]
+      },
+      "dimensionsMeters": [
+        0.33410370349884033,
+        0.4809999982826412,
+        0.10691999644041061
+      ],
+      "triangles": 2588,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/084",
+        "attach.origin",
+        "machined steel",
+        "waxed leather",
+        "linen thread",
+        "aged brass fittings",
+        "oiled dark leather"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "waxed_leather",
+        "linen_thread",
+        "aged_brass_fittings",
+        "oiled_dark_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/085",
+      "path": "assets/interactive_props/085.glb",
+      "preview": "assets/previews/arsenal-interactive_props-085.webp",
+      "bounds": {
+        "min": [
+          -0.06634627282619476,
+          0,
+          -0.052000001072883606
+        ],
+        "max": [
+          0.06634627282619476,
+          0.3499999940395355,
+          0.052000001072883606
+        ]
+      },
+      "dimensionsMeters": [
+        0.13269254565238953,
+        0.3499999940395355,
+        0.10400000214576721
+      ],
+      "triangles": 1534,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/085",
+        "attach.origin",
+        "machined steel",
+        "blown glass",
+        "recesses",
+        "waxed leather",
+        "tallow wax",
+        "lamp flame"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "blown_glass",
+        "recesses",
+        "waxed_leather",
+        "tallow_wax",
+        "lamp_flame"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/086",
+      "path": "assets/interactive_props/086.glb",
+      "preview": "assets/previews/arsenal-interactive_props-086.webp",
+      "bounds": {
+        "min": [
+          -0.3100000023841858,
+          -1.490116086078075e-10,
+          -0.20999999344348907
+        ],
+        "max": [
+          0.4394499957561493,
+          0.5979999899864197,
+          0.20999999344348907
+        ]
+      },
+      "dimensionsMeters": [
+        0.7494499981403351,
+        0.5979999901354313,
+        0.41999998688697815
+      ],
+      "triangles": 4336,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/086",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "quarter-sawn hardwood",
+        "aged brass fittings",
+        "sawn end-grain timber",
+        "forged iron",
+        "machined steel",
+        "recesses",
+        "blackened strap iron",
+        "worn timber edges"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "quarter-sawn_hardwood",
+        "aged_brass_fittings",
+        "sawn_end-grain_timber",
+        "forged_iron",
+        "machined_steel",
+        "recesses",
+        "blackened_strap_iron",
+        "worn_timber_edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/087",
+      "path": "assets/interactive_props/087.glb",
+      "preview": "assets/previews/arsenal-interactive_props-087.webp",
+      "bounds": {
+        "min": [
+          -0.47999998927116394,
+          -0.010648983530700207,
+          -0.24799999594688416
+        ],
+        "max": [
+          0.47999998927116394,
+          0.8308536410331726,
+          0.2770000100135803
+        ]
+      },
+      "dimensionsMeters": [
+        0.9599999785423279,
+        0.8415026245638728,
+        0.5250000059604645
+      ],
+      "triangles": 6760,
+      "meshes": 12,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/087",
+        "bench_drawer",
+        "worn timber edges",
+        "hardwood bevel and dark grain",
+        "aged brass fittings",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "worn timber edges",
+        "weathered plank hardwood",
+        "aged brass fittings",
+        "hardwood bevel and dark grain",
+        "waxed canvas",
+        "forged iron",
+        "machined steel",
+        "waxed leather"
+      ],
+      "meshNames": [
+        "worn_timber_edges",
+        "hardwood_bevel_and_dark_grain",
+        "aged_brass_fittings",
+        "quarter-sawn_hardwood",
+        "worn_timber_edges_1",
+        "weathered_plank_hardwood",
+        "aged_brass_fittings_1",
+        "hardwood_bevel_and_dark_grain_1",
+        "waxed_canvas",
+        "forged_iron",
+        "machined_steel",
+        "waxed_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/088",
+      "path": "assets/interactive_props/088.glb",
+      "preview": "assets/previews/arsenal-interactive_props-088.webp",
+      "bounds": {
+        "min": [
+          -0.6939080953598022,
+          -0.004406656604260206,
+          -0.22377510368824005
+        ],
+        "max": [
+          0.6939080953598022,
+          1.3044066429138184,
+          0.2724055051803589
+        ]
+      },
+      "dimensionsMeters": [
+        1.3878161907196045,
+        1.3088132995180786,
+        0.49618060886859894
+      ],
+      "triangles": 10100,
+      "meshes": 12,
+      "materials": 12,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/088",
+        "attach.origin",
+        "rough bark timber",
+        "hemp rope",
+        "hardwood bevel and dark grain",
+        "linen thread",
+        "waxed leather",
+        "oiled dark leather",
+        "worn timber edges",
+        "chalk white enamel",
+        "faded red enamel",
+        "quarter-sawn hardwood",
+        "forged iron",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "rough_bark_timber",
+        "hemp_rope",
+        "hardwood_bevel_and_dark_grain",
+        "linen_thread",
+        "waxed_leather",
+        "oiled_dark_leather",
+        "worn_timber_edges",
+        "chalk_white_enamel",
+        "faded_red_enamel",
+        "quarter-sawn_hardwood",
+        "forged_iron",
+        "blackened_strap_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/089",
+      "path": "assets/interactive_props/089.glb",
+      "preview": "assets/previews/arsenal-interactive_props-089.webp",
+      "bounds": {
+        "min": [
+          -0.44999998807907104,
+          -0.04013144597411156,
+          -0.24120914936065674
+        ],
+        "max": [
+          0.44999998807907104,
+          0.800000011920929,
+          0.8000281453132629
+        ]
+      },
+      "dimensionsMeters": [
+        0.8999999761581421,
+        0.8401314578950405,
+        1.0412372946739197
+      ],
+      "triangles": 4652,
+      "meshes": 10,
+      "materials": 10,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/089",
+        "attach.origin",
+        "woven straw",
+        "hemp rope",
+        "parchment",
+        "chalk white enamel",
+        "lamp-black enamel",
+        "blue enamel",
+        "faded red enamel",
+        "ochre enamel",
+        "worn timber edges",
+        "linen thread"
+      ],
+      "meshNames": [
+        "woven_straw",
+        "hemp_rope",
+        "parchment",
+        "chalk_white_enamel",
+        "lamp-black_enamel",
+        "blue_enamel",
+        "faded_red_enamel",
+        "ochre_enamel",
+        "worn_timber_edges",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/090",
+      "path": "assets/interactive_props/090.glb",
+      "preview": "assets/previews/arsenal-interactive_props-090.webp",
+      "bounds": {
+        "min": [
+          -0.5078043341636658,
+          -0.032825857400894165,
+          -0.3879513144493103
+        ],
+        "max": [
+          0.38931694626808167,
+          1.2581607103347778,
+          0.4982321560382843
+        ]
+      },
+      "dimensionsMeters": [
+        0.8971212804317474,
+        1.290986567735672,
+        0.8861834704875946
+      ],
+      "triangles": 12384,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/090",
+        "attach.origin",
+        "dressed stone",
+        "banked embers",
+        "charcoal",
+        "rough bark timber",
+        "hemp rope",
+        "blackened strap iron",
+        "forged iron"
+      ],
+      "meshNames": [
+        "dressed_stone",
+        "banked_embers",
+        "charcoal",
+        "rough_bark_timber",
+        "hemp_rope",
+        "blackened_strap_iron",
+        "forged_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/091",
+      "path": "assets/interactive_props/091.glb",
+      "preview": "assets/previews/arsenal-interactive_props-091.webp",
+      "bounds": {
+        "min": [
+          -0.41999998688697815,
+          0,
+          -0.41999998688697815
+        ],
+        "max": [
+          0.4296892285346985,
+          0.8671420088410378,
+          0.41999998688697815
+        ]
+      },
+      "dimensionsMeters": [
+        0.8496892154216766,
+        0.8671420088410378,
+        0.8399999737739563
+      ],
+      "triangles": 5756,
+      "meshes": 10,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/091",
+        "mechanism_91_0",
+        "machined steel",
+        "forged iron",
+        "worn timber edges",
+        "attach.origin",
+        "dressed stone",
+        "weathered plank hardwood",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "blackened strap iron",
+        "forged iron",
+        "hemp rope"
+      ],
+      "meshNames": [
+        "machined_steel",
+        "forged_iron",
+        "worn_timber_edges",
+        "dressed_stone",
+        "weathered_plank_hardwood",
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "blackened_strap_iron",
+        "forged_iron_1",
+        "hemp_rope"
+      ],
+      "animations": [
+        "pump"
+      ],
+      "animationChecks": [
+        {
+          "name": "pump",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/092",
+      "path": "assets/interactive_props/092.glb",
+      "preview": "assets/previews/arsenal-interactive_props-092.webp",
+      "bounds": {
+        "min": [
+          -0.3018780052661896,
+          0.020000001415610313,
+          -0.20999999344348907
+        ],
+        "max": [
+          0.3018780052661896,
+          0.5,
+          0.30669913691282275
+        ]
+      },
+      "dimensionsMeters": [
+        0.6037560105323792,
+        0.4799999985843897,
+        0.5166991303563118
+      ],
+      "triangles": 6236,
+      "meshes": 10,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/092",
+        "mechanism_92_0",
+        "forged iron",
+        "recesses",
+        "aged brass fittings",
+        "machined steel",
+        "waxed leather",
+        "linen thread",
+        "attach.origin",
+        "forged iron",
+        "machined steel",
+        "velvet cushion",
+        "oiled dark leather"
+      ],
+      "meshNames": [
+        "forged_iron",
+        "recesses",
+        "aged_brass_fittings",
+        "machined_steel",
+        "waxed_leather",
+        "linen_thread",
+        "forged_iron_1",
+        "machined_steel_1",
+        "velvet_cushion",
+        "oiled_dark_leather"
+      ],
+      "animations": [
+        "unlock_open"
+      ],
+      "animationChecks": [
+        {
+          "name": "unlock_open",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/093",
+      "path": "assets/interactive_props/093.glb",
+      "preview": "assets/previews/arsenal-interactive_props-093.webp",
+      "bounds": {
+        "min": [
+          -0.2608374357223511,
+          -0.008776702918112278,
+          -0.1594928354024887
+        ],
+        "max": [
+          0.30160000920295715,
+          0.6355708892643451,
+          0.29797133803367615
+        ]
+      },
+      "dimensionsMeters": [
+        0.5624374449253082,
+        0.6443475921824574,
+        0.45746417343616486
+      ],
+      "triangles": 3524,
+      "meshes": 10,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/093",
+        "mechanism_93_0",
+        "oiled dark leather",
+        "aged brass fittings",
+        "blown glass",
+        "forged iron",
+        "recesses",
+        "hardwood bevel and dark grain",
+        "waxed leather",
+        "attach.origin",
+        "worn timber edges",
+        "aged brass fittings",
+        "forged iron"
+      ],
+      "meshNames": [
+        "oiled_dark_leather",
+        "aged_brass_fittings",
+        "blown_glass",
+        "forged_iron",
+        "recesses",
+        "hardwood_bevel_and_dark_grain",
+        "waxed_leather",
+        "worn_timber_edges",
+        "aged_brass_fittings_1",
+        "forged_iron_1"
+      ],
+      "animations": [
+        "survey"
+      ],
+      "animationChecks": [
+        {
+          "name": "survey",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/094",
+      "path": "assets/interactive_props/094.glb",
+      "preview": "assets/previews/arsenal-interactive_props-094.webp",
+      "bounds": {
+        "min": [
+          -0.23999999463558197,
+          0.019999995827674866,
+          -0.1711726188659668
+        ],
+        "max": [
+          0.24699999392032623,
+          0.6577539443969727,
+          0.1615999937057495
+        ]
+      },
+      "dimensionsMeters": [
+        0.4869999885559082,
+        0.6377539485692978,
+        0.3327726125717163
+      ],
+      "triangles": 5188,
+      "meshes": 7,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/094",
+        "attach.origin",
+        "waxed canvas",
+        "waxed leather",
+        "oiled dark leather",
+        "aged brass fittings",
+        "dyed linen cloth",
+        "machined steel",
+        "linen thread"
+      ],
+      "meshNames": [
+        "waxed_canvas",
+        "waxed_leather",
+        "oiled_dark_leather",
+        "aged_brass_fittings",
+        "dyed_linen_cloth",
+        "machined_steel",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/095",
+      "path": "assets/interactive_props/095.glb",
+      "preview": "assets/previews/arsenal-interactive_props-095.webp",
+      "bounds": {
+        "min": [
+          -0.3327958285808563,
+          -0.005000003147870302,
+          -0.13899999856948853
+        ],
+        "max": [
+          0.3327958285808563,
+          0.21875999867916107,
+          0.147599995136261
+        ]
+      },
+      "dimensionsMeters": [
+        0.6655916571617126,
+        0.22376000182703137,
+        0.2865999937057495
+      ],
+      "triangles": 9816,
+      "meshes": 14,
+      "materials": 14,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/095",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "velvet cushion",
+        "worn timber edges",
+        "blown glass",
+        "tincture fluid",
+        "sawn end-grain timber",
+        "sealing wax",
+        "linen thread",
+        "parchment",
+        "iron-gall ink",
+        "second tincture fluid",
+        "hemp rope",
+        "waxed leather"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "velvet_cushion",
+        "worn_timber_edges",
+        "blown_glass",
+        "tincture_fluid",
+        "sawn_end-grain_timber",
+        "sealing_wax",
+        "linen_thread",
+        "parchment",
+        "iron-gall_ink",
+        "second_tincture_fluid",
+        "hemp_rope",
+        "waxed_leather"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/096",
+      "path": "assets/interactive_props/096.glb",
+      "preview": "assets/previews/arsenal-interactive_props-096.webp",
+      "bounds": {
+        "min": [
+          -0.12999999523162842,
+          0,
+          -0.15216799080371857
+        ],
+        "max": [
+          0.16441529989242554,
+          0.5659999847412109,
+          0.09097127616405487
+        ]
+      },
+      "dimensionsMeters": [
+        0.29441529512405396,
+        0.5659999847412109,
+        0.24313926696777344
+      ],
+      "triangles": 5328,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/096",
+        "attach.origin",
+        "waxed canvas",
+        "oiled dark leather",
+        "waxed leather",
+        "aged brass fittings",
+        "parchment",
+        "hardwood bevel and dark grain"
+      ],
+      "meshNames": [
+        "waxed_canvas",
+        "oiled_dark_leather",
+        "waxed_leather",
+        "aged_brass_fittings",
+        "parchment",
+        "hardwood_bevel_and_dark_grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/097",
+      "path": "assets/interactive_props/097.glb",
+      "preview": "assets/previews/arsenal-interactive_props-097.webp",
+      "bounds": {
+        "min": [
+          -0.3700000047683716,
+          5.9604645663569045e-9,
+          -0.2800000011920929
+        ],
+        "max": [
+          0.3700000047683716,
+          1.0291999578475952,
+          0.2946000099182129
+        ]
+      },
+      "dimensionsMeters": [
+        0.7400000095367432,
+        1.0291999518871306,
+        0.5746000111103058
+      ],
+      "triangles": 6610,
+      "meshes": 13,
+      "materials": 13,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/097",
+        "attach.origin",
+        "quarter-sawn hardwood",
+        "hardwood bevel and dark grain",
+        "worn timber edges",
+        "dyed linen cloth",
+        "ochre enamel",
+        "aged brass fittings",
+        "faded red enamel",
+        "tallow wax",
+        "recesses",
+        "lamp flame",
+        "cast bell bronze",
+        "waxed leather",
+        "linen thread"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "hardwood_bevel_and_dark_grain",
+        "worn_timber_edges",
+        "dyed_linen_cloth",
+        "ochre_enamel",
+        "aged_brass_fittings",
+        "faded_red_enamel",
+        "tallow_wax",
+        "recesses",
+        "lamp_flame",
+        "cast_bell_bronze",
+        "waxed_leather",
+        "linen_thread"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/098",
+      "path": "assets/interactive_props/098.glb",
+      "preview": "assets/previews/arsenal-interactive_props-098.webp",
+      "bounds": {
+        "min": [
+          -0.12999999523162842,
+          0,
+          -0.12999999523162842
+        ],
+        "max": [
+          0.15984943509101868,
+          0.40001779794692993,
+          0.12999999523162842
+        ]
+      },
+      "dimensionsMeters": [
+        0.2898494303226471,
+        0.40001779794692993,
+        0.25999999046325684
+      ],
+      "triangles": 2840,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/098",
+        "attach.origin",
+        "hardwood bevel and dark grain",
+        "woven straw",
+        "worn timber edges",
+        "blackened strap iron"
+      ],
+      "meshNames": [
+        "hardwood_bevel_and_dark_grain",
+        "woven_straw",
+        "worn_timber_edges",
+        "blackened_strap_iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/099",
+      "path": "assets/interactive_props/099.glb",
+      "preview": "assets/previews/arsenal-interactive_props-099.webp",
+      "bounds": {
+        "min": [
+          -0.4419189393520355,
+          -0.008599824272096157,
+          -0.3814840018749237
+        ],
+        "max": [
+          0.2418505698442459,
+          1.0885998010635376,
+          0.3913278877735138
+        ]
+      },
+      "dimensionsMeters": [
+        0.6837695091962814,
+        1.0971996253356338,
+        0.7728118896484375
+      ],
+      "triangles": 5114,
+      "meshes": 12,
+      "materials": 8,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/099",
+        "mechanism_99_0",
+        "quarter-sawn hardwood",
+        "blackened strap iron",
+        "cast bell bronze",
+        "aged brass fittings",
+        "forged iron",
+        "hemp rope",
+        "attach.origin",
+        "rough bark timber",
+        "hemp rope",
+        "blackened strap iron",
+        "quarter-sawn hardwood",
+        "forged iron",
+        "machined steel"
+      ],
+      "meshNames": [
+        "quarter-sawn_hardwood",
+        "blackened_strap_iron",
+        "cast_bell_bronze",
+        "aged_brass_fittings",
+        "forged_iron",
+        "hemp_rope",
+        "rough_bark_timber",
+        "hemp_rope_1",
+        "blackened_strap_iron_1",
+        "quarter-sawn_hardwood_1",
+        "forged_iron_1",
+        "machined_steel"
+      ],
+      "animations": [
+        "ring"
+      ],
+      "animationChecks": [
+        {
+          "name": "ring",
+          "duration": 3,
+          "tracks": 1,
+          "sampledAt": 1.1099999999999999
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:interactive_props/100",
+      "path": "assets/interactive_props/100.glb",
+      "preview": "assets/previews/arsenal-interactive_props-100.webp",
+      "bounds": {
+        "min": [
+          -0.22567929327487946,
+          0,
+          -0.2280000001192093
+        ],
+        "max": [
+          0.22567929327487946,
+          0.6959999799728394,
+          0.23100000619888306
+        ]
+      },
+      "dimensionsMeters": [
+        0.4513585865497589,
+        0.6959999799728394,
+        0.45900000631809235
+      ],
+      "triangles": 6424,
+      "meshes": 9,
+      "materials": 9,
+      "nodes": [
+        "AuxScene",
+        "arsenal:interactive_props/100",
+        "attach.origin",
+        "rough bark timber",
+        "sawn end-grain timber",
+        "hardwood bevel and dark grain",
+        "velvet cushion",
+        "aged brass fittings",
+        "blackened strap iron",
+        "forged iron",
+        "machined steel",
+        "recesses"
+      ],
+      "meshNames": [
+        "rough_bark_timber",
+        "sawn_end-grain_timber",
+        "hardwood_bevel_and_dark_grain",
+        "velvet_cushion",
+        "aged_brass_fittings",
+        "blackened_strap_iron",
+        "forged_iron",
+        "machined_steel",
+        "recesses"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    }
+  ]
+}

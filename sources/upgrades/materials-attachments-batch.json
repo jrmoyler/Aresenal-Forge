@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "arsenal:attachments/001",
+    "path": "assets/attachments/001.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Scope",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/002",
+    "path": "assets/attachments/002.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Suppressor",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/003",
+    "path": "assets/attachments/003.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Bayonet",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/004",
+    "path": "assets/attachments/004.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Magazine",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/005",
+    "path": "assets/attachments/005.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Foregrip",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/006",
+    "path": "assets/attachments/006.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Stock",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/007",
+    "path": "assets/attachments/007.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Quiver",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/008",
+    "path": "assets/attachments/008.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Scabbard",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/009",
+    "path": "assets/attachments/009.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Power cell",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/010",
+    "path": "assets/attachments/010.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Frontier Charm",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/011",
+    "path": "assets/attachments/011.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Scope",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/012",
+    "path": "assets/attachments/012.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Suppressor",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/013",
+    "path": "assets/attachments/013.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Bayonet",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/014",
+    "path": "assets/attachments/014.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Magazine",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/015",
+    "path": "assets/attachments/015.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Foregrip",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/016",
+    "path": "assets/attachments/016.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Stock",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/017",
+    "path": "assets/attachments/017.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Quiver",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/018",
+    "path": "assets/attachments/018.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Scabbard",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/019",
+    "path": "assets/attachments/019.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Power cell",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/020",
+    "path": "assets/attachments/020.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Citadel Charm",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/021",
+    "path": "assets/attachments/021.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Scope",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/022",
+    "path": "assets/attachments/022.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Suppressor",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/023",
+    "path": "assets/attachments/023.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Bayonet",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/024",
+    "path": "assets/attachments/024.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Magazine",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/025",
+    "path": "assets/attachments/025.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Foregrip",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/026",
+    "path": "assets/attachments/026.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Stock",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/027",
+    "path": "assets/attachments/027.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Quiver",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/028",
+    "path": "assets/attachments/028.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Scabbard",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/029",
+    "path": "assets/attachments/029.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Power cell",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/030",
+    "path": "assets/attachments/030.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Foundry Charm",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/031",
+    "path": "assets/attachments/031.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Scope",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/032",
+    "path": "assets/attachments/032.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Suppressor",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/033",
+    "path": "assets/attachments/033.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Bayonet",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/034",
+    "path": "assets/attachments/034.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Magazine",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/035",
+    "path": "assets/attachments/035.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Foregrip",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/036",
+    "path": "assets/attachments/036.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Stock",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/037",
+    "path": "assets/attachments/037.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Quiver",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/038",
+    "path": "assets/attachments/038.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Scabbard",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/039",
+    "path": "assets/attachments/039.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Power cell",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/040",
+    "path": "assets/attachments/040.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Sanctum Charm",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/041",
+    "path": "assets/attachments/041.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Scope",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/042",
+    "path": "assets/attachments/042.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Suppressor",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/043",
+    "path": "assets/attachments/043.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Bayonet",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/044",
+    "path": "assets/attachments/044.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Magazine",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/045",
+    "path": "assets/attachments/045.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Foregrip",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/046",
+    "path": "assets/attachments/046.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Stock",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/047",
+    "path": "assets/attachments/047.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Quiver",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/048",
+    "path": "assets/attachments/048.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Scabbard",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/049",
+    "path": "assets/attachments/049.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Power cell",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:attachments/050",
+    "path": "assets/attachments/050.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Expedition Charm",
+    "limitations": [
+      "Host attachment alignment not validated",
+      "No animation or gameplay integration claimed"
+    ]
+  },
+  {
+    "id": "arsenal:materials/001",
+    "path": "assets/materials/001.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/002",
+    "path": "assets/materials/002.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/003",
+    "path": "assets/materials/003.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/004",
+    "path": "assets/materials/004.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/005",
+    "path": "assets/materials/005.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/006",
+    "path": "assets/materials/006.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/007",
+    "path": "assets/materials/007.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/008",
+    "path": "assets/materials/008.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/009",
+    "path": "assets/materials/009.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/010",
+    "path": "assets/materials/010.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 1",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/011",
+    "path": "assets/materials/011.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/012",
+    "path": "assets/materials/012.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/013",
+    "path": "assets/materials/013.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/014",
+    "path": "assets/materials/014.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/015",
+    "path": "assets/materials/015.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/016",
+    "path": "assets/materials/016.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/017",
+    "path": "assets/materials/017.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/018",
+    "path": "assets/materials/018.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/019",
+    "path": "assets/materials/019.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/020",
+    "path": "assets/materials/020.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 2",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/021",
+    "path": "assets/materials/021.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/022",
+    "path": "assets/materials/022.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/023",
+    "path": "assets/materials/023.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/024",
+    "path": "assets/materials/024.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/025",
+    "path": "assets/materials/025.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/026",
+    "path": "assets/materials/026.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/027",
+    "path": "assets/materials/027.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/028",
+    "path": "assets/materials/028.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/029",
+    "path": "assets/materials/029.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/030",
+    "path": "assets/materials/030.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 3",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/031",
+    "path": "assets/materials/031.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/032",
+    "path": "assets/materials/032.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/033",
+    "path": "assets/materials/033.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/034",
+    "path": "assets/materials/034.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/035",
+    "path": "assets/materials/035.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/036",
+    "path": "assets/materials/036.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/037",
+    "path": "assets/materials/037.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/038",
+    "path": "assets/materials/038.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/039",
+    "path": "assets/materials/039.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/040",
+    "path": "assets/materials/040.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 4",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/041",
+    "path": "assets/materials/041.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/042",
+    "path": "assets/materials/042.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/043",
+    "path": "assets/materials/043.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/044",
+    "path": "assets/materials/044.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/045",
+    "path": "assets/materials/045.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/046",
+    "path": "assets/materials/046.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/047",
+    "path": "assets/materials/047.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/048",
+    "path": "assets/materials/048.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/049",
+    "path": "assets/materials/049.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/050",
+    "path": "assets/materials/050.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 5",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/051",
+    "path": "assets/materials/051.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/052",
+    "path": "assets/materials/052.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/053",
+    "path": "assets/materials/053.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/054",
+    "path": "assets/materials/054.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/055",
+    "path": "assets/materials/055.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/056",
+    "path": "assets/materials/056.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/057",
+    "path": "assets/materials/057.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/058",
+    "path": "assets/materials/058.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/059",
+    "path": "assets/materials/059.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/060",
+    "path": "assets/materials/060.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 6",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/061",
+    "path": "assets/materials/061.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/062",
+    "path": "assets/materials/062.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/063",
+    "path": "assets/materials/063.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/064",
+    "path": "assets/materials/064.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/065",
+    "path": "assets/materials/065.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/066",
+    "path": "assets/materials/066.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/067",
+    "path": "assets/materials/067.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/068",
+    "path": "assets/materials/068.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/069",
+    "path": "assets/materials/069.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/070",
+    "path": "assets/materials/070.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 7",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/071",
+    "path": "assets/materials/071.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/072",
+    "path": "assets/materials/072.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/073",
+    "path": "assets/materials/073.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/074",
+    "path": "assets/materials/074.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/075",
+    "path": "assets/materials/075.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/076",
+    "path": "assets/materials/076.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/077",
+    "path": "assets/materials/077.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/078",
+    "path": "assets/materials/078.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/079",
+    "path": "assets/materials/079.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/080",
+    "path": "assets/materials/080.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 8",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/081",
+    "path": "assets/materials/081.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/082",
+    "path": "assets/materials/082.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/083",
+    "path": "assets/materials/083.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/084",
+    "path": "assets/materials/084.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/085",
+    "path": "assets/materials/085.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/086",
+    "path": "assets/materials/086.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/087",
+    "path": "assets/materials/087.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/088",
+    "path": "assets/materials/088.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/089",
+    "path": "assets/materials/089.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/090",
+    "path": "assets/materials/090.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 9",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/091",
+    "path": "assets/materials/091.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Forged steel / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/092",
+    "path": "assets/materials/092.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Cast iron / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/093",
+    "path": "assets/materials/093.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Hammered brass / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/094",
+    "path": "assets/materials/094.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Oak grain / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/095",
+    "path": "assets/materials/095.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Stitched leather / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/096",
+    "path": "assets/materials/096.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Woven linen / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/097",
+    "path": "assets/materials/097.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Granite / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/098",
+    "path": "assets/materials/098.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Veined crystal / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/099",
+    "path": "assets/materials/099.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Glazed ceramic / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  },
+  {
+    "id": "arsenal:materials/100",
+    "path": "assets/materials/100.glb",
+    "source": "sources/upgrades/materials-attachments.mjs",
+    "name": "Basalt / finish 10",
+    "limitations": [
+      "Synthetic tileable PBR maps, not scanned or baked",
+      "Appearance requires art review"
+    ]
+  }
+]

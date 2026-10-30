@@ -1,0 +1,4440 @@
+{
+  "scope": "Three.js import, studio still, and animation sampling; not art approval or gameplay certification",
+  "assets": [
+    {
+      "id": "arsenal:construction_modules/001",
+      "path": "assets/construction_modules/001.glb",
+      "preview": "assets/previews/arsenal-construction_modules-001.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.11999999731779099
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.12700000405311584
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.24700000137090683
+      ],
+      "triangles": 1092,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/001",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/002",
+      "path": "assets/construction_modules/002.glb",
+      "preview": "assets/previews/arsenal-construction_modules-002.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.20000000298023224
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.20000000298023224
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.4000000059604645
+      ],
+      "triangles": 1180,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/002",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/003",
+      "path": "assets/construction_modules/003.glb",
+      "preview": "assets/previews/arsenal-construction_modules-003.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.17999999225139618
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.41999998688697815
+      ],
+      "triangles": 1840,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/003",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/004",
+      "path": "assets/construction_modules/004.glb",
+      "preview": "assets/previews/arsenal-construction_modules-004.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.4901161415892261e-9,
+          -1
+        ],
+        "max": [
+          1,
+          0.28200000524520874,
+          1
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        0.2820000067353249,
+        2
+      ],
+      "triangles": 2964,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/004",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/005",
+      "path": "assets/construction_modules/005.glb",
+      "preview": "assets/previews/arsenal-construction_modules-005.webp",
+      "bounds": {
+        "min": [
+          -0.6499999761581421,
+          -0.06633855402469635,
+          -1.1399999856948853
+        ],
+        "max": [
+          0.6499999761581421,
+          2.226916551589966,
+          1.0429496765136719
+        ]
+      },
+      "dimensionsMeters": [
+        1.2999999523162842,
+        2.293255105614662,
+        2.182949662208557
+      ],
+      "triangles": 1988,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/005",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/006",
+      "path": "assets/construction_modules/006.glb",
+      "preview": "assets/previews/arsenal-construction_modules-006.webp",
+      "bounds": {
+        "min": [
+          -0.3267013430595398,
+          -2.9802322831784522e-9,
+          -0.3199999928474426
+        ],
+        "max": [
+          0.3267013430595398,
+          2.380000114440918,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.6534026861190796,
+        2.38000011742115,
+        0.6399999856948853
+      ],
+      "triangles": 608,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/006",
+        "attach.origin",
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/007",
+      "path": "assets/construction_modules/007.glb",
+      "preview": "assets/previews/arsenal-construction_modules-007.webp",
+      "bounds": {
+        "min": [
+          -1.0080000162124634,
+          -2.38418573772492e-9,
+          -0.25
+        ],
+        "max": [
+          1.0080000162124634,
+          2.869999885559082,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        2.0160000324249268,
+        2.8699998879432678,
+        0.5
+      ],
+      "triangles": 1748,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/007",
+        "attach.origin",
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/008",
+      "path": "assets/construction_modules/008.glb",
+      "preview": "assets/previews/arsenal-construction_modules-008.webp",
+      "bounds": {
+        "min": [
+          -1.0333932638168335,
+          0.05000000074505806,
+          -1.0099999904632568
+        ],
+        "max": [
+          1.0333932638168335,
+          0.9300000071525574,
+          1.0099999904632568
+        ]
+      },
+      "dimensionsMeters": [
+        2.066786527633667,
+        0.8800000064074993,
+        2.0199999809265137
+      ],
+      "triangles": 4576,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/008",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "split-shake-timber",
+        "dressed-fieldstone-edges"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "split-shake-timber",
+        "dressed-fieldstone-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/009",
+      "path": "assets/construction_modules/009.glb",
+      "preview": "assets/previews/arsenal-construction_modules-009.webp",
+      "bounds": {
+        "min": [
+          -0.5300000309944153,
+          -0.0077549307607114315,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.3400000035762787,
+          2.2850000858306885,
+          0.3400000035762787
+        ]
+      },
+      "dimensionsMeters": [
+        0.870000034570694,
+        2.2927550165914,
+        0.6800000071525574
+      ],
+      "triangles": 660,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/009",
+        "attach.origin",
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron"
+      ],
+      "meshNames": [
+        "dressed-fieldstone-edges",
+        "fieldstone-ashlar",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/010",
+      "path": "assets/construction_modules/010.glb",
+      "preview": "assets/previews/arsenal-construction_modules-010.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.38418573772492e-9,
+          -0.15000000596046448
+        ],
+        "max": [
+          1,
+          1.065000057220459,
+          0.15000000596046448
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        1.0650000548362732,
+        0.30000001192092896
+      ],
+      "triangles": 484,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/010",
+        "attach.origin",
+        "dressed-fieldstone-edges",
+        "exposed-end-grain",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "dressed-fieldstone-edges",
+        "exposed-end-grain",
+        "quarter-sawn-timber"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/011",
+      "path": "assets/construction_modules/011.glb",
+      "preview": "assets/previews/arsenal-construction_modules-011.webp",
+      "bounds": {
+        "min": [
+          -0.6119999885559082,
+          0.019999980926513672,
+          -0.08999999612569809
+        ],
+        "max": [
+          0.5575000047683716,
+          1.9800000190734863,
+          0.0820000022649765
+        ]
+      },
+      "dimensionsMeters": [
+        1.1694999933242798,
+        1.9600000381469727,
+        0.1719999983906746
+      ],
+      "triangles": 1776,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/011",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/012",
+      "path": "assets/construction_modules/012.glb",
+      "preview": "assets/previews/arsenal-construction_modules-012.webp",
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.4901161415892261e-9,
+          -1.0199999809265137
+        ],
+        "max": [
+          1.0199999809265137,
+          1.2699999809265137,
+          1.0199999809265137
+        ]
+      },
+      "dimensionsMeters": [
+        2.0399999618530273,
+        1.2699999824166297,
+        2.0399999618530273
+      ],
+      "triangles": 3844,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/012",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "dressed-fieldstone-edges"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "dressed-fieldstone-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/013",
+      "path": "assets/construction_modules/013.glb",
+      "preview": "assets/previews/arsenal-construction_modules-013.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.3841858265427618e-8,
+          -0.18000000715255737
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.4000000715255734,
+        0.42000000178813934
+      ],
+      "triangles": 1980,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/013",
+        "attach.origin",
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/014",
+      "path": "assets/construction_modules/014.glb",
+      "preview": "assets/previews/arsenal-construction_modules-014.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -2.8610228852699038e-8,
+          -0.20000000298023224
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.4000001239776605,
+        0.4399999976158142
+      ],
+      "triangles": 2112,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/014",
+        "attach.origin",
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/015",
+      "path": "assets/construction_modules/015.glb",
+      "preview": "assets/previews/arsenal-construction_modules-015.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.1920929132713809e-8,
+          -0.18000000715255737
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.4000001072883608,
+        0.42000000178813934
+      ],
+      "triangles": 2420,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/015",
+        "attach.origin",
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/016",
+      "path": "assets/construction_modules/016.glb",
+      "preview": "assets/previews/arsenal-construction_modules-016.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.4901161415892261e-9,
+          -1
+        ],
+        "max": [
+          1,
+          0.3199999928474426,
+          1
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        0.31999999433755877,
+        2
+      ],
+      "triangles": 572,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/016",
+        "attach.origin",
+        "tooled-granite-edges",
+        "mortar-joint-recess",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "mortar-joint-recess",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/017",
+      "path": "assets/construction_modules/017.glb",
+      "preview": "assets/previews/arsenal-construction_modules-017.webp",
+      "bounds": {
+        "min": [
+          -0.6499999761581421,
+          -0.06633855402469635,
+          -1.1399999856948853
+        ],
+        "max": [
+          0.6499999761581421,
+          2.226916551589966,
+          1.0429496765136719
+        ]
+      },
+      "dimensionsMeters": [
+        1.2999999523162842,
+        2.293255105614662,
+        2.182949662208557
+      ],
+      "triangles": 1232,
+      "meshes": 1,
+      "materials": 1,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/017",
+        "attach.origin",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/018",
+      "path": "assets/construction_modules/018.glb",
+      "preview": "assets/previews/arsenal-construction_modules-018.webp",
+      "bounds": {
+        "min": [
+          -0.3199999928474426,
+          -2.9802322831784522e-9,
+          -0.3199999928474426
+        ],
+        "max": [
+          0.3199999928474426,
+          2.380000114440918,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.6399999856948853,
+        2.38000011742115,
+        0.6399999856948853
+      ],
+      "triangles": 900,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/018",
+        "attach.origin",
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/019",
+      "path": "assets/construction_modules/019.glb",
+      "preview": "assets/previews/arsenal-construction_modules-019.webp",
+      "bounds": {
+        "min": [
+          -1.0080000162124634,
+          -2.38418573772492e-9,
+          -0.25
+        ],
+        "max": [
+          1.0080000162124634,
+          2.7279999256134033,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        2.0160000324249268,
+        2.727999927997589,
+        0.5
+      ],
+      "triangles": 1512,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/019",
+        "attach.origin",
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/020",
+      "path": "assets/construction_modules/020.glb",
+      "preview": "assets/previews/arsenal-construction_modules-020.webp",
+      "bounds": {
+        "min": [
+          -1.0333932638168335,
+          0.05000000074505806,
+          -1.0099999904632568
+        ],
+        "max": [
+          1.0333932638168335,
+          0.9300000071525574,
+          1.0099999904632568
+        ]
+      },
+      "dimensionsMeters": [
+        2.066786527633667,
+        0.8800000064074993,
+        2.0199999809265137
+      ],
+      "triangles": 4576,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/020",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "roof-slate-stone",
+        "tooled-granite-edges"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "roof-slate-stone",
+        "tooled-granite-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/021",
+      "path": "assets/construction_modules/021.glb",
+      "preview": "assets/previews/arsenal-construction_modules-021.webp",
+      "bounds": {
+        "min": [
+          -0.3400000035762787,
+          2.38418573772492e-9,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.3400000035762787,
+          2.2850000858306885,
+          0.3400000035762787
+        ]
+      },
+      "dimensionsMeters": [
+        0.6800000071525574,
+        2.2850000834465027,
+        0.6800000071525574
+      ],
+      "triangles": 440,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/021",
+        "attach.origin",
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/022",
+      "path": "assets/construction_modules/022.glb",
+      "preview": "assets/previews/arsenal-construction_modules-022.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.38418573772492e-9,
+          -0.15000000596046448
+        ],
+        "max": [
+          1,
+          1.065000057220459,
+          0.15000000596046448
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        1.0650000548362732,
+        0.30000001192092896
+      ],
+      "triangles": 880,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/022",
+        "attach.origin",
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/023",
+      "path": "assets/construction_modules/023.glb",
+      "preview": "assets/previews/arsenal-construction_modules-023.webp",
+      "bounds": {
+        "min": [
+          -0.6119999885559082,
+          0.019999980926513672,
+          -0.08999999612569809
+        ],
+        "max": [
+          0.5575000047683716,
+          1.9800000190734863,
+          0.0820000022649765
+        ]
+      },
+      "dimensionsMeters": [
+        1.1694999933242798,
+        1.9600000381469727,
+        0.1719999983906746
+      ],
+      "triangles": 3060,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/023",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/024",
+      "path": "assets/construction_modules/024.glb",
+      "preview": "assets/previews/arsenal-construction_modules-024.webp",
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.4901161415892261e-9,
+          -1.0199999809265137
+        ],
+        "max": [
+          1.0199999809265137,
+          1.2699999809265137,
+          1.0199999809265137
+        ]
+      },
+      "dimensionsMeters": [
+        2.0399999618530273,
+        1.2699999824166297,
+        2.0399999618530273
+      ],
+      "triangles": 1452,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/024",
+        "attach.origin",
+        "tooled-granite-edges",
+        "mortar-joint-recess",
+        "granite-ashlar"
+      ],
+      "meshNames": [
+        "tooled-granite-edges",
+        "mortar-joint-recess",
+        "granite-ashlar"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/025",
+      "path": "assets/construction_modules/025.glb",
+      "preview": "assets/previews/arsenal-construction_modules-025.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.12999999523162842
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.15399999916553497
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.2839999943971634
+      ],
+      "triangles": 7516,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/025",
+        "attach.origin",
+        "mortar-joint-recess",
+        "fired-foundry-brick",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "fired-foundry-brick",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/026",
+      "path": "assets/construction_modules/026.glb",
+      "preview": "assets/previews/arsenal-construction_modules-026.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.20000000298023224
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.20000000298023224
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.4000000059604645
+      ],
+      "triangles": 5932,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/026",
+        "attach.origin",
+        "mortar-joint-recess",
+        "foundry-slag-brick",
+        "fired-foundry-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "foundry-slag-brick",
+        "fired-foundry-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/027",
+      "path": "assets/construction_modules/027.glb",
+      "preview": "assets/previews/arsenal-construction_modules-027.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.17999999225139618
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.41999998688697815
+      ],
+      "triangles": 6900,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/027",
+        "attach.origin",
+        "mortar-joint-recess",
+        "fired-foundry-brick",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "fired-foundry-brick",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/028",
+      "path": "assets/construction_modules/028.glb",
+      "preview": "assets/previews/arsenal-construction_modules-028.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.4901161415892261e-9,
+          -1
+        ],
+        "max": [
+          1,
+          0.28999999165534973,
+          1
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        0.2899999931454659,
+        2
+      ],
+      "triangles": 6656,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/028",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/029",
+      "path": "assets/construction_modules/029.glb",
+      "preview": "assets/previews/arsenal-construction_modules-029.webp",
+      "bounds": {
+        "min": [
+          -0.6499999761581421,
+          -0.06633855402469635,
+          -1.1399999856948853
+        ],
+        "max": [
+          0.6499999761581421,
+          2.226916551589966,
+          1.065000057220459
+        ]
+      },
+      "dimensionsMeters": [
+        1.2999999523162842,
+        2.293255105614662,
+        2.2050000429153442
+      ],
+      "triangles": 5588,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/029",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/030",
+      "path": "assets/construction_modules/030.glb",
+      "preview": "assets/previews/arsenal-construction_modules-030.webp",
+      "bounds": {
+        "min": [
+          -0.3199999928474426,
+          -2.9802322831784522e-9,
+          -0.3199999928474426
+        ],
+        "max": [
+          0.3199999928474426,
+          2.380000114440918,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.6399999856948853,
+        2.38000011742115,
+        0.6399999856948853
+      ],
+      "triangles": 788,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/030",
+        "attach.origin",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "foundry-slag-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/031",
+      "path": "assets/construction_modules/031.glb",
+      "preview": "assets/previews/arsenal-construction_modules-031.webp",
+      "bounds": {
+        "min": [
+          -1.0080000162124634,
+          -2.38418573772492e-9,
+          -0.25
+        ],
+        "max": [
+          1.0080000162124634,
+          2.7279999256134033,
+          0.25699999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        2.0160000324249268,
+        2.727999927997589,
+        0.5069999992847443
+      ],
+      "triangles": 2368,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/031",
+        "attach.origin",
+        "foundry-slag-brick",
+        "fired-foundry-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "foundry-slag-brick",
+        "fired-foundry-brick",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/032",
+      "path": "assets/construction_modules/032.glb",
+      "preview": "assets/previews/arsenal-construction_modules-032.webp",
+      "bounds": {
+        "min": [
+          -1.0281203985214233,
+          0.05000000074505806,
+          -1.0099999904632568
+        ],
+        "max": [
+          1.0281203985214233,
+          0.9300000071525574,
+          1.0099999904632568
+        ]
+      },
+      "dimensionsMeters": [
+        2.0562407970428467,
+        0.8800000064074993,
+        2.0199999809265137
+      ],
+      "triangles": 3168,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/032",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "seamed-roof-sheet-iron",
+        "machined-bearing-steel",
+        "gunmetal-cast-iron"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "seamed-roof-sheet-iron",
+        "machined-bearing-steel",
+        "gunmetal-cast-iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/033",
+      "path": "assets/construction_modules/033.glb",
+      "preview": "assets/previews/arsenal-construction_modules-033.webp",
+      "bounds": {
+        "min": [
+          -0.3400000035762787,
+          2.38418573772492e-9,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.3400000035762787,
+          2.2850000858306885,
+          0.3400000035762787
+        ]
+      },
+      "dimensionsMeters": [
+        0.6800000071525574,
+        2.2850000834465027,
+        0.6800000071525574
+      ],
+      "triangles": 616,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/033",
+        "attach.origin",
+        "foundry-slag-brick",
+        "gunmetal-cast-iron"
+      ],
+      "meshNames": [
+        "foundry-slag-brick",
+        "gunmetal-cast-iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/034",
+      "path": "assets/construction_modules/034.glb",
+      "preview": "assets/previews/arsenal-construction_modules-034.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.38418573772492e-9,
+          -0.15000000596046448
+        ],
+        "max": [
+          1,
+          1.065000057220459,
+          0.15000000596046448
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        1.0650000548362732,
+        0.30000001192092896
+      ],
+      "triangles": 3940,
+      "meshes": 1,
+      "materials": 1,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/034",
+        "attach.origin",
+        "gunmetal-cast-iron"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/035",
+      "path": "assets/construction_modules/035.glb",
+      "preview": "assets/previews/arsenal-construction_modules-035.webp",
+      "bounds": {
+        "min": [
+          -0.6119999885559082,
+          0.019999980926513672,
+          -0.029999999329447746
+        ],
+        "max": [
+          0.5600000023841858,
+          1.9800000190734863,
+          0.0820000022649765
+        ]
+      },
+      "dimensionsMeters": [
+        1.171999990940094,
+        1.9600000381469727,
+        0.11200000159442425
+      ],
+      "triangles": 2812,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/035",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "mortar-joint-recess",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "mortar-joint-recess",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/036",
+      "path": "assets/construction_modules/036.glb",
+      "preview": "assets/previews/arsenal-construction_modules-036.webp",
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.4901161415892261e-9,
+          -1.0199999809265137
+        ],
+        "max": [
+          1.0199999809265137,
+          1.2699999809265137,
+          1.0199999809265137
+        ]
+      },
+      "dimensionsMeters": [
+        2.0399999618530273,
+        1.2699999824166297,
+        2.0399999618530273
+      ],
+      "triangles": 7536,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/036",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "foundry-slag-brick"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "foundry-slag-brick"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/037",
+      "path": "assets/construction_modules/037.glb",
+      "preview": "assets/previews/arsenal-construction_modules-037.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -2.3841858265427618e-8,
+          -0.17000000178813934
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.18250000476837158
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.40000011920929,
+        0.3525000065565109
+      ],
+      "triangles": 1804,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/037",
+        "attach.origin",
+        "mortar-joint-recess",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/038",
+      "path": "assets/construction_modules/038.glb",
+      "preview": "assets/previews/arsenal-construction_modules-038.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -2.8610228852699038e-8,
+          -0.20000000298023224
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.20000000298023224
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.4000001239776605,
+        0.4000000059604645
+      ],
+      "triangles": 2068,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/038",
+        "attach.origin",
+        "mortar-joint-recess",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/039",
+      "path": "assets/construction_modules/039.glb",
+      "preview": "assets/previews/arsenal-construction_modules-039.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -2.3841858265427618e-8,
+          -0.17999999225139618
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.40000011920929,
+        0.41999998688697815
+      ],
+      "triangles": 2332,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/039",
+        "attach.origin",
+        "mortar-joint-recess",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "mortar-joint-recess",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/040",
+      "path": "assets/construction_modules/040.glb",
+      "preview": "assets/previews/arsenal-construction_modules-040.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.4901161415892261e-9,
+          -1
+        ],
+        "max": [
+          1,
+          0.3199999928474426,
+          1
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        0.31999999433755877,
+        2
+      ],
+      "triangles": 880,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/040",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "mortar-joint-recess",
+        "green-serpentine-marble-stone"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "mortar-joint-recess",
+        "green-serpentine-marble-stone"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/041",
+      "path": "assets/construction_modules/041.glb",
+      "preview": "assets/previews/arsenal-construction_modules-041.webp",
+      "bounds": {
+        "min": [
+          -0.6499999761581421,
+          -0.06633855402469635,
+          -1.1399999856948853
+        ],
+        "max": [
+          0.6499999761581421,
+          2.226916551589966,
+          1.0429496765136719
+        ]
+      },
+      "dimensionsMeters": [
+        1.2999999523162842,
+        2.293255105614662,
+        2.182949662208557
+      ],
+      "triangles": 1232,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/041",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/042",
+      "path": "assets/construction_modules/042.glb",
+      "preview": "assets/previews/arsenal-construction_modules-042.webp",
+      "bounds": {
+        "min": [
+          -0.3199999928474426,
+          -2.9802322831784522e-9,
+          -0.3199999928474426
+        ],
+        "max": [
+          0.3199999928474426,
+          2.380000114440918,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.6399999856948853,
+        2.38000011742115,
+        0.6399999856948853
+      ],
+      "triangles": 988,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/042",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/043",
+      "path": "assets/construction_modules/043.glb",
+      "preview": "assets/previews/arsenal-construction_modules-043.webp",
+      "bounds": {
+        "min": [
+          -1.0080000162124634,
+          -2.38418573772492e-9,
+          -0.25
+        ],
+        "max": [
+          1.0080000162124634,
+          2.7279999256134033,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        2.0160000324249268,
+        2.727999927997589,
+        0.5
+      ],
+      "triangles": 3624,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/043",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/044",
+      "path": "assets/construction_modules/044.glb",
+      "preview": "assets/previews/arsenal-construction_modules-044.webp",
+      "bounds": {
+        "min": [
+          -1.0333932638168335,
+          0.05000000074505806,
+          -1.0099999904632568
+        ],
+        "max": [
+          1.0333932638168335,
+          0.9300000071525574,
+          1.0099999904632568
+        ]
+      },
+      "dimensionsMeters": [
+        2.066786527633667,
+        0.8800000064074993,
+        2.0199999809265137
+      ],
+      "triangles": 4576,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/044",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "verdigris-bronze-roofing",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "verdigris-bronze-roofing",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/045",
+      "path": "assets/construction_modules/045.glb",
+      "preview": "assets/previews/arsenal-construction_modules-045.webp",
+      "bounds": {
+        "min": [
+          -0.3400000035762787,
+          2.38418573772492e-9,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.3400000035762787,
+          2.2850000858306885,
+          0.3400000035762787
+        ]
+      },
+      "dimensionsMeters": [
+        0.6800000071525574,
+        2.2850000834465027,
+        0.6800000071525574
+      ],
+      "triangles": 440,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/045",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/046",
+      "path": "assets/construction_modules/046.glb",
+      "preview": "assets/previews/arsenal-construction_modules-046.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.38418573772492e-9,
+          -0.15000000596046448
+        ],
+        "max": [
+          1,
+          1.0850000381469727,
+          0.15000000596046448
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        1.085000035762787,
+        0.30000001192092896
+      ],
+      "triangles": 2436,
+      "meshes": 2,
+      "materials": 2,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/046",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/047",
+      "path": "assets/construction_modules/047.glb",
+      "preview": "assets/previews/arsenal-construction_modules-047.webp",
+      "bounds": {
+        "min": [
+          -0.6119999885559082,
+          0.019999980926513672,
+          -0.08999999612569809
+        ],
+        "max": [
+          0.5600000023841858,
+          1.9800000190734863,
+          0.0820000022649765
+        ]
+      },
+      "dimensionsMeters": [
+        1.171999990940094,
+        1.9600000381469727,
+        0.1719999983906746
+      ],
+      "triangles": 1864,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/047",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "aged-bronze",
+        "dark-patinated-bronze-fittings"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "aged-bronze",
+        "dark-patinated-bronze-fittings"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/048",
+      "path": "assets/construction_modules/048.glb",
+      "preview": "assets/previews/arsenal-construction_modules-048.webp",
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.4901161415892261e-9,
+          -1.0199999809265137
+        ],
+        "max": [
+          1.0199999809265137,
+          1.2699999809265137,
+          1.0199999809265137
+        ]
+      },
+      "dimensionsMeters": [
+        2.0399999618530273,
+        1.2699999824166297,
+        2.0399999618530273
+      ],
+      "triangles": 1760,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/048",
+        "attach.origin",
+        "carved-limestone-mouldings",
+        "mortar-joint-recess",
+        "green-serpentine-marble-stone",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "carved-limestone-mouldings",
+        "mortar-joint-recess",
+        "green-serpentine-marble-stone",
+        "honed-limestone",
+        "aged-bronze"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/049",
+      "path": "assets/construction_modules/049.glb",
+      "preview": "assets/previews/arsenal-construction_modules-049.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.10999999940395355
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.13699999451637268
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.24699999392032623
+      ],
+      "triangles": 1568,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/049",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/050",
+      "path": "assets/construction_modules/050.glb",
+      "preview": "assets/previews/arsenal-construction_modules-050.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.20000000298023224
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.20000000298023224
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.4000000059604645
+      ],
+      "triangles": 2184,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/050",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/051",
+      "path": "assets/construction_modules/051.glb",
+      "preview": "assets/previews/arsenal-construction_modules-051.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -4.7683716530855236e-8,
+          -0.17999999225139618
+        ],
+        "max": [
+          1,
+          2.4000000953674316,
+          0.23999999463558197
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        2.400000143051148,
+        0.41999998688697815
+      ],
+      "triangles": 2316,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/051",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/052",
+      "path": "assets/construction_modules/052.glb",
+      "preview": "assets/previews/arsenal-construction_modules-052.webp",
+      "bounds": {
+        "min": [
+          -1,
+          -1.4901161415892261e-9,
+          -1
+        ],
+        "max": [
+          1,
+          0.28999999165534973,
+          1
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        0.2899999931454659,
+        2
+      ],
+      "triangles": 880,
+      "meshes": 3,
+      "materials": 3,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/052",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/053",
+      "path": "assets/construction_modules/053.glb",
+      "preview": "assets/previews/arsenal-construction_modules-053.webp",
+      "bounds": {
+        "min": [
+          -0.6499999761581421,
+          -0.06633855402469635,
+          -1.1399999856948853
+        ],
+        "max": [
+          0.6499999761581421,
+          2.226916551589966,
+          1.0429496765136719
+        ]
+      },
+      "dimensionsMeters": [
+        1.2999999523162842,
+        2.293255105614662,
+        2.182949662208557
+      ],
+      "triangles": 1988,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/053",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/054",
+      "path": "assets/construction_modules/054.glb",
+      "preview": "assets/previews/arsenal-construction_modules-054.webp",
+      "bounds": {
+        "min": [
+          -0.3267013430595398,
+          -2.9802322831784522e-9,
+          -0.3199999928474426
+        ],
+        "max": [
+          0.3267013430595398,
+          2.380000114440918,
+          0.3199999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        0.6534026861190796,
+        2.38000011742115,
+        0.6399999856948853
+      ],
+      "triangles": 608,
+      "meshes": 6,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/054",
+        "attach.origin",
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/055",
+      "path": "assets/construction_modules/055.glb",
+      "preview": "assets/previews/arsenal-construction_modules-055.webp",
+      "bounds": {
+        "min": [
+          -1.0080000162124634,
+          -2.38418573772492e-9,
+          -0.25
+        ],
+        "max": [
+          1.0080000162124634,
+          2.869999885559082,
+          0.25
+        ]
+      },
+      "dimensionsMeters": [
+        2.0160000324249268,
+        2.8699998879432678,
+        0.5
+      ],
+      "triangles": 1748,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/055",
+        "attach.origin",
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/056",
+      "path": "assets/construction_modules/056.glb",
+      "preview": "assets/previews/arsenal-construction_modules-056.webp",
+      "bounds": {
+        "min": [
+          -1.100000023841858,
+          0.030000001192092896,
+          -1.0299999713897705
+        ],
+        "max": [
+          1.100000023841858,
+          0.9398332238197327,
+          1.0299999713897705
+        ]
+      },
+      "dimensionsMeters": [
+        2.200000047683716,
+        0.9098332226276398,
+        2.059999942779541
+      ],
+      "triangles": 1584,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/056",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "oiled-canvas-tarp",
+        "hemp-rope-grain",
+        "sandstone-edges"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "oiled-canvas-tarp",
+        "hemp-rope-grain",
+        "sandstone-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/057",
+      "path": "assets/construction_modules/057.glb",
+      "preview": "assets/previews/arsenal-construction_modules-057.webp",
+      "bounds": {
+        "min": [
+          -0.5300000309944153,
+          -0.0077549307607114315,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.3400000035762787,
+          2.2850000858306885,
+          0.3400000035762787
+        ]
+      },
+      "dimensionsMeters": [
+        0.870000034570694,
+        2.2927550165914,
+        0.6800000071525574
+      ],
+      "triangles": 660,
+      "meshes": 5,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/057",
+        "attach.origin",
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel"
+      ],
+      "meshNames": [
+        "sandstone-edges",
+        "weathered-sandstone-ashlar",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/058",
+      "path": "assets/construction_modules/058.glb",
+      "preview": "assets/previews/arsenal-construction_modules-058.webp",
+      "bounds": {
+        "min": [
+          -1,
+          2.38418573772492e-9,
+          -0.15000000596046448
+        ],
+        "max": [
+          1,
+          1.1260000467300415,
+          0.15000000596046448
+        ]
+      },
+      "dimensionsMeters": [
+        2,
+        1.1260000443458558,
+        0.30000001192092896
+      ],
+      "triangles": 692,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/058",
+        "attach.origin",
+        "sandstone-edges",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "hemp-rope-grain"
+      ],
+      "meshNames": [
+        "sandstone-edges",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "hemp-rope-grain"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/059",
+      "path": "assets/construction_modules/059.glb",
+      "preview": "assets/previews/arsenal-construction_modules-059.webp",
+      "bounds": {
+        "min": [
+          -0.6119999885559082,
+          0.02099999599158764,
+          -0.08999999612569809
+        ],
+        "max": [
+          0.550000011920929,
+          1.972000002861023,
+          0.0820000022649765
+        ]
+      },
+      "dimensionsMeters": [
+        1.1620000004768372,
+        1.9510000068694353,
+        0.1719999983906746
+      ],
+      "triangles": 1996,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/059",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:construction_modules/060",
+      "path": "assets/construction_modules/060.glb",
+      "preview": "assets/previews/arsenal-construction_modules-060.webp",
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.4901161415892261e-9,
+          -1.0199999809265137
+        ],
+        "max": [
+          1.0199999809265137,
+          1.2699999809265137,
+          1.0199999809265137
+        ]
+      },
+      "dimensionsMeters": [
+        2.0399999618530273,
+        1.2699999824166297,
+        2.0399999618530273
+      ],
+      "triangles": 1760,
+      "meshes": 4,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:construction_modules/060",
+        "attach.origin",
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "sandstone-edges"
+      ],
+      "meshNames": [
+        "exposed-end-grain",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "sandstone-edges"
+      ],
+      "animations": [],
+      "animationChecks": [],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/001",
+      "path": "assets/animated_mechanisms/001.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-001.webp",
+      "bounds": {
+        "min": [
+          -0.8449999690055847,
+          -4.7683716530855236e-8,
+          -0.14499999582767487
+        ],
+        "max": [
+          0.8449999690055847,
+          2.484999895095825,
+          0.1550000011920929
+        ]
+      },
+      "dimensionsMeters": [
+        1.6899999380111694,
+        2.4849999427795417,
+        0.29999999701976776
+      ],
+      "triangles": 2384,
+      "meshes": 9,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/001",
+        "door-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "quarter-sawn-timber_1",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron_1",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "open-close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open-close",
+          "duration": 4.5,
+          "tracks": 1,
+          "sampledAt": 1.665
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/002",
+      "path": "assets/animated_mechanisms/002.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-002.webp",
+      "bounds": {
+        "min": [
+          -1.065000057220459,
+          1.3411045607369942e-9,
+          -0.3700000047683716
+        ],
+        "max": [
+          1.065000057220459,
+          2.9649999141693115,
+          0.1899999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        2.130000114440918,
+        2.964999912828207,
+        0.5600000023841858
+      ],
+      "triangles": 4188,
+      "meshes": 6,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/002",
+        "portcullis-lift",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "blackened-forged-iron",
+        "dressed-fieldstone-edges",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "quarter-sawn-timber",
+        "blackened-forged-iron_1",
+        "dressed-fieldstone-edges",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "raise-lower"
+      ],
+      "animationChecks": [
+        {
+          "name": "raise-lower",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/003",
+      "path": "assets/animated_mechanisms/003.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-003.webp",
+      "bounds": {
+        "min": [
+          -1.0499999523162842,
+          -0.015573813579976559,
+          -0.6050000190734863
+        ],
+        "max": [
+          0.949999988079071,
+          1.8700000047683716,
+          0.6050000190734863
+        ]
+      },
+      "dimensionsMeters": [
+        1.9999999403953552,
+        1.8855738183483481,
+        1.2100000381469727
+      ],
+      "triangles": 9572,
+      "meshes": 11,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/003",
+        "waterwheel-rotor",
+        "blackened-forged-iron",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron",
+        "aged-bronze",
+        "fieldstone-ashlar",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "blackened-forged-iron",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "quarter-sawn-timber_1",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron_1",
+        "aged-bronze",
+        "fieldstone-ashlar",
+        "machined-bearing-steel_1",
+        "exposed-end-grain_1"
+      ],
+      "animations": [
+        "waterwheel-turn"
+      ],
+      "animationChecks": [
+        {
+          "name": "waterwheel-turn",
+          "duration": 8,
+          "tracks": 1,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/004",
+      "path": "assets/animated_mechanisms/004.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-004.webp",
+      "bounds": {
+        "min": [
+          -0.6899999964237213,
+          1.3411045607369942e-9,
+          -0.3400000035762787
+        ],
+        "max": [
+          0.675000011920929,
+          1.0699999964237215,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3650000083446503,
+        1.069999995082617,
+        0.6400000154972076
+      ],
+      "triangles": 5680,
+      "meshes": 10,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/004",
+        "drive-gear",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "driven-gear",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "attach.origin",
+        "blackened-forged-iron",
+        "dressed-fieldstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "blackened-forged-iron_1",
+        "machined-bearing-steel_1",
+        "mortar-joint-recess_1",
+        "blackened-forged-iron_2",
+        "dressed-fieldstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess_2"
+      ],
+      "animations": [
+        "gear-drive"
+      ],
+      "animationChecks": [
+        {
+          "name": "gear-drive",
+          "duration": 8,
+          "tracks": 2,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/005",
+      "path": "assets/animated_mechanisms/005.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-005.webp",
+      "bounds": {
+        "min": [
+          -0.675000011920929,
+          -2.9802322831784522e-9,
+          -0.42500001192092896
+        ],
+        "max": [
+          0.675000011920929,
+          2.3450000286102295,
+          0.42500001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.350000023841858,
+        2.3450000315904616,
+        0.8500000238418579
+      ],
+      "triangles": 2392,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/005",
+        "press-ram",
+        "machined-bearing-steel",
+        "blackened-forged-iron",
+        "aged-bronze",
+        "attach.origin",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "dressed-fieldstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "machined-bearing-steel",
+        "blackened-forged-iron",
+        "aged-bronze",
+        "blackened-forged-iron_1",
+        "machined-bearing-steel_1",
+        "dressed-fieldstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess"
+      ],
+      "animations": [
+        "press-cycle"
+      ],
+      "animationChecks": [
+        {
+          "name": "press-cycle",
+          "duration": 3.5,
+          "tracks": 1,
+          "sampledAt": 1.295
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/006",
+      "path": "assets/animated_mechanisms/006.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-006.webp",
+      "bounds": {
+        "min": [
+          -1.024999976158142,
+          -1.7881393032936899e-9,
+          -1.1050000190734863
+        ],
+        "max": [
+          1.024999976158142,
+          1.6699999570846558,
+          1.159999966621399
+        ]
+      },
+      "dimensionsMeters": [
+        2.049999952316284,
+        1.6699999588727952,
+        2.2649999856948853
+      ],
+      "triangles": 2756,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/006",
+        "drawbridge-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "blackened-forged-iron",
+        "machined-bearing-steel",
+        "quarter-sawn-timber_1",
+        "dressed-fieldstone-edges",
+        "blackened-forged-iron_1"
+      ],
+      "animations": [
+        "bridge-lift"
+      ],
+      "animationChecks": [
+        {
+          "name": "bridge-lift",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/007",
+      "path": "assets/animated_mechanisms/007.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-007.webp",
+      "bounds": {
+        "min": [
+          -0.8449999690055847,
+          -4.7683716530855236e-8,
+          -0.1599999964237213
+        ],
+        "max": [
+          0.8449999690055847,
+          2.549999952316284,
+          0.1599999964237213
+        ]
+      },
+      "dimensionsMeters": [
+        1.6899999380111694,
+        2.5500000000000007,
+        0.3199999928474426
+      ],
+      "triangles": 2692,
+      "meshes": 9,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/007",
+        "door-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "attach.origin",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork_1",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "open-close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open-close",
+          "duration": 4.5,
+          "tracks": 1,
+          "sampledAt": 1.665
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/008",
+      "path": "assets/animated_mechanisms/008.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-008.webp",
+      "bounds": {
+        "min": [
+          -1.065000057220459,
+          1.3411045607369942e-9,
+          -0.3700000047683716
+        ],
+        "max": [
+          1.065000057220459,
+          2.9649999141693115,
+          0.1899999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        2.130000114440918,
+        2.964999912828207,
+        0.5600000023841858
+      ],
+      "triangles": 4452,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/008",
+        "portcullis-lift",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "attach.origin",
+        "granite-ashlar",
+        "forged-iron-strapwork",
+        "tooled-granite-edges",
+        "machined-bearing-steel",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "granite-ashlar",
+        "forged-iron-strapwork_1",
+        "tooled-granite-edges",
+        "machined-bearing-steel_1",
+        "quarter-sawn-timber"
+      ],
+      "animations": [
+        "raise-lower"
+      ],
+      "animationChecks": [
+        {
+          "name": "raise-lower",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/009",
+      "path": "assets/animated_mechanisms/009.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-009.webp",
+      "bounds": {
+        "min": [
+          -1.0499999523162842,
+          -0.015573813579976559,
+          -0.6299999952316284
+        ],
+        "max": [
+          0.949999988079071,
+          1.8700000047683716,
+          0.6299999952316284
+        ]
+      },
+      "dimensionsMeters": [
+        1.9999999403953552,
+        1.8855738183483481,
+        1.2599999904632568
+      ],
+      "triangles": 9836,
+      "meshes": 11,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/009",
+        "waterwheel-rotor",
+        "forged-iron-strapwork",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "attach.origin",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork",
+        "aged-bronze",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "forged-iron-strapwork",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork_1",
+        "aged-bronze",
+        "machined-bearing-steel_1",
+        "exposed-end-grain_1",
+        "quarter-sawn-timber_1"
+      ],
+      "animations": [
+        "waterwheel-turn"
+      ],
+      "animationChecks": [
+        {
+          "name": "waterwheel-turn",
+          "duration": 8,
+          "tracks": 1,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/010",
+      "path": "assets/animated_mechanisms/010.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-010.webp",
+      "bounds": {
+        "min": [
+          -0.6899999964237213,
+          1.3411045607369942e-9,
+          -0.3499999940395355
+        ],
+        "max": [
+          0.675000011920929,
+          1.0699999964237215,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3650000083446503,
+        1.069999995082617,
+        0.6500000059604645
+      ],
+      "triangles": 5944,
+      "meshes": 10,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/010",
+        "drive-gear",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "driven-gear",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "attach.origin",
+        "forged-iron-strapwork",
+        "tooled-granite-edges",
+        "granite-ashlar",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "forged-iron-strapwork_1",
+        "machined-bearing-steel_1",
+        "mortar-joint-recess_1",
+        "forged-iron-strapwork_2",
+        "tooled-granite-edges",
+        "granite-ashlar",
+        "mortar-joint-recess_2"
+      ],
+      "animations": [
+        "gear-drive"
+      ],
+      "animationChecks": [
+        {
+          "name": "gear-drive",
+          "duration": 8,
+          "tracks": 2,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/011",
+      "path": "assets/animated_mechanisms/011.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-011.webp",
+      "bounds": {
+        "min": [
+          -0.675000011920929,
+          -2.9802322831784522e-9,
+          -0.42500001192092896
+        ],
+        "max": [
+          0.675000011920929,
+          2.3450000286102295,
+          0.42500001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.350000023841858,
+        2.3450000315904616,
+        0.8500000238418579
+      ],
+      "triangles": 2656,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/011",
+        "press-ram",
+        "machined-bearing-steel",
+        "forged-iron-strapwork",
+        "aged-bronze",
+        "attach.origin",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "tooled-granite-edges",
+        "granite-ashlar",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "machined-bearing-steel",
+        "forged-iron-strapwork",
+        "aged-bronze",
+        "forged-iron-strapwork_1",
+        "machined-bearing-steel_1",
+        "tooled-granite-edges",
+        "granite-ashlar",
+        "mortar-joint-recess"
+      ],
+      "animations": [
+        "press-cycle"
+      ],
+      "animationChecks": [
+        {
+          "name": "press-cycle",
+          "duration": 3.5,
+          "tracks": 1,
+          "sampledAt": 1.295
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/012",
+      "path": "assets/animated_mechanisms/012.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-012.webp",
+      "bounds": {
+        "min": [
+          -1.024999976158142,
+          -1.7881393032936899e-9,
+          -1.1050000190734863
+        ],
+        "max": [
+          1.024999976158142,
+          1.6699999570846558,
+          1.159999966621399
+        ]
+      },
+      "dimensionsMeters": [
+        2.049999952316284,
+        1.6699999588727952,
+        2.2649999856948853
+      ],
+      "triangles": 3020,
+      "meshes": 7,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/012",
+        "drawbridge-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "attach.origin",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "forged-iron-strapwork",
+        "machined-bearing-steel",
+        "granite-ashlar",
+        "tooled-granite-edges",
+        "forged-iron-strapwork_1"
+      ],
+      "animations": [
+        "bridge-lift"
+      ],
+      "animationChecks": [
+        {
+          "name": "bridge-lift",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/013",
+      "path": "assets/animated_mechanisms/013.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-013.webp",
+      "bounds": {
+        "min": [
+          -0.8449999690055847,
+          -4.7683716530855236e-8,
+          -0.1599999964237213
+        ],
+        "max": [
+          0.8449999690055847,
+          2.484999895095825,
+          0.1550000011920929
+        ]
+      },
+      "dimensionsMeters": [
+        1.6899999380111694,
+        2.4849999427795417,
+        0.3149999976158142
+      ],
+      "triangles": 4136,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/013",
+        "door-hinge",
+        "gunmetal-cast-iron",
+        "mortar-joint-recess",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "foundry-slag-brick",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "mortar-joint-recess",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "gunmetal-cast-iron_1",
+        "foundry-slag-brick",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "open-close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open-close",
+          "duration": 4.5,
+          "tracks": 1,
+          "sampledAt": 1.665
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/014",
+      "path": "assets/animated_mechanisms/014.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-014.webp",
+      "bounds": {
+        "min": [
+          -1.065000057220459,
+          1.3411045607369942e-9,
+          -0.3700000047683716
+        ],
+        "max": [
+          1.065000057220459,
+          2.9649999141693115,
+          0.1899999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        2.130000114440918,
+        2.964999912828207,
+        0.5600000023841858
+      ],
+      "triangles": 4884,
+      "meshes": 6,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/014",
+        "portcullis-lift",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "foundry-slag-brick",
+        "machined-bearing-steel",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "gunmetal-cast-iron_1",
+        "foundry-slag-brick",
+        "machined-bearing-steel_1",
+        "quarter-sawn-timber"
+      ],
+      "animations": [
+        "raise-lower"
+      ],
+      "animationChecks": [
+        {
+          "name": "raise-lower",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/015",
+      "path": "assets/animated_mechanisms/015.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-015.webp",
+      "bounds": {
+        "min": [
+          -1.0499999523162842,
+          -0.015573813579976559,
+          -0.6299999952316284
+        ],
+        "max": [
+          0.949999988079071,
+          1.8700000047683716,
+          0.6069999933242798
+        ]
+      },
+      "dimensionsMeters": [
+        1.9999999403953552,
+        1.8855738183483481,
+        1.2369999885559082
+      ],
+      "triangles": 10268,
+      "meshes": 11,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/015",
+        "waterwheel-rotor",
+        "gunmetal-cast-iron",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "foundry-slag-brick",
+        "aged-bronze",
+        "fired-foundry-brick",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "gunmetal-cast-iron_1",
+        "foundry-slag-brick",
+        "aged-bronze",
+        "fired-foundry-brick",
+        "machined-bearing-steel_1",
+        "exposed-end-grain_1",
+        "quarter-sawn-timber_1"
+      ],
+      "animations": [
+        "waterwheel-turn"
+      ],
+      "animationChecks": [
+        {
+          "name": "waterwheel-turn",
+          "duration": 8,
+          "tracks": 1,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/016",
+      "path": "assets/animated_mechanisms/016.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-016.webp",
+      "bounds": {
+        "min": [
+          -0.6899999964237213,
+          1.3411045607369942e-9,
+          -0.3499999940395355
+        ],
+        "max": [
+          0.675000011920929,
+          1.0699999964237215,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3650000083446503,
+        1.069999995082617,
+        0.6500000059604645
+      ],
+      "triangles": 6376,
+      "meshes": 10,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/016",
+        "drive-gear",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "driven-gear",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "foundry-slag-brick",
+        "mortar-joint-recess",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "gunmetal-cast-iron_1",
+        "machined-bearing-steel_1",
+        "mortar-joint-recess_1",
+        "gunmetal-cast-iron_2",
+        "foundry-slag-brick",
+        "mortar-joint-recess_2",
+        "machined-bearing-steel_2"
+      ],
+      "animations": [
+        "gear-drive"
+      ],
+      "animationChecks": [
+        {
+          "name": "gear-drive",
+          "duration": 8,
+          "tracks": 2,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/017",
+      "path": "assets/animated_mechanisms/017.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-017.webp",
+      "bounds": {
+        "min": [
+          -0.675000011920929,
+          -2.9802322831784522e-9,
+          -0.42500001192092896
+        ],
+        "max": [
+          0.675000011920929,
+          2.3450000286102295,
+          0.42500001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.350000023841858,
+        2.3450000315904616,
+        0.8500000238418579
+      ],
+      "triangles": 3088,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/017",
+        "press-ram",
+        "machined-bearing-steel",
+        "gunmetal-cast-iron",
+        "aged-bronze",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "foundry-slag-brick",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "machined-bearing-steel",
+        "gunmetal-cast-iron",
+        "aged-bronze",
+        "gunmetal-cast-iron_1",
+        "machined-bearing-steel_1",
+        "foundry-slag-brick",
+        "mortar-joint-recess"
+      ],
+      "animations": [
+        "press-cycle"
+      ],
+      "animationChecks": [
+        {
+          "name": "press-cycle",
+          "duration": 3.5,
+          "tracks": 1,
+          "sampledAt": 1.295
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/018",
+      "path": "assets/animated_mechanisms/018.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-018.webp",
+      "bounds": {
+        "min": [
+          -1.024999976158142,
+          -1.7881393032936899e-9,
+          -1.1050000190734863
+        ],
+        "max": [
+          1.024999976158142,
+          1.6699999570846558,
+          1.159999966621399
+        ]
+      },
+      "dimensionsMeters": [
+        2.049999952316284,
+        1.6699999588727952,
+        2.2649999856948853
+      ],
+      "triangles": 3452,
+      "meshes": 7,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/018",
+        "drawbridge-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "attach.origin",
+        "gunmetal-cast-iron",
+        "foundry-slag-brick",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "gunmetal-cast-iron",
+        "machined-bearing-steel",
+        "gunmetal-cast-iron_1",
+        "foundry-slag-brick",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "bridge-lift"
+      ],
+      "animationChecks": [
+        {
+          "name": "bridge-lift",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/019",
+      "path": "assets/animated_mechanisms/019.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-019.webp",
+      "bounds": {
+        "min": [
+          -0.8700000047683716,
+          -4.7683716530855236e-8,
+          -0.1899999976158142
+        ],
+        "max": [
+          0.8700000047683716,
+          2.549999952316284,
+          0.1899999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        1.7400000095367432,
+        2.5500000000000007,
+        0.3799999952316284
+      ],
+      "triangles": 3044,
+      "meshes": 10,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/019",
+        "door-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze",
+        "polished-bronze-bearing",
+        "attach.origin",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze",
+        "polished-bronze-bearing",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings_1",
+        "polished-bronze-bearing_1",
+        "aged-bronze_1"
+      ],
+      "animations": [
+        "open-close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open-close",
+          "duration": 4.5,
+          "tracks": 1,
+          "sampledAt": 1.665
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/020",
+      "path": "assets/animated_mechanisms/020.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-020.webp",
+      "bounds": {
+        "min": [
+          -1.0700000524520874,
+          6.705522803684971e-10,
+          -0.3700000047683716
+        ],
+        "max": [
+          1.0700000524520874,
+          2.9649999141693115,
+          0.1899999976158142
+        ]
+      },
+      "dimensionsMeters": [
+        2.140000104904175,
+        2.964999913498759,
+        0.5600000023841858
+      ],
+      "triangles": 4804,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/020",
+        "portcullis-lift",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "attach.origin",
+        "honed-limestone",
+        "dark-patinated-bronze-fittings",
+        "carved-limestone-mouldings",
+        "polished-bronze-bearing",
+        "quarter-sawn-timber",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "honed-limestone",
+        "dark-patinated-bronze-fittings_1",
+        "carved-limestone-mouldings",
+        "polished-bronze-bearing_1",
+        "quarter-sawn-timber",
+        "aged-bronze"
+      ],
+      "animations": [
+        "raise-lower"
+      ],
+      "animationChecks": [
+        {
+          "name": "raise-lower",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/021",
+      "path": "assets/animated_mechanisms/021.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-021.webp",
+      "bounds": {
+        "min": [
+          -1.0499999523162842,
+          -0.015573813579976559,
+          -0.6600000262260437
+        ],
+        "max": [
+          0.949999988079071,
+          1.8700000047683716,
+          0.6600000262260437
+        ]
+      },
+      "dimensionsMeters": [
+        1.9999999403953552,
+        1.8855738183483481,
+        1.3200000524520874
+      ],
+      "triangles": 10188,
+      "meshes": 12,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/021",
+        "waterwheel-rotor",
+        "dark-patinated-bronze-fittings",
+        "quarter-sawn-timber",
+        "aged-bronze",
+        "polished-bronze-bearing",
+        "exposed-end-grain",
+        "attach.origin",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze",
+        "polished-bronze-bearing",
+        "exposed-end-grain",
+        "quarter-sawn-timber"
+      ],
+      "meshNames": [
+        "dark-patinated-bronze-fittings",
+        "quarter-sawn-timber",
+        "aged-bronze",
+        "polished-bronze-bearing",
+        "exposed-end-grain",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings_1",
+        "aged-bronze_1",
+        "polished-bronze-bearing_1",
+        "exposed-end-grain_1",
+        "quarter-sawn-timber_1"
+      ],
+      "animations": [
+        "waterwheel-turn"
+      ],
+      "animationChecks": [
+        {
+          "name": "waterwheel-turn",
+          "duration": 8,
+          "tracks": 1,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/022",
+      "path": "assets/animated_mechanisms/022.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-022.webp",
+      "bounds": {
+        "min": [
+          -0.6899999964237213,
+          6.705522803684971e-10,
+          -0.3799999952316284
+        ],
+        "max": [
+          0.675000011920929,
+          1.0699999964237215,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3650000083446503,
+        1.0699999957531692,
+        0.6800000071525574
+      ],
+      "triangles": 6296,
+      "meshes": 13,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/022",
+        "drive-gear",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "aged-bronze",
+        "mortar-joint-recess",
+        "driven-gear",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "aged-bronze",
+        "mortar-joint-recess",
+        "attach.origin",
+        "dark-patinated-bronze-fittings",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "mortar-joint-recess",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "aged-bronze",
+        "mortar-joint-recess",
+        "dark-patinated-bronze-fittings_1",
+        "polished-bronze-bearing_1",
+        "aged-bronze_1",
+        "mortar-joint-recess_1",
+        "dark-patinated-bronze-fittings_2",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "mortar-joint-recess_2",
+        "aged-bronze_2"
+      ],
+      "animations": [
+        "gear-drive"
+      ],
+      "animationChecks": [
+        {
+          "name": "gear-drive",
+          "duration": 8,
+          "tracks": 2,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/023",
+      "path": "assets/animated_mechanisms/023.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-023.webp",
+      "bounds": {
+        "min": [
+          -0.6899999976158142,
+          -2.9802322831784522e-9,
+          -0.42500001192092896
+        ],
+        "max": [
+          0.6899999976158142,
+          2.3450000286102295,
+          0.42500001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3799999952316284,
+        2.3450000315904616,
+        0.8500000238418579
+      ],
+      "triangles": 3008,
+      "meshes": 9,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/023",
+        "press-ram",
+        "polished-bronze-bearing",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze",
+        "attach.origin",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "polished-bronze-bearing",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze",
+        "dark-patinated-bronze-fittings_1",
+        "polished-bronze-bearing_1",
+        "carved-limestone-mouldings",
+        "honed-limestone",
+        "aged-bronze_1",
+        "mortar-joint-recess"
+      ],
+      "animations": [
+        "press-cycle"
+      ],
+      "animationChecks": [
+        {
+          "name": "press-cycle",
+          "duration": 3.5,
+          "tracks": 1,
+          "sampledAt": 1.295
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/024",
+      "path": "assets/animated_mechanisms/024.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-024.webp",
+      "bounds": {
+        "min": [
+          -1.024999976158142,
+          -1.7881393032936899e-9,
+          -1.1200000047683716
+        ],
+        "max": [
+          1.024999976158142,
+          1.6699999570846558,
+          1.159999966621399
+        ]
+      },
+      "dimensionsMeters": [
+        2.049999952316284,
+        1.6699999588727952,
+        2.2799999713897705
+      ],
+      "triangles": 3372,
+      "meshes": 8,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/024",
+        "drawbridge-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "attach.origin",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings",
+        "aged-bronze"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "dark-patinated-bronze-fittings",
+        "polished-bronze-bearing",
+        "honed-limestone",
+        "carved-limestone-mouldings",
+        "dark-patinated-bronze-fittings_1",
+        "aged-bronze"
+      ],
+      "animations": [
+        "bridge-lift"
+      ],
+      "animationChecks": [
+        {
+          "name": "bridge-lift",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/025",
+      "path": "assets/animated_mechanisms/025.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-025.webp",
+      "bounds": {
+        "min": [
+          -0.8449999690055847,
+          -4.7683716530855236e-8,
+          -0.22499999403953552
+        ],
+        "max": [
+          0.8449999690055847,
+          2.484999895095825,
+          0.22499999403953552
+        ]
+      },
+      "dimensionsMeters": [
+        1.6899999380111694,
+        2.4849999427795417,
+        0.44999998807907104
+      ],
+      "triangles": 2608,
+      "meshes": 9,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/025",
+        "door-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "aged-bronze",
+        "quarter-sawn-timber_1",
+        "sandstone-edges",
+        "olive-painted-field-steel_1",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "open-close"
+      ],
+      "animationChecks": [
+        {
+          "name": "open-close",
+          "duration": 4.5,
+          "tracks": 1,
+          "sampledAt": 1.665
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/026",
+      "path": "assets/animated_mechanisms/026.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-026.webp",
+      "bounds": {
+        "min": [
+          -1.065000057220459,
+          6.705522803684971e-10,
+          -0.3700000047683716
+        ],
+        "max": [
+          1.065000057220459,
+          2.9649999141693115,
+          0.22499999403953552
+        ]
+      },
+      "dimensionsMeters": [
+        2.130000114440918,
+        2.964999913498759,
+        0.5949999988079071
+      ],
+      "triangles": 4412,
+      "meshes": 6,
+      "materials": 4,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/026",
+        "portcullis-lift",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel",
+        "sandstone-edges",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "quarter-sawn-timber",
+        "olive-painted-field-steel_1",
+        "sandstone-edges",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "raise-lower"
+      ],
+      "animationChecks": [
+        {
+          "name": "raise-lower",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/027",
+      "path": "assets/animated_mechanisms/027.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-027.webp",
+      "bounds": {
+        "min": [
+          -1.0499999523162842,
+          -0.015573813579976559,
+          -0.6949999928474426
+        ],
+        "max": [
+          0.949999988079071,
+          1.8700000047683716,
+          0.6949999928474426
+        ]
+      },
+      "dimensionsMeters": [
+        1.9999999403953552,
+        1.8855738183483481,
+        1.3899999856948853
+      ],
+      "triangles": 9796,
+      "meshes": 11,
+      "materials": 7,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/027",
+        "waterwheel-rotor",
+        "olive-painted-field-steel",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "aged-bronze",
+        "weathered-sandstone-ashlar",
+        "machined-bearing-steel",
+        "exposed-end-grain"
+      ],
+      "meshNames": [
+        "olive-painted-field-steel",
+        "quarter-sawn-timber",
+        "machined-bearing-steel",
+        "exposed-end-grain",
+        "quarter-sawn-timber_1",
+        "sandstone-edges",
+        "olive-painted-field-steel_1",
+        "aged-bronze",
+        "weathered-sandstone-ashlar",
+        "machined-bearing-steel_1",
+        "exposed-end-grain_1"
+      ],
+      "animations": [
+        "waterwheel-turn"
+      ],
+      "animationChecks": [
+        {
+          "name": "waterwheel-turn",
+          "duration": 8,
+          "tracks": 1,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/028",
+      "path": "assets/animated_mechanisms/028.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-028.webp",
+      "bounds": {
+        "min": [
+          -0.6899999964237213,
+          6.705522803684971e-10,
+          -0.41499999165534973
+        ],
+        "max": [
+          0.675000011920929,
+          1.0699999964237215,
+          0.30000001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.3650000083446503,
+        1.0699999957531692,
+        0.7150000035762787
+      ],
+      "triangles": 5904,
+      "meshes": 11,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/028",
+        "drive-gear",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "driven-gear",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "attach.origin",
+        "olive-painted-field-steel",
+        "sandstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "mortar-joint-recess",
+        "olive-painted-field-steel_1",
+        "machined-bearing-steel_1",
+        "mortar-joint-recess_1",
+        "olive-painted-field-steel_2",
+        "sandstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess_2",
+        "machined-bearing-steel_2"
+      ],
+      "animations": [
+        "gear-drive"
+      ],
+      "animationChecks": [
+        {
+          "name": "gear-drive",
+          "duration": 8,
+          "tracks": 2,
+          "sampledAt": 2.96
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/029",
+      "path": "assets/animated_mechanisms/029.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-029.webp",
+      "bounds": {
+        "min": [
+          -0.675000011920929,
+          -2.9802322831784522e-9,
+          -0.42500001192092896
+        ],
+        "max": [
+          0.675000011920929,
+          2.3450000286102295,
+          0.42500001192092896
+        ]
+      },
+      "dimensionsMeters": [
+        1.350000023841858,
+        2.3450000315904616,
+        0.8500000238418579
+      ],
+      "triangles": 2616,
+      "meshes": 8,
+      "materials": 6,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/029",
+        "press-ram",
+        "machined-bearing-steel",
+        "olive-painted-field-steel",
+        "aged-bronze",
+        "attach.origin",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "sandstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess"
+      ],
+      "meshNames": [
+        "machined-bearing-steel",
+        "olive-painted-field-steel",
+        "aged-bronze",
+        "olive-painted-field-steel_1",
+        "machined-bearing-steel_1",
+        "sandstone-edges",
+        "quarter-sawn-timber",
+        "mortar-joint-recess"
+      ],
+      "animations": [
+        "press-cycle"
+      ],
+      "animationChecks": [
+        {
+          "name": "press-cycle",
+          "duration": 3.5,
+          "tracks": 1,
+          "sampledAt": 1.295
+        }
+      ],
+      "threeImport": true
+    },
+    {
+      "id": "arsenal:animated_mechanisms/030",
+      "path": "assets/animated_mechanisms/030.glb",
+      "preview": "assets/previews/arsenal-animated_mechanisms-030.webp",
+      "bounds": {
+        "min": [
+          -1.024999976158142,
+          -1.7881393032936899e-9,
+          -1.1549999713897705
+        ],
+        "max": [
+          1.024999976158142,
+          1.6699999570846558,
+          1.159999966621399
+        ]
+      },
+      "dimensionsMeters": [
+        2.049999952316284,
+        1.6699999588727952,
+        2.3149999380111694
+      ],
+      "triangles": 2980,
+      "meshes": 8,
+      "materials": 5,
+      "nodes": [
+        "AuxScene",
+        "arsenal:animated_mechanisms/030",
+        "drawbridge-hinge",
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "attach.origin",
+        "quarter-sawn-timber",
+        "sandstone-edges",
+        "olive-painted-field-steel",
+        "machined-bearing-steel"
+      ],
+      "meshNames": [
+        "quarter-sawn-timber",
+        "exposed-end-grain",
+        "olive-painted-field-steel",
+        "machined-bearing-steel",
+        "quarter-sawn-timber_1",
+        "sandstone-edges",
+        "olive-painted-field-steel_1",
+        "machined-bearing-steel_1"
+      ],
+      "animations": [
+        "bridge-lift"
+      ],
+      "animationChecks": [
+        {
+          "name": "bridge-lift",
+          "duration": 5,
+          "tracks": 1,
+          "sampledAt": 1.85
+        }
+      ],
+      "threeImport": true
+    }
+  ]
+}

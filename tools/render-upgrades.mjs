@@ -23,7 +23,7 @@ const server=createServer((req,res)=>{
 await new Promise((ok,no)=>{server.once('error',no);server.listen(port,'127.0.0.1',ok);});
 let browser;
 try{
- browser=await chromium.launch({headless:true,args:['--no-sandbox','--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+ browser=await chromium.launch({headless:true,executablePath:process.env.PLAYWRIGHT_CHROMIUM_PATH||undefined,args:['--no-sandbox','--use-angle=swiftshader','--enable-unsafe-swiftshader']});
  const page=await browser.newPage({viewport:{width:640,height:640}});
  await page.goto(`http://127.0.0.1:${port}/capture.html`);
  await page.evaluate(async()=>{
@@ -44,7 +44,7 @@ try{
    if(![...box.min.toArray(),...box.max.toArray()].every(Number.isFinite)||Math.max(...size.toArray())<=0)throw Error('Invalid model bounds');
    const d=Math.max(...size.toArray());camera.near=d/1000;camera.far=d*50;camera.position.copy(center).add(new T.Vector3(.9,.58,1.7).normalize().multiplyScalar(d*2.35));camera.lookAt(center);camera.updateProjectionMatrix();
    const mats=new Set(),nodes=[],meshNames=[];let triangles=0,meshes=0;
-   root.traverse(o=>{if(o.name)nodes.push(o.name);if(o.isMesh){meshes++;meshNames.push(o.name);triangles+=(o.geometry.index?.count??o.geometry.attributes.position.count)/3;for(const m of Array.isArray(o.material)?o.material:[o.material])mats.add(m);}});
+   root.traverse(o=>{const name=o.userData.name??o.name;if(name)nodes.push(name);if(o.isMesh){meshes++;meshNames.push(o.name);triangles+=(o.geometry.index?.count??o.geometry.attributes.position.count)/3;for(const m of Array.isArray(o.material)?o.material:[o.material])mats.add(m);}});
    await renderer.compileAsync(scene,camera);renderer.render(scene,camera);
    const still=renderer.domElement.toDataURL('image/webp',.93).split(',')[1];
    const animationChecks=[];
