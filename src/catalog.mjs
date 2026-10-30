@@ -17,4 +17,8 @@ export function productionStage(record={}){
  if(!record.testEvidence?.trim())return 'visually-approved';
  return 'tested';
 }
-export function exportManifest(catalog,records={},shipped={}){return {schemaVersion:'arsenal-forge/1.0.0',packId:'arsenal:core',coordinateSystem:{units:'meters',upAxis:'Y',handedness:'right'},authority:'host',assets:catalog.map(x=>({id:x.id,name:x.name,kind:x.kind,family:x.family,expectedPath:shippedAssetPath(x),availability:shipped[x.id]?'listed-unverified':'not-listed',stage:productionStage(records[x.id]),evidence:structuredClone(records[x.id]??{})}))};}
+export function shippedProductionRecord(asset){
+ if(!asset?.sourceAvailable||!asset.sourceSHA256||!asset.sha256||!asset.evidence?.authored)return {};
+ return {asset:{sha256:asset.sha256,filename:asset.path,origin:'shipped'},source:asset.source,license:asset.license};
+}
+export function exportManifest(catalog,records={},shipped={}){return {schemaVersion:'arsenal-forge/1.0.0',packId:'arsenal:core',coordinateSystem:{units:'meters',upAxis:'Y',handedness:'right'},authority:'host',assets:catalog.map(x=>{const record=records[x.id]??shippedProductionRecord(shipped[x.id]);return {id:x.id,name:x.name,kind:x.kind,family:x.family,expectedPath:shippedAssetPath(x),availability:shipped[x.id]?'listed-unverified':'not-listed',stage:productionStage(record),evidence:structuredClone(record)};})};}

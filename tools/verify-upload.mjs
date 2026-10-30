@@ -29,6 +29,10 @@ for(const item of catalog.assets){
     assert.equal(hashes.get(entry.path)?.hash,entry.sha256,entry.path);
     assert.equal(hashes.get(entry.path)?.bytes,entry.bytes,entry.path);
   }
+  for(const texture of asset.textures??[])assert.equal(hashes.get(texture.path)?.hash,texture.sha256,texture.path);
+  if(asset.sourceAvailable){
+    assert.equal(createHash('sha256').update(readFileSync(asset.source)).digest('hex'),asset.sourceSHA256,`Source changed without re-recording: ${asset.source}`);
+  }
   assert.ok(hashes.has(previewFile(item)),`Missing preview: ${item.id}`);
 }
 const count=suffix=>[...hashes.keys()].filter(p=>p.endsWith(suffix)).length;
