@@ -1,0 +1,6366 @@
+[
+  {
+    "id": "arsenal:swords/saber",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/swords/saber.glb",
+        "bytes": 310200,
+        "sha256": "3abb1845730949e66fe6665b6e79e717d58ffd1ddfc5841c9c007c6be8d9a7eb",
+        "triangles": 7737,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.18176326155662537,
+          0.994999973103404,
+          0.04402000084519386
+        ],
+        "bounds": {
+          "min": [
+            -0.10208199918270111,
+            -0.029999999329447746,
+            -0.02201000042259693
+          ],
+          "max": [
+            0.07968126237392426,
+            0.9649999737739563,
+            0.02201000042259693
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/swords/saber.lod1.glb",
+        "bytes": 106836,
+        "sha256": "3e4804c6db6a4f4c2a41b55c45a5511fb1b3505c2a89fc149e74b58164d7b79a",
+        "triangles": 2329,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.18175683915615082,
+          0.994999973103404,
+          0.04402000084519386
+        ],
+        "bounds": {
+          "min": [
+            -0.10208199918270111,
+            -0.029999999329447746,
+            -0.02201000042259693
+          ],
+          "max": [
+            0.07967483997344971,
+            0.9649999737739563,
+            0.02201000042259693
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/swords/saber.lod2.glb",
+        "bytes": 46044,
+        "sha256": "6e8368c3a2031a19781e64d823aecaac5ae3d0d7ded7fec2cb9da2c26e7d81e3",
+        "triangles": 873,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.18157817423343658,
+          0.994999973103404,
+          0.04402000084519386
+        ],
+        "bounds": {
+          "min": [
+            -0.10208199918270111,
+            -0.029999999329447746,
+            -0.02201000042259693
+          ],
+          "max": [
+            0.07949617505073547,
+            0.9649999737739563,
+            0.02201000042259693
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:swords/katana",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/swords/katana.glb",
+        "bytes": 486980,
+        "sha256": "c5e3027fe5f80d6c84ad8b878244894386298a72c1966aa6c4561cdccc3431e0",
+        "triangles": 14977,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.08976788818836212,
+          1.014499992132187,
+          0.06887999922037125
+        ],
+        "bounds": {
+          "min": [
+            -0.04776788875460625,
+            -0.01850000023841858,
+            -0.03443999961018562
+          ],
+          "max": [
+            0.041999999433755875,
+            0.9959999918937683,
+            0.03443999961018562
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/swords/katana.lod1.glb",
+        "bytes": 146900,
+        "sha256": "0901cc305c34375b3f500401f90c990afaa8afe09b1c41336cb56caf281673e9",
+        "triangles": 3865,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.08894160017371178,
+          1.014499992132187,
+          0.06887999922037125
+        ],
+        "bounds": {
+          "min": [
+            -0.0469416007399559,
+            -0.01850000023841858,
+            -0.03443999961018562
+          ],
+          "max": [
+            0.041999999433755875,
+            0.9959999918937683,
+            0.03443999961018562
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/swords/katana.lod2.glb",
+        "bytes": 41200,
+        "sha256": "5b891aa6898c5fb03bed8cf89e94f830325b58a36f20dc8831fe459d6e95a697",
+        "triangles": 593,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.08894160017371178,
+          1.0119999926537275,
+          0.06887999922037125
+        ],
+        "bounds": {
+          "min": [
+            -0.0469416007399559,
+            -0.01600000075995922,
+            -0.03443999961018562
+          ],
+          "max": [
+            0.041999999433755875,
+            0.9959999918937683,
+            0.03443999961018562
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:swords/greatsword",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/swords/greatsword.glb",
+        "bytes": 673972,
+        "sha256": "f831c0f37ba892e0f53bef5d20525f7b170b5de36e72937ebcdf62aca0a1be8b",
+        "triangles": 23692,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3798399865627289,
+          1.6420000195503235,
+          0.06599999964237213
+        ],
+        "bounds": {
+          "min": [
+            -0.18991999328136444,
+            -0.08799999952316284,
+            -0.032999999821186066
+          ],
+          "max": [
+            0.18991999328136444,
+            1.5540000200271606,
+            0.032999999821186066
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/swords/greatsword.lod1.glb",
+        "bytes": 186796,
+        "sha256": "f072d1f7a86cea2db757d1249de446b40de9c3a9c1f6032cf3fd81f67ae9ed22",
+        "triangles": 5584,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3798399865627289,
+          1.6420000195503235,
+          0.06599999964237213
+        ],
+        "bounds": {
+          "min": [
+            -0.18991999328136444,
+            -0.08799999952316284,
+            -0.032999999821186066
+          ],
+          "max": [
+            0.18991999328136444,
+            1.5540000200271606,
+            0.032999999821186066
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/swords/greatsword.lod2.glb",
+        "bytes": 56532,
+        "sha256": "a5ca63cb8258a419f638431a9c065667bb8a531b29b9e19e3592279aba9788ee",
+        "triangles": 1128,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3798399865627289,
+          1.6420000195503235,
+          0.06599999964237213
+        ],
+        "bounds": {
+          "min": [
+            -0.18991999328136444,
+            -0.08799999952316284,
+            -0.032999999821186066
+          ],
+          "max": [
+            0.18991999328136444,
+            1.5540000200271606,
+            0.032999999821186066
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:swords/rapier",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/swords/rapier.glb",
+        "bytes": 309080,
+        "sha256": "8d7268b51cca35714f836976c316e0baa05e5b6bf2905dfb21f5c276b5061a54",
+        "triangles": 11280,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24116000533103943,
+          1.1989999487996101,
+          0.0917697623372078
+        ],
+        "bounds": {
+          "min": [
+            -0.12058000266551971,
+            -0.07000000029802322,
+            -0.0458848811686039
+          ],
+          "max": [
+            0.12058000266551971,
+            1.128999948501587,
+            0.0458848811686039
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/swords/rapier.lod1.glb",
+        "bytes": 103048,
+        "sha256": "d54ef0190bcc3e5b6336079766254cd10105bb4c1dfc47dfd599342d3537fbd2",
+        "triangles": 3312,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24116000533103943,
+          1.1989999487996101,
+          0.09066561609506607
+        ],
+        "bounds": {
+          "min": [
+            -0.12058000266551971,
+            -0.07000000029802322,
+            -0.045332808047533035
+          ],
+          "max": [
+            0.12058000266551971,
+            1.128999948501587,
+            0.045332808047533035
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/swords/rapier.lod2.glb",
+        "bytes": 49616,
+        "sha256": "444366250e795c924411458a46d06f31041088d3149d7ae8f1c9762269924f38",
+        "triangles": 1424,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24116000533103943,
+          1.1989999487996101,
+          0.090716652572155
+        ],
+        "bounds": {
+          "min": [
+            -0.12058000266551971,
+            -0.07000000029802322,
+            -0.0453583262860775
+          ],
+          "max": [
+            0.12058000266551971,
+            1.128999948501587,
+            0.0453583262860775
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/dagger",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/short_blades/dagger.glb",
+        "bytes": 277204,
+        "sha256": "cd87106764c080173f5ea10a24fb42e07f97019e9c8ff0c933c9593f3b4c8e54",
+        "triangles": 6276,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4100000113248825,
+          0.0507499985396862
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.052000001072883606,
+            -0.0253749992698431
+          ],
+          "max": [
+            0.054999999701976776,
+            0.3580000102519989,
+            0.0253749992698431
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/short_blades/dagger.lod1.glb",
+        "bytes": 100300,
+        "sha256": "c65fdd4f9b812367011b77db829a57dd283e75eee39a1f5853ef4ae069010669",
+        "triangles": 2004,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4100000113248825,
+          0.0507499985396862
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.052000001072883606,
+            -0.0253749992698431
+          ],
+          "max": [
+            0.054999999701976776,
+            0.3580000102519989,
+            0.0253749992698431
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/short_blades/dagger.lod2.glb",
+        "bytes": 44824,
+        "sha256": "d2ea74a280c12235b178012e05468988c3575b779c4729c6c3ca03268830e26f",
+        "triangles": 776,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4100000113248825,
+          0.0507499985396862
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.052000001072883606,
+            -0.0253749992698431
+          ],
+          "max": [
+            0.054999999701976776,
+            0.3580000102519989,
+            0.0253749992698431
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/kukri",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/short_blades/kukri.glb",
+        "bytes": 229812,
+        "sha256": "a7f32d9b5b3c5a11c9db97f900e7fc8001a0e8035cb9a8705774ea37fcbed5b1",
+        "triangles": 5977,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.14397988468408585,
+          0.47599999234080315,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.028875000774860382,
+            -0.024000000208616257,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.11510488390922546,
+            0.4519999921321869,
+            0.028875000774860382
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/short_blades/kukri.lod1.glb",
+        "bytes": 82036,
+        "sha256": "9e34ea0c4ac2d3f6aaa33bf9b9dfd4340a85b472f9cabe6cd6643907761d8764",
+        "triangles": 1593,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.14371222257614136,
+          0.47599999234080315,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.028875000774860382,
+            -0.024000000208616257,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.11483722180128098,
+            0.4519999921321869,
+            0.028875000774860382
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/short_blades/kukri.lod2.glb",
+        "bytes": 34268,
+        "sha256": "6dfc1262e39741a378495019f101c8d6fb06a7cf5e5dba6b453e7c55d6f80dc4",
+        "triangles": 389,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1390003338456154,
+          0.47599999234080315,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.028875000774860382,
+            -0.024000000208616257,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.110125333070755,
+            0.4519999921321869,
+            0.028875000774860382
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/twin-shortblade",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/short_blades/twin-shortblade.glb",
+        "bytes": 488016,
+        "sha256": "65dbce2466184d41b6cb6afb7f2d91459e7f8da25d9ece94287f8192b220978c",
+        "triangles": 14696,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.2846192866563797,
+          0.5098827742040157,
+          0.041179999709129333
+        ],
+        "bounds": {
+          "min": [
+            -0.14938539266586304,
+            -0.030728545039892197,
+            -0.020589999854564667
+          ],
+          "max": [
+            0.13523389399051666,
+            0.47915422916412354,
+            0.020589999854564667
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/short_blades/twin-shortblade.lod1.glb",
+        "bytes": 164612,
+        "sha256": "92d6d94325450c555ee23ec4e64f69991208c15734fcf890693e58ed8adeda8f",
+        "triangles": 4328,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.2846192866563797,
+          0.5098827742040157,
+          0.041179999709129333
+        ],
+        "bounds": {
+          "min": [
+            -0.14938539266586304,
+            -0.030728545039892197,
+            -0.020589999854564667
+          ],
+          "max": [
+            0.13523389399051666,
+            0.47915422916412354,
+            0.020589999854564667
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/short_blades/twin-shortblade.lod2.glb",
+        "bytes": 70752,
+        "sha256": "f8088fca52a9f523471aacde4a423fa392a8dfef9aa102457a213c1ef4c8d45f",
+        "triangles": 1584,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.2846192866563797,
+          0.5098827742040157,
+          0.041179999709129333
+        ],
+        "bounds": {
+          "min": [
+            -0.14938539266586304,
+            -0.030728545039892197,
+            -0.020589999854564667
+          ],
+          "max": [
+            0.13523389399051666,
+            0.47915422916412354,
+            0.020589999854564667
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/punch-dagger",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/short_blades/punch-dagger.glb",
+        "bytes": 453008,
+        "sha256": "c12d46c03469f33b625e1f731b5543c15c3f77e0ea104ae23c7b09cb4656a5fa",
+        "triangles": 13264,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4770000036805868,
+          0.03347999881953001
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.012000000104308128,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.054999999701976776,
+            0.4650000035762787,
+            0.018479999154806137
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/short_blades/punch-dagger.lod1.glb",
+        "bytes": 138340,
+        "sha256": "ff83307cec70db2b70eb7b5c9e3208c163f4e7d29df557a43b0a264ff54f263d",
+        "triangles": 3416,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4770000036805868,
+          0.03347999881953001
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.012000000104308128,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.054999999701976776,
+            0.4650000035762787,
+            0.018479999154806137
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/short_blades/punch-dagger.lod2.glb",
+        "bytes": 50036,
+        "sha256": "fd5df0757e93ee6f88eb5cd2a089e027671e344e6ff1ed6ef97abdae125bdc9c",
+        "triangles": 960,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.10999999940395355,
+          0.4770000036805868,
+          0.029999999329447746
+        ],
+        "bounds": {
+          "min": [
+            -0.054999999701976776,
+            -0.012000000104308128,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.054999999701976776,
+            0.4650000035762787,
+            0.014999999664723873
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:short_blades/tanto",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/short_blades/tanto.glb",
+        "bytes": 287960,
+        "sha256": "d9ecd9fd36e2e7f168fc7356957fcce2c559272c01912c7359727a26fdd95818",
+        "triangles": 6109,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.057999998331069946,
+          0.3944999873638153,
+          0.04755999892950058
+        ],
+        "bounds": {
+          "min": [
+            -0.028999999165534973,
+            -0.01850000023841858,
+            -0.02377999946475029
+          ],
+          "max": [
+            0.028999999165534973,
+            0.37599998712539673,
+            0.02377999946475029
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/short_blades/tanto.lod1.glb",
+        "bytes": 98372,
+        "sha256": "1ba9786599b3a40b5859fc7a99b4be3b62b6a3c445dec109e417341ef5b6ec3d",
+        "triangles": 1769,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.057999998331069946,
+          0.3944999873638153,
+          0.04755999892950058
+        ],
+        "bounds": {
+          "min": [
+            -0.028999999165534973,
+            -0.01850000023841858,
+            -0.02377999946475029
+          ],
+          "max": [
+            0.028999999165534973,
+            0.37599998712539673,
+            0.02377999946475029
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/short_blades/tanto.lod2.glb",
+        "bytes": 39844,
+        "sha256": "9850151089c57d2af808e57daba3f5d2bd06313e2f70d08afaaacffab6f5ac2b",
+        "triangles": 593,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.057999998331069946,
+          0.39199998788535595,
+          0.04755999892950058
+        ],
+        "bounds": {
+          "min": [
+            -0.028999999165534973,
+            -0.01600000075995922,
+            -0.02377999946475029
+          ],
+          "max": [
+            0.028999999165534973,
+            0.37599998712539673,
+            0.02377999946475029
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/spear",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/polearms/spear.glb",
+        "bytes": 568376,
+        "sha256": "6915f60e8a93d98b4cad18aa67c41671eece179ff4fa2a8d0dde8abaa2eed7b9",
+        "triangles": 15660,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.06869674474000931,
+          2.0380000546574593,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.034348372370004654,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.034348372370004654,
+            1.968000054359436,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/polearms/spear.lod1.glb",
+        "bytes": 167392,
+        "sha256": "d8f0acf0c41e27ac17a04dddf051843221b2bb2376f4a7cc146a7ab24eda8db8",
+        "triangles": 3756,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.06753870099782944,
+          2.0380000546574593,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.03376935049891472,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.03376935049891472,
+            1.968000054359436,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/polearms/spear.lod2.glb",
+        "bytes": 48636,
+        "sha256": "8c9921db2c7262d3790ebc711569c7211ccad80db88d194d51ced585bbe27305",
+        "triangles": 572,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.06753870099782944,
+          2.0380000546574593,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.03376935049891472,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.03376935049891472,
+            1.968000054359436,
+            0.029109999537467957
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/glaive",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/polearms/glaive.glb",
+        "bytes": 564584,
+        "sha256": "cc64cf6351ad97c05cda565dba2b747a2dae6d28fafac17e0d58e8dcc8efe1b3",
+        "triangles": 15557,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1550607979297638,
+          2.2540000155568123,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.07999999821186066,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.07506079971790314,
+            2.184000015258789,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/polearms/glaive.lod1.glb",
+        "bytes": 167104,
+        "sha256": "96f299b58730d2dfe5d7028b0b4c7c56bd7855f49f9e8fcd434b121c607bef7a",
+        "triangles": 3745,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15387746691703796,
+          2.2540000155568123,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.07999999821186066,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.07387746870517731,
+            2.184000015258789,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/polearms/glaive.lod2.glb",
+        "bytes": 49092,
+        "sha256": "16883e375de47a7618d1a00649799f25b001e3f1cba633a891529f5440d052d9",
+        "triangles": 581,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.14908145368099213,
+          2.2540000155568123,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.07999999821186066,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.06908145546913147,
+            2.184000015258789,
+            0.029109999537467957
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/halberd",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/polearms/halberd.glb",
+        "bytes": 551888,
+        "sha256": "24786bba7e25043d170c63246018c4f98fe7c64e14f8340312a295761ea355e8",
+        "triangles": 15888,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.4399999976158142,
+          2.017999954521656,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.18000000715255737,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.25999999046325684,
+            1.9479999542236328,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/polearms/halberd.lod1.glb",
+        "bytes": 163868,
+        "sha256": "8d7b82ccfff68d4acc27edf0dfcbfa12039a850fb81e8027f29157b57ea8d53d",
+        "triangles": 3936,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.4399999976158142,
+          2.017999954521656,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.18000000715255737,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.25999999046325684,
+            1.9479999542236328,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/polearms/halberd.lod2.glb",
+        "bytes": 47216,
+        "sha256": "9c3bc770feb6bf1284effc6b23c3efad20589ab20e300d7422b09d7916d4ccf1",
+        "triangles": 624,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.4399999976158142,
+          2.017999954521656,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.18000000715255737,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.25999999046325684,
+            1.9479999542236328,
+            0.029109999537467957
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/trident",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/polearms/trident.glb",
+        "bytes": 609076,
+        "sha256": "c226c9ce1c74ea24d31f5362e8a168b218278d5f0b1a44babb7b09407817df80",
+        "triangles": 17312,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.3479999899864197,
+          2.0500000193715096,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.17399999499320984,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.17399999499320984,
+            1.9800000190734863,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/polearms/trident.lod1.glb",
+        "bytes": 197100,
+        "sha256": "83d01bb80edc2f2f3a56b60e058733d1f5b998d9004603698debb5bac561ec38",
+        "triangles": 4696,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.3479999899864197,
+          2.0500000193715096,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.17399999499320984,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.17399999499320984,
+            1.9800000190734863,
+            0.029109999537467957
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/polearms/trident.lod2.glb",
+        "bytes": 52940,
+        "sha256": "a1bba886f58034443de13c90c6e25e0f80cc3dfe4014ce434c799aa77b2b6fd8",
+        "triangles": 936,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3341333270072937,
+          2.0500000193715096,
+          0.05821999907493591
+        ],
+        "bounds": {
+          "min": [
+            -0.16706666350364685,
+            -0.07000000029802322,
+            -0.029109999537467957
+          ],
+          "max": [
+            0.16706666350364685,
+            1.9800000190734863,
+            0.029109999537467957
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:polearms/war-lance",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/polearms/war-lance.glb",
+        "bytes": 463168,
+        "sha256": "4545b09072defcf8b4c888d9f6ca0069a361dea8dbf24abd3f2f68333d4dab30",
+        "triangles": 10900,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          2.109999895095825,
+          0.30399999022483826
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0,
+            -0.15199999511241913
+          ],
+          "max": [
+            0.15199999511241913,
+            2.109999895095825,
+            0.15199999511241913
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/polearms/war-lance.lod1.glb",
+        "bytes": 149448,
+        "sha256": "ce6225bdb1e95e77adb203b1f580bcce116b468eab60001450176adff3b1079a",
+        "triangles": 3312,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          2.109999895095825,
+          0.30399999022483826
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0,
+            -0.15199999511241913
+          ],
+          "max": [
+            0.15199999511241913,
+            2.109999895095825,
+            0.15199999511241913
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/polearms/war-lance.lod2.glb",
+        "bytes": 33564,
+        "sha256": "b1b30f86b3994a74a096c0337327b6d56b03661ed6b5faca1e7289f87e286386",
+        "triangles": 408,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          2.109999895095825,
+          0.30399999022483826
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0,
+            -0.15199999511241913
+          ],
+          "max": [
+            0.15199999511241913,
+            2.109999895095825,
+            0.15199999511241913
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/war-axe",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/heavy_impact/war-axe.glb",
+        "bytes": 401404,
+        "sha256": "a042bd2a24b18cfd23fd7d1194a0c8beceb930abf27d0e1b4d9f588a47f558b3",
+        "triangles": 9748,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.25290000066161156,
+          0.8369999881833792,
+          0.04795999825000763
+        ],
+        "bounds": {
+          "min": [
+            -0.06145000085234642,
+            -0.012000000104308128,
+            -0.023979999125003815
+          ],
+          "max": [
+            0.19144999980926514,
+            0.824999988079071,
+            0.023979999125003815
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/heavy_impact/war-axe.lod1.glb",
+        "bytes": 126216,
+        "sha256": "c142de2f865b6d7a9cf8dadc2e2c425f16a21f6748681547a6855fb7fd8190c4",
+        "triangles": 2552,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.25290000066161156,
+          0.8369999881833792,
+          0.04795999825000763
+        ],
+        "bounds": {
+          "min": [
+            -0.06145000085234642,
+            -0.012000000104308128,
+            -0.023979999125003815
+          ],
+          "max": [
+            0.19144999980926514,
+            0.824999988079071,
+            0.023979999125003815
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/heavy_impact/war-axe.lod2.glb",
+        "bytes": 39072,
+        "sha256": "5ee84e9eeaee08dfdcdc44745cbfbdd003ddefd9f2facb2b477df114088f00c4",
+        "triangles": 408,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.25290000066161156,
+          0.8369999881833792,
+          0.046859998255968094
+        ],
+        "bounds": {
+          "min": [
+            -0.06145000085234642,
+            -0.012000000104308128,
+            -0.023429999127984047
+          ],
+          "max": [
+            0.19144999980926514,
+            0.824999988079071,
+            0.023429999127984047
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/great-axe",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/heavy_impact/great-axe.glb",
+        "bytes": 682692,
+        "sha256": "cd4bd0db93fc2cc5fd787e74332be01ae73dc4eecf0aa4bca91ee7d156001f3b",
+        "triangles": 20600,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.4507000148296356,
+          1.3219999428838491,
+          0.05538000166416168
+        ],
+        "bounds": {
+          "min": [
+            -0.2253500074148178,
+            -0.012000000104308128,
+            -0.02769000083208084
+          ],
+          "max": [
+            0.2253500074148178,
+            1.309999942779541,
+            0.02769000083208084
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/heavy_impact/great-axe.lod1.glb",
+        "bytes": 193312,
+        "sha256": "aa9015d46c3d2e061e3aaaa6fa168eface2fd4369e90c2da1288cccadaba67ee",
+        "triangles": 4760,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.4507000148296356,
+          1.3219999428838491,
+          0.05538000166416168
+        ],
+        "bounds": {
+          "min": [
+            -0.2253500074148178,
+            -0.012000000104308128,
+            -0.02769000083208084
+          ],
+          "max": [
+            0.2253500074148178,
+            1.309999942779541,
+            0.02769000083208084
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/heavy_impact/great-axe.lod2.glb",
+        "bytes": 45404,
+        "sha256": "4b806658eb56ba7716a93bdd77b76d736bafdab2497751ff21e7de7139d79da6",
+        "triangles": 552,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.4507000148296356,
+          1.3219999428838491,
+          0.05538000166416168
+        ],
+        "bounds": {
+          "min": [
+            -0.2253500074148178,
+            -0.012000000104308128,
+            -0.02769000083208084
+          ],
+          "max": [
+            0.2253500074148178,
+            1.309999942779541,
+            0.02769000083208084
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/warhammer",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/heavy_impact/warhammer.glb",
+        "bytes": 416372,
+        "sha256": "4380a8506f8e225229def90e79bb38cdaf4c79c2381350911e018a046f2815bf",
+        "triangles": 9904,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.24365685880184174,
+          0.8919999953359365,
+          0.08399999886751175
+        ],
+        "bounds": {
+          "min": [
+            -0.12182842940092087,
+            -0.012000000104308128,
+            -0.041999999433755875
+          ],
+          "max": [
+            0.12182842940092087,
+            0.8799999952316284,
+            0.041999999433755875
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/heavy_impact/warhammer.lod1.glb",
+        "bytes": 126964,
+        "sha256": "4c852621ce7900996bade48acb4993b408356fe7b1f5873101684d57c7827870",
+        "triangles": 2528,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.23200000822544098,
+          0.8919999953359365,
+          0.08399999886751175
+        ],
+        "bounds": {
+          "min": [
+            -0.11600000411272049,
+            -0.012000000104308128,
+            -0.041999999433755875
+          ],
+          "max": [
+            0.11600000411272049,
+            0.8799999952316284,
+            0.041999999433755875
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/heavy_impact/warhammer.lod2.glb",
+        "bytes": 37744,
+        "sha256": "06148b1543dd9c58d0b59f49c6a3e5720f94a1abf237b9035a9282218cbbc88d",
+        "triangles": 484,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.23200000822544098,
+          0.8919999953359365,
+          0.08399999886751175
+        ],
+        "bounds": {
+          "min": [
+            -0.11600000411272049,
+            -0.012000000104308128,
+            -0.041999999433755875
+          ],
+          "max": [
+            0.11600000411272049,
+            0.8799999952316284,
+            0.041999999433755875
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/flanged-mace",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/heavy_impact/flanged-mace.glb",
+        "bytes": 467584,
+        "sha256": "4212417a1bc79fd55558298a1424b2377eae354f497dfc224e2c3bb9a2ef8e98",
+        "triangles": 10344,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1326644867658615,
+          0.9220000263303518,
+          0.13601243495941162
+        ],
+        "bounds": {
+          "min": [
+            -0.06399352103471756,
+            -0.012000000104308128,
+            -0.06800621747970581
+          ],
+          "max": [
+            0.06867096573114395,
+            0.9100000262260437,
+            0.06800621747970581
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/heavy_impact/flanged-mace.lod1.glb",
+        "bytes": 161736,
+        "sha256": "6b8cb7446821b831591050681fc15c68fce5e4f5362e95c7e6c3eb8d23975ded",
+        "triangles": 2932,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.13260231912136078,
+          0.9220000263303518,
+          0.13601243495941162
+        ],
+        "bounds": {
+          "min": [
+            -0.06393135339021683,
+            -0.012000000104308128,
+            -0.06800621747970581
+          ],
+          "max": [
+            0.06867096573114395,
+            0.9100000262260437,
+            0.06800621747970581
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/heavy_impact/flanged-mace.lod2.glb",
+        "bytes": 48304,
+        "sha256": "6ae1cb791d44ec386bb659f4206daace6c00702ee068f93866be4207ee69f958",
+        "triangles": 612,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.12752489373087883,
+          0.9220000263303518,
+          0.13080443441867828
+        ],
+        "bounds": {
+          "min": [
+            -0.0615248940885067,
+            -0.012000000104308128,
+            -0.06540221720933914
+          ],
+          "max": [
+            0.06599999964237213,
+            0.9100000262260437,
+            0.06540221720933914
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:heavy_impact/military-pick",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/heavy_impact/military-pick.glb",
+        "bytes": 400804,
+        "sha256": "ce3aa4038812adf91604215c5dd7cbc3997bcc7c3092d9f8c7414381f6ab4ceb",
+        "triangles": 9636,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.3471910431981087,
+          0.8279999848455191,
+          0.04800000041723251
+        ],
+        "bounds": {
+          "min": [
+            -0.08545000106096268,
+            -0.012000000104308128,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.261741042137146,
+            0.8159999847412109,
+            0.024000000208616257
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/heavy_impact/military-pick.lod1.glb",
+        "bytes": 125600,
+        "sha256": "dde0a02bfb22abf49eb451d85e31dfbea6cd28a830ff231b63b210b21f4e8966",
+        "triangles": 2480,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.3471910431981087,
+          0.8279999848455191,
+          0.04800000041723251
+        ],
+        "bounds": {
+          "min": [
+            -0.08545000106096268,
+            -0.012000000104308128,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.261741042137146,
+            0.8159999847412109,
+            0.024000000208616257
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/heavy_impact/military-pick.lod2.glb",
+        "bytes": 40584,
+        "sha256": "b04c4d26c6681fd3e43c3d156084622ea9fe0ff152512dc44a4b2dd1cdf8a5f5",
+        "triangles": 432,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.3471910431981087,
+          0.8279999848455191,
+          0.04800000041723251
+        ],
+        "bounds": {
+          "min": [
+            -0.08545000106096268,
+            -0.012000000104308128,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.261741042137146,
+            0.8159999847412109,
+            0.024000000208616257
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:archery/longbow",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/archery/longbow.glb",
+        "bytes": 571228,
+        "sha256": "ebc797b9c50ff2d6b93fadb455f3c618bb3a4ba7d09f50742efe3adba4cd99fd",
+        "triangles": 16304,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15639999508857727,
+          1.8880000114440918,
+          0.042179279029369354
+        ],
+        "bounds": {
+          "min": [
+            -0.13439999520778656,
+            -0.9440000057220459,
+            -0.021089639514684677
+          ],
+          "max": [
+            0.02199999988079071,
+            0.9440000057220459,
+            0.021089639514684677
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/archery/longbow.lod1.glb",
+        "bytes": 165280,
+        "sha256": "c671830f2e78767d20313676ca47eda202e4f3ab992dbc89e46f9947e2d9611b",
+        "triangles": 4192,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15639999508857727,
+          1.8880000114440918,
+          0.041312240064144135
+        ],
+        "bounds": {
+          "min": [
+            -0.13439999520778656,
+            -0.9440000057220459,
+            -0.020656120032072067
+          ],
+          "max": [
+            0.02199999988079071,
+            0.9440000057220459,
+            0.020656120032072067
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/archery/longbow.lod2.glb",
+        "bytes": 52860,
+        "sha256": "67a322018a2229d1a50f0cc55a28463430a0eb5b138b8c83b02eafe9501b8c61",
+        "triangles": 1336,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.15479423105716705,
+          1.8880000114440918,
+          0.04179999977350235
+        ],
+        "bounds": {
+          "min": [
+            -0.13279423117637634,
+            -0.9440000057220459,
+            -0.020899999886751175
+          ],
+          "max": [
+            0.02199999988079071,
+            0.9440000057220459,
+            0.020899999886751175
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:archery/recurve-bow",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/archery/recurve-bow.glb",
+        "bytes": 656168,
+        "sha256": "ec781e7a7e49983520d8f397ab9bc16073786ca0fefd16ac2ab2be12a49cac45",
+        "triangles": 20080,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.13939999788999557,
+          1.4880000352859497,
+          0.042179279029369354
+        ],
+        "bounds": {
+          "min": [
+            -0.11739999800920486,
+            -0.7440000176429749,
+            -0.021089639514684677
+          ],
+          "max": [
+            0.02199999988079071,
+            0.7440000176429749,
+            0.021089639514684677
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/archery/recurve-bow.lod1.glb",
+        "bytes": 179820,
+        "sha256": "4c822d720053bfa8d44ba0b46e50121a0a19ebc6c8b16c0421fbe2aa8f95b784",
+        "triangles": 4808,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.13939999788999557,
+          1.4880000352859497,
+          0.041312240064144135
+        ],
+        "bounds": {
+          "min": [
+            -0.11739999800920486,
+            -0.7440000176429749,
+            -0.020656120032072067
+          ],
+          "max": [
+            0.02199999988079071,
+            0.7440000176429749,
+            0.020656120032072067
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/archery/recurve-bow.lod2.glb",
+        "bytes": 48992,
+        "sha256": "f85dd92425bc131f06fbbf44b80ba1c190deaa553170a4966e845af27b33cb76",
+        "triangles": 1152,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1378350779414177,
+          1.4880000352859497,
+          0.04179999977350235
+        ],
+        "bounds": {
+          "min": [
+            -0.11583507806062698,
+            -0.7440000176429749,
+            -0.020899999886751175
+          ],
+          "max": [
+            0.02199999988079071,
+            0.7440000176429749,
+            0.020899999886751175
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:archery/crossbow",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/archery/crossbow.glb",
+        "bytes": 569680,
+        "sha256": "7ad8bfde568e13d1a72025977d1fe2fb8c2f25663a7b51619acc5a20739b953b",
+        "triangles": 13490,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.7423354387283325,
+          0.24795864336192608,
+          0.9809999763965607
+        ],
+        "bounds": {
+          "min": [
+            -0.37116771936416626,
+            -0.01600000075995922,
+            -0.4659999907016754
+          ],
+          "max": [
+            0.37116771936416626,
+            0.23195864260196686,
+            0.5149999856948853
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/archery/crossbow.lod1.glb",
+        "bytes": 180476,
+        "sha256": "230124eebb701a48a6a87d385f5df10ca94f1a5f233cb4b8c535614777e1c3bc",
+        "triangles": 3612,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.7423354387283325,
+          0.24787765555083752,
+          0.9809999763965607
+        ],
+        "bounds": {
+          "min": [
+            -0.37116771936416626,
+            -0.01600000075995922,
+            -0.4659999907016754
+          ],
+          "max": [
+            0.37116771936416626,
+            0.2318776547908783,
+            0.5149999856948853
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/archery/crossbow.lod2.glb",
+        "bytes": 68696,
+        "sha256": "313b4c5990acf4f46eb4c7193bc874c76ea5115f15d82d1d4a280e3a0e88e5d2",
+        "triangles": 1448,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.7423354387283325,
+          0.24199999310076237,
+          0.9749999940395355
+        ],
+        "bounds": {
+          "min": [
+            -0.37116771936416626,
+            -0.009999999776482582,
+            -0.46000000834465027
+          ],
+          "max": [
+            0.37116771936416626,
+            0.23199999332427979,
+            0.5149999856948853
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:archery/repeating-crossbow",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/archery/repeating-crossbow.glb",
+        "bytes": 627832,
+        "sha256": "c5888c855f0b4765c8c1e97c4b1323b15fceb281339d0be3d806190a2033d493",
+        "triangles": 15990,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.6018053889274597,
+          0.4749999921768904,
+          0.9344155192375183
+        ],
+        "bounds": {
+          "min": [
+            -0.30090269446372986,
+            -0.01600000075995922,
+            -0.4659999907016754
+          ],
+          "max": [
+            0.30090269446372986,
+            0.45899999141693115,
+            0.4684155285358429
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/archery/repeating-crossbow.lod1.glb",
+        "bytes": 195660,
+        "sha256": "22c1fe8053aa1dfe49adf216eea513423c2144265b75e3c09b09b45f719c8d31",
+        "triangles": 4216,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.6018053889274597,
+          0.4749999921768904,
+          0.9344155192375183
+        ],
+        "bounds": {
+          "min": [
+            -0.30090269446372986,
+            -0.01600000075995922,
+            -0.4659999907016754
+          ],
+          "max": [
+            0.30090269446372986,
+            0.45899999141693115,
+            0.4684155285358429
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/archery/repeating-crossbow.lod2.glb",
+        "bytes": 75472,
+        "sha256": "711b605a6a4f8190a185acf415ac180b318c6cb6957b0402220c2ec2ac471524",
+        "triangles": 1716,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6018053889274597,
+          0.46899999119341373,
+          0.9200000166893005
+        ],
+        "bounds": {
+          "min": [
+            -0.30090269446372986,
+            -0.009999999776482582,
+            -0.46000000834465027
+          ],
+          "max": [
+            0.30090269446372986,
+            0.45899999141693115,
+            0.46000000834465027
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:archery/composite-bow",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/archery/composite-bow.glb",
+        "bytes": 739036,
+        "sha256": "62bc06d6f5ab26b524a5c3dc1624fd58e2e562ae5b71a1497e2df4357a20f122",
+        "triangles": 23232,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15625985153019428,
+          1.3880000114440918,
+          0.044999999925494194
+        ],
+        "bounds": {
+          "min": [
+            -0.1332475244998932,
+            -0.6940000057220459,
+            -0.022499999031424522
+          ],
+          "max": [
+            0.023012327030301094,
+            0.6940000057220459,
+            0.02250000089406967
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/archery/composite-bow.lod1.glb",
+        "bytes": 200820,
+        "sha256": "6a4de16541d5b1ce8e19d11862ee52e0c91227305c266d286eded65030f8ae73",
+        "triangles": 5368,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15625985153019428,
+          1.3880000114440918,
+          0.044999999925494194
+        ],
+        "bounds": {
+          "min": [
+            -0.1332475244998932,
+            -0.6940000057220459,
+            -0.022499999031424522
+          ],
+          "max": [
+            0.023012327030301094,
+            0.6940000057220459,
+            0.02250000089406967
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/archery/composite-bow.lod2.glb",
+        "bytes": 59904,
+        "sha256": "62450ad3d1c0ab3e4ade1ffcd66ec30faab9d7f9789a693d6bde61469d8672df",
+        "triangles": 1412,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1552475243806839,
+          1.3880000114440918,
+          0.0430000014603138
+        ],
+        "bounds": {
+          "min": [
+            -0.1332475244998932,
+            -0.6940000057220459,
+            -0.0215000007301569
+          ],
+          "max": [
+            0.02199999988079071,
+            0.6940000057220459,
+            0.0215000007301569
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/oak-staff",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/casting_implements/oak-staff.glb",
+        "bytes": 619540,
+        "sha256": "23a9d6175fb96eb0c918fb1d51e9ec670a24fed57bb6744d77b4b5d0a1462fcc",
+        "triangles": 20116,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.10667936876416206,
+          1.7666591685265303,
+          0.10667937248945236
+        ],
+        "bounds": {
+          "min": [
+            -0.050772469490766525,
+            -0.029999999329447746,
+            -0.048078909516334534
+          ],
+          "max": [
+            0.05590689927339554,
+            1.7366591691970825,
+            0.05860046297311783
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/casting_implements/oak-staff.lod1.glb",
+        "bytes": 155732,
+        "sha256": "65c983b890629b7013284f43345680787353c7780d85dcf25a66845ef7822202",
+        "triangles": 4140,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1064087264239788,
+          1.7666613142937422,
+          0.10640872269868851
+        ],
+        "bounds": {
+          "min": [
+            -0.050637148320674896,
+            -0.029999999329447746,
+            -0.047943584620952606
+          ],
+          "max": [
+            0.05577157810330391,
+            1.7366613149642944,
+            0.0584651380777359
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/casting_implements/oak-staff.lod2.glb",
+        "bytes": 37424,
+        "sha256": "1109cdee2ec5bf5a33b57ecb2616645f24bfa8ea24fb4c14f794f7d7a49f34d7",
+        "triangles": 928,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.10626325383782387,
+          1.7381647953297943,
+          0.10626325383782387
+        ],
+        "bounds": {
+          "min": [
+            -0.05056441202759743,
+            -0.0015006193425506353,
+            -0.047870852053165436
+          ],
+          "max": [
+            0.05569884181022644,
+            1.7366641759872437,
+            0.05839240178465843
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/crystal-staff",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/casting_implements/crystal-staff.glb",
+        "bytes": 414984,
+        "sha256": "38edfb9babae9ad18cac3181cb79a774f1ce36d4626e5881ecc46706bf9fc29d",
+        "triangles": 10764,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.09343356639146805,
+          1.7769999857991934,
+          0.0974326878786087
+        ],
+        "bounds": {
+          "min": [
+            -0.03799999877810478,
+            -0.012000000104308128,
+            -0.04871634393930435
+          ],
+          "max": [
+            0.055433567613363266,
+            1.7649999856948853,
+            0.04871634393930435
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/casting_implements/crystal-staff.lod1.glb",
+        "bytes": 125644,
+        "sha256": "394356053c6f08a1f0d294fba73e59492511bdc7987cea7f3ce376973713cc0e",
+        "triangles": 2680,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.0934063158929348,
+          1.7769999857991934,
+          0.09739211201667786
+        ],
+        "bounds": {
+          "min": [
+            -0.03799999877810478,
+            -0.012000000104308128,
+            -0.04869605600833893
+          ],
+          "max": [
+            0.05540631711483002,
+            1.7649999856948853,
+            0.04869605600833893
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/casting_implements/crystal-staff.lod2.glb",
+        "bytes": 45008,
+        "sha256": "9df4c741d09167b6dd3a01d1b7064d022e860b58018b254e18d9e07caad0ef23",
+        "triangles": 724,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.09247077628970146,
+          1.7769999857991934,
+          0.09566234052181244
+        ],
+        "bounds": {
+          "min": [
+            -0.03799999877810478,
+            -0.012000000104308128,
+            -0.04783117026090622
+          ],
+          "max": [
+            0.05447077751159668,
+            1.7649999856948853,
+            0.04783117026090622
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/wand",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/casting_implements/wand.glb",
+        "bytes": 284612,
+        "sha256": "f52a2b9a1d36adaf64ff28ce6d79a60dc293f9dd56823fac63c258e6077649e2",
+        "triangles": 6296,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.029999999329447746,
+          0.43169998936355114,
+          0.029999999329447746
+        ],
+        "bounds": {
+          "min": [
+            -0.014999999664723873,
+            -0.029999999329447746,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.014999999664723873,
+            0.4016999900341034,
+            0.014999999664723873
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/casting_implements/wand.lod1.glb",
+        "bytes": 82828,
+        "sha256": "0fc0f4056e61b5b904b78e1ff2e104e299717cb407099faa4b560ce18bf6ea7c",
+        "triangles": 1400,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.029999999329447746,
+          0.43169998936355114,
+          0.029999999329447746
+        ],
+        "bounds": {
+          "min": [
+            -0.014999999664723873,
+            -0.029999999329447746,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.014999999664723873,
+            0.4016999900341034,
+            0.014999999664723873
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/casting_implements/wand.lod2.glb",
+        "bytes": 29900,
+        "sha256": "50c0c364eef2a61815cc74fcdaa8306e51ee442c66eeeac027f79785ba71f66b",
+        "triangles": 376,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.029999999329447746,
+          0.43169998936355114,
+          0.029999999329447746
+        ],
+        "bounds": {
+          "min": [
+            -0.014999999664723873,
+            -0.029999999329447746,
+            -0.014999999664723873
+          ],
+          "max": [
+            0.014999999664723873,
+            0.4016999900341034,
+            0.014999999664723873
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/scepter",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/casting_implements/scepter.glb",
+        "bytes": 395984,
+        "sha256": "4989d8979ed0c8b0d385ec6089a025faad9b1a4b356c1db5f1f11c0bfce0d8cf",
+        "triangles": 13524,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.11299999803304672,
+          0.7800000198185444,
+          0.10000000149011612
+        ],
+        "bounds": {
+          "min": [
+            -0.05649999901652336,
+            -0.05000000074505806,
+            -0.05000000074505806
+          ],
+          "max": [
+            0.05649999901652336,
+            0.7300000190734863,
+            0.05000000074505806
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/casting_implements/scepter.lod1.glb",
+        "bytes": 113900,
+        "sha256": "693c74f0744e531946343d2bd34eaf458725cdc4e11a9838a1d05634b02857cf",
+        "triangles": 3360,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.11299999803304672,
+          0.7800000198185444,
+          0.10000000149011612
+        ],
+        "bounds": {
+          "min": [
+            -0.05649999901652336,
+            -0.05000000074505806,
+            -0.05000000074505806
+          ],
+          "max": [
+            0.05649999901652336,
+            0.7300000190734863,
+            0.05000000074505806
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/casting_implements/scepter.lod2.glb",
+        "bytes": 37912,
+        "sha256": "8c79c0ea338268aff920832f33b29953bf9a2295d2fc8c783146a27f3489f6ab",
+        "triangles": 996,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.10794796049594879,
+          0.7800000198185444,
+          0.10000000149011612
+        ],
+        "bounds": {
+          "min": [
+            -0.053973980247974396,
+            -0.05000000074505806,
+            -0.05000000074505806
+          ],
+          "max": [
+            0.053973980247974396,
+            0.7300000190734863,
+            0.05000000074505806
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:casting_implements/channeling-rod",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/casting_implements/channeling-rod.glb",
+        "bytes": 600568,
+        "sha256": "d786dbf00f1c4affef78b9b88121bd9d874d233ba27c84faa0c75ebca549e99a",
+        "triangles": 21592,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.0903635248541832,
+          1.5209808629006147,
+          0.06695529818534851
+        ],
+        "bounds": {
+          "min": [
+            -0.0451817624270916,
+            -0.029999999329447746,
+            -0.033477649092674255
+          ],
+          "max": [
+            0.0451817624270916,
+            1.490980863571167,
+            0.033477649092674255
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/casting_implements/channeling-rod.lod1.glb",
+        "bytes": 154516,
+        "sha256": "d42f779981767569386f1266c5ddccf09090d3b9c16a948d2b899c50f1f517ea",
+        "triangles": 4680,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.09034386277198792,
+          1.5209808629006147,
+          0.06686779111623764
+        ],
+        "bounds": {
+          "min": [
+            -0.04517193138599396,
+            -0.029999999329447746,
+            -0.03343389555811882
+          ],
+          "max": [
+            0.04517193138599396,
+            1.490980863571167,
+            0.03343389555811882
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/casting_implements/channeling-rod.lod2.glb",
+        "bytes": 50564,
+        "sha256": "0da8de59a4a4e70093fd7dd3f45e2dc6844a99a76d13f81716d4b29b578d34da",
+        "triangles": 1200,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.0896129310131073,
+          1.5209808629006147,
+          0.06700000166893005
+        ],
+        "bounds": {
+          "min": [
+            -0.04480646550655365,
+            -0.029999999329447746,
+            -0.03350000083446503
+          ],
+          "max": [
+            0.04480646550655365,
+            1.490980863571167,
+            0.03350000083446503
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/grimoire",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/ritual/grimoire.glb",
+        "bytes": 430996,
+        "sha256": "3a1d54336fd9fd146c4bfbc007a367d08d1fcf65db471ffcf169464a5b66a62e",
+        "triangles": 11916,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.38768061995506287,
+          0.4299999959766865,
+          0.11620000004768372
+        ],
+        "bounds": {
+          "min": [
+            -0.18768061697483063,
+            0.01499999687075615,
+            -0.05810000002384186
+          ],
+          "max": [
+            0.20000000298023224,
+            0.4449999928474426,
+            0.05810000002384186
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/ritual/grimoire.lod1.glb",
+        "bytes": 154120,
+        "sha256": "3a5a41088e8cd83360910c99c591c00a349035beaf75a36bc62b3887c6445ff6",
+        "triangles": 4044,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3875253349542618,
+          0.4299999959766865,
+          0.11620000004768372
+        ],
+        "bounds": {
+          "min": [
+            -0.18752533197402954,
+            0.01499999687075615,
+            -0.05810000002384186
+          ],
+          "max": [
+            0.20000000298023224,
+            0.4449999928474426,
+            0.05810000002384186
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/ritual/grimoire.lod2.glb",
+        "bytes": 55276,
+        "sha256": "2aa7f17a6288f423cea37d099eced50d7cecb486437287df74db41e9308a6471",
+        "triangles": 1308,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3877599984407425,
+          0.4299999959766865,
+          0.11620000004768372
+        ],
+        "bounds": {
+          "min": [
+            -0.18775999546051025,
+            0.01499999687075615,
+            -0.05810000002384186
+          ],
+          "max": [
+            0.20000000298023224,
+            0.4449999928474426,
+            0.05810000002384186
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/rune-tablet",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/ritual/rune-tablet.glb",
+        "bytes": 360044,
+        "sha256": "de70cfc09992bf3fe8154f6aafb51a82a70e1e1a8846dcdc0988886f1b3b2416",
+        "triangles": 10928,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.37621787190437317,
+          0.4629999939352274,
+          0.07347999885678291
+        ],
+        "bounds": {
+          "min": [
+            -0.18810893595218658,
+            -0.02500000037252903,
+            -0.03500000014901161
+          ],
+          "max": [
+            0.18810893595218658,
+            0.43799999356269836,
+            0.0384799987077713
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/ritual/rune-tablet.lod1.glb",
+        "bytes": 140448,
+        "sha256": "affc17dc3d8b69e0a37b93930ea4619badcc06186e822388d108bfe96ad4126a",
+        "triangles": 4088,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.37621787190437317,
+          0.4629999939352274,
+          0.07347999885678291
+        ],
+        "bounds": {
+          "min": [
+            -0.18810893595218658,
+            -0.02500000037252903,
+            -0.03500000014901161
+          ],
+          "max": [
+            0.18810893595218658,
+            0.43799999356269836,
+            0.0384799987077713
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/ritual/rune-tablet.lod2.glb",
+        "bytes": 52404,
+        "sha256": "75ba9e990494b9feccde85ca0464df3f1d78d7e1523aefd52804f0b723e76486",
+        "triangles": 1488,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3700000047683716,
+          0.45768233574926853,
+          0.07000000029802322
+        ],
+        "bounds": {
+          "min": [
+            -0.1850000023841858,
+            -0.02500000037252903,
+            -0.03500000014901161
+          ],
+          "max": [
+            0.1850000023841858,
+            0.4326823353767395,
+            0.03500000014901161
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/ceremonial-seal",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/ritual/ceremonial-seal.glb",
+        "bytes": 187600,
+        "sha256": "7aa7f14aa4b9c3a235759bfa84df6163ff3b0be7ea53393ba481cddee477f89d",
+        "triangles": 6424,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          0.30399998277425766,
+          0.19700000062584877
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0.028000004589557648,
+            -0.1550000011920929
+          ],
+          "max": [
+            0.15199999511241913,
+            0.3319999873638153,
+            0.041999999433755875
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/ritual/ceremonial-seal.lod1.glb",
+        "bytes": 67748,
+        "sha256": "27e9587a550acff5819d3e5494bcf1184e5c939a391926860e0b2ac4281e5513",
+        "triangles": 1992,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          0.30399998277425766,
+          0.19700000062584877
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0.028000004589557648,
+            -0.1550000011920929
+          ],
+          "max": [
+            0.15199999511241913,
+            0.3319999873638153,
+            0.041999999433755875
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/ritual/ceremonial-seal.lod2.glb",
+        "bytes": 31664,
+        "sha256": "65e539e99da3fd52696f4950fd6aae18a1f65ab376d1ff9c68134c00c3006a51",
+        "triangles": 824,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.30399999022483826,
+          0.30399998277425766,
+          0.19700000062584877
+        ],
+        "bounds": {
+          "min": [
+            -0.15199999511241913,
+            0.028000004589557648,
+            -0.1550000011920929
+          ],
+          "max": [
+            0.15199999511241913,
+            0.3319999873638153,
+            0.041999999433755875
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/talisman-array",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/ritual/talisman-array.glb",
+        "bytes": 518592,
+        "sha256": "94075d483f2ed3c0e3f752e9f4a249a4a87802db6d18e804a95c3ffd1c934177",
+        "triangles": 14512,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.39050695300102234,
+          0.5948695167899132,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.19525347650051117,
+            -0.07538255304098129,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.19525347650051117,
+            0.5194869637489319,
+            0.012000000104308128
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/ritual/talisman-array.lod1.glb",
+        "bytes": 167164,
+        "sha256": "a8117aa131504253778dc94b97957d129a1819ff4c359077119f9085011daf0e",
+        "triangles": 4624,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.39050695300102234,
+          0.5947870463132858,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.19525347650051117,
+            -0.07532553374767303,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.19525347650051117,
+            0.5194615125656128,
+            0.012000000104308128
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/ritual/talisman-array.lod2.glb",
+        "bytes": 72096,
+        "sha256": "a60fe9d434053cc96ceca3c4c0b0e070c13e3cbe373231d8de0f5c70f9d92327",
+        "triangles": 2456,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.39050695300102234,
+          0.5445000156760216,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.19525347650051117,
+            -0.02499999850988388,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.19525347650051117,
+            0.5195000171661377,
+            0.012000000104308128
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:ritual/relic-orb",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/ritual/relic-orb.glb",
+        "bytes": 159824,
+        "sha256": "00f25dcd05c416aa6bdcb75ac0e28cc426b9af7c0be4042eb3076c82437d6240",
+        "triangles": 4792,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.25,
+          0.36500000953674316,
+          0.25
+        ],
+        "bounds": {
+          "min": [
+            -0.125,
+            0,
+            -0.125
+          ],
+          "max": [
+            0.125,
+            0.36500000953674316,
+            0.125
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/ritual/relic-orb.lod1.glb",
+        "bytes": 54520,
+        "sha256": "175533706461480c6119886c908414eed7ac5dd88859cb0f190debc808d8f35e",
+        "triangles": 1332,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.25,
+          0.36500000953674316,
+          0.25
+        ],
+        "bounds": {
+          "min": [
+            -0.125,
+            0,
+            -0.125
+          ],
+          "max": [
+            0.125,
+            0.36500000953674316,
+            0.125
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/ritual/relic-orb.lod2.glb",
+        "bytes": 34792,
+        "sha256": "5d527e35968ccc285021b7f0097406c25e59dd051f0367cc91b29222edf10c25",
+        "triangles": 980,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.25,
+          0.36500000953674316,
+          0.25
+        ],
+        "bounds": {
+          "min": [
+            -0.125,
+            0,
+            -0.125
+          ],
+          "max": [
+            0.125,
+            0.36500000953674316,
+            0.125
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:martial/cestus",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/martial/cestus.glb",
+        "bytes": 374460,
+        "sha256": "52997a2d4f031a9f6aeb6558f116628eac0c2b43dec3ba90584133e57b106c7b",
+        "triangles": 9924,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.3605922758579254,
+          0.18294929713010788
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.0789395272731781,
+            0.3605922758579254,
+            0.10700000077486038
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/martial/cestus.lod1.glb",
+        "bytes": 127828,
+        "sha256": "7ed0d700f7ae5adf34847ecac01fc5f64924f5ee2b4cbad036233b0d21c68ffc",
+        "triangles": 2892,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.36055099964141846,
+          0.18285003304481506
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.0789395272731781,
+            0.36055099964141846,
+            0.10700000077486038
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/martial/cestus.lod2.glb",
+        "bytes": 57776,
+        "sha256": "29fb9162d0b774738e3241447ca8a99d5a4f328bd5ab56960d2fff5b6daa7364",
+        "triangles": 1392,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.36000001430511475,
+          0.18299999833106995
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.0789395272731781,
+            0.36000001430511475,
+            0.10700000077486038
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:martial/arm-blade",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/martial/arm-blade.glb",
+        "bytes": 283772,
+        "sha256": "a59e655f4c054bdfed45bcf0895b6184d930dc54c96b162f4cb9cc324e7e8974",
+        "triangles": 5580,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.7049999833106995,
+          0.17194929718971252
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.0789395272731781,
+            0.7049999833106995,
+            0.09600000083446503
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/martial/arm-blade.lod1.glb",
+        "bytes": 112052,
+        "sha256": "646226fbdad16141afe7cae5f81ab81319f8c39dad666bba028dc80c86ceab63",
+        "triangles": 2172,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.7049999833106995,
+          0.1718500331044197
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.0789395272731781,
+            0.7049999833106995,
+            0.09600000083446503
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/martial/arm-blade.lod2.glb",
+        "bytes": 61908,
+        "sha256": "0c5f22def6d4354a087799870a6b6793372fd4efa2a60cdd318bf78e8ca0f285",
+        "triangles": 1420,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.7049999833106995,
+          0.1719999983906746
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.0789395272731781,
+            0.7049999833106995,
+            0.09600000083446503
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:martial/talons",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/martial/talons.glb",
+        "bytes": 330244,
+        "sha256": "96c4f02ad00a92a1d005fc59f4c630b5a2c44b904b8efa0e34787f1609d7612e",
+        "triangles": 7644,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6000000238418579,
+          0.15713418275117874
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6000000238418579,
+            0.08118488639593124
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/martial/talons.lod1.glb",
+        "bytes": 131004,
+        "sha256": "842da3fb69be6fdc3a6f2f23a6e0fc504a98daf1898cebc2abc4e8f6579d2100",
+        "triangles": 2988,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6000000238418579,
+          0.15735003352165222
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6000000238418579,
+            0.08150000125169754
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/martial/talons.lod2.glb",
+        "bytes": 75400,
+        "sha256": "7473ed2bb49f8bdae4cdb3063b68a16d745edc621d1b90f24644421434536768",
+        "triangles": 1948,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6000000238418579,
+          0.1574999988079071
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6000000238418579,
+            0.08150000125169754
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:martial/power-knuckles",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/martial/power-knuckles.glb",
+        "bytes": 325820,
+        "sha256": "a539f78343bbe9c670141dcec733bf53d03febf1a9187c53dc24a6d66ce63b6f",
+        "triangles": 7096,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.36250001192092896,
+          0.19494929909706116
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.0789395272731781,
+            0.36250001192092896,
+            0.11900000274181366
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/martial/power-knuckles.lod1.glb",
+        "bytes": 131672,
+        "sha256": "f8d60721d7d3db95fae41f8af585e74aca1890a8803d12aa5f03e3ece3d319d1",
+        "triangles": 2776,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.36250001192092896,
+          0.19485003501176834
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.0789395272731781,
+            0.36250001192092896,
+            0.11900000274181366
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/martial/power-knuckles.lod2.glb",
+        "bytes": 75220,
+        "sha256": "2233f814f685c2eceea90f84644703074b299f6d220efa8512c45d95513ef213",
+        "triangles": 2040,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.36250001192092896,
+          0.19500000029802322
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.0789395272731781,
+            0.36250001192092896,
+            0.11900000274181366
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:martial/hook-claws",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/martial/hook-claws.glb",
+        "bytes": 347912,
+        "sha256": "6030c5e777d9991929437f498265ec8572177c2137de41da8cb3056c5190ddfa",
+        "triangles": 7407,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6046000123023987,
+          0.1963735595345497
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6046000123023987,
+            0.12042426317930222
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/martial/hook-claws.lod1.glb",
+        "bytes": 141784,
+        "sha256": "9b68a0ff7c3175ed85f28aaac50e67038dd108fbf2b2aac4d3b923c72fc71aec",
+        "triangles": 2931,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6046000123023987,
+          0.1962742954492569
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6046000123023987,
+            0.12042426317930222
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/martial/hook-claws.lod2.glb",
+        "bytes": 82960,
+        "sha256": "c13b486c8a1fc127f07c8c3eee9a65e5515d1826a5f4c99ef2eee6e2a51b23dc",
+        "triangles": 1951,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.1578790545463562,
+          0.6046000123023987,
+          0.19642426073551178
+        ],
+        "bounds": {
+          "min": [
+            -0.0789395272731781,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.0789395272731781,
+            0.6046000123023987,
+            0.12042426317930222
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/chain-sickle",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/flexible/chain-sickle.glb",
+        "bytes": 548032,
+        "sha256": "90cbdb980607076dd33a41d001b3388fa482d7b7166a670163e275f21bd238ce",
+        "triangles": 16149,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.7349639497697353,
+          0.6007271856069565,
+          0.06942025758326054
+        ],
+        "bounds": {
+          "min": [
+            -0.024963971227407455,
+            -0.11901815235614777,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.7099999785423279,
+            0.4817090332508087,
+            0.03942025825381279
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/flexible/chain-sickle.lod1.glb",
+        "bytes": 172792,
+        "sha256": "e11df275dd148ac77307ff15c626a520ec85f849b3d8edafbdfd88e383d96d6e",
+        "triangles": 4537,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.7336128521710634,
+          0.6006371229887009,
+          0.06942025758326054
+        ],
+        "bounds": {
+          "min": [
+            -0.023612873628735542,
+            -0.11901815235614777,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.7099999785423279,
+            0.4816189706325531,
+            0.03942025825381279
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/flexible/chain-sickle.lod2.glb",
+        "bytes": 71012,
+        "sha256": "871d15c85fc12ead19a619498a8e0c4b69eb559bf1a2282feab54eb71e5bcead",
+        "triangles": 1733,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.7336128521710634,
+          0.5959747284650803,
+          0.06931273080408573
+        ],
+        "bounds": {
+          "min": [
+            -0.023612873628735542,
+            -0.11521531641483307,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.7099999785423279,
+            0.4807594120502472,
+            0.039312731474637985
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/whip",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/flexible/whip.glb",
+        "bytes": 559152,
+        "sha256": "dcb41f23cf8c9dc1060ca58c6cfd7f4133a685bec91710d3d1a141b1883fcf21",
+        "triangles": 18808,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.9710760898888111,
+          0.9539592005312443,
+          0.049608537927269936
+        ],
+        "bounds": {
+          "min": [
+            -0.019999999552965164,
+            -0.03500000014901161,
+            -0.019999999552965164
+          ],
+          "max": [
+            0.951076090335846,
+            0.9189592003822327,
+            0.02960853837430477
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/flexible/whip.lod1.glb",
+        "bytes": 130044,
+        "sha256": "fc6b39c4229cb4a8f883360bd0cdc4f3c64ab395c06a8aa788f0f3a07a4c30fd",
+        "triangles": 3678,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.9710760898888111,
+          0.9536682106554508,
+          0.04797985032200813
+        ],
+        "bounds": {
+          "min": [
+            -0.019999999552965164,
+            -0.03500000014901161,
+            -0.019999999552965164
+          ],
+          "max": [
+            0.951076090335846,
+            0.9186682105064392,
+            0.02797985076904297
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/flexible/whip.lod2.glb",
+        "bytes": 32560,
+        "sha256": "e95a57c44687f4baff8a58d9c1f95abc4c0279a14def1fbec0673c9d146bc32b",
+        "triangles": 650,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.9710760898888111,
+          0.9531340338289738,
+          0.047960689291357994
+        ],
+        "bounds": {
+          "min": [
+            -0.019999999552965164,
+            -0.03500000014901161,
+            -0.019999999552965164
+          ],
+          "max": [
+            0.951076090335846,
+            0.9181340336799622,
+            0.02796068973839283
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/rope-dart",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/flexible/rope-dart.glb",
+        "bytes": 325224,
+        "sha256": "c497eaf0a4a3c968c04f12b3dc9dc4d3631cc4f1492bececd543d7b2444ced92",
+        "triangles": 9868,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.8058871049433947,
+          0.9588501807302237,
+          0.03923257999122143
+        ],
+        "bounds": {
+          "min": [
+            -0.030930640175938606,
+            -0.025982653722167015,
+            -0.013000000268220901
+          ],
+          "max": [
+            0.774956464767456,
+            0.9328675270080566,
+            0.026232579723000526
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/flexible/rope-dart.lod1.glb",
+        "bytes": 93232,
+        "sha256": "e8a7cc5ff37a68076183c3114f8b7b434bb0611fb5a1f18d9ec5f844f69c4ee2",
+        "triangles": 2384,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.8057514484971762,
+          0.9586493298411369,
+          0.03823778219521046
+        ],
+        "bounds": {
+          "min": [
+            -0.030794983729720116,
+            -0.025948695838451385,
+            -0.013000000268220901
+          ],
+          "max": [
+            0.774956464767456,
+            0.9327006340026855,
+            0.025237781926989555
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/flexible/rope-dart.lod2.glb",
+        "bytes": 37964,
+        "sha256": "bc95d05a0b8d590dd00d592f6df4134d0c1757805de842a6ce39920a87d3e456",
+        "triangles": 870,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.8059564661234617,
+          0.9586611166596413,
+          0.03812656179070473
+        ],
+        "bounds": {
+          "min": [
+            -0.03100000135600567,
+            -0.026000000536441803,
+            -0.013000000268220901
+          ],
+          "max": [
+            0.774956464767456,
+            0.9326611161231995,
+            0.025126561522483826
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/meteor-hammer",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/flexible/meteor-hammer.glb",
+        "bytes": 291920,
+        "sha256": "432de7611b9c7d215befa4908f1daf033932916aa0ef38d6ad662952469b329a",
+        "triangles": 8796,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.7676023356616497,
+          1.0198238864541054,
+          0.11688580363988876
+        ],
+        "bounds": {
+          "min": [
+            -0.047823261469602585,
+            -0.0860000029206276,
+            -0.05844290181994438
+          ],
+          "max": [
+            0.7197790741920471,
+            0.9338238835334778,
+            0.05844290181994438
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/flexible/meteor-hammer.lod1.glb",
+        "bytes": 81352,
+        "sha256": "988227eb8c51a34e2fedefbf5bf2d9724fc42cd2268609bd65c6ded830c7bf1f",
+        "triangles": 1984,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.76717609167099,
+          1.0196454897522926,
+          0.11052731424570084
+        ],
+        "bounds": {
+          "min": [
+            -0.0476338267326355,
+            -0.0860000029206276,
+            -0.05526365712285042
+          ],
+          "max": [
+            0.7195422649383545,
+            0.933645486831665,
+            0.05526365712285042
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/flexible/meteor-hammer.lod2.glb",
+        "bytes": 38432,
+        "sha256": "abb6e15703f217967431d35076e56ee113f7b216bd57e0a1af24ba0c53545c84",
+        "triangles": 846,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.76717609167099,
+          1.0196057334542274,
+          0.11052731424570084
+        ],
+        "bounds": {
+          "min": [
+            -0.0476338267326355,
+            -0.0860000029206276,
+            -0.05526365712285042
+          ],
+          "max": [
+            0.7195422649383545,
+            0.9336057305335999,
+            0.05526365712285042
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:flexible/weighted-chain",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/flexible/weighted-chain.glb",
+        "bytes": 235836,
+        "sha256": "d0a3da1de2def65b86ac335fd261891d637187579b795547afee3d5f58694a8f",
+        "triangles": 9024,
+        "meshes": 1,
+        "dimensionsMeters": [
+          0.7080000154674053,
+          1.0215774849057198,
+          0.06364968791604042
+        ],
+        "bounds": {
+          "min": [
+            -0.024000000208616257,
+            -0.07499999552965164,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.6840000152587891,
+            0.9465774893760681,
+            0.039649687707424164
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/flexible/weighted-chain.lod1.glb",
+        "bytes": 99500,
+        "sha256": "1d283a17a4f3f4bfe7649f5c3b06d9344278d50f03fd2ddd36a983374bcf3daf",
+        "triangles": 3616,
+        "meshes": 1,
+        "dimensionsMeters": [
+          0.7080000154674053,
+          1.0215774849057198,
+          0.06364968791604042
+        ],
+        "bounds": {
+          "min": [
+            -0.024000000208616257,
+            -0.07499999552965164,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.6840000152587891,
+            0.9465774893760681,
+            0.039649687707424164
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/flexible/weighted-chain.lod2.glb",
+        "bytes": 63188,
+        "sha256": "6760aa64103f993c8230a2af381b0214ec19be41be7b8217cbe752856ab30fc1",
+        "triangles": 2272,
+        "meshes": 1,
+        "dimensionsMeters": [
+          0.7080000154674053,
+          1.018736906349659,
+          0.06378450617194176
+        ],
+        "bounds": {
+          "min": [
+            -0.024000000208616257,
+            -0.07499999552965164,
+            -0.024000000208616257
+          ],
+          "max": [
+            0.6840000152587891,
+            0.9437369108200073,
+            0.0397845059633255
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/chakram",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/thrown/chakram.glb",
+        "bytes": 330500,
+        "sha256": "f67968b43cc8d160de39b4b70b49e8509d5fdc382ee3182038347009bc14bee4",
+        "triangles": 9220,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.414000004529953,
+          0.4140000184997916,
+          0.013667403720319271
+        ],
+        "bounds": {
+          "min": [
+            -0.2070000022649765,
+            0.012999997474253178,
+            -0.0068337018601596355
+          ],
+          "max": [
+            0.2070000022649765,
+            0.4270000159740448,
+            0.0068337018601596355
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/thrown/chakram.lod1.glb",
+        "bytes": 99076,
+        "sha256": "d29021f40bd87aefa706b2e0f8c81a815a2a8c193c76141021f8efe22ba91d6a",
+        "triangles": 2248,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.414000004529953,
+          0.4140000184997916,
+          0.013398423790931702
+        ],
+        "bounds": {
+          "min": [
+            -0.2070000022649765,
+            0.012999997474253178,
+            -0.006699211895465851
+          ],
+          "max": [
+            0.2070000022649765,
+            0.4270000159740448,
+            0.006699211895465851
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/thrown/chakram.lod2.glb",
+        "bytes": 27052,
+        "sha256": "ae9c16c75101999744f4f5c6e90f23d512fc79adb3fe35aef5a862080bce9d75",
+        "triangles": 424,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.414000004529953,
+          0.4140000184997916,
+          0.013500000350177288
+        ],
+        "bounds": {
+          "min": [
+            -0.2070000022649765,
+            0.012999997474253178,
+            -0.006750000175088644
+          ],
+          "max": [
+            0.2070000022649765,
+            0.4270000159740448,
+            0.006750000175088644
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/kunai",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/thrown/kunai.glb",
+        "bytes": 280904,
+        "sha256": "904b0de2a493372bcfff773e7624c401a38a457e4bb8ffadd266961bb8540a18",
+        "triangles": 7164,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.046937307342886925,
+          0.35048433393239975,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.02343730814754963,
+            -0.050484322011470795,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.023499999195337296,
+            0.30000001192092896,
+            0.012000000104308128
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/thrown/kunai.lod1.glb",
+        "bytes": 82552,
+        "sha256": "e3c473b3e6989db0177b09432b29d07ef34b4b2f09a8783f602185c555473bf8",
+        "triangles": 1664,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.0468146950006485,
+          0.3504536412656307,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.023314695805311203,
+            -0.05045362934470177,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.023499999195337296,
+            0.30000001192092896,
+            0.012000000104308128
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/thrown/kunai.lod2.glb",
+        "bytes": 27288,
+        "sha256": "381d9e22b18d7ebc66352b0b150478d8add16d306014da7d6ebc909aff3702f8",
+        "triangles": 348,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.04699999839067459,
+          0.3505000099539757,
+          0.024000000208616257
+        ],
+        "bounds": {
+          "min": [
+            -0.023499999195337296,
+            -0.05049999803304672,
+            -0.012000000104308128
+          ],
+          "max": [
+            0.023499999195337296,
+            0.30000001192092896,
+            0.012000000104308128
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/shuriken",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/thrown/shuriken.glb",
+        "bytes": 196608,
+        "sha256": "0f61e59d50caaa093f92580cd291932941801b6e3118eb28326b1097fdd133a1",
+        "triangles": 3680,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24084056913852692,
+          0.2408405840396881,
+          0.01549999974668026
+        ],
+        "bounds": {
+          "min": [
+            -0.12042028456926346,
+            0.07957971096038818,
+            -0.006000000052154064
+          ],
+          "max": [
+            0.12042028456926346,
+            0.3204202950000763,
+            0.009499999694526196
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/thrown/shuriken.lod1.glb",
+        "bytes": 84576,
+        "sha256": "3b0211a744d275a1e3ca80969dd223c00f6a0f3fe7d12d30b9b24169d8d8be16",
+        "triangles": 1464,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24084056913852692,
+          0.2408405840396881,
+          0.01549999974668026
+        ],
+        "bounds": {
+          "min": [
+            -0.12042028456926346,
+            0.07957971096038818,
+            -0.006000000052154064
+          ],
+          "max": [
+            0.12042028456926346,
+            0.3204202950000763,
+            0.009499999694526196
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/thrown/shuriken.lod2.glb",
+        "bytes": 46956,
+        "sha256": "5af191b0a7cb5237e8dd799bcccf21dd407cffa9eae1101775de0a48eca256cc",
+        "triangles": 784,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.24084056913852692,
+          0.2408405840396881,
+          0.01549999974668026
+        ],
+        "bounds": {
+          "min": [
+            -0.12042028456926346,
+            0.07957971096038818,
+            -0.006000000052154064
+          ],
+          "max": [
+            0.12042028456926346,
+            0.3204202950000763,
+            0.009499999694526196
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/boomerang",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/thrown/boomerang.glb",
+        "bytes": 99096,
+        "sha256": "8575500c3e02dd9aafaed4ce1d4cc2f0db211781f95057933c32f7fcbd660b87",
+        "triangles": 1000,
+        "meshes": 2,
+        "dimensionsMeters": [
+          0.5770533680915833,
+          0.2521604597568512,
+          0.020500000566244125
+        ],
+        "bounds": {
+          "min": [
+            -0.2885266840457916,
+            0.05083954334259033,
+            -0.010250000283122063
+          ],
+          "max": [
+            0.2885266840457916,
+            0.30300000309944153,
+            0.010250000283122063
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/thrown/boomerang.lod1.glb",
+        "bytes": 38892,
+        "sha256": "4e67967df39388317d619550ca99b5a8f0c2eb1b003d1705778d04417fd5bd90",
+        "triangles": 424,
+        "meshes": 2,
+        "dimensionsMeters": [
+          0.5770533680915833,
+          0.2521604597568512,
+          0.020500000566244125
+        ],
+        "bounds": {
+          "min": [
+            -0.2885266840457916,
+            0.05083954334259033,
+            -0.010250000283122063
+          ],
+          "max": [
+            0.2885266840457916,
+            0.30300000309944153,
+            0.010250000283122063
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/thrown/boomerang.lod2.glb",
+        "bytes": 11856,
+        "sha256": "e3901f609e2487a3433bb2e11238b0dc5e76cf16a5969299aee0fbf4247958f8",
+        "triangles": 112,
+        "meshes": 1,
+        "dimensionsMeters": [
+          0.5770533680915833,
+          0.2521604597568512,
+          0.01899999938905239
+        ],
+        "bounds": {
+          "min": [
+            -0.2885266840457916,
+            0.05083954334259033,
+            -0.009499999694526196
+          ],
+          "max": [
+            0.2885266840457916,
+            0.30300000309944153,
+            0.009499999694526196
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:thrown/javelin",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/thrown/javelin.glb",
+        "bytes": 399764,
+        "sha256": "bd101f9fcd5f7ea89775c6b45928581ff7d70f74e483bba9cd5e35d7c73e3f55",
+        "triangles": 8576,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.041179999709129333,
+          1.5799999590963125,
+          0.043960001319646835
+        ],
+        "bounds": {
+          "min": [
+            -0.020589999854564667,
+            -0.012000000104308128,
+            -0.021980000659823418
+          ],
+          "max": [
+            0.020589999854564667,
+            1.5679999589920044,
+            0.021980000659823418
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/thrown/javelin.lod1.glb",
+        "bytes": 130412,
+        "sha256": "0b2fd3be98784e699aeeb02bcdd7c52b609680a0ecc0944e00d3e3d3f8b3a6a4",
+        "triangles": 2368,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.041179999709129333,
+          1.5799999590963125,
+          0.043960001319646835
+        ],
+        "bounds": {
+          "min": [
+            -0.020589999854564667,
+            -0.012000000104308128,
+            -0.021980000659823418
+          ],
+          "max": [
+            0.020589999854564667,
+            1.5679999589920044,
+            0.021980000659823418
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/thrown/javelin.lod2.glb",
+        "bytes": 39028,
+        "sha256": "7eec0013a30d9391f341ffdd37b8aed5f2a770768e20f59816a41a848c74785c",
+        "triangles": 488,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.041179999709129333,
+          1.5799999590963125,
+          0.041179999709129333
+        ],
+        "bounds": {
+          "min": [
+            -0.020589999854564667,
+            -0.012000000104308128,
+            -0.020589999854564667
+          ],
+          "max": [
+            0.020589999854564667,
+            1.5679999589920044,
+            0.020589999854564667
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/sidearm",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/tech_ranged/sidearm.glb",
+        "bytes": 298324,
+        "sha256": "f2ac52b84b8910b6c1f2f91a699387c5479206c8e3053e0cfcbc6c52c47f1579",
+        "triangles": 8972,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.032999999821186066,
+          0.1903698444366455,
+          0.22855453938245773
+        ],
+        "bounds": {
+          "min": [
+            -0.016499999910593033,
+            0.055630162358284,
+            -0.12705454230308533
+          ],
+          "max": [
+            0.016499999910593033,
+            0.2460000067949295,
+            0.1014999970793724
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/tech_ranged/sidearm.lod1.glb",
+        "bytes": 111372,
+        "sha256": "3560dd83260098e2dd6643f2d2af93326f60a281aaf6ecf78156532b13e2d73e",
+        "triangles": 3220,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.032999999821186066,
+          0.1903366521000862,
+          0.22852133959531784
+        ],
+        "bounds": {
+          "min": [
+            -0.016499999910593033,
+            0.05566335469484329,
+            -0.12702134251594543
+          ],
+          "max": [
+            0.016499999910593033,
+            0.2460000067949295,
+            0.1014999970793724
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/tech_ranged/sidearm.lod2.glb",
+        "bytes": 55788,
+        "sha256": "8068076bc379e092d362bcf416233b673bcf69d5f3ee051a4b0176788b505617",
+        "triangles": 1664,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.032999999821186066,
+          0.1833323985338211,
+          0.22484168410301208
+        ],
+        "bounds": {
+          "min": [
+            -0.016499999910593033,
+            0.0626676082611084,
+            -0.12334168702363968
+          ],
+          "max": [
+            0.016499999910593033,
+            0.2460000067949295,
+            0.1014999970793724
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/pulse-rifle",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/tech_ranged/pulse-rifle.glb",
+        "bytes": 513628,
+        "sha256": "3954067aa6d2c246fbd06d6be5cbc772ab0e1585fedfbbd585a87333a5b86a16",
+        "triangles": 17572,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.0643400028347969,
+          0.27440565451979637,
+          0.9208000004291534
+        ],
+        "bounds": {
+          "min": [
+            -0.03217000141739845,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.03217000141739845,
+            0.31700000166893005,
+            0.4116000235080719
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/tech_ranged/pulse-rifle.lod1.glb",
+        "bytes": 169464,
+        "sha256": "f77ef60877b2c3664f088ea2f74b8947f2cb07ed398cb7bb9bfdc49b3dc4f26f",
+        "triangles": 5276,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.0643400028347969,
+          0.27440565451979637,
+          0.9208000004291534
+        ],
+        "bounds": {
+          "min": [
+            -0.03217000141739845,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.03217000141739845,
+            0.31700000166893005,
+            0.4116000235080719
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/tech_ranged/pulse-rifle.lod2.glb",
+        "bytes": 78744,
+        "sha256": "04f42708588f202322b244400caae436653ee73373c909e619213bed66cc6109",
+        "triangles": 2440,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.05999999865889549,
+          0.27440565451979637,
+          0.9208000004291534
+        ],
+        "bounds": {
+          "min": [
+            -0.029999999329447746,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.029999999329447746,
+            0.31700000166893005,
+            0.4116000235080719
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/railgun",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/tech_ranged/railgun.glb",
+        "bytes": 623512,
+        "sha256": "0ff54637bfb28715516f6dbb8f7d42953dbd850535e4ad37b1b086505d7bb055",
+        "triangles": 21228,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.07199999690055847,
+          0.27440565451979637,
+          1.294800043106079
+        ],
+        "bounds": {
+          "min": [
+            -0.035999998450279236,
+            0.04259434714913368,
+            -0.5752000212669373
+          ],
+          "max": [
+            0.035999998450279236,
+            0.31700000166893005,
+            0.7196000218391418
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/tech_ranged/railgun.lod1.glb",
+        "bytes": 192948,
+        "sha256": "3616048969df45613db0f02ff6825a06e41514b9c8cc40c08d505e1080ab9811",
+        "triangles": 5740,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.07199999690055847,
+          0.27440565451979637,
+          1.294800043106079
+        ],
+        "bounds": {
+          "min": [
+            -0.035999998450279236,
+            0.04259434714913368,
+            -0.5752000212669373
+          ],
+          "max": [
+            0.035999998450279236,
+            0.31700000166893005,
+            0.7196000218391418
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/tech_ranged/railgun.lod2.glb",
+        "bytes": 120944,
+        "sha256": "8f3189ec52b23e92f74661a1abeef2be115965227384a0c834052f94e95eacf0",
+        "triangles": 3968,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.07199999690055847,
+          0.27440565451979637,
+          1.294800043106079
+        ],
+        "bounds": {
+          "min": [
+            -0.035999998450279236,
+            0.04259434714913368,
+            -0.5752000212669373
+          ],
+          "max": [
+            0.035999998450279236,
+            0.31700000166893005,
+            0.7196000218391418
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/beam-projector",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/tech_ranged/beam-projector.glb",
+        "bytes": 547716,
+        "sha256": "23a342daa5c516eb913b47008e294a2abd7db3735accf5d6748aa394ee3fffd9",
+        "triangles": 17772,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.11599999666213989,
+          0.27440565451979637,
+          0.9917999804019928
+        ],
+        "bounds": {
+          "min": [
+            -0.057999998331069946,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.057999998331069946,
+            0.31700000166893005,
+            0.48260000348091125
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/tech_ranged/beam-projector.lod1.glb",
+        "bytes": 182576,
+        "sha256": "cfb2ce2a2ba2aa568272db7a23c68d8aa953cf97739484f798773ce4c107c371",
+        "triangles": 5316,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.11599999666213989,
+          0.27440565451979637,
+          0.9917999804019928
+        ],
+        "bounds": {
+          "min": [
+            -0.057999998331069946,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.057999998331069946,
+            0.31700000166893005,
+            0.48260000348091125
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/tech_ranged/beam-projector.lod2.glb",
+        "bytes": 95924,
+        "sha256": "bf2545dda5f87cc8edc433d44ccf26504f55fcc9ee479a6d409b063981455b39",
+        "triangles": 2880,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.11599999666213989,
+          0.27440565451979637,
+          0.9917999804019928
+        ],
+        "bounds": {
+          "min": [
+            -0.057999998331069946,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.057999998331069946,
+            0.31700000166893005,
+            0.48260000348091125
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:tech_ranged/grenade-launcher",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/tech_ranged/grenade-launcher.glb",
+        "bytes": 533912,
+        "sha256": "c76ce507c04f20ce2e47b7593cff578d68b020d95c5b7fcc574ccb9ddfd76f53",
+        "triangles": 16796,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1247076615691185,
+          0.2930385135114193,
+          0.9577999711036682
+        ],
+        "bounds": {
+          "min": [
+            -0.06235383078455925,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.06235383078455925,
+            0.335632860660553,
+            0.44859999418258667
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/tech_ranged/grenade-launcher.lod1.glb",
+        "bytes": 180892,
+        "sha256": "23f49392d1416f8e5c16e448aff504894cf342244756cec542e8e7667d17dc55",
+        "triangles": 4972,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1247076615691185,
+          0.29302912577986717,
+          0.9577999711036682
+        ],
+        "bounds": {
+          "min": [
+            -0.06235383078455925,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.06235383078455925,
+            0.33562347292900085,
+            0.44859999418258667
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/tech_ranged/grenade-launcher.lod2.glb",
+        "bytes": 97240,
+        "sha256": "8900a1d83fbcd652a6ff3ad5e1ee1e730f712d61ccd6c6bce94d85c8ddd5ef09",
+        "triangles": 2776,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.1247076615691185,
+          0.29304083809256554,
+          0.9577999711036682
+        ],
+        "bounds": {
+          "min": [
+            -0.06235383078455925,
+            0.04259434714913368,
+            -0.5091999769210815
+          ],
+          "max": [
+            0.06235383078455925,
+            0.3356351852416992,
+            0.44859999418258667
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/wrist-emitter",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/integrated/wrist-emitter.glb",
+        "bytes": 304788,
+        "sha256": "8b8d03ebeac8f57e83e7484a24b0825bf698b2270a15c692a29cc57501752e8b",
+        "triangles": 7360,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.27000001072883606,
+          0.3959492892026901
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.07748665660619736,
+            0.27000001072883606,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/integrated/wrist-emitter.lod1.glb",
+        "bytes": 120512,
+        "sha256": "1ea605d17ccb29eeefe492f1b5b4872f19ee9ca2ebf5ca48abdffc0c97745895",
+        "triangles": 2800,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.27000001072883606,
+          0.3958500251173973
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.07748665660619736,
+            0.27000001072883606,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/integrated/wrist-emitter.lod2.glb",
+        "bytes": 50980,
+        "sha256": "a58689cea291617312a3027034aff44410439bc7378572b3ccd600632641c7de",
+        "triangles": 1220,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.27000001072883606,
+          0.3959999904036522
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.07748665660619736,
+            0.27000001072883606,
+            0.3199999928474426
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/servo-blade",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/integrated/servo-blade.glb",
+        "bytes": 311236,
+        "sha256": "c05ab7cacfc62bb5945a21c02ceb365b765d23cb893d09b14cfe326441d45f18",
+        "triangles": 6841,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.7049999833106995,
+          0.18894929438829422
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.07748665660619736,
+            0.7049999833106995,
+            0.11299999803304672
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/integrated/servo-blade.lod1.glb",
+        "bytes": 125516,
+        "sha256": "e3b35babb9c44e8a9867fa5bd8d167272e29f19f69a3b174e521e1628cdd2342",
+        "triangles": 2605,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.7049999833106995,
+          0.1888500303030014
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.07748665660619736,
+            0.7049999833106995,
+            0.11299999803304672
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/integrated/servo-blade.lod2.glb",
+        "bytes": 69288,
+        "sha256": "b64b6ff2f0b074911a01a3160b054ba6d8ad14f83131b456c5f493f0111db63f",
+        "triangles": 1613,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.7049999833106995,
+          0.1889999955892563
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.07748665660619736,
+            0.7049999833106995,
+            0.11299999803304672
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/shoulder-mount",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/integrated/shoulder-mount.glb",
+        "bytes": 499256,
+        "sha256": "e041496c116408d1391e543ecc03d25ef0a1bc2030f92bf61121af5bc8cbc896",
+        "triangles": 14780,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.3269106298685074,
+          0.37847766280174255,
+          0.43184423446655273
+        ],
+        "bounds": {
+          "min": [
+            -0.16341063380241394,
+            0,
+            -0.11184424161911011
+          ],
+          "max": [
+            0.16349999606609344,
+            0.37847766280174255,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/integrated/shoulder-mount.lod1.glb",
+        "bytes": 187400,
+        "sha256": "d4392e7bba77bf0dc3056a430f1bdbfc313ca0047c280174e97b5add644427c0",
+        "triangles": 5176,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.32673583924770355,
+          0.37843388319015503,
+          0.43184423446655273
+        ],
+        "bounds": {
+          "min": [
+            -0.1632358431816101,
+            0,
+            -0.11184424161911011
+          ],
+          "max": [
+            0.16349999606609344,
+            0.37843388319015503,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/integrated/shoulder-mount.lod2.glb",
+        "bytes": 73304,
+        "sha256": "d802168048e59be85437798ceacbd188259ebbb656baa870e72cda2596a6507f",
+        "triangles": 1908,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.32199999690055847,
+          0.37599998712539673,
+          0.43184423446655273
+        ],
+        "bounds": {
+          "min": [
+            -0.16099999845027924,
+            0,
+            -0.11184424161911011
+          ],
+          "max": [
+            0.16099999845027924,
+            0.37599998712539673,
+            0.3199999928474426
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/energy-gauntlet",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/integrated/energy-gauntlet.glb",
+        "bytes": 413400,
+        "sha256": "a7e42826890df4028c9bfefbfd7ca95f0dc73c62904c6194a430158ca827f2ac",
+        "triangles": 12408,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.3596085011959076,
+          0.17844929546117783
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.07748665660619736,
+            0.3596085011959076,
+            0.10249999910593033
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/integrated/energy-gauntlet.lod1.glb",
+        "bytes": 146924,
+        "sha256": "924f9f747001227da51641591d2517c4933d27204077df5b873b79ff32d9d652",
+        "triangles": 4064,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.359575092792511,
+          0.178350031375885
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.07748665660619736,
+            0.359575092792511,
+            0.10249999910593033
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/integrated/energy-gauntlet.lod2.glb",
+        "bytes": 70800,
+        "sha256": "7861ddac290c45b9c3dcc94d07b955e1d83ad0c24abf0060aa52dd0bdf98f1c5",
+        "triangles": 2132,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.359575092792511,
+          0.1784999966621399
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.07748665660619736,
+            0.359575092792511,
+            0.10249999910593033
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:integrated/exo-arm",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/integrated/exo-arm.glb",
+        "bytes": 411460,
+        "sha256": "ba990264abb41b63f02d6510589a70e2eb621be3e3f057c490c8e70b5e3cf425",
+        "triangles": 10788,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.6896085143089294,
+          0.3959492892026901
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.0759492963552475
+          ],
+          "max": [
+            0.07748665660619736,
+            0.6896085143089294,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/integrated/exo-arm.lod1.glb",
+        "bytes": 165880,
+        "sha256": "e45986ac1cd74f386edc769534a17a390ec73fbca91090b80630d10b37d72d20",
+        "triangles": 4188,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.6895750761032104,
+          0.3958500251173973
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07585003226995468
+          ],
+          "max": [
+            0.07748665660619736,
+            0.6895750761032104,
+            0.3199999928474426
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/integrated/exo-arm.lod2.glb",
+        "bytes": 84460,
+        "sha256": "d239bab4b4795644f8cfba5273459f283934bff1b0559b5abbdb985784e56054",
+        "triangles": 2400,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.15497331321239471,
+          0.6895750761032104,
+          0.3959999904036522
+        ],
+        "bounds": {
+          "min": [
+            -0.07748665660619736,
+            0,
+            -0.07599999755620956
+          ],
+          "max": [
+            0.07748665660619736,
+            0.6895750761032104,
+            0.3199999928474426
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:shields/buckler",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/shields/buckler.glb",
+        "bytes": 238348,
+        "sha256": "30912f029614f21b7e85d874142b1a5efa6038cdcc914acc9e18a880fa9ea86e",
+        "triangles": 5088,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.3754984587430954,
+          0.37574915355071425,
+          0.15018565207719803
+        ],
+        "bounds": {
+          "min": [
+            -0.18749846518039703,
+            0.002125429455190897,
+            -0.06868565082550049
+          ],
+          "max": [
+            0.18799999356269836,
+            0.37787458300590515,
+            0.08150000125169754
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/shields/buckler.lod1.glb",
+        "bytes": 92228,
+        "sha256": "9acb8650661654bd228f9ef8c289c058c30bee789604e37c535ac44280e3ae12",
+        "triangles": 1992,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.374517560005188,
+          0.3752580708824098,
+          0.15018565207719803
+        ],
+        "bounds": {
+          "min": [
+            -0.18651756644248962,
+            0.0023709707893431187,
+            -0.06868565082550049
+          ],
+          "max": [
+            0.18799999356269836,
+            0.37762904167175293,
+            0.08150000125169754
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/shields/buckler.lod2.glb",
+        "bytes": 38828,
+        "sha256": "df4eda5254bf563b9351ccbf015dbf6ee0dc83befea4f32c89f1500a53dd270a",
+        "triangles": 1000,
+        "meshes": 3,
+        "dimensionsMeters": [
+          0.37599998712539673,
+          0.3759999847970903,
+          0.15001574158668518
+        ],
+        "bounds": {
+          "min": [
+            -0.18799999356269836,
+            0.0020000063814222813,
+            -0.06851574033498764
+          ],
+          "max": [
+            0.18799999356269836,
+            0.3779999911785126,
+            0.08150000125169754
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:shields/kite-shield",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/shields/kite-shield.glb",
+        "bytes": 338032,
+        "sha256": "59f4e201f0b6d1720c8b3b2dfe5029e89183e15219aea540828c47c1da0e013c",
+        "triangles": 5920,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.6436198353767395,
+          0.948021671269089,
+          0.14162277430295944
+        ],
+        "bounds": {
+          "min": [
+            -0.3320658802986145,
+            -0.006616732571274042,
+            -0.08262277394533157
+          ],
+          "max": [
+            0.311553955078125,
+            0.9414049386978149,
+            0.05900000035762787
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/shields/kite-shield.lod1.glb",
+        "bytes": 135804,
+        "sha256": "7d1aa033a21ab7be4ea949ef905daa037d8893df6e8bd1267802ecb286c509db",
+        "triangles": 2584,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.6425141096115112,
+          0.948021671269089,
+          0.14159362763166428
+        ],
+        "bounds": {
+          "min": [
+            -0.33096015453338623,
+            -0.006616732571274042,
+            -0.08259362727403641
+          ],
+          "max": [
+            0.311553955078125,
+            0.9414049386978149,
+            0.05900000035762787
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/shields/kite-shield.lod2.glb",
+        "bytes": 64660,
+        "sha256": "79f293eb166041b54fe7e1c4feb9c06668025c8fef197d66add73794724b219e",
+        "triangles": 1560,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6420139670372009,
+          0.9467646577395499,
+          0.1414770409464836
+        ],
+        "bounds": {
+          "min": [
+            -0.33040547370910645,
+            -0.0054176547564566135,
+            -0.08247704058885574
+          ],
+          "max": [
+            0.3116084933280945,
+            0.9413470029830933,
+            0.05900000035762787
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:shields/tower-shield",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/shields/tower-shield.glb",
+        "bytes": 366872,
+        "sha256": "78b47717b0acedef9aefa7bd3b19ba6f46ae595ae7b07212c608cd7a9c7c83c0",
+        "triangles": 6844,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6112598478794098,
+          1.0647134698665468,
+          0.18409672379493713
+        ],
+        "bounds": {
+          "min": [
+            -0.31674763560295105,
+            0.00007463323709089309,
+            -0.12509672343730927
+          ],
+          "max": [
+            0.29451221227645874,
+            1.0647881031036377,
+            0.05900000035762787
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/shields/tower-shield.lod1.glb",
+        "bytes": 150012,
+        "sha256": "727bf5635622bb4844586f0b2cd7707eb00b4921c4a90b3ba2c87c4f79fab991",
+        "triangles": 3028,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6080135703086853,
+          1.0647134698665468,
+          0.18297284096479416
+        ],
+        "bounds": {
+          "min": [
+            -0.3151010274887085,
+            0.00007463323709089309,
+            -0.12397284060716629
+          ],
+          "max": [
+            0.2929125428199768,
+            1.0647881031036377,
+            0.05900000035762787
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/shields/tower-shield.lod2.glb",
+        "bytes": 78528,
+        "sha256": "a8814f0291167329cc94cbb6b9dfa0950d601d7e823d48efe7b1d57ded70f82e",
+        "triangles": 2084,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.6018291413784027,
+          1.059565968811512,
+          0.18102821707725525
+        ],
+        "bounds": {
+          "min": [
+            -0.3090050220489502,
+            0.005113057792186737,
+            -0.12202821671962738
+          ],
+          "max": [
+            0.2928241193294525,
+            1.0646790266036987,
+            0.05900000035762787
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:shields/round-shield",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/shields/round-shield.glb",
+        "bytes": 438812,
+        "sha256": "8ec85b1870f3d829ba71ebae058148b81904c85e1a313bf330c73ae8f2aa83cf",
+        "triangles": 10576,
+        "meshes": 8,
+        "dimensionsMeters": [
+          0.6631143093109131,
+          0.6635570061625913,
+          0.1616227775812149
+        ],
+        "bounds": {
+          "min": [
+            -0.3311143219470978,
+            -0.001778496545739472,
+            -0.08262277394533157
+          ],
+          "max": [
+            0.3319999873638153,
+            0.6617785096168518,
+            0.07900000363588333
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/shields/round-shield.lod1.glb",
+        "bytes": 159044,
+        "sha256": "8eb988813f2246466efddc77bdb73f82deaeea2e0096f9caaa2cfb0c56e06efc",
+        "triangles": 3616,
+        "meshes": 8,
+        "dimensionsMeters": [
+          0.6613820791244507,
+          0.6626897585811093,
+          0.16159363090991974
+        ],
+        "bounds": {
+          "min": [
+            -0.3293820917606354,
+            -0.0013448727549985051,
+            -0.08259362727403641
+          ],
+          "max": [
+            0.3319999873638153,
+            0.6613448858261108,
+            0.07900000363588333
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/shields/round-shield.lod2.glb",
+        "bytes": 63632,
+        "sha256": "0e170a5587286836c50b1530bf6395efc75192a266ba96566c857b662c19e615",
+        "triangles": 1512,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6639999747276306,
+          0.6639999877661467,
+          0.16147704422473907
+        ],
+        "bounds": {
+          "min": [
+            -0.3319999873638153,
+            -0.0019999872893095016,
+            -0.08247704058885574
+          ],
+          "max": [
+            0.3319999873638153,
+            0.6620000004768372,
+            0.07900000363588333
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:shields/kinetic-disc",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/shields/kinetic-disc.glb",
+        "bytes": 337148,
+        "sha256": "b4130dadef98751de086d37441b34652b497b09edb5862887572d46756bb92ca",
+        "triangles": 7920,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6231676936149597,
+          0.6235836767591536,
+          0.1728227734565735
+        ],
+        "bounds": {
+          "min": [
+            -0.3111676871776581,
+            -0.0017918371595442295,
+            -0.08262277394533157
+          ],
+          "max": [
+            0.31200000643730164,
+            0.6217918395996094,
+            0.09019999951124191
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/shields/kinetic-disc.lod1.glb",
+        "bytes": 137544,
+        "sha256": "d892dfa79454cf5d8d0410e23527bfdb7dbc826b7dc5929060983841a1206fc3",
+        "triangles": 3144,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.6215398013591766,
+          0.6227686726488173,
+          0.17279362678527832
+        ],
+        "bounds": {
+          "min": [
+            -0.309539794921875,
+            -0.0013843500055372715,
+            -0.08259362727403641
+          ],
+          "max": [
+            0.31200000643730164,
+            0.62138432264328,
+            0.09019999951124191
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/shields/kinetic-disc.lod2.glb",
+        "bytes": 61672,
+        "sha256": "ead51a560365162ed1c97a730f68ea1cb72807456884e94017c24caf1f0d6ae2",
+        "triangles": 1600,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.6240000128746033,
+          0.6239999854005873,
+          0.17267704010009766
+        ],
+        "bounds": {
+          "min": [
+            -0.31200000643730164,
+            -0.0020000063814222813,
+            -0.08247704058885574
+          ],
+          "max": [
+            0.31200000643730164,
+            0.621999979019165,
+            0.09019999951124191
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/flame-sword",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/manifested/flame-sword.glb",
+        "bytes": 481980,
+        "sha256": "b8d8680aafab782add925dc9710e6302bf8b9bc73ad6103a4f5f5ae8000e5e06",
+        "triangles": 16244,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.27983999252319336,
+          1.1960000544786453,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.13991999626159668,
+            -0.052000001072883606,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.13991999626159668,
+            1.1440000534057617,
+            0.028875000774860382
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/manifested/flame-sword.lod1.glb",
+        "bytes": 145036,
+        "sha256": "98a40b1b2ce075dce6e93759b8ef4e6b219f792f3f798149b6861045804b0d23",
+        "triangles": 4272,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.27983999252319336,
+          1.1960000544786453,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.13991999626159668,
+            -0.052000001072883606,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.13991999626159668,
+            1.1440000534057617,
+            0.028875000774860382
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/manifested/flame-sword.lod2.glb",
+        "bytes": 43028,
+        "sha256": "1753ccdc1f78026dbbccceae559502cdce4eb7a621d1e77b8133bd41807085f9",
+        "triangles": 808,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.27983999252319336,
+          1.1960000544786453,
+          0.057750001549720764
+        ],
+        "bounds": {
+          "min": [
+            -0.13991999626159668,
+            -0.052000001072883606,
+            -0.028875000774860382
+          ],
+          "max": [
+            0.13991999626159668,
+            1.1440000534057617,
+            0.028875000774860382
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/ice-spear",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/manifested/ice-spear.glb",
+        "bytes": 132420,
+        "sha256": "127529a823702a05a85b47ec53cf2f53def60a8cb6d50ab60440634cf895fb7c",
+        "triangles": 1964,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.12128805369138718,
+          2.1180000975728035,
+          0.15491969883441925
+        ],
+        "bounds": {
+          "min": [
+            -0.05101630836725235,
+            -0.07000000029802322,
+            -0.07745984941720963
+          ],
+          "max": [
+            0.07027174532413483,
+            2.0480000972747803,
+            0.07745984941720963
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/manifested/ice-spear.lod1.glb",
+        "bytes": 65476,
+        "sha256": "3c7063b9a33f07bfdb069030c7239d2038c6ce4199b24f6e6811231a8f57c661",
+        "triangles": 1004,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.12128805369138718,
+          2.1180000975728035,
+          0.15491969883441925
+        ],
+        "bounds": {
+          "min": [
+            -0.05101630836725235,
+            -0.07000000029802322,
+            -0.07745984941720963
+          ],
+          "max": [
+            0.07027174532413483,
+            2.0480000972747803,
+            0.07745984941720963
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/manifested/ice-spear.lod2.glb",
+        "bytes": 38104,
+        "sha256": "3f00824e2cf8b843bd2fd97e1cdf62fd14be89bf6cfdb00721012aaaaf38ba93",
+        "triangles": 572,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.12128805369138718,
+          2.1180000975728035,
+          0.15491969883441925
+        ],
+        "bounds": {
+          "min": [
+            -0.05101630836725235,
+            -0.07000000029802322,
+            -0.07745984941720963
+          ],
+          "max": [
+            0.07027174532413483,
+            2.0480000972747803,
+            0.07745984941720963
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/crystal-scythe",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/manifested/crystal-scythe.glb",
+        "bytes": 205900,
+        "sha256": "6822e4567bed7eef47b1a9e03367f47fea8cf8d44b648a4fc118cd53734f812b",
+        "triangles": 1925,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.766000010073185,
+          1.6762445326894522,
+          0.052000001072883606
+        ],
+        "bounds": {
+          "min": [
+            -0.026000000536441803,
+            -0.012000000104308128,
+            -0.026000000536441803
+          ],
+          "max": [
+            0.7400000095367432,
+            1.664244532585144,
+            0.026000000536441803
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/manifested/crystal-scythe.lod1.glb",
+        "bytes": 84188,
+        "sha256": "dc76d2d2b7a0c681c88e0cc4b3d3fb332ad9cad1155905caa04bc94d5956e25d",
+        "triangles": 1001,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.766000010073185,
+          1.6762445326894522,
+          0.052000001072883606
+        ],
+        "bounds": {
+          "min": [
+            -0.026000000536441803,
+            -0.012000000104308128,
+            -0.026000000536441803
+          ],
+          "max": [
+            0.7400000095367432,
+            1.664244532585144,
+            0.026000000536441803
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/manifested/crystal-scythe.lod2.glb",
+        "bytes": 36832,
+        "sha256": "bc6647243512390cc79174229e22c11d8d627c03c1d9279fc80100916ceb4885",
+        "triangles": 517,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.766000010073185,
+          1.6339011546224356,
+          0.052000001072883606
+        ],
+        "bounds": {
+          "min": [
+            -0.026000000536441803,
+            -0.012000000104308128,
+            -0.026000000536441803
+          ],
+          "max": [
+            0.7400000095367432,
+            1.6219011545181274,
+            0.026000000536441803
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/light-blade",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/manifested/light-blade.glb",
+        "bytes": 347944,
+        "sha256": "63947d1872493438b6af16f2e13e48f8c6cfc66c802dce8d4b171659667d3b47",
+        "triangles": 11548,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.05999999865889549,
+          1.194999961182475,
+          0.05999999865889549
+        ],
+        "bounds": {
+          "min": [
+            -0.029999999329447746,
+            -0.029999999329447746,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.029999999329447746,
+            1.1649999618530273,
+            0.029999999329447746
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/manifested/light-blade.lod1.glb",
+        "bytes": 103924,
+        "sha256": "3b4df57e3bd6c4991cbdcb367bd2563abf57ade43d82a5aefe9ee8c55a4df436",
+        "triangles": 2976,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.05999999865889549,
+          1.194999961182475,
+          0.05999999865889549
+        ],
+        "bounds": {
+          "min": [
+            -0.029999999329447746,
+            -0.029999999329447746,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.029999999329447746,
+            1.1649999618530273,
+            0.029999999329447746
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/manifested/light-blade.lod2.glb",
+        "bytes": 37548,
+        "sha256": "2904e9fce41627273b864521cd08e9e396e96fefdae71e1766b015108ffb2860",
+        "triangles": 816,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.05999999865889549,
+          1.194999961182475,
+          0.05999999865889549
+        ],
+        "bounds": {
+          "min": [
+            -0.029999999329447746,
+            -0.029999999329447746,
+            -0.029999999329447746
+          ],
+          "max": [
+            0.029999999329447746,
+            1.1649999618530273,
+            0.029999999329447746
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:manifested/void-disc",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/manifested/void-disc.glb",
+        "bytes": 324972,
+        "sha256": "50bde2e0d213602ae78d9d8aeb8008b5ea766babe1b303bbd62f719ab76e8ff2",
+        "triangles": 8040,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.65239417552948,
+          0.6523941680788994,
+          0.1728227734565735
+        ],
+        "bounds": {
+          "min": [
+            -0.32619708776474,
+            -0.016197077929973602,
+            -0.08262277394533157
+          ],
+          "max": [
+            0.32619708776474,
+            0.6361970901489258,
+            0.09019999951124191
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/manifested/void-disc.lod1.glb",
+        "bytes": 136360,
+        "sha256": "63cc0661c92c22b3c2fe95553abfc63e4f3c95500502497301ef948b7f443ea2",
+        "triangles": 3232,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.65239417552948,
+          0.6523941680788994,
+          0.17279362678527832
+        ],
+        "bounds": {
+          "min": [
+            -0.32619708776474,
+            -0.016197077929973602,
+            -0.08259362727403641
+          ],
+          "max": [
+            0.32619708776474,
+            0.6361970901489258,
+            0.09019999951124191
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/manifested/void-disc.lod2.glb",
+        "bytes": 68064,
+        "sha256": "d0c2d5b2fb9d9d9078d972458471445f27d6e5251c3088948f251d22c079bab7",
+        "triangles": 1656,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.65239417552948,
+          0.6523941680788994,
+          0.17267704010009766
+        ],
+        "bounds": {
+          "min": [
+            -0.32619708776474,
+            -0.016197077929973602,
+            -0.08247704058885574
+          ],
+          "max": [
+            0.32619708776474,
+            0.6361970901489258,
+            0.09019999951124191
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/turret",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/deployables/turret.glb",
+        "bytes": 271376,
+        "sha256": "39f78db6a63e103e0f481c99f61c8deed10311b965d08d8281e0a8413aedf6b7",
+        "triangles": 6252,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.5898096561431885,
+          0.6710000121966004,
+          0.7745230197906494
+        ],
+        "bounds": {
+          "min": [
+            -0.2916432321071625,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.298166424036026,
+            0.675000011920929,
+            0.4490000009536743
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/deployables/turret.lod1.glb",
+        "bytes": 117080,
+        "sha256": "2f40906869da1b2d7c9d40effabf4cc1a385b84b1bafe4ac0557d18b5d3fd559",
+        "triangles": 2748,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          0.6710000121966004,
+          0.7745230197906494
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            0.675000011920929,
+            0.4490000009536743
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/deployables/turret.lod2.glb",
+        "bytes": 55908,
+        "sha256": "bbb023a366890c2d28e361d96da117fcf0976632d1f53dd9f5b8b41274532f1f",
+        "triangles": 1260,
+        "meshes": 4,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          0.6710000121966004,
+          0.7745230197906494
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            0.675000011920929,
+            0.4490000009536743
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/trip-mine",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/deployables/trip-mine.glb",
+        "bytes": 175604,
+        "sha256": "b166418846ba19c6e60189903fcba9b228205c160ee8c05de09d1a21146473b1",
+        "triangles": 2656,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.35500000417232513,
+          0.0860000029206276,
+          0.3240000009536743
+        ],
+        "bounds": {
+          "min": [
+            -0.17499999701976776,
+            0,
+            -0.16200000047683716
+          ],
+          "max": [
+            0.18000000715255737,
+            0.0860000029206276,
+            0.16200000047683716
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/deployables/trip-mine.lod1.glb",
+        "bytes": 73268,
+        "sha256": "053705d52c47bda7afb6464bf473050c5b984f970f945e0263fc95c4c8e2a707",
+        "triangles": 1200,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.35500000417232513,
+          0.0860000029206276,
+          0.3240000009536743
+        ],
+        "bounds": {
+          "min": [
+            -0.17499999701976776,
+            0,
+            -0.16200000047683716
+          ],
+          "max": [
+            0.18000000715255737,
+            0.0860000029206276,
+            0.16200000047683716
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/deployables/trip-mine.lod2.glb",
+        "bytes": 46592,
+        "sha256": "ad07a8adb125f3464a8aad6a04bb8b9130afcdd37af69e062d3d2ff16de085f1",
+        "triangles": 1104,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.35500000417232513,
+          0.0860000029206276,
+          0.3240000009536743
+        ],
+        "bounds": {
+          "min": [
+            -0.17499999701976776,
+            0,
+            -0.16200000047683716
+          ],
+          "max": [
+            0.18000000715255737,
+            0.0860000029206276,
+            0.16200000047683716
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/combat-drone",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/deployables/combat-drone.glb",
+        "bytes": 408428,
+        "sha256": "a89e3295b32bcd43d919443ff4a4e4f8b88cf0fe07949462c42a1a83f15d6734",
+        "triangles": 12388,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.6679999828338623,
+          0.25847683660686016,
+          0.6480000019073486
+        ],
+        "bounds": {
+          "min": [
+            -0.33399999141693115,
+            0.030523167923092842,
+            -0.3240000009536743
+          ],
+          "max": [
+            0.33399999141693115,
+            0.289000004529953,
+            0.3240000009536743
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/deployables/combat-drone.lod1.glb",
+        "bytes": 149548,
+        "sha256": "cbe53b76a16de7b5a2a4f3a1bdd94bbd070b33c75d571a3b11fac7746b065ce6",
+        "triangles": 4084,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.6679999828338623,
+          0.2584703080356121,
+          0.6480000019073486
+        ],
+        "bounds": {
+          "min": [
+            -0.33399999141693115,
+            0.030529696494340897,
+            -0.3240000009536743
+          ],
+          "max": [
+            0.33399999141693115,
+            0.289000004529953,
+            0.3240000009536743
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/deployables/combat-drone.lod2.glb",
+        "bytes": 81996,
+        "sha256": "79b4531918cba826f44c143c58dc929560ad5204da2bb33e72cb833f14509b67",
+        "triangles": 2228,
+        "meshes": 5,
+        "dimensionsMeters": [
+          0.6679999828338623,
+          0.2544026914983988,
+          0.6480000019073486
+        ],
+        "bounds": {
+          "min": [
+            -0.33399999141693115,
+            0.030597304925322533,
+            -0.3240000009536743
+          ],
+          "max": [
+            0.33399999141693115,
+            0.2849999964237213,
+            0.3240000009536743
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/pulse-pylon",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/deployables/pulse-pylon.glb",
+        "bytes": 256796,
+        "sha256": "bcc87bc2724fe21d4a140a95f6ffc5c6b36a082e7714d8475c63010d55b77dc5",
+        "triangles": 4372,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.5898096561431885,
+          1.0009999955073,
+          0.518727719783783
+        ],
+        "bounds": {
+          "min": [
+            -0.2916432321071625,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.298166424036026,
+            1.0049999952316284,
+            0.19320470094680786
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/deployables/pulse-pylon.lod1.glb",
+        "bytes": 115444,
+        "sha256": "816fcbc3594904f7cfe4fa05dfe3eff58898529df66940620129671993adce1b",
+        "triangles": 2116,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          1.0009999955073,
+          0.5186287313699722
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            1.0049999952316284,
+            0.19310571253299713
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/deployables/pulse-pylon.lod2.glb",
+        "bytes": 58840,
+        "sha256": "b63e78aca1ec9c8be18b050d9f53c2d590d896e75d143d0debf021de284a5051",
+        "triangles": 1108,
+        "meshes": 6,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          1.0009999955073,
+          0.5186287313699722
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            1.0049999952316284,
+            0.19310571253299713
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  },
+  {
+    "id": "arsenal:deployables/sentry-node",
+    "source": "sources/upgrades/weapons.mjs",
+    "variants": [
+      {
+        "level": 0,
+        "path": "assets/weapons/deployables/sentry-node.glb",
+        "bytes": 335140,
+        "sha256": "2bcd8636c744c0668d29c863a1c54e43c0ed33d71c709bbd612279568d4c9b03",
+        "triangles": 8160,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.5898096561431885,
+          0.8639999711886048,
+          0.518727719783783
+        ],
+        "bounds": {
+          "min": [
+            -0.2916432321071625,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.298166424036026,
+            0.8679999709129333,
+            0.19320470094680786
+          ]
+        }
+      },
+      {
+        "level": 1,
+        "path": "assets/weapons/deployables/sentry-node.lod1.glb",
+        "bytes": 133696,
+        "sha256": "538103f129c7ed8ba80b79ba45a986cc97c2e6ed3f4ac55889544f28fbc1cf3e",
+        "triangles": 3040,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          0.8639999711886048,
+          0.5186287313699722
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            0.8679999709129333,
+            0.19310571253299713
+          ]
+        }
+      },
+      {
+        "level": 2,
+        "path": "assets/weapons/deployables/sentry-node.lod2.glb",
+        "bytes": 62560,
+        "sha256": "38796d9261d213c9328485af81d8932ba1b25cb3a9d2e6bf3b09e67c57882cf5",
+        "triangles": 1280,
+        "meshes": 7,
+        "dimensionsMeters": [
+          0.5895515382289886,
+          0.8639999711886048,
+          0.5186287313699722
+        ],
+        "bounds": {
+          "min": [
+            -0.29154425859451294,
+            0.003999999724328518,
+            -0.3255230188369751
+          ],
+          "max": [
+            0.2980072796344757,
+            0.8679999709129333,
+            0.19310571253299713
+          ]
+        }
+      }
+    ],
+    "limitations": [
+      "Reference approval pending",
+      "Gameplay attack animation and sweep tests pending",
+      "Physical hardware performance pending"
+    ]
+  }
+]

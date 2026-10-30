@@ -20,6 +20,24 @@ moving assemblies retain their pivots. Surface maps are original deterministic
 procedural artwork, not photography, scans, or high-poly bakes. Armor remains
 rigid equipment geometry; it is not skinned clothing.
 
+## Recorded quality pass (2026-10)
+
+All six batches were revised, regenerated, rendered and recorded. Every
+manifest entry for the 593 assets now reads `artworkRevision:
+authored-upgrade-2026-10` with fresh hashes and evidence in
+`docs/evidence/upgrades/`. The pass fixed floating, intersecting and
+below-ground parts. It replaced blobby rock and armor forms with faceted or
+plated construction, and made variants structurally distinct rather than
+recoloured. Texture maps were derived from one height field. Weapon socket
+nodes match the briefs, and the renderer now records original glTF node names.
+Unindexed geometry and incompressible noise maps were removed, so
+`public/assets` is 396 MB rather than the 588 MB the unrevised sources produced
+(the earlier legacy pack was 209 MB), with identical paths and counts. Known
+open items: some textures read grainy at preview scale, glass and crystal read
+dark or milky, a few environment props (anchor, fence, sconce, cart, reeds,
+ferns) were not revised, and nothing is rig-fitted. This is still not art
+approval.
+
 ## Reproduce one batch
 
 From the repository root, after `npm ci` and `npx playwright install chromium`:

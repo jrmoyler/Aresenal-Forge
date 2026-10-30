@@ -1,0 +1,722 @@
+[
+  {
+    "id": "arsenal:armor/helmet/01",
+    "path": "assets/armor/helmet/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate helmet",
+    "triangles": 19402,
+    "bytes": 686608,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/02",
+    "path": "assets/armor/helmet/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard helmet",
+    "triangles": 26920,
+    "bytes": 1100416,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/03",
+    "path": "assets/armor/helmet/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness helmet",
+    "triangles": 21482,
+    "bytes": 959860,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/04",
+    "path": "assets/armor/helmet/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness helmet",
+    "triangles": 25382,
+    "bytes": 997364,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/helmet/05",
+    "path": "assets/armor/helmet/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale helmet",
+    "triangles": 22412,
+    "bytes": 933264,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/01",
+    "path": "assets/armor/chest/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate chest",
+    "triangles": 26179,
+    "bytes": 1049432,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/02",
+    "path": "assets/armor/chest/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard chest",
+    "triangles": 48630,
+    "bytes": 1702236,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/03",
+    "path": "assets/armor/chest/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness chest",
+    "triangles": 34221,
+    "bytes": 1292092,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/04",
+    "path": "assets/armor/chest/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness chest",
+    "triangles": 32075,
+    "bytes": 1201728,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/chest/05",
+    "path": "assets/armor/chest/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale chest",
+    "triangles": 39823,
+    "bytes": 1397864,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/01",
+    "path": "assets/armor/shoulder/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate shoulder",
+    "triangles": 13075,
+    "bytes": 700568,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/02",
+    "path": "assets/armor/shoulder/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard shoulder",
+    "triangles": 21644,
+    "bytes": 948000,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/03",
+    "path": "assets/armor/shoulder/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness shoulder",
+    "triangles": 14771,
+    "bytes": 772540,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/04",
+    "path": "assets/armor/shoulder/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness shoulder",
+    "triangles": 16005,
+    "bytes": 778072,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/shoulder/05",
+    "path": "assets/armor/shoulder/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale shoulder",
+    "triangles": 19797,
+    "bytes": 866804,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/01",
+    "path": "assets/armor/arm/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate arm",
+    "triangles": 19993,
+    "bytes": 871300,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/02",
+    "path": "assets/armor/arm/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard arm",
+    "triangles": 21981,
+    "bytes": 926832,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/03",
+    "path": "assets/armor/arm/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness arm",
+    "triangles": 24387,
+    "bytes": 1019616,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/04",
+    "path": "assets/armor/arm/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness arm",
+    "triangles": 19869,
+    "bytes": 864956,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/arm/05",
+    "path": "assets/armor/arm/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale arm",
+    "triangles": 24345,
+    "bytes": 976400,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/01",
+    "path": "assets/armor/glove/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate glove",
+    "triangles": 16070,
+    "bytes": 775468,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/02",
+    "path": "assets/armor/glove/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard glove",
+    "triangles": 17262,
+    "bytes": 805992,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/03",
+    "path": "assets/armor/glove/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness glove",
+    "triangles": 14546,
+    "bytes": 763412,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/04",
+    "path": "assets/armor/glove/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness glove",
+    "triangles": 16118,
+    "bytes": 776776,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/glove/05",
+    "path": "assets/armor/glove/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale glove",
+    "triangles": 20758,
+    "bytes": 893924,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/01",
+    "path": "assets/armor/belt/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate belt",
+    "triangles": 15966,
+    "bytes": 745952,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/02",
+    "path": "assets/armor/belt/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard belt",
+    "triangles": 23042,
+    "bytes": 1039376,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/03",
+    "path": "assets/armor/belt/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness belt",
+    "triangles": 16994,
+    "bytes": 774836,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/04",
+    "path": "assets/armor/belt/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness belt",
+    "triangles": 19667,
+    "bytes": 969436,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/belt/05",
+    "path": "assets/armor/belt/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale belt",
+    "triangles": 24944,
+    "bytes": 1105200,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/01",
+    "path": "assets/armor/legs/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate legs",
+    "triangles": 35650,
+    "bytes": 1276128,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/02",
+    "path": "assets/armor/legs/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard legs",
+    "triangles": 43252,
+    "bytes": 1481920,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/03",
+    "path": "assets/armor/legs/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness legs",
+    "triangles": 42178,
+    "bytes": 1486916,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/04",
+    "path": "assets/armor/legs/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness legs",
+    "triangles": 34978,
+    "bytes": 1257528,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/legs/05",
+    "path": "assets/armor/legs/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale legs",
+    "triangles": 46410,
+    "bytes": 1542480,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/01",
+    "path": "assets/armor/boot/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate boot",
+    "triangles": 20884,
+    "bytes": 955440,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/02",
+    "path": "assets/armor/boot/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard boot",
+    "triangles": 23140,
+    "bytes": 1021684,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/03",
+    "path": "assets/armor/boot/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness boot",
+    "triangles": 18758,
+    "bytes": 815344,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/04",
+    "path": "assets/armor/boot/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness boot",
+    "triangles": 25064,
+    "bytes": 1066568,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/boot/05",
+    "path": "assets/armor/boot/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale boot",
+    "triangles": 27952,
+    "bytes": 1131768,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/01",
+    "path": "assets/armor/cloak/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate cloak",
+    "triangles": 21906,
+    "bytes": 829576,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/02",
+    "path": "assets/armor/cloak/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard cloak",
+    "triangles": 34110,
+    "bytes": 1152276,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/03",
+    "path": "assets/armor/cloak/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness cloak",
+    "triangles": 23876,
+    "bytes": 777904,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/04",
+    "path": "assets/armor/cloak/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness cloak",
+    "triangles": 29014,
+    "bytes": 1012848,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/cloak/05",
+    "path": "assets/armor/cloak/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale cloak",
+    "triangles": 34970,
+    "bytes": 1283256,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/01",
+    "path": "assets/armor/mask/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate mask",
+    "triangles": 16424,
+    "bytes": 766904,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/02",
+    "path": "assets/armor/mask/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard mask",
+    "triangles": 23254,
+    "bytes": 968980,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/03",
+    "path": "assets/armor/mask/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness mask",
+    "triangles": 16714,
+    "bytes": 801056,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/04",
+    "path": "assets/armor/mask/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness mask",
+    "triangles": 16608,
+    "bytes": 775456,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/mask/05",
+    "path": "assets/armor/mask/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale mask",
+    "triangles": 17084,
+    "bytes": 809532,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/01",
+    "path": "assets/armor/robe/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate robe",
+    "triangles": 29640,
+    "bytes": 1018576,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/02",
+    "path": "assets/armor/robe/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard robe",
+    "triangles": 43920,
+    "bytes": 1399504,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/03",
+    "path": "assets/armor/robe/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness robe",
+    "triangles": 32052,
+    "bytes": 979192,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/04",
+    "path": "assets/armor/robe/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness robe",
+    "triangles": 31624,
+    "bytes": 1072728,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/robe/05",
+    "path": "assets/armor/robe/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale robe",
+    "triangles": 38876,
+    "bytes": 1093404,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/01",
+    "path": "assets/armor/accessory/01.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Field plate accessory",
+    "triangles": 6946,
+    "bytes": 413692,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/02",
+    "path": "assets/armor/accessory/02.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Lamellar guard accessory",
+    "triangles": 2928,
+    "bytes": 282656,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/03",
+    "path": "assets/armor/accessory/03.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ranger harness accessory",
+    "triangles": 4648,
+    "bytes": 397124,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/04",
+    "path": "assets/armor/accessory/04.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Fluted harness accessory",
+    "triangles": 4364,
+    "bytes": 338440,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  },
+  {
+    "id": "arsenal:armor/accessory/05",
+    "path": "assets/armor/accessory/05.glb",
+    "source": "sources/upgrades/armor.mjs",
+    "name": "Ceremonial scale accessory",
+    "triangles": 3588,
+    "bytes": 356772,
+    "limitations": [
+      "Rigid unskinned candidate; canonical character rig and morph fitting not performed",
+      "Original design; no supplied approved reference views"
+    ]
+  }
+]

@@ -1,0 +1,3416 @@
+[
+  {
+    "id": "arsenal:interactive_props/002",
+    "path": "assets/interactive_props/002.glb",
+    "name": "Frontier Supply crate",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 456920,
+    "sha256": "d0ecbc114de20d6ede422a143373f091196355f10f5dc14dcf5e8b291806c97c",
+    "triangles": 8676,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.7318088710308075,
+      0.5671146512031555,
+      0.5635000169277191
+    ],
+    "bounds": {
+      "min": [
+        -0.3838088810443878,
+        0,
+        -0.27900001406669617
+      ],
+      "max": [
+        0.3479999899864197,
+        0.5671146512031555,
+        0.28450000286102295
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/003",
+    "path": "assets/interactive_props/003.glb",
+    "name": "Frontier Storage barrel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 353564,
+    "sha256": "37224e8748a299251b30109c8480318709149998b8855c050dcc51f625c0a59a",
+    "triangles": 6280,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.5776981115341187,
+      0.7609999775886536,
+      0.5847600102424622
+    ],
+    "bounds": {
+      "min": [
+        -0.2888490557670593,
+        0,
+        -0.28931403160095215
+      ],
+      "max": [
+        0.2888490557670593,
+        0.7609999775886536,
+        0.29544597864151
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/004",
+    "path": "assets/interactive_props/004.glb",
+    "name": "Frontier Alchemist flask",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 350364,
+    "sha256": "2884e3929824e2083e4a67733177589ff4d45de8f033b9cbe41f138c7f9c0c54",
+    "triangles": 1824,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.23701543360948563,
+      0.35749998688697815,
+      0.2134999930858612
+    ],
+    "bounds": {
+      "min": [
+        -0.10499999672174454,
+        0,
+        -0.10499999672174454
+      ],
+      "max": [
+        0.1320154368877411,
+        0.35749998688697815,
+        0.10849999636411667
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/005",
+    "path": "assets/interactive_props/005.glb",
+    "name": "Frontier Oil lantern",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 258068,
+    "sha256": "97ccf7b4d93f65e19458870cab017eaf50a6733bce98b5274fe5194be417665e",
+    "triangles": 3824,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.2644822746515274,
+      0.4958271086215973,
+      0.2160000056028366
+    ],
+    "bounds": {
+      "min": [
+        -0.1304822713136673,
+        0,
+        -0.1080000028014183
+      ],
+      "max": [
+        0.1340000033378601,
+        0.4958271086215973,
+        0.1080000028014183
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/006",
+    "path": "assets/interactive_props/006.glb",
+    "name": "Frontier Forge anvil",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 467960,
+    "sha256": "b9fbb87c361f840173ffc45eeaf7fcbdd06c0bf4293f1b829fbbfd6acad06415",
+    "triangles": 4424,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.7263000011444092,
+      0.8849999904632568,
+      0.47999998927116394
+    ],
+    "bounds": {
+      "min": [
+        -0.26100000739097595,
+        0,
+        -0.23999999463558197
+      ],
+      "max": [
+        0.4652999937534332,
+        0.8849999904632568,
+        0.23999999463558197
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/007",
+    "path": "assets/interactive_props/007.glb",
+    "name": "Frontier Workbench",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 383264,
+    "sha256": "f180b8b1b09a45b23b01ab9df8fed68bce9f083cf828748e072bc7e719ee3fb1",
+    "triangles": 7128,
+    "meshes": 9,
+    "dimensionsMeters": [
+      1.2000000476837158,
+      0.9396955308038741,
+      0.6809999942779541
+    ],
+    "bounds": {
+      "min": [
+        -0.6000000238418579,
+        -0.002195530803874135,
+        -0.2980000078678131
+      ],
+      "max": [
+        0.6000000238418579,
+        0.9375,
+        0.382999986410141
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/008",
+    "path": "assets/interactive_props/008.glb",
+    "name": "Frontier Weapon rack",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 609452,
+    "sha256": "490f4772fb72abd407104a08478b98eec95bb6c1a8110210e26fa9c4c382cc91",
+    "triangles": 9792,
+    "meshes": 7,
+    "dimensionsMeters": [
+      1.090000033378601,
+      1.6699999572336675,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -0.5450000166893005,
+        -1.490116086078075e-10,
+        -0.25
+      ],
+      "max": [
+        0.5450000166893005,
+        1.6699999570846558,
+        0.25
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/009",
+    "path": "assets/interactive_props/009.glb",
+    "name": "Frontier Training target",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 790972,
+    "sha256": "9939deeba26361dcf8e1170621afa8ad05c5db1650e3265bbcb49797a3f392ab",
+    "triangles": 16184,
+    "meshes": 14,
+    "dimensionsMeters": [
+      0.7810759544372559,
+      1.5339829535223544,
+      1.2955325841903687
+    ],
+    "bounds": {
+      "min": [
+        -0.39053797721862793,
+        -0.006991466972976923,
+        -0.6250591278076172
+      ],
+      "max": [
+        0.39053797721862793,
+        1.5269914865493774,
+        0.6704734563827515
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/010",
+    "path": "assets/interactive_props/010.glb",
+    "name": "Frontier Field brazier",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 289152,
+    "sha256": "c40d7acf521375ed5ef6f0f59eb90597627e4e8f805b45814df0537408695c1d",
+    "triangles": 4276,
+    "meshes": 3,
+    "dimensionsMeters": [
+      0.5320000052452087,
+      0.5218637221842073,
+      0.5260000228881836
+    ],
+    "bounds": {
+      "min": [
+        -0.26600000262260437,
+        0.0005000001401640475,
+        -0.2630000114440918
+      ],
+      "max": [
+        0.26600000262260437,
+        0.5223637223243713,
+        0.2630000114440918
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/011",
+    "path": "assets/interactive_props/011.glb",
+    "name": "Frontier Water pump",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 424416,
+    "sha256": "997382f41c833613395ddd2872ce376a23ee72dfbe27bedf5594610c959925e6",
+    "triangles": 5496,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.7796892327070236,
+      1.1071420081704855,
+      0.864999994635582
+    ],
+    "bounds": {
+      "min": [
+        -0.23000000417232513,
+        6.705522803684971e-10,
+        -0.17000000178813934
+      ],
+      "max": [
+        0.5496892285346985,
+        1.1071420088410378,
+        0.6949999928474426
+      ]
+    },
+    "animations": [
+      "pump"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/012",
+    "path": "assets/interactive_props/012.glb",
+    "name": "Frontier Vault safe",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 438912,
+    "sha256": "cd892346ea6d20e36dda65d1fde00606227fcbdf9c84f408a1a420de1f708076",
+    "triangles": 5172,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.6200000047683716,
+      0.6850000031292438,
+      0.5866991321444511
+    ],
+    "bounds": {
+      "min": [
+        -0.3100000023841858,
+        -7.450580707946131e-10,
+        -0.2549999952316284
+      ],
+      "max": [
+        0.3100000023841858,
+        0.6850000023841858,
+        0.3316991369128227
+      ]
+    },
+    "animations": [
+      "unlock_open"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/013",
+    "path": "assets/interactive_props/013.glb",
+    "name": "Frontier Survey telescope",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 321316,
+    "sha256": "46b1f0806219c8407714b6b468e8fd4aede051ce3dc05297e2a0083b675d24b6",
+    "triangles": 3332,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.7290000021457672,
+      0.9388018219172954,
+      0.5483674108982086
+    ],
+    "bounds": {
+      "min": [
+        -0.35179999470710754,
+        -0.007108960300683975,
+        -0.18967348337173462
+      ],
+      "max": [
+        0.37720000743865967,
+        0.9316928616166115,
+        0.358693927526474
+      ]
+    },
+    "animations": [
+      "survey"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/014",
+    "path": "assets/interactive_props/014.glb",
+    "name": "Frontier Travel satchel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 401984,
+    "sha256": "5838dddb5daa0acd6c4afa54fb9bd4207d1e8475e6df40947e1a1a9580b2e808",
+    "triangles": 4306,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.5731877088546753,
+      0.664499981328845,
+      0.23499999940395355
+    ],
+    "bounds": {
+      "min": [
+        -0.28659385442733765,
+        0.017500000074505806,
+        -0.0949999988079071
+      ],
+      "max": [
+        0.28659385442733765,
+        0.6819999814033508,
+        0.14000000059604645
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/015",
+    "path": "assets/interactive_props/015.glb",
+    "name": "Frontier Potion stand",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 370528,
+    "sha256": "049bd39970477d34e63aa1bc86251e31e151c7aea80cb90b781a95eaf9d330bb",
+    "triangles": 5660,
+    "meshes": 12,
+    "dimensionsMeters": [
+      0.5699999928474426,
+      0.3319999875500798,
+      0.23000000417232513
+    ],
+    "bounds": {
+      "min": [
+        -0.2849999964237213,
+        -1.8626451769865326e-10,
+        -0.11500000208616257
+      ],
+      "max": [
+        0.2849999964237213,
+        0.3319999873638153,
+        0.11500000208616257
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/016",
+    "path": "assets/interactive_props/016.glb",
+    "name": "Frontier Scroll case",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 441464,
+    "sha256": "3fda61833f6a10c6d22af751daf3e924289ebb49a08a53b384ca7c2a604fe9f8",
+    "triangles": 3260,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.3023240864276886,
+      0.5000000000521541,
+      0.18000000715255737
+    ],
+    "bounds": {
+      "min": [
+        -0.09000000357627869,
+        -5.215406578829018e-11,
+        -0.09000000357627869
+      ],
+      "max": [
+        0.2123240828514099,
+        0.5,
+        0.09000000357627869
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/017",
+    "path": "assets/interactive_props/017.glb",
+    "name": "Frontier Offering altar",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 453004,
+    "sha256": "28a48e4146f82dc5c1d5264b27546111fce8e79e25a555eeb44dd633f8b948c1",
+    "triangles": 6294,
+    "meshes": 11,
+    "dimensionsMeters": [
+      0.7200000286102295,
+      1.0692000406980515,
+      0.6299999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.36000001430511475,
+        -1.7881393032936899e-9,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.36000001430511475,
+        1.069200038909912,
+        0.3199999928474426
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/018",
+    "path": "assets/interactive_props/018.glb",
+    "name": "Frontier Mortar and pestle",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 202756,
+    "sha256": "af00833f54ccbf65d1c887b5b8cd62fc6ddd6fc1fe3e33a035e4f8795d417af6",
+    "triangles": 2256,
+    "meshes": 2,
+    "dimensionsMeters": [
+      0.3315994143486023,
+      0.31114786863327026,
+      0.3140000104904175
+    ],
+    "bounds": {
+      "min": [
+        -0.15700000524520874,
+        0,
+        -0.15700000524520874
+      ],
+      "max": [
+        0.17459940910339355,
+        0.31114786863327026,
+        0.15700000524520874
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/019",
+    "path": "assets/interactive_props/019.glb",
+    "name": "Frontier Signal bell",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 453672,
+    "sha256": "1d84af02666eed3264ab461ce89fa08626fa1f2f2ab30dee6f8bbdf016d59745",
+    "triangles": 6470,
+    "meshes": 12,
+    "dimensionsMeters": [
+      0.7400000095367432,
+      1.2200000279396772,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -0.3700000047683716,
+        6.705522803684971e-10,
+        -0.20999999344348907
+      ],
+      "max": [
+        0.3700000047683716,
+        1.2200000286102295,
+        0.20999999344348907
+      ]
+    },
+    "animations": [
+      "ring"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/020",
+    "path": "assets/interactive_props/020.glb",
+    "name": "Frontier Key pedestal",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 432904,
+    "sha256": "1335541d630247c4a2c640a579297fd0d6261723fd50dc677b1e0ae540e5cfa3",
+    "triangles": 3104,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.5400000214576721,
+      0.9192000022530555,
+      0.47999998927116394
+    ],
+    "bounds": {
+      "min": [
+        -0.27000001072883606,
+        8.940696516468449e-10,
+        -0.23999999463558197
+      ],
+      "max": [
+        0.27000001072883606,
+        0.9192000031471252,
+        0.23999999463558197
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/021",
+    "path": "assets/interactive_props/021.glb",
+    "name": "Citadel Bound chest",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 674248,
+    "sha256": "eb6379f1dcc278da1e5bbe16b0b745cd2bdcec64f1405a196856cdba98d6054a",
+    "triangles": 13764,
+    "meshes": 14,
+    "dimensionsMeters": [
+      0.8999999761581421,
+      0.6088331524729729,
+      0.5479999780654907
+    ],
+    "bounds": {
+      "min": [
+        -0.44999998807907104,
+        -8.940696516468449e-10,
+        -0.27399998903274536
+      ],
+      "max": [
+        0.44999998807907104,
+        0.6088331515789032,
+        0.27399998903274536
+      ]
+    },
+    "animations": [
+      "open_close"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/022",
+    "path": "assets/interactive_props/022.glb",
+    "name": "Citadel Supply crate",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 540540,
+    "sha256": "2386d0b2afcfaeaa17dfb0932feddbf719db58110a83abbe348ff5fb136aa4d8",
+    "triangles": 12460,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.6850000023841858,
+      0.6190000177174807,
+      0.6344999969005585
+    ],
+    "bounds": {
+      "min": [
+        -0.3425000011920929,
+        -7.450580430390374e-11,
+        -0.3154999911785126
+      ],
+      "max": [
+        0.3425000011920929,
+        0.6190000176429749,
+        0.3190000057220459
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/023",
+    "path": "assets/interactive_props/023.glb",
+    "name": "Citadel Storage barrel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 445160,
+    "sha256": "c9ce907c0e770aa28653c5864e5ca3ed739cdeae280fc5e1f1bfbe943dbb0e66",
+    "triangles": 8272,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.7600000202655792,
+      0.6393142936378717,
+      0.5341124534606934
+    ],
+    "bounds": {
+      "min": [
+        -0.33000001311302185,
+        2.2351741291171123e-10,
+        -0.2670562267303467
+      ],
+      "max": [
+        0.4300000071525574,
+        0.6393142938613892,
+        0.2670562267303467
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/024",
+    "path": "assets/interactive_props/024.glb",
+    "name": "Citadel Alchemist flask",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 216672,
+    "sha256": "6e1f7ef98d4129c6c02c76f39035c2822b1573fd28f4579a78fc04b268bbecd0",
+    "triangles": 2484,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.3178468942642212,
+      0.572000018786639,
+      0.3004491403698921
+    ],
+    "bounds": {
+      "min": [
+        -0.1589234471321106,
+        -0.004000000189989805,
+        -0.11874999850988388
+      ],
+      "max": [
+        0.1589234471321106,
+        0.5680000185966492,
+        0.18169914186000824
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/025",
+    "path": "assets/interactive_props/025.glb",
+    "name": "Citadel Oil lantern",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 191084,
+    "sha256": "0447157a93ef42e23a4080fda0ab70bcffd04c004ce050efe917b85bb0b216c5",
+    "triangles": 2816,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.22627416253089905,
+      0.5410000082477927,
+      0.22627416253089905
+    ],
+    "bounds": {
+      "min": [
+        -0.11313708126544952,
+        3.3527614018424856e-10,
+        -0.11313708126544952
+      ],
+      "max": [
+        0.11313708126544952,
+        0.5410000085830688,
+        0.11313708126544952
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/026",
+    "path": "assets/interactive_props/026.glb",
+    "name": "Citadel Forge anvil",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 326260,
+    "sha256": "b4290ffd8afcdadb0b2de7d627a1440a4c25c241194a370c684b60ee8ce76187",
+    "triangles": 3036,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.9539999663829803,
+      0.8999999765306711,
+      0.6226311475038528
+    ],
+    "bounds": {
+      "min": [
+        -0.43700000643730164,
+        -3.7252903539730653e-10,
+        -0.20999999344348907
+      ],
+      "max": [
+        0.5169999599456787,
+        0.8999999761581421,
+        0.41263115406036377
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/027",
+    "path": "assets/interactive_props/027.glb",
+    "name": "Citadel Workbench",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 515064,
+    "sha256": "a22554290695e525aaaeeb0052b4d5833fb7bd2a91280ce3c94590c45588a409",
+    "triangles": 9944,
+    "meshes": 11,
+    "dimensionsMeters": [
+      1.1200000047683716,
+      1.192500005960465,
+      0.7616991400718689
+    ],
+    "bounds": {
+      "min": [
+        -0.5600000023841858,
+        -1.0728836485895954e-8,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.5600000023841858,
+        1.1924999952316284,
+        0.4516991376876831
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/028",
+    "path": "assets/interactive_props/028.glb",
+    "name": "Citadel Weapon rack",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 641988,
+    "sha256": "b058132b3928ca997f98581faec82aaf2af6d044f58da31315de1b6a376dcbe3",
+    "triangles": 10160,
+    "meshes": 9,
+    "dimensionsMeters": [
+      1.1200000047683716,
+      1.2766061234287918,
+      0.6200000047683716
+    ],
+    "bounds": {
+      "min": [
+        -0.5600000023841858,
+        -0.0066061425022780895,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.5600000023841858,
+        1.2699999809265137,
+        0.3100000023841858
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/029",
+    "path": "assets/interactive_props/029.glb",
+    "name": "Citadel Training target",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 472464,
+    "sha256": "3208353aa9a69c24c1a8c3b79099cafdb462d1aa14abbe83ffbd657e1ccf0989",
+    "triangles": 6262,
+    "meshes": 13,
+    "dimensionsMeters": [
+      0.949999988079071,
+      1.0581892225891352,
+      1.1175974607467651
+    ],
+    "bounds": {
+      "min": [
+        -0.4749999940395355,
+        -0.005741307511925697,
+        -0.30000001192092896
+      ],
+      "max": [
+        0.4749999940395355,
+        1.0524479150772095,
+        0.8175974488258362
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/030",
+    "path": "assets/interactive_props/030.glb",
+    "name": "Citadel Field brazier",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 248740,
+    "sha256": "13af13fc78d392d7d75cc049cbe5735587e95401708a19fd90b259bbfc6d4bbf",
+    "triangles": 3440,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.6140000224113464,
+      0.8164126873016357,
+      0.6140000224113464
+    ],
+    "bounds": {
+      "min": [
+        -0.3070000112056732,
+        0,
+        -0.3070000112056732
+      ],
+      "max": [
+        0.3070000112056732,
+        0.8164126873016357,
+        0.3070000112056732
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/031",
+    "path": "assets/interactive_props/031.glb",
+    "name": "Citadel Water pump",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 450304,
+    "sha256": "143644d79f33c346988328c12a50f52f268c1e5d6ba2a5e16cc2341d7c9c4b25",
+    "triangles": 4176,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.8799999952316284,
+      1.1119999885559082,
+      0.8799999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.4399999976158142,
+        0,
+        -0.4399999976158142
+      ],
+      "max": [
+        0.4399999976158142,
+        1.1119999885559082,
+        0.4399999976158142
+      ]
+    },
+    "animations": [
+      "pump"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/032",
+    "path": "assets/interactive_props/032.glb",
+    "name": "Citadel Vault safe",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 381832,
+    "sha256": "8b51309e2eed1a565f5889a39101f13fffbdbc459009f0e301e7a7bf8df1c1d0",
+    "triangles": 5360,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.699999988079071,
+      1.0773923541419208,
+      0.6766991237998009
+    ],
+    "bounds": {
+      "min": [
+        -0.3499999940395355,
+        0.0026076887734234333,
+        -0.29499998688697815
+      ],
+      "max": [
+        0.3499999940395355,
+        1.0800000429153442,
+        0.38169913691282276
+      ]
+    },
+    "animations": [
+      "unlock_open"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/033",
+    "path": "assets/interactive_props/033.glb",
+    "name": "Citadel Survey telescope",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 374192,
+    "sha256": "34992aea9a585c431789c3d0477b60ff102616e0319e2a077c551d4f708bf3ab",
+    "triangles": 5780,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.785999983549118,
+      1.06700000166893,
+      0.5234870165586472
+    ],
+    "bounds": {
+      "min": [
+        -0.38359999656677246,
+        0,
+        -0.18424351513385773
+      ],
+      "max": [
+        0.4023999869823456,
+        1.06700000166893,
+        0.33924350142478943
+      ]
+    },
+    "animations": [
+      "survey"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/034",
+    "path": "assets/interactive_props/034.glb",
+    "name": "Citadel Travel satchel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 263672,
+    "sha256": "eb1ccc7172639888ae26422a1cb11d9a61a53ea21915f0698f63af1fb9ee7fbc",
+    "triangles": 2900,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.4399999976158142,
+      0.3769366703927517,
+      0.12599999830126762
+    ],
+    "bounds": {
+      "min": [
+        -0.2199999988079071,
+        0.009999994188547134,
+        -0.05999999865889549
+      ],
+      "max": [
+        0.2199999988079071,
+        0.38693666458129883,
+        0.06599999964237213
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/035",
+    "path": "assets/interactive_props/035.glb",
+    "name": "Citadel Potion stand",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 574368,
+    "sha256": "b4908e1c2abc9e444df6778668aa642d778a5275a6f13b2274ec68688cce9426",
+    "triangles": 11168,
+    "meshes": 13,
+    "dimensionsMeters": [
+      0.6600000262260437,
+      0.5249999761581421,
+      0.23999999463558197
+    ],
+    "bounds": {
+      "min": [
+        -0.33000001311302185,
+        0,
+        -0.11999999731779099
+      ],
+      "max": [
+        0.33000001311302185,
+        0.5249999761581421,
+        0.11999999731779099
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/036",
+    "path": "assets/interactive_props/036.glb",
+    "name": "Citadel Scroll case",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 323204,
+    "sha256": "54be5ac85325a232d6dad5c109d61779e17c5c39d419f133cfcaf8c7a035312f",
+    "triangles": 2310,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.6457515358924866,
+      0.3059999944642186,
+      0.20000000298023224
+    ],
+    "bounds": {
+      "min": [
+        -0.3228757679462433,
+        -1.8626451769865326e-10,
+        -0.10000000149011612
+      ],
+      "max": [
+        0.3228757679462433,
+        0.3059999942779541,
+        0.10000000149011612
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/037",
+    "path": "assets/interactive_props/037.glb",
+    "name": "Citadel Offering altar",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 461088,
+    "sha256": "8cfda038648e0e62fb8d63de09fa50561db62b6a992c6f0eb077954cbdcd0eaf",
+    "triangles": 6246,
+    "meshes": 11,
+    "dimensionsMeters": [
+      0.7200000286102295,
+      1.0692000406980515,
+      0.6299999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.36000001430511475,
+        -1.7881393032936899e-9,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.36000001430511475,
+        1.069200038909912,
+        0.3199999928474426
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/038",
+    "path": "assets/interactive_props/038.glb",
+    "name": "Citadel Mortar and pestle",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 98948,
+    "sha256": "0d6b2da20aff29ea5926b62381072a30577aaddec2bd8cb56e46d1cba08cb598",
+    "triangles": 1920,
+    "meshes": 2,
+    "dimensionsMeters": [
+      0.30399999022483826,
+      0.30629655718803406,
+      0.2800000011920929
+    ],
+    "bounds": {
+      "min": [
+        -0.15199999511241913,
+        0,
+        -0.14000000059604645
+      ],
+      "max": [
+        0.15199999511241913,
+        0.30629655718803406,
+        0.14000000059604645
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/039",
+    "path": "assets/interactive_props/039.glb",
+    "name": "Citadel Signal bell",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 516248,
+    "sha256": "27e0cf434f02cb69d4bc0f222a926aed71acd00a434129398a1bde65a2a7b193",
+    "triangles": 8876,
+    "meshes": 13,
+    "dimensionsMeters": [
+      0.9321152567863464,
+      1.5099999897927046,
+      0.4575999975204468
+    ],
+    "bounds": {
+      "min": [
+        -0.4660576283931732,
+        6.705522803684971e-10,
+        -0.2287999987602234
+      ],
+      "max": [
+        0.4660576283931732,
+        1.5099999904632568,
+        0.2287999987602234
+      ]
+    },
+    "animations": [
+      "ring"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/040",
+    "path": "assets/interactive_props/040.glb",
+    "name": "Citadel Key pedestal",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 272808,
+    "sha256": "a212a5e6b58086e18974eea95403fbd140bb6455cf7ab7bce0356267eb80e979",
+    "triangles": 3180,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.5400000214576721,
+      0.8159999838471412,
+      0.47999998927116394
+    ],
+    "bounds": {
+      "min": [
+        -0.27000001072883606,
+        8.940696516468449e-10,
+        -0.23999999463558197
+      ],
+      "max": [
+        0.27000001072883606,
+        0.8159999847412109,
+        0.23999999463558197
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/041",
+    "path": "assets/interactive_props/041.glb",
+    "name": "Foundry Bound chest",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 693132,
+    "sha256": "5414b588b08d072f596b3ccdfd9ffc295ee3b9800ce0b3da14caf4f54bb90098",
+    "triangles": 16084,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.8999999761581421,
+      0.4889999921619892,
+      0.5680000185966492
+    ],
+    "bounds": {
+      "min": [
+        -0.44999998807907104,
+        4.4703482582342247e-10,
+        -0.2840000092983246
+      ],
+      "max": [
+        0.44999998807907104,
+        0.48899999260902405,
+        0.2840000092983246
+      ]
+    },
+    "animations": [
+      "open_close"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/042",
+    "path": "assets/interactive_props/042.glb",
+    "name": "Foundry Supply crate",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 676704,
+    "sha256": "9000981e8caf7bccdbbbf90cfcfbc2c5c25002217c7e8f050846d3aa5cdd2f61",
+    "triangles": 15912,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.7379999756813049,
+      0.6529999972134829,
+      0.6029999852180481
+    ],
+    "bounds": {
+      "min": [
+        -0.36899998784065247,
+        -7.450580430390374e-11,
+        -0.30149999260902405
+      ],
+      "max": [
+        0.36899998784065247,
+        0.652999997138977,
+        0.30149999260902405
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/043",
+    "path": "assets/interactive_props/043.glb",
+    "name": "Foundry Storage barrel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 514688,
+    "sha256": "6c91db1bc2047415e1b5f565c761e99025cf8bd4ddcb4e99f377b461d0854dcd",
+    "triangles": 8724,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.6119706630706787,
+      0.8395000100135803,
+      0.6119706630706787
+    ],
+    "bounds": {
+      "min": [
+        -0.30598533153533936,
+        0,
+        -0.30598533153533936
+      ],
+      "max": [
+        0.30598533153533936,
+        0.8395000100135803,
+        0.30598533153533936
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/044",
+    "path": "assets/interactive_props/044.glb",
+    "name": "Foundry Alchemist flask",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 298820,
+    "sha256": "5e1ecaa7453334d5f22cbce0aa56e78e5c9271824c24b9b8fe2fc6aa20deaf32",
+    "triangles": 3512,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.20800000429153442,
+      0.4601999819278717,
+      0.20800000429153442
+    ],
+    "bounds": {
+      "min": [
+        -0.10400000214576721,
+        0,
+        -0.10400000214576721
+      ],
+      "max": [
+        0.10400000214576721,
+        0.4601999819278717,
+        0.10400000214576721
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/045",
+    "path": "assets/interactive_props/045.glb",
+    "name": "Foundry Oil lantern",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 231176,
+    "sha256": "1883019c5e86a8aee8511cfba7ab66f95206ece2d38ad9424c4068bf88807f7b",
+    "triangles": 2104,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.12600000202655792,
+      0.4410904049873352,
+      0.12600000202655792
+    ],
+    "bounds": {
+      "min": [
+        -0.06300000101327896,
+        0,
+        -0.06300000101327896
+      ],
+      "max": [
+        0.06300000101327896,
+        0.4410904049873352,
+        0.06300000101327896
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/046",
+    "path": "assets/interactive_props/046.glb",
+    "name": "Foundry Forge anvil",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 358280,
+    "sha256": "1da1649256dae3cc84ea56889bcde6773c196fb7473e3df881cdf13daadfddb1",
+    "triangles": 3364,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.8069999516010284,
+      0.8999999696016312,
+      0.3533778637647629
+    ],
+    "bounds": {
+      "min": [
+        -0.28999999165534973,
+        6.556510889765832e-9,
+        -0.17550000548362732
+      ],
+      "max": [
+        0.5169999599456787,
+        0.8999999761581421,
+        0.17787785828113556
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/047",
+    "path": "assets/interactive_props/047.glb",
+    "name": "Foundry Workbench",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 494292,
+    "sha256": "a2f82f088eca95e392d8d7a7d04400e0e750a0352bd7a7e73ba566356abf4def",
+    "triangles": 9188,
+    "meshes": 11,
+    "dimensionsMeters": [
+      1.0399999618530273,
+      0.9674999725818634,
+      0.753346711397171
+    ],
+    "bounds": {
+      "min": [
+        -0.5199999809265137,
+        -1.19209286886246e-9,
+        -0.321647584438324
+      ],
+      "max": [
+        0.5199999809265137,
+        0.9674999713897705,
+        0.43169912695884705
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/048",
+    "path": "assets/interactive_props/048.glb",
+    "name": "Foundry Weapon rack",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 417372,
+    "sha256": "4033ee7618efe09b60c22021fcf82d31194593dbb52a065e208341dbbe81e3c9",
+    "triangles": 4980,
+    "meshes": 5,
+    "dimensionsMeters": [
+      1.1200000047683716,
+      1.8099999423325062,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -0.5600000023841858,
+        4.4703482582342247e-10,
+        -0.25
+      ],
+      "max": [
+        0.5600000023841858,
+        1.809999942779541,
+        0.25
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/049",
+    "path": "assets/interactive_props/049.glb",
+    "name": "Foundry Training target",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 433556,
+    "sha256": "6280396c9cd3cebace261444bd1ec7bb3781f7ba05f9413ca9c84747a4648a81",
+    "triangles": 9664,
+    "meshes": 6,
+    "dimensionsMeters": [
+      1.25,
+      1.5049999956041575,
+      0.6000000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.625,
+        -3.7252903539730653e-10,
+        -0.30000001192092896
+      ],
+      "max": [
+        0.625,
+        1.5049999952316284,
+        0.30000001192092896
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/050",
+    "path": "assets/interactive_props/050.glb",
+    "name": "Foundry Field brazier",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 274448,
+    "sha256": "b3c7153b9716cda5ed586c8997a728b0bd7a5a3d7852d469c2481fb9aaf87d16",
+    "triangles": 2780,
+    "meshes": 4,
+    "dimensionsMeters": [
+      0.5054629743099213,
+      0.7832592644263059,
+      0.5559013485908508
+    ],
+    "bounds": {
+      "min": [
+        -0.25546297430992126,
+        -0.0007637657690793276,
+        -0.25
+      ],
+      "max": [
+        0.25,
+        0.7824954986572266,
+        0.30590134859085083
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/051",
+    "path": "assets/interactive_props/051.glb",
+    "name": "Foundry Water pump",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 495076,
+    "sha256": "d66cbfa314c02e19339f7c462213517109f6588a932a1bac90e2a4f3a2c3d86b",
+    "triangles": 4910,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.6096892356872559,
+      0.7476420076424256,
+      0.3499999940395355
+    ],
+    "bounds": {
+      "min": [
+        -0.18000000715255737,
+        -0.0004999988013878465,
+        -0.17499999701976776
+      ],
+      "max": [
+        0.4296892285346985,
+        0.7471420088410378,
+        0.17499999701976776
+      ]
+    },
+    "animations": [
+      "pump"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/052",
+    "path": "assets/interactive_props/052.glb",
+    "name": "Foundry Vault safe",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 408928,
+    "sha256": "df8ba2c0fc22633d797a81930be4246574ae8390e95272a5843128aaee8d0d7d",
+    "triangles": 6964,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.6351657769083976,
+      0.7400000356137753,
+      0.6266991273760796
+    ],
+    "bounds": {
+      "min": [
+        -0.31866576880216596,
+        0.03999999538064003,
+        -0.25999999046325684
+      ],
+      "max": [
+        0.3165000081062317,
+        0.7800000309944153,
+        0.36669913691282274
+      ]
+    },
+    "animations": [
+      "unlock_open"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/053",
+    "path": "assets/interactive_props/053.glb",
+    "name": "Foundry Survey telescope",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 375124,
+    "sha256": "ee2681b245cd5568b6ac3b65007b0cde56ba0d9b6eb88b707a52e5b4620540a1",
+    "triangles": 4036,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.9570000171661377,
+      1.1610000022873281,
+      0.5999999940395355
+    ],
+    "bounds": {
+      "min": [
+        -0.4790000021457672,
+        3.3527614018424856e-10,
+        -0.3499999940395355
+      ],
+      "max": [
+        0.4780000150203705,
+        1.1610000026226044,
+        0.25
+      ]
+    },
+    "animations": [
+      "survey"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/054",
+    "path": "assets/interactive_props/054.glb",
+    "name": "Foundry Travel satchel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 428012,
+    "sha256": "18bf034be56aefcbd00cdbd1bbb0748df841b576af5482c897db58260a45d608",
+    "triangles": 2704,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.5413504838943481,
+      0.4214167702011764,
+      0.2290000021457672
+    ],
+    "bounds": {
+      "min": [
+        -0.26146677136421204,
+        0.0015832376666367054,
+        -0.10999999940395355
+      ],
+      "max": [
+        0.2798837125301361,
+        0.4230000078678131,
+        0.11900000274181366
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/055",
+    "path": "assets/interactive_props/055.glb",
+    "name": "Foundry Potion stand",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 417584,
+    "sha256": "c2399d709c0a11ec5bd032e991266feae633fc6d44e1019b4c921e746a916799",
+    "triangles": 5900,
+    "meshes": 11,
+    "dimensionsMeters": [
+      0.5,
+      0.2680000068619847,
+      0.2387000024318695
+    ],
+    "bounds": {
+      "min": [
+        -0.25,
+        -1.8626451769865326e-10,
+        -0.07999999821186066
+      ],
+      "max": [
+        0.25,
+        0.2680000066757202,
+        0.15870000422000885
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/056",
+    "path": "assets/interactive_props/056.glb",
+    "name": "Foundry Scroll case",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 203244,
+    "sha256": "b8482d9cfbc28ce73150c90b7b5fa0212cc75f534196f5a1e7b08441f05c1af9",
+    "triangles": 2628,
+    "meshes": 3,
+    "dimensionsMeters": [
+      0.5799999833106995,
+      0.2226629552990198,
+      0.20000000298023224
+    ],
+    "bounds": {
+      "min": [
+        -0.28999999165534973,
+        2.2351741291171123e-10,
+        -0.10000000149011612
+      ],
+      "max": [
+        0.28999999165534973,
+        0.22266295552253723,
+        0.10000000149011612
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/057",
+    "path": "assets/interactive_props/057.glb",
+    "name": "Foundry Offering altar",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 542572,
+    "sha256": "e056a277e91bc7cb1cbfb47bc5fd6105d00605b647280a939c5f87d68320db54",
+    "triangles": 7386,
+    "meshes": 13,
+    "dimensionsMeters": [
+      0.7200000286102295,
+      1.0692000406980515,
+      0.6299999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.36000001430511475,
+        -1.7881393032936899e-9,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.36000001430511475,
+        1.069200038909912,
+        0.3199999928474426
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/058",
+    "path": "assets/interactive_props/058.glb",
+    "name": "Foundry Mortar and pestle",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 335080,
+    "sha256": "2fac81fec076c94b6ae47bc4684fcae8f9822383130e772f04162ac6cd02dbca",
+    "triangles": 2460,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.4049999862909317,
+      0.470211117118597,
+      0.3919999897480011
+    ],
+    "bounds": {
+      "min": [
+        -0.19499999284744263,
+        1.3411045607369942e-9,
+        -0.19599999487400055
+      ],
+      "max": [
+        0.20999999344348907,
+        0.47021111845970154,
+        0.19599999487400055
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/059",
+    "path": "assets/interactive_props/059.glb",
+    "name": "Foundry Signal bell",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 501788,
+    "sha256": "d418a2187065a270a9a1f4b12b9be24f0634887ddd8a7dc3b99690b98c7a068c",
+    "triangles": 8060,
+    "meshes": 12,
+    "dimensionsMeters": [
+      0.7599999904632568,
+      1.3119999938458204,
+      0.4368000030517578
+    ],
+    "bounds": {
+      "min": [
+        -0.3799999952316284,
+        6.705522803684971e-10,
+        -0.2184000015258789
+      ],
+      "max": [
+        0.3799999952316284,
+        1.3119999945163727,
+        0.2184000015258789
+      ]
+    },
+    "animations": [
+      "ring"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/060",
+    "path": "assets/interactive_props/060.glb",
+    "name": "Foundry Key pedestal",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 324920,
+    "sha256": "109d986c569ef42d5688bf77437f333d30707eb07c5b30d6992f665d5300b2fa",
+    "triangles": 3248,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.5400000214576721,
+      0.8159999838471412,
+      0.47999998927116394
+    ],
+    "bounds": {
+      "min": [
+        -0.27000001072883606,
+        8.940696516468449e-10,
+        -0.23999999463558197
+      ],
+      "max": [
+        0.27000001072883606,
+        0.8159999847412109,
+        0.23999999463558197
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/061",
+    "path": "assets/interactive_props/061.glb",
+    "name": "Sanctum Bound chest",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 682240,
+    "sha256": "4df63efff549c225b1588d19a8f642df2112caf600cc798d25913ee83c421e5c",
+    "triangles": 13924,
+    "meshes": 14,
+    "dimensionsMeters": [
+      0.7599999904632568,
+      0.6188527654111385,
+      0.4860000014305115
+    ],
+    "bounds": {
+      "min": [
+        -0.3799999952316284,
+        -1.5199184133507515e-9,
+        -0.24250000715255737
+      ],
+      "max": [
+        0.3799999952316284,
+        0.6188527638912201,
+        0.2434999942779541
+      ]
+    },
+    "animations": [
+      "open_close"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/062",
+    "path": "assets/interactive_props/062.glb",
+    "name": "Sanctum Supply crate",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 302952,
+    "sha256": "48ea699343a84cdec339653ec3fec1ee877710d769ace5c1667e97a608da141b",
+    "triangles": 4568,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.6178980469703674,
+      0.3759999867901206,
+      0.4099999964237213
+    ],
+    "bounds": {
+      "min": [
+        -0.3089490234851837,
+        3.3527614018424856e-10,
+        -0.20499999821186066
+      ],
+      "max": [
+        0.3089490234851837,
+        0.37599998712539673,
+        0.20499999821186066
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/063",
+    "path": "assets/interactive_props/063.glb",
+    "name": "Sanctum Storage barrel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 381636,
+    "sha256": "4431ba772ad001c234a6c054a902120d88df58150a2183a8e57fba89ab31ce85",
+    "triangles": 5892,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.41999998688697815,
+      0.699999988079071,
+      0.4555875062942505
+    ],
+    "bounds": {
+      "min": [
+        -0.20999999344348907,
+        0,
+        -0.20999999344348907
+      ],
+      "max": [
+        0.20999999344348907,
+        0.699999988079071,
+        0.2455875128507614
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/064",
+    "path": "assets/interactive_props/064.glb",
+    "name": "Sanctum Alchemist flask",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 220604,
+    "sha256": "d6c647d478069387f35174b0ac995001ab910ab0a1777289fef53cf6a7a32eb2",
+    "triangles": 2320,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.3850000128149986,
+      0.5108000040054321,
+      0.23000000417232513
+    ],
+    "bounds": {
+      "min": [
+        -0.11500000208616257,
+        0,
+        -0.11500000208616257
+      ],
+      "max": [
+        0.27000001072883606,
+        0.5108000040054321,
+        0.11500000208616257
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/065",
+    "path": "assets/interactive_props/065.glb",
+    "name": "Sanctum Oil lantern",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 114428,
+    "sha256": "fbe1baea5e46f5b70fbdc459c6790b734fbcce4d89d379c49f4d56b2f93d9b50",
+    "triangles": 1990,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.23999999463558197,
+      0.6349999904632568,
+      0.25999999046325684
+    ],
+    "bounds": {
+      "min": [
+        -0.11999999731779099,
+        0,
+        -0.12999999523162842
+      ],
+      "max": [
+        0.11999999731779099,
+        0.6349999904632568,
+        0.12999999523162842
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/066",
+    "path": "assets/interactive_props/066.glb",
+    "name": "Sanctum Forge anvil",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 346608,
+    "sha256": "2554632a60df4f938cfe0abbb8fb9483ed39a9f2c9e9fbb9590d822f25b59523",
+    "triangles": 2996,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.45934997498989105,
+      0.5839999914169312,
+      0.3499999940395355
+    ],
+    "bounds": {
+      "min": [
+        -0.17499999701976776,
+        0,
+        -0.17499999701976776
+      ],
+      "max": [
+        0.2843499779701233,
+        0.5839999914169312,
+        0.17499999701976776
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/067",
+    "path": "assets/interactive_props/067.glb",
+    "name": "Sanctum Workbench",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 714648,
+    "sha256": "5d48bf457aae04e79a66f64fd5ad9cede49031d9a3d4a0aa8ae647ef28eb68c4",
+    "triangles": 12616,
+    "meshes": 20,
+    "dimensionsMeters": [
+      1,
+      1.2215399742126465,
+      0.546999990940094
+    ],
+    "bounds": {
+      "min": [
+        -0.5,
+        0,
+        -0.25999999046325684
+      ],
+      "max": [
+        0.5,
+        1.2215399742126465,
+        0.28700000047683716
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/068",
+    "path": "assets/interactive_props/068.glb",
+    "name": "Sanctum Weapon rack",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 439912,
+    "sha256": "6dc9b855360cfc4ffdffcef24c53f898d2159a7b06c9d45bd12e605ea8309df6",
+    "triangles": 3712,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.6600000262260437,
+      1.6699999570846558,
+      0.6600000262260437
+    ],
+    "bounds": {
+      "min": [
+        -0.33000001311302185,
+        0,
+        -0.33000001311302185
+      ],
+      "max": [
+        0.33000001311302185,
+        1.6699999570846558,
+        0.33000001311302185
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/069",
+    "path": "assets/interactive_props/069.glb",
+    "name": "Sanctum Training target",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 437744,
+    "sha256": "d5e105ad911814deb15d16933b36fbe30f7a27f4062cd1d370f7d19e63b1173c",
+    "triangles": 7314,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.7239999771118164,
+      1.3658422282896936,
+      0.9556981921195984
+    ],
+    "bounds": {
+      "min": [
+        -0.3619999885559082,
+        -0.005000000353902578,
+        -0.32157063484191895
+      ],
+      "max": [
+        0.3619999885559082,
+        1.360842227935791,
+        0.6341275572776794
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/070",
+    "path": "assets/interactive_props/070.glb",
+    "name": "Sanctum Field brazier",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 314552,
+    "sha256": "7f38cddf53849bd6451020a361d83a8cf8b107755df695b26bdd7b34a670fbba",
+    "triangles": 6100,
+    "meshes": 4,
+    "dimensionsMeters": [
+      0.5542617440223694,
+      0.5810000044293702,
+      0.5963526666164398
+    ],
+    "bounds": {
+      "min": [
+        -0.2771308720111847,
+        0.001999999862164259,
+        -0.2720000147819519
+      ],
+      "max": [
+        0.2771308720111847,
+        0.5830000042915344,
+        0.3243526518344879
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/071",
+    "path": "assets/interactive_props/071.glb",
+    "name": "Sanctum Water pump",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 350804,
+    "sha256": "24a182201e0c11689460fafe7bac9f00870d39bfda313efce13ba47981601109",
+    "triangles": 3176,
+    "meshes": 8,
+    "dimensionsMeters": [
+      0.8496892154216766,
+      1.1271420052647592,
+      0.6699999868869781
+    ],
+    "bounds": {
+      "min": [
+        -0.41999998688697815,
+        3.5762786065873797e-9,
+        -0.25999999046325684
+      ],
+      "max": [
+        0.4296892285346985,
+        1.1271420088410378,
+        0.4099999964237213
+      ]
+    },
+    "animations": [
+      "pump"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/072",
+    "path": "assets/interactive_props/072.glb",
+    "name": "Sanctum Vault safe",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 460684,
+    "sha256": "37d4ce6058d05e2e5fe2d0d423d109b759b351f9948dbb8ac950019465c6a3ef",
+    "triangles": 5908,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.5899999737739563,
+      0.8149999976158142,
+      0.5816991416811943
+    ],
+    "bounds": {
+      "min": [
+        -0.29499998688697815,
+        0,
+        -0.24500000476837158
+      ],
+      "max": [
+        0.29499998688697815,
+        0.8149999976158142,
+        0.3366991369128227
+      ]
+    },
+    "animations": [
+      "unlock_open"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/073",
+    "path": "assets/interactive_props/073.glb",
+    "name": "Sanctum Survey telescope",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 507796,
+    "sha256": "a38d94c6415e64d6edd0fef6cb1740d3905c9781cd2d4537cc5c25ae2fbbba6c",
+    "triangles": 8212,
+    "meshes": 7,
+    "dimensionsMeters": [
+      1.0519999861717224,
+      1.0610000014305114,
+      0.6000000238418579
+    ],
+    "bounds": {
+      "min": [
+        -0.5320000052452087,
+        0,
+        -0.30000001192092896
+      ],
+      "max": [
+        0.5199999809265137,
+        1.0610000014305114,
+        0.30000001192092896
+      ]
+    },
+    "animations": [
+      "survey"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/074",
+    "path": "assets/interactive_props/074.glb",
+    "name": "Sanctum Travel satchel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 380284,
+    "sha256": "06e2a45e89b25271fc5600059d29ab1358c4a3f240d6d5e8b426fec89d017f3a",
+    "triangles": 3602,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.631162017583847,
+      0.6819999776780605,
+      0.15799999609589577
+    ],
+    "bounds": {
+      "min": [
+        -0.3355810046195984,
+        0.009999994188547134,
+        -0.05999999865889549
+      ],
+      "max": [
+        0.29558101296424866,
+        0.6919999718666077,
+        0.09799999743700027
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/075",
+    "path": "assets/interactive_props/075.glb",
+    "name": "Sanctum Potion stand",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 614324,
+    "sha256": "90ef2caa45bddfcda8da2365e98c404ca2b20b4a449051f0a8697c14ae2062fe",
+    "triangles": 12312,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.5,
+      0.46000000834465027,
+      0.5
+    ],
+    "bounds": {
+      "min": [
+        -0.25,
+        0,
+        -0.25
+      ],
+      "max": [
+        0.25,
+        0.46000000834465027,
+        0.25
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/076",
+    "path": "assets/interactive_props/076.glb",
+    "name": "Sanctum Scroll case",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 305400,
+    "sha256": "f1a304a4da85461c692070f6f1d059b83b8c0bbd994b54c0f815d327c74f341a",
+    "triangles": 4292,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.5535486936569214,
+      0.24600000657141208,
+      0.3236629515886307
+    ],
+    "bounds": {
+      "min": [
+        -0.287548691034317,
+        2.2351741291171123e-10,
+        -0.1599999964237213
+      ],
+      "max": [
+        0.26600000262260437,
+        0.2460000067949295,
+        0.16366295516490936
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/077",
+    "path": "assets/interactive_props/077.glb",
+    "name": "Sanctum Offering altar",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 467592,
+    "sha256": "ca7d39f0f0cc4d6252d820fffa6c6b10231f1b0c36440f55683d8e3180ed6980",
+    "triangles": 6426,
+    "meshes": 11,
+    "dimensionsMeters": [
+      0.7200000286102295,
+      1.0692000406980515,
+      0.6299999952316284
+    ],
+    "bounds": {
+      "min": [
+        -0.36000001430511475,
+        -1.7881393032936899e-9,
+        -0.3100000023841858
+      ],
+      "max": [
+        0.36000001430511475,
+        1.069200038909912,
+        0.3199999928474426
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/078",
+    "path": "assets/interactive_props/078.glb",
+    "name": "Sanctum Mortar and pestle",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 293308,
+    "sha256": "7f5917d8068e35fb98f2a54f1287e443e78069cedcd0f9af48bb6f21227f1051",
+    "triangles": 2732,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.3673160821199417,
+      0.3278110921382904,
+      0.3199999928474426
+    ],
+    "bounds": {
+      "min": [
+        -0.1599999964237213,
+        0,
+        -0.1599999964237213
+      ],
+      "max": [
+        0.2073160856962204,
+        0.3278110921382904,
+        0.1599999964237213
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/079",
+    "path": "assets/interactive_props/079.glb",
+    "name": "Sanctum Signal bell",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 472848,
+    "sha256": "5ff9a25ffa2aac3926eccb25929294870386c3f709b6d99dcab49b7e8516947a",
+    "triangles": 4298,
+    "meshes": 11,
+    "dimensionsMeters": [
+      0.7400000095367432,
+      1.2200000286102295,
+      0.37439998984336853
+    ],
+    "bounds": {
+      "min": [
+        -0.3700000047683716,
+        0,
+        -0.18719999492168427
+      ],
+      "max": [
+        0.3700000047683716,
+        1.2200000286102295,
+        0.18719999492168427
+      ]
+    },
+    "animations": [
+      "ring"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/080",
+    "path": "assets/interactive_props/080.glb",
+    "name": "Sanctum Key pedestal",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 310592,
+    "sha256": "b1037fe0430d66c8c2daf00827d29a9294feaec4777cf1cb0c976b9f13819608",
+    "triangles": 4588,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.5400000214576721,
+      1.0240000477433204,
+      0.47999998927116394
+    ],
+    "bounds": {
+      "min": [
+        -0.27000001072883606,
+        8.940696516468449e-10,
+        -0.23999999463558197
+      ],
+      "max": [
+        0.27000001072883606,
+        1.0240000486373901,
+        0.23999999463558197
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/081",
+    "path": "assets/interactive_props/081.glb",
+    "name": "Expedition Bound chest",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 818972,
+    "sha256": "cc18f7cd7ea5451c8ba3319eb945df9e9f287a402163e2bd42bc22e8afd3cffd",
+    "triangles": 14834,
+    "meshes": 17,
+    "dimensionsMeters": [
+      1.0585354566574097,
+      0.4988144153058529,
+      0.548853188753128
+    ],
+    "bounds": {
+      "min": [
+        -0.5292677283287048,
+        -1.490116086078075e-10,
+        -0.27250000834465027
+      ],
+      "max": [
+        0.5292677283287048,
+        0.49881441515684133,
+        0.2763531804084778
+      ]
+    },
+    "animations": [
+      "open_close"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/082",
+    "path": "assets/interactive_props/082.glb",
+    "name": "Expedition Supply crate",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 649572,
+    "sha256": "a357bb085fb19c38bda955b4761a81e0be25137a758d4fae809b1ed74c3bcb81",
+    "triangles": 13304,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.7599999904632568,
+      0.5929999948292971,
+      0.6019999980926514
+    ],
+    "bounds": {
+      "min": [
+        -0.3799999952316284,
+        -7.450580430390374e-11,
+        -0.30000001192092896
+      ],
+      "max": [
+        0.3799999952316284,
+        0.5929999947547913,
+        0.3019999861717224
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/083",
+    "path": "assets/interactive_props/083.glb",
+    "name": "Expedition Storage barrel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 603020,
+    "sha256": "a07cbb40eb5112501061a170886cbd03825107ac9d82d22c120f70cedfb4e623",
+    "triangles": 12020,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.590007483959198,
+      0.5899999737739563,
+      0.4418145716190338
+    ],
+    "bounds": {
+      "min": [
+        -0.2831646800041199,
+        0,
+        -0.2199999988079071
+      ],
+      "max": [
+        0.3068428039550781,
+        0.5899999737739563,
+        0.2218145728111267
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/084",
+    "path": "assets/interactive_props/084.glb",
+    "name": "Expedition Alchemist flask",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 297560,
+    "sha256": "318211c24aa60c770d704358e9b40248030a4e708e5456f40f60c072b4177ce6",
+    "triangles": 2588,
+    "meshes": 5,
+    "dimensionsMeters": [
+      0.33410370349884033,
+      0.4809999982826412,
+      0.10691999644041061
+    ],
+    "bounds": {
+      "min": [
+        -0.16705185174942017,
+        -0.004000000189989805,
+        -0.05345999822020531
+      ],
+      "max": [
+        0.16705185174942017,
+        0.47699999809265137,
+        0.05345999822020531
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/085",
+    "path": "assets/interactive_props/085.glb",
+    "name": "Expedition Oil lantern",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 200788,
+    "sha256": "85eedcd85ede493078bcf46afe77cd533e787ff9f474e495fd5c8838bd895c57",
+    "triangles": 1534,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.13269254565238953,
+      0.3499999940395355,
+      0.10400000214576721
+    ],
+    "bounds": {
+      "min": [
+        -0.06634627282619476,
+        0,
+        -0.052000001072883606
+      ],
+      "max": [
+        0.06634627282619476,
+        0.3499999940395355,
+        0.052000001072883606
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/086",
+    "path": "assets/interactive_props/086.glb",
+    "name": "Expedition Forge anvil",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 385576,
+    "sha256": "b5c08d2afac75ff267c4922d44fd2b3fb468df514687f666f02fd8fb0035f6a1",
+    "triangles": 4336,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.7494499981403351,
+      0.5979999901354313,
+      0.41999998688697815
+    ],
+    "bounds": {
+      "min": [
+        -0.3100000023841858,
+        -1.490116086078075e-10,
+        -0.20999999344348907
+      ],
+      "max": [
+        0.4394499957561493,
+        0.5979999899864197,
+        0.20999999344348907
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/087",
+    "path": "assets/interactive_props/087.glb",
+    "name": "Expedition Workbench",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 569104,
+    "sha256": "ca5f848733633137996e97bec7bf3ed0c7962b2ed9bbce748e99f8591b40bec9",
+    "triangles": 6760,
+    "meshes": 12,
+    "dimensionsMeters": [
+      0.9599999785423279,
+      0.8415026245638728,
+      0.5250000059604645
+    ],
+    "bounds": {
+      "min": [
+        -0.47999998927116394,
+        -0.010648983530700207,
+        -0.24799999594688416
+      ],
+      "max": [
+        0.47999998927116394,
+        0.8308536410331726,
+        0.2770000100135803
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/088",
+    "path": "assets/interactive_props/088.glb",
+    "name": "Expedition Weapon rack",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 738196,
+    "sha256": "bbb103f414957da28d7f45fff17078517fe1c3bef49465246a4260eb86391e59",
+    "triangles": 10100,
+    "meshes": 12,
+    "dimensionsMeters": [
+      1.3878161907196045,
+      1.3088132995180786,
+      0.49618060886859894
+    ],
+    "bounds": {
+      "min": [
+        -0.6939080953598022,
+        -0.004406656604260206,
+        -0.22377510368824005
+      ],
+      "max": [
+        0.6939080953598022,
+        1.3044066429138184,
+        0.2724055051803589
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/089",
+    "path": "assets/interactive_props/089.glb",
+    "name": "Expedition Training target",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 376904,
+    "sha256": "349bd075cf74ec441a15f3916abc387978516f10429b84b60b6f6d24ffa24852",
+    "triangles": 4652,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.8999999761581421,
+      0.8401314578950405,
+      1.0412372946739197
+    ],
+    "bounds": {
+      "min": [
+        -0.44999998807907104,
+        -0.04013144597411156,
+        -0.24120914936065674
+      ],
+      "max": [
+        0.44999998807907104,
+        0.800000011920929,
+        0.8000281453132629
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/090",
+    "path": "assets/interactive_props/090.glb",
+    "name": "Expedition Field brazier",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 660920,
+    "sha256": "93b7d2c4cbe31ce63292224b64564121046bdb9e064e2891c93d7fbcab41e5fe",
+    "triangles": 12384,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.8971212804317474,
+      1.290986567735672,
+      0.8861834704875946
+    ],
+    "bounds": {
+      "min": [
+        -0.5078043341636658,
+        -0.032825857400894165,
+        -0.3879513144493103
+      ],
+      "max": [
+        0.38931694626808167,
+        1.2581607103347778,
+        0.4982321560382843
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/091",
+    "path": "assets/interactive_props/091.glb",
+    "name": "Expedition Water pump",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 464288,
+    "sha256": "a69873a208d700a433c1ef24ea420631bd46b205f69957dd182a65a868208f76",
+    "triangles": 5756,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.8496892154216766,
+      0.8671420088410378,
+      0.8399999737739563
+    ],
+    "bounds": {
+      "min": [
+        -0.41999998688697815,
+        0,
+        -0.41999998688697815
+      ],
+      "max": [
+        0.4296892285346985,
+        0.8671420088410378,
+        0.41999998688697815
+      ]
+    },
+    "animations": [
+      "pump"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/092",
+    "path": "assets/interactive_props/092.glb",
+    "name": "Expedition Vault safe",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 475004,
+    "sha256": "ad6047f08a14a1ef56e1eb1b66680a2157fcdb1d43ebe7528d2215344cd2c866",
+    "triangles": 6236,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.6037560105323792,
+      0.4799999985843897,
+      0.5166991303563118
+    ],
+    "bounds": {
+      "min": [
+        -0.3018780052661896,
+        0.020000001415610313,
+        -0.20999999344348907
+      ],
+      "max": [
+        0.3018780052661896,
+        0.5,
+        0.30669913691282275
+      ]
+    },
+    "animations": [
+      "unlock_open"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/093",
+    "path": "assets/interactive_props/093.glb",
+    "name": "Expedition Survey telescope",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 427144,
+    "sha256": "65adf27fd29d0df56da155862b5cc7b71f314962be366ad81f2e069d1115bc50",
+    "triangles": 3524,
+    "meshes": 10,
+    "dimensionsMeters": [
+      0.5624374449253082,
+      0.6443475921824574,
+      0.45746417343616486
+    ],
+    "bounds": {
+      "min": [
+        -0.2608374357223511,
+        -0.008776702918112278,
+        -0.1594928354024887
+      ],
+      "max": [
+        0.30160000920295715,
+        0.6355708892643451,
+        0.29797133803367615
+      ]
+    },
+    "animations": [
+      "survey"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/094",
+    "path": "assets/interactive_props/094.glb",
+    "name": "Expedition Travel satchel",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 364760,
+    "sha256": "3905b4ae6436ebc8ba62edc5703632be1a35716f76d965ed2cf6b7dba3e2c458",
+    "triangles": 5188,
+    "meshes": 7,
+    "dimensionsMeters": [
+      0.4869999885559082,
+      0.6377539485692978,
+      0.3327726125717163
+    ],
+    "bounds": {
+      "min": [
+        -0.23999999463558197,
+        0.019999995827674866,
+        -0.1711726188659668
+      ],
+      "max": [
+        0.24699999392032623,
+        0.6577539443969727,
+        0.1615999937057495
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/095",
+    "path": "assets/interactive_props/095.glb",
+    "name": "Expedition Potion stand",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 591264,
+    "sha256": "56301062ac55b07abfd6b4f8be58cabd6f9643a41f82665467941d3079daed84",
+    "triangles": 9816,
+    "meshes": 14,
+    "dimensionsMeters": [
+      0.6655916571617126,
+      0.22376000182703137,
+      0.2865999937057495
+    ],
+    "bounds": {
+      "min": [
+        -0.3327958285808563,
+        -0.005000003147870302,
+        -0.13899999856948853
+      ],
+      "max": [
+        0.3327958285808563,
+        0.21875999867916107,
+        0.147599995136261
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/096",
+    "path": "assets/interactive_props/096.glb",
+    "name": "Expedition Scroll case",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 419936,
+    "sha256": "ad005c9849d4586e6a679274247bfacd2579c7722ff029ac49a8aaf556807c01",
+    "triangles": 5328,
+    "meshes": 6,
+    "dimensionsMeters": [
+      0.29441529512405396,
+      0.5659999847412109,
+      0.24313926696777344
+    ],
+    "bounds": {
+      "min": [
+        -0.12999999523162842,
+        0,
+        -0.15216799080371857
+      ],
+      "max": [
+        0.16441529989242554,
+        0.5659999847412109,
+        0.09097127616405487
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/097",
+    "path": "assets/interactive_props/097.glb",
+    "name": "Expedition Offering altar",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 489960,
+    "sha256": "72a65fde6c872fcfc4f2c6f5e7ef55945dc8adcd1a864fca953855cf8a002eeb",
+    "triangles": 6610,
+    "meshes": 13,
+    "dimensionsMeters": [
+      0.7400000095367432,
+      1.0291999518871306,
+      0.5746000111103058
+    ],
+    "bounds": {
+      "min": [
+        -0.3700000047683716,
+        5.9604645663569045e-9,
+        -0.2800000011920929
+      ],
+      "max": [
+        0.3700000047683716,
+        1.0291999578475952,
+        0.2946000099182129
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/098",
+    "path": "assets/interactive_props/098.glb",
+    "name": "Expedition Mortar and pestle",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 302312,
+    "sha256": "a4ba85d9dc1066c5b8106a0e511547db08203effab31b8698207eb0d591c46a8",
+    "triangles": 2840,
+    "meshes": 4,
+    "dimensionsMeters": [
+      0.2898494303226471,
+      0.40001779794692993,
+      0.25999999046325684
+    ],
+    "bounds": {
+      "min": [
+        -0.12999999523162842,
+        0,
+        -0.12999999523162842
+      ],
+      "max": [
+        0.15984943509101868,
+        0.40001779794692993,
+        0.12999999523162842
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/099",
+    "path": "assets/interactive_props/099.glb",
+    "name": "Expedition Signal bell",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 550940,
+    "sha256": "f61ce959b3f6b9f8ff2cec85e2904322c18ef60b95c2e6497bc649157246e69b",
+    "triangles": 5114,
+    "meshes": 12,
+    "dimensionsMeters": [
+      0.6837695091962814,
+      1.0971996253356338,
+      0.7728118896484375
+    ],
+    "bounds": {
+      "min": [
+        -0.4419189393520355,
+        -0.008599824272096157,
+        -0.3814840018749237
+      ],
+      "max": [
+        0.2418505698442459,
+        1.0885998010635376,
+        0.3913278877735138
+      ]
+    },
+    "animations": [
+      "ring"
+    ],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  },
+  {
+    "id": "arsenal:interactive_props/100",
+    "path": "assets/interactive_props/100.glb",
+    "name": "Expedition Key pedestal",
+    "source": "sources/upgrades/interactive.mjs",
+    "bytes": 585984,
+    "sha256": "5fd16950f5a5c1bdb416eb1bd27a9bd25a8ef03b2f20e4830c500eb2e752b2cb",
+    "triangles": 6424,
+    "meshes": 9,
+    "dimensionsMeters": [
+      0.4513585865497589,
+      0.6959999799728394,
+      0.45900000631809235
+    ],
+    "bounds": {
+      "min": [
+        -0.22567929327487946,
+        0,
+        -0.2280000001192093
+      ],
+      "max": [
+        0.22567929327487946,
+        0.6959999799728394,
+        0.23100000619888306
+      ]
+    },
+    "animations": [],
+    "limitations": [
+      "No approved external design reference",
+      "Host interaction integration not tested",
+      "No physical-device performance test",
+      "Surface maps are authored procedural grain and roughness, not scanned or high-poly bakes"
+    ]
+  }
+]
