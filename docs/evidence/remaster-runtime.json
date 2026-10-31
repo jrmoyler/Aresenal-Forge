@@ -1,0 +1,4477 @@
+{
+  "scope": "Three.js GLTFLoader import, finite bounds and clip sampling; not art approval or gameplay certification",
+  "three": "0.180.0",
+  "models": [
+    {
+      "path": "assets/weapons/swords/longsword.glb",
+      "sha256": "113419425415cba0a38192ae72b2c622e190b3590a3f447d2d6faeb6662e1395",
+      "triangles": 45288,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/longsword.lod1.glb",
+      "sha256": "d7c48868ba842a8d0fea88735244a8216d6a70413240da2119328790b1139f29",
+      "triangles": 13560,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/longsword.lod2.glb",
+      "sha256": "7bda5c9bbb65453194669a748ed6570b6bd1946757071628607b0dda82ca493c",
+      "triangles": 954,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/saber.glb",
+      "sha256": "e0987e444706df06a74aaa242321831de94ddfc8869b752e0f040d2fe21a0791",
+      "triangles": 32004,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/saber.lod1.glb",
+      "sha256": "ff341f84c87674fcf1f0691999eef1223e161ff02bb8d7461b7aa5bd73ffdf89",
+      "triangles": 9696,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/saber.lod2.glb",
+      "sha256": "fa87dcef447577914cd1f439ccece01aea8a9d4389aec5064771cb2de7336878",
+      "triangles": 985,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/katana.glb",
+      "sha256": "7247f67010f355968d27bfb1784bdbe1d900de4c0c3842e57820a7e5fb113ec4",
+      "triangles": 61348,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/katana.lod1.glb",
+      "sha256": "a41b0be9bd40d6127cc3c440a104bbdc7e683b9ba9f571ee2834cdb39581daaa",
+      "triangles": 15764,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/katana.lod2.glb",
+      "sha256": "d3be836860a28daf5ea821b2b036a5d4f57af319dfd9b759562163d17a1cfa92",
+      "triangles": 705,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/greatsword.glb",
+      "sha256": "9bb21a646d60880e5ae79efe708e72adcb9ca44d42a97b1fd9b93a8682a3c59e",
+      "triangles": 95824,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/greatsword.lod1.glb",
+      "sha256": "bcc117b8cc5e44a7c5d9a201530111e8eb1b4d7eb4dfa9264fb33a91adfc5d4f",
+      "triangles": 22716,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/greatsword.lod2.glb",
+      "sha256": "a9876335dfe9f23ed5cb0b688c8fbbef7163a0674c806ab7f03cf903debf4de1",
+      "triangles": 1240,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/rapier.glb",
+      "sha256": "7977471823decf0bed5b739ce1397574c8a2f1bc3ce0acba91f2802fe0a1f4ef",
+      "triangles": 45888,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/rapier.lod1.glb",
+      "sha256": "c66f78c11bbfb88a51f67a63b71debcbab2f5ffa2ad6c16194a87085802308c9",
+      "triangles": 13552,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/swords/rapier.lod2.glb",
+      "sha256": "27e4e7670099e94331e695aca264a36d3b1d9ace4368ec23771ce086e71a47da",
+      "triangles": 1536,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/dagger.glb",
+      "sha256": "528c5d3dc434a16c2abf85eee2cabfc01816ed36f8e2860f74568d38fb534bbf",
+      "triangles": 26160,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/dagger.lod1.glb",
+      "sha256": "e1ec034091cc3b5dfdb5f50c1e4f96eeae5831040acbc6287b2fa82ee4d56361",
+      "triangles": 8396,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/dagger.lod2.glb",
+      "sha256": "64c998e863b24aaa69a9a52fa7c0e67c278fc9176d3278e252a566b8ffcb5288",
+      "triangles": 888,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/kukri.glb",
+      "sha256": "bae4bf04be58c91369d51a1df5be9dba1fd4575ed462029866e758e1a47f35a2",
+      "triangles": 25060,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/kukri.lod1.glb",
+      "sha256": "83dbe1322edb997945e0724c437780762b72b842345879523d985158bae34f92",
+      "triangles": 6676,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/kukri.lod2.glb",
+      "sha256": "35ebb84d9937b08bb49f0e06978231dfd9dbd2445e689a232998b48281123807",
+      "triangles": 501,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/twin-shortblade.glb",
+      "sha256": "fbbdc418fc01a643bd2a5f08b85db4a0a958d4d563332c2c2d60d6efe615eea6",
+      "triangles": 59840,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/twin-shortblade.lod1.glb",
+      "sha256": "8cfb3326c1b5b9fd30256874d27e6f67b7defa4b2bd17730736ad2b341cfeeed",
+      "triangles": 17692,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/twin-shortblade.lod2.glb",
+      "sha256": "521093730f986d267bddec6bccfd0ba00526d1e2cfa50a6d84ebb0c7c302a2bb",
+      "triangles": 1696,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/punch-dagger.glb",
+      "sha256": "c3ae307d60f28ac6b20b8650f2465b52b214f73b3c230fea17d047ba27530410",
+      "triangles": 54496,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/punch-dagger.lod1.glb",
+      "sha256": "c3dc03471dc85e8c4b1ad66c5860f970962996190bf9591640574821e48e7062",
+      "triangles": 13968,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/punch-dagger.lod2.glb",
+      "sha256": "f099d629aac700c1611e008842ee488b86dc5cc7c93e3493108f694158b6c55f",
+      "triangles": 1072,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/tanto.glb",
+      "sha256": "88466c1e224bcb6ef2bbff3c3623ed5e74fab23066007f7d838a1e861ebd5651",
+      "triangles": 25876,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/tanto.lod1.glb",
+      "sha256": "cc5a1f344c8128acba481614a623ef4626774ba061bae9b44cfe943238b9a61e",
+      "triangles": 7380,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/short_blades/tanto.lod2.glb",
+      "sha256": "c843c93811ea7c57d3881fce6316ad50419c4dd44bee048675ab4f70dee025af",
+      "triangles": 705,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/spear.glb",
+      "sha256": "bdf36efaa45ab1ed57cb0c62ea52a0f99b31627afbe034e8c5846eb1e2e96ec6",
+      "triangles": 64000,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/spear.lod1.glb",
+      "sha256": "a4528dcc3919f57f414fd652a87d2c683ad5c1400e3e195dd737f6b00e78a353",
+      "triangles": 15296,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/spear.lod2.glb",
+      "sha256": "6f515f93c6206ee6b51daa3ac04d28917f3bd44d28903bc1cd711828ea6e2751",
+      "triangles": 684,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/glaive.glb",
+      "sha256": "902d653da09919e72280c759a9a9dacdb53c22d5f75fbd50ea0080f6e31ca6f4",
+      "triangles": 63588,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/glaive.lod1.glb",
+      "sha256": "8cb5d1954101377a700d719fe9c51dbf3206682c323d8ce021380a0a6016631b",
+      "triangles": 15252,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/glaive.lod2.glb",
+      "sha256": "a51f7bbd7b50b283211ebbcee6bfd61fd476b280b65663bad08a8c85dc191c31",
+      "triangles": 693,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/halberd.glb",
+      "sha256": "7de0dc5a47312db9f7e1397861ec29c52dee37c67c230b256d24862732930f62",
+      "triangles": 64912,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/halberd.lod1.glb",
+      "sha256": "9153105f5b7ee8fd2433aa0b0e1370e0ed5ed956737553921e8d52564b4deeeb",
+      "triangles": 16016,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/halberd.lod2.glb",
+      "sha256": "df812809b37b3f0a80bc1a115227664b5210764689871fd80ecc318c91321a56",
+      "triangles": 736,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/trident.glb",
+      "sha256": "50e5a9a1ae9f2c010228d4c244645d6f4e0a9f565e29214702bb4583fc118cb4",
+      "triangles": 70608,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/trident.lod1.glb",
+      "sha256": "492d73ad772b68962c9ae9a3b09b879cd12a387d8ed576e3ba25429bc723e304",
+      "triangles": 19056,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/trident.lod2.glb",
+      "sha256": "ae2db236792d2e85512ae40e88cebb35d73c92853d5e48ccd3b18446eb5cea9f",
+      "triangles": 1048,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/war-lance.glb",
+      "sha256": "b5c33d9700aca8c8054100bbc9711b9afcae1066ef36c117b42db023420b528e",
+      "triangles": 45248,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/war-lance.lod1.glb",
+      "sha256": "27242c1aba2a8ee1c76294499f82ad6144123c502860edfe432dd994a51f3e8a",
+      "triangles": 13596,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/polearms/war-lance.lod2.glb",
+      "sha256": "8588a6c14c53190f49a179b887f9cf0d18ee2c117babf594ee3276669d1fc8f2",
+      "triangles": 496,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/war-axe.glb",
+      "sha256": "ef184dab0f0166d7307c6d66802e00f50496f82a154d230a1ac2bff695e5fbf5",
+      "triangles": 40352,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/war-axe.lod1.glb",
+      "sha256": "e3fb5a7dc2bc817f9e7259ce9c0d44c9f9825cfa61dd0cba6ee092e9f898ca42",
+      "triangles": 10480,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/war-axe.lod2.glb",
+      "sha256": "674db3863c4392591ddeff94d08802448dc7027ec44d473064f5cd9d3161e9ab",
+      "triangles": 520,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/great-axe.glb",
+      "sha256": "0b591ba79d2a02b6745f9abe2ce7ffbb4878dd9e0c992b40803080e311d9ab6f",
+      "triangles": 83472,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/great-axe.lod1.glb",
+      "sha256": "7c5646f98f8ab0f33c565ff7538cc673c6b7fa771120c9ede15e1cf720d1ac6c",
+      "triangles": 19312,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/great-axe.lod2.glb",
+      "sha256": "42ec7c5ad10a1ce0d92dd6b4195ac1eca696fa96d59989f7f7e7ddc129a1a6e7",
+      "triangles": 664,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/warhammer.glb",
+      "sha256": "1f0160849cfd65530fd1a37e18907f314e1b9c34b9e83936a9e0edbb691cfcd4",
+      "triangles": 40976,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/warhammer.lod1.glb",
+      "sha256": "2bdd56f48c364bf515ce170132a3707c4c31d7359cc2aa3acd5b576d6c43f977",
+      "triangles": 10384,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/warhammer.lod2.glb",
+      "sha256": "550c9bc1fbf0527452edd79c4b96a00e73b6e87dbff48ab7603a28c8a1aae50b",
+      "triangles": 596,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/flanged-mace.glb",
+      "sha256": "af87e5e0f32f596ff27313ed53c6725de7d3d812b609d1a0678fa058d0a9309a",
+      "triangles": 42448,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/flanged-mace.lod1.glb",
+      "sha256": "11e15ce8b6b51642db886af5edd90417d01bf388ea5654321bb28bb8bce51795",
+      "triangles": 12000,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/flanged-mace.lod2.glb",
+      "sha256": "a1914d035ea6c9a2e61141d9e0ceea9cfa1383a56910ec4589b2915595d2f6cb",
+      "triangles": 724,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/military-pick.glb",
+      "sha256": "3d6c1948c5cf478905823346a9e5b8a570de4b0a08abc3d4ef8d4962fcd63ee1",
+      "triangles": 39904,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/military-pick.lod1.glb",
+      "sha256": "5bbf6a2b997f564b4b51a6531a061b9978d6281a77a89ce4423c7ee86570be44",
+      "triangles": 10192,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/heavy_impact/military-pick.lod2.glb",
+      "sha256": "7d0c5f373c7a28d818d1cbd0f3e1ecc881763ea1fcc52c6246e0a472840f6249",
+      "triangles": 544,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/longbow.glb",
+      "sha256": "eab1e2d4ec378916062e7145cdac6f86a6fbd106809a9dec52206a3e1d5b50f5",
+      "triangles": 66576,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/longbow.lod1.glb",
+      "sha256": "d8c03ab5517f12d1dad379788051c541b57b4186b270757596425b94e03babce",
+      "triangles": 17040,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/longbow.lod2.glb",
+      "sha256": "cec488e8644ec06df9b99020ae17bb06ba106c79e849da6dd3a37a1b50e63f43",
+      "triangles": 1424,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/recurve-bow.glb",
+      "sha256": "1373d6be32299c05325666d3206797f3add4db4b0955cf2ca166ecc3ad136c3d",
+      "triangles": 81680,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/recurve-bow.lod1.glb",
+      "sha256": "b54c982592d7401d7dc27965e4f91ac249d23ba05c43304194726bbc3695672e",
+      "triangles": 19504,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/recurve-bow.lod2.glb",
+      "sha256": "c74165373e9d87eb6c79962e66ab2c0c323067410fad07707119c41aa1e677e7",
+      "triangles": 1240,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/crossbow.glb",
+      "sha256": "7c865742e78f000f50d07d4667bb32d2e015856095d924b08dd0629982d1ed9e",
+      "triangles": 55320,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/crossbow.lod1.glb",
+      "sha256": "a4371280793c8fcf5a715b2cb94516042383fe259ee03f071efb46d15c3a1dd6",
+      "triangles": 14796,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/crossbow.lod2.glb",
+      "sha256": "2703e6d35c24a5dcbf0351fcd3d2dcb67e8bbc44051559aea1ef6487f6046892",
+      "triangles": 1560,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/repeating-crossbow.glb",
+      "sha256": "c36dba11e38284023ac6c188b8cb6cdb7d996e3ae3444eb48b24b20d0d5565f8",
+      "triangles": 65320,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/repeating-crossbow.lod1.glb",
+      "sha256": "de89e2eacdffe6ff63c469fed336ccc68763841d30e2102b5773724e721ca1f7",
+      "triangles": 17136,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/repeating-crossbow.lod2.glb",
+      "sha256": "8e6b7242a124ec6d867f710c1d68ef0d4db34f7c26df2e4a27c9b3bacd4e0449",
+      "triangles": 1804,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/composite-bow.glb",
+      "sha256": "c921899efcbd1d569fd2030cfcc61f9b8c3ac814d4a7aaa3240519d825d1397c",
+      "triangles": 94288,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/composite-bow.lod1.glb",
+      "sha256": "3e78e1fe68272dca8afc354b16a110cbe86b54cebb116af722db65c2c61800d2",
+      "triangles": 21744,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/archery/composite-bow.lod2.glb",
+      "sha256": "b56e404f90e07325b30733e36a01e77a52f236a8850208b92960b149f88556eb",
+      "triangles": 1524,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/oak-staff.glb",
+      "sha256": "8608a4abce625feeedc563769e9c451033a3e6071f8c7979a31b1693ee98f069",
+      "triangles": 81824,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/oak-staff.lod1.glb",
+      "sha256": "29438449404154bde468532f68a41109b09fbeb7284f27aca0d9967fe78959c6",
+      "triangles": 16832,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/oak-staff.lod2.glb",
+      "sha256": "83e269c00418581472b25420c1cd3661ff22168a5f01647ed29a2502aba3da4a",
+      "triangles": 1016,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/crystal-staff.glb",
+      "sha256": "8238bf43b32c324792c33d18bccc7f6c271c8fbf6aa45ea30ef777c6d41f5720",
+      "triangles": 44048,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/crystal-staff.lod1.glb",
+      "sha256": "8d1ab7c252715621759e54ad941b8993f751e5bef0ae895e7821404ad7c2aff9",
+      "triangles": 10992,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/crystal-staff.lod2.glb",
+      "sha256": "7fda2faba3af89b3cd4fe89d6070d00774f5911b4d425f729b5f88ded6d15ecf",
+      "triangles": 836,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/wand.glb",
+      "sha256": "69ad7767fac917b232dbb1701e89729c83c29e16212b372ab161ce86f9a0a696",
+      "triangles": 26544,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/wand.lod1.glb",
+      "sha256": "f57cb49dd3c5e6bc5b08fe37757ce9c9474e9da98bcd80133f35d812ee6805df",
+      "triangles": 5872,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/wand.lod2.glb",
+      "sha256": "3a42aa0b0134d6cc25d06cd0a16cf1b516aa41f70e6f0e4728daa39957479c8a",
+      "triangles": 464,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/scepter.glb",
+      "sha256": "4b9a9472b2761e135ed72333638db19379390364b76dcb5022389f9d64465b55",
+      "triangles": 55456,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/scepter.lod1.glb",
+      "sha256": "4d065c5c15c2a1300e188f1ed60e43d1a9cde317a79d6601948a7d3c3a7f3ff5",
+      "triangles": 13712,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/scepter.lod2.glb",
+      "sha256": "be5c15eec44559b27684b9aea34ff917a8d844c66b0aff507e03e37f426c252b",
+      "triangles": 1108,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/channeling-rod.glb",
+      "sha256": "f4b9941174ba614b65c3d03b0db9f9d19f3559bd1824be2dfe39b1113cd235b6",
+      "triangles": 87440,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/channeling-rod.lod1.glb",
+      "sha256": "2985dc4ee4e3f5c02bd24c4225eb4b9559c36c7cfb23967a9445f16414117d44",
+      "triangles": 18992,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/casting_implements/channeling-rod.lod2.glb",
+      "sha256": "e2328cc8f0f60329d698488a5aa608e7c4538e0e6bbcf885e5ed87bba71fb5b3",
+      "triangles": 1312,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/grimoire.glb",
+      "sha256": "ca1a355c3c9059f18846cd06b48402dfdf72d9e9884c26a2691c2563d1d1a807",
+      "triangles": 49104,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/grimoire.lod1.glb",
+      "sha256": "5687a93719f47bd650b159d620329034118e099106ed396e235d814debc5c23e",
+      "triangles": 16556,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/grimoire.lod2.glb",
+      "sha256": "26209502b43a29268dcda5014df6ed2c22fce2dd51dcaa5b20fc6153665dcf39",
+      "triangles": 1420,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/rune-tablet.glb",
+      "sha256": "4506c3e3bcd55829dc7fdbba505d13dc87a532a76ff371989c7781f66c2dfcab",
+      "triangles": 44864,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/rune-tablet.lod1.glb",
+      "sha256": "ddea6e3d6c6b347f8fb9f22fd1a5fddc2ac98620f0cd62de06291aa635cd7f98",
+      "triangles": 16656,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/rune-tablet.lod2.glb",
+      "sha256": "63125c711fe53a6e4ce36367639a81b5d3895c1b5b70f531414f67f662290885",
+      "triangles": 1600,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/ceremonial-seal.glb",
+      "sha256": "5d7d939c95350ea1c2b4e8000dad133dd2c3d2642bc1de3c0347417855779d8b",
+      "triangles": 26848,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/ceremonial-seal.lod1.glb",
+      "sha256": "695ecb57996a61bdf00697e1734000ee4e4a829db648d5842632e453f2b4cff8",
+      "triangles": 8272,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/ceremonial-seal.lod2.glb",
+      "sha256": "7333d7514cbc9adf53c88c34994191d588c9fb29e0b89fbcf72fb8d355313775",
+      "triangles": 936,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/talisman-array.glb",
+      "sha256": "2a68c349c32bf08e76e155387047eb1a898d7a655150b194157ecb19348af0ba",
+      "triangles": 59488,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/talisman-array.lod1.glb",
+      "sha256": "5ac55178b39a6d788d5298b91a36bee05307471236071fd2eb1c9b6aba38ac28",
+      "triangles": 18876,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/talisman-array.lod2.glb",
+      "sha256": "10a7fad39f814998f10da4c281bfb8065e77e03f7cce9e2343a4a91f8aa75934",
+      "triangles": 2568,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/relic-orb.glb",
+      "sha256": "c4264e211a79e8d0953e2e0d97f18d078667bd24e82fcd6b969c3d05aabfeb6e",
+      "triangles": 20240,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/relic-orb.lod1.glb",
+      "sha256": "a08cfb14ee2fed6d96afa18b34d4739c74ad66e70faec500e021cd9ae9fc3bbf",
+      "triangles": 5600,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/ritual/relic-orb.lod2.glb",
+      "sha256": "ee2fe2fcbe22e10b17e23951230451bacdcb38eac879efb8342d9bc2a6d82209",
+      "triangles": 1092,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/cestus.glb",
+      "sha256": "db5a441e18ab8880132e2afe59c6d67cef24de172727c6e59cef0325fabd7895",
+      "triangles": 41136,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/cestus.lod1.glb",
+      "sha256": "b02969b3a2448247f7a5e58f2c044412596adf578c95f569bdbdffc084e435d6",
+      "triangles": 11948,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/cestus.lod2.glb",
+      "sha256": "00b8afee896ea2d6d0cc9ef8106ca8680f876c1101642a53da181c00a974c5bd",
+      "triangles": 1504,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/arm-blade.glb",
+      "sha256": "df65849d8f14d38d109bd130906617e41b93dd0c8346277b13f054ded81a63ff",
+      "triangles": 23760,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/arm-blade.lod1.glb",
+      "sha256": "7be47ef53ec8e19fcc4086f11d4f334645b93722ca31b6e829d136d98aa325bc",
+      "triangles": 9068,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/arm-blade.lod2.glb",
+      "sha256": "6c33371ce3f4295e26b6b899a821d3b7a1fb75a4c0d658fa017a4d711769eecd",
+      "triangles": 1532,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/talons.glb",
+      "sha256": "c1c22660ebf13bd6701d4f6a482ed74ec9d303d0a376825526c22d77993f668a",
+      "triangles": 31632,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/talons.lod1.glb",
+      "sha256": "42c21d3ee7090e3d9a374c12605ef8a01d53dcafbdc9ccec998fbb3eff2bfcc7",
+      "triangles": 12332,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/talons.lod2.glb",
+      "sha256": "9a0f78517eaf11a9d0ea7adc35cfe5d21cd7cd2e0710cf2fbc972ee48e6893f4",
+      "triangles": 2060,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/power-knuckles.glb",
+      "sha256": "e59da047b510ecf88968991e24b8215eb8e3f91aa209a422e1045fa07ee1dfbf",
+      "triangles": 29824,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/power-knuckles.lod1.glb",
+      "sha256": "b5b2dadd5879586c1ec7351c573222cf62f9f4c785736ab4a3f6339c88d20bd8",
+      "triangles": 11484,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/power-knuckles.lod2.glb",
+      "sha256": "11433b07ba0a5675f2b4576823e513a2e45b8196eb21b93a80209a5325c0c81c",
+      "triangles": 2152,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/hook-claws.glb",
+      "sha256": "98e7a892f9df76ccdeac0856c3f1e0e10bdd780a58aa15e49cf78f94e9660bc3",
+      "triangles": 31068,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/hook-claws.lod1.glb",
+      "sha256": "5bc967e4cc93791378a2cbe7fd960e3ac344ff28e6931ddc7f14d6db0d62df83",
+      "triangles": 12104,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/martial/hook-claws.lod2.glb",
+      "sha256": "366586892c2ba6813fa84ed8ae8cbe11fbbdfe32e78ff14aca9ece17a8d39faa",
+      "triangles": 2063,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/chain-sickle.glb",
+      "sha256": "1dd941a97e2777e66670c1d45c6828b2c55b399e28314742d01c4b41d0454532",
+      "triangles": 65668,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/chain-sickle.lod1.glb",
+      "sha256": "da2d3864f214c44d5135ca105bcc0021f3a4157fb2a2d0be192954f94e8940cd",
+      "triangles": 18452,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/chain-sickle.lod2.glb",
+      "sha256": "51d3828eb195d6493d8efc7040ab514dcc958219894f40e3d0ea29b00a580d78",
+      "triangles": 1845,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/whip.glb",
+      "sha256": "b362656e74c852bd2ffc23890b8edfbc809a6f694bf585027942c28ed00640de",
+      "triangles": 76960,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/whip.lod1.glb",
+      "sha256": "0660ff911605b7e36d48bde9c030ad9f9e58175c30aee3e327e1828843587135",
+      "triangles": 15168,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/whip.lod2.glb",
+      "sha256": "5a46d009a18147e687270e7db33d6c5e3ca604830329527c970af4dadcd6d319",
+      "triangles": 762,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/rope-dart.glb",
+      "sha256": "3f2d02241dfe50998b433f9cd9d8c805dd13343b9ee5b936ab6dd3a7816b48f5",
+      "triangles": 40912,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/rope-dart.lod1.glb",
+      "sha256": "275c943b2e9f4e6fd65efeeee348a51b4d7590e80021e83833296030920faaab",
+      "triangles": 9916,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/rope-dart.lod2.glb",
+      "sha256": "2d7d2ff01a29cbf1930dd53f4e84aee646f12fe8dda454d9cff58b209a9fef46",
+      "triangles": 982,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/meteor-hammer.glb",
+      "sha256": "8eff4c4bc891c744e2d8649bfa0fcaec7080fcfd13eff8d327af1c83c2ab561e",
+      "triangles": 36624,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/meteor-hammer.lod1.glb",
+      "sha256": "08b243d04f93909d970e3853d5eb9830ba9fc872d499455350ac1cec842639f5",
+      "triangles": 8316,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/meteor-hammer.lod2.glb",
+      "sha256": "f9b12a2e03d16491e7ffa678df3fb3442d63040cd579071d15314a381815542c",
+      "triangles": 958,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/weighted-chain.glb",
+      "sha256": "c078ab53871e87438be564f97da532b057ffda378574389d3c7372d45de4f853",
+      "triangles": 36480,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/weighted-chain.lod1.glb",
+      "sha256": "6a7604e767b93bd4b328ee14be8b9554bfdf46f83c47784b142d38b337253aa7",
+      "triangles": 14616,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/flexible/weighted-chain.lod2.glb",
+      "sha256": "793d1fe97b9e098a2d6a7ce1b0ce36a78e6bb56371c3e5c68a6e94e2f3fe73e1",
+      "triangles": 2384,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/chakram.glb",
+      "sha256": "12559b7c21d4522c4bac8f0d066e534e578d9c11fd79581eeb7c14de0aebddac",
+      "triangles": 37936,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/chakram.lod1.glb",
+      "sha256": "dc52e54e27b5ef1598521e494812a0c024ccc80719102d57ab9e39e748639de3",
+      "triangles": 9372,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/chakram.lod2.glb",
+      "sha256": "1b20e66e5b412ffdd04d3d23c1c9cc7d196b707115e6b2203f9a831b549f431e",
+      "triangles": 536,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/kunai.glb",
+      "sha256": "834ec3115521ccf8a8581bdbb4da34319d228ef4052af14dbe1bec86be3b1b0d",
+      "triangles": 29712,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/kunai.lod1.glb",
+      "sha256": "9ed9d3c119419011ef2722dcc96e7c793ec02c7b5366e52b40d4498b9d5cb52a",
+      "triangles": 7036,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/kunai.lod2.glb",
+      "sha256": "e945186e750ab7799cc800424a2c73e714456f551cc9bb92fbd03f666e7fcdcf",
+      "triangles": 460,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/shuriken.glb",
+      "sha256": "1fac78a0cd48d8082d11de8e743d38ecc85d9c64dd5f78640bd86ae365e6906f",
+      "triangles": 15104,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/shuriken.lod1.glb",
+      "sha256": "a30ec3a8e10c9b55a6f8c51c9d766e773d981fa740ac5d82f3a70b3fd6f1f3c8",
+      "triangles": 6008,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/shuriken.lod2.glb",
+      "sha256": "444675f0147ea5c9511b0dae2483e4df5fec46eabf5728941be9bea5558da6ed",
+      "triangles": 896,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/boomerang.glb",
+      "sha256": "4def9471346aad5bb4e9e01dd667a7ae48feebc74e512c84ac794948fc2a92ef",
+      "triangles": 4688,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/boomerang.lod1.glb",
+      "sha256": "eab25439194eabc1eab34b6a12319d34973d66e971a1cad7bfcaffa4033d4e7a",
+      "triangles": 1968,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/boomerang.lod2.glb",
+      "sha256": "d8f49704ae52b0a556027315780919abe5ef870221121942065de4f4a29f1ad8",
+      "triangles": 200,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/javelin.glb",
+      "sha256": "66c9094b5c5c1c7226c70890fbc429c5dd0352d0cc3cce79ae6fc6dfd2869b5d",
+      "triangles": 35664,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/javelin.lod1.glb",
+      "sha256": "09fbe493b18352f47324c8154672d8b991f92a9fb6cc07171c624f9695728aed",
+      "triangles": 9744,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/thrown/javelin.lod2.glb",
+      "sha256": "8c3384057fa949c859240dcffdfcde54c5e76889239141a534a1d47ed4e627f5",
+      "triangles": 600,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/sidearm.glb",
+      "sha256": "a5436912cd800cf020bc695bf2fd49ac4a1b169b3746a3cfc560cbed73620540",
+      "triangles": 37040,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/sidearm.lod1.glb",
+      "sha256": "7592bc1e2456ef9646e48cc7d84dae069c46ba9e82b86e39bf5e264bf8d6f826",
+      "triangles": 13184,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/sidearm.lod2.glb",
+      "sha256": "dfb5be19124d29411a89b76bba30934a98e1d861cf673cb2c6d1ea2c6604961b",
+      "triangles": 1776,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/pulse-rifle.glb",
+      "sha256": "5025a2f11dcf111ef459e622d8fa0ce817dd44b0be0f3e528cc59c5e34ef08a6",
+      "triangles": 71440,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/pulse-rifle.lod1.glb",
+      "sha256": "797818915fe40ac6beacce0c4cfa14edef9ea167b9c930ec0dd5a3c92c28549c",
+      "triangles": 21408,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/pulse-rifle.lod2.glb",
+      "sha256": "9f5a4e16c4bd1c55baea906914a584b0521f6377834fcfd2971def312275b833",
+      "triangles": 2552,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/railgun.glb",
+      "sha256": "3e1d967825100e64b10dfe27c0a0b77bf1926550193de4966e4ef724cd14af5e",
+      "triangles": 85984,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/railgun.lod1.glb",
+      "sha256": "93f553b226278d0642b7cf4f8c18c6dc1d9b85f0972981a76e4336d4ab9feb61",
+      "triangles": 23232,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/railgun.lod2.glb",
+      "sha256": "153739278ede956c5416bbb5ec2f995852466988625da10e3cac83f7c45236a8",
+      "triangles": 4080,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/beam-projector.glb",
+      "sha256": "c3daa56bbf7357cdd1ecbb75032e347833632b6a79afa2314d4ba680395baf11",
+      "triangles": 72080,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/beam-projector.lod1.glb",
+      "sha256": "62e69bbe073988bac0dfca2ea359a6dec6f54a0ccb42c6a211f195c09fcc8565",
+      "triangles": 21536,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/beam-projector.lod2.glb",
+      "sha256": "c2e47b5cc511bb18d9b59e125de609dc0de42fa2e0349b43192653910cf8e636",
+      "triangles": 2992,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/grenade-launcher.glb",
+      "sha256": "49d52bc50a4b9061576290241b668874d9eb2fc69b71a4ad222e5c743c33f608",
+      "triangles": 68336,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/grenade-launcher.lod1.glb",
+      "sha256": "59328235eab02a91b7e204434baee796daf20c4a1e9e77e9c35a058d8d9000b7",
+      "triangles": 20192,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/tech_ranged/grenade-launcher.lod2.glb",
+      "sha256": "4e6812b14497bd2eb0cf4b429c485d225c952d28cbe02421659d7af4e0bfd262",
+      "triangles": 2888,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/wrist-emitter.glb",
+      "sha256": "934c910454fb98752d8e98c05e52d42c7c1047f9c46483911fa1c2d7dc4c6b74",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/wrist-emitter.lod1.glb",
+      "sha256": "5df626a4cc6c1249c1baaf4ab55326828a02e94859c3760f40f15fd2d06b06ca",
+      "triangles": 11504,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/wrist-emitter.lod2.glb",
+      "sha256": "735138a42c58e8317cef45695edef31adc279929e5a1f1e061a965640a8f54b6",
+      "triangles": 1332,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/servo-blade.glb",
+      "sha256": "6e852c7035a5b6c00deee13ec1ce1e8b16d40419ff4cbea0e4d6aef010e14774",
+      "triangles": 28436,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/servo-blade.lod1.glb",
+      "sha256": "a7226483529620564eeb9c2d5e08e071cb3087504290151d16093b88df7a0ad8",
+      "triangles": 10692,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/servo-blade.lod2.glb",
+      "sha256": "74e4973abe5bcdd433370923667f3a05591f6c12c9fd568cb355cc1af4c001a1",
+      "triangles": 1701,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/shoulder-mount.glb",
+      "sha256": "d10075a1023e2b339fefeece24244250a027b9b36a933fe63fb29dffc89c3c83",
+      "triangles": 60272,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/shoulder-mount.lod1.glb",
+      "sha256": "eacc47a92d20933719e570513c9e8e910177aa83c0004beed5425363d7548439",
+      "triangles": 21008,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/shoulder-mount.lod2.glb",
+      "sha256": "d8171b022683efe1ef9eac64a465ed59eb5d97759439aff0aca9f8a1f5e385a2",
+      "triangles": 2020,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/energy-gauntlet.glb",
+      "sha256": "3870cfb9d7361c7b20a498a32653844a00b6db2bb7ff0f343aad4e6f54f2f903",
+      "triangles": 50704,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/energy-gauntlet.lod1.glb",
+      "sha256": "eca58e0ae04a2f997dacdb9689014201b673b3be7bc09fd7a1d618363702e284",
+      "triangles": 16528,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/energy-gauntlet.lod2.glb",
+      "sha256": "c7248e41322bab9e970d76348f8f9d00495c9154d5709f57e6dbc08e48d9f6fd",
+      "triangles": 2220,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/exo-arm.glb",
+      "sha256": "733eb96a125e96f7e8f909ea0e720f3fa5593f394f8fa3bcad66fe0d4ab3192e",
+      "triangles": 44224,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/exo-arm.lod1.glb",
+      "sha256": "090411dbe58adbd414fd352c08e4a0c64c3f28aa3d56a885b175eaf865ea0bb3",
+      "triangles": 17056,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/integrated/exo-arm.lod2.glb",
+      "sha256": "056006a373d9482a1f28d9fe8d0d6548c75b6bea8c82c511a9505c3a42368965",
+      "triangles": 2512,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/buckler.glb",
+      "sha256": "fea268bbbb3b149f58826fefe91151f20779527fce4be68bf30d95ed081ea004",
+      "triangles": 21792,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/buckler.lod1.glb",
+      "sha256": "8b85c5ccc3c3e7e4717312588ec21f890eb0cf4d85f86debcabfaf0df66fa8dc",
+      "triangles": 8272,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/buckler.lod2.glb",
+      "sha256": "6d17b09a5a5b37c493fafb5fbc7417396662898a3ec36b8847ef0142d061e47e",
+      "triangles": 1112,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kite-shield.glb",
+      "sha256": "6ff77af88dee5b4fa600f64a504fe90e5fb68d5a1f9764a1c1843926a13b2421",
+      "triangles": 24672,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kite-shield.lod1.glb",
+      "sha256": "d068882efcd1a2a1555a71c24705fa5a48959823ea6b3bc4cf1ce2a2aa83f0ee",
+      "triangles": 10608,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kite-shield.lod2.glb",
+      "sha256": "4207c6f7f570d9e5835ae21140a96f834d13b687b9c8b81ab66e4ba6f9fa6a79",
+      "triangles": 1672,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/tower-shield.glb",
+      "sha256": "7e7f0d93ce30b83b891ac745468420927fbed06f7da0b3b4b4f9086765484d85",
+      "triangles": 28368,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/tower-shield.lod1.glb",
+      "sha256": "5d57917b4edc17bad356e48d488e9e90247205b7d91d04bc9c95e7a1d6084ebd",
+      "triangles": 12384,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/tower-shield.lod2.glb",
+      "sha256": "7b5fd04a3dbfeb0f7913ee32332a323ad2b646836d4c4468d376bbe1d4bd80d9",
+      "triangles": 2196,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/round-shield.glb",
+      "sha256": "a8d4fac717c6dec14d9123bdc38406601785abdea94d4b0173383cac7b7f89b6",
+      "triangles": 43664,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/round-shield.lod1.glb",
+      "sha256": "3a6b21fc065b0ca788d097260b7d7c9c792f016d388c46f490449fc8018f352d",
+      "triangles": 14812,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/round-shield.lod2.glb",
+      "sha256": "f710fbb3748b1eb04d88825046bc644fa623a89f534922f6fa11f9c554f37ce6",
+      "triangles": 1624,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kinetic-disc.glb",
+      "sha256": "e8706893489c4bcf5293929e33c84e3aac4e3a727a683ce034c8f2a6e4866d38",
+      "triangles": 32752,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kinetic-disc.lod1.glb",
+      "sha256": "363004f119f0f4c34fa3e335e749bb8da8f6e581d0fdd8617eaaaac7bd95a7e8",
+      "triangles": 12848,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/shields/kinetic-disc.lod2.glb",
+      "sha256": "5793f345f1a3b7f796d7e7d64258853ca3a6078f1ebd5ef1e6c5a090e0f47df4",
+      "triangles": 1712,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/flame-sword.glb",
+      "sha256": "486a3d47478030cbd32e8e28942598a7ac62da729c089956ac7b5feb9068a210",
+      "triangles": 66416,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/flame-sword.lod1.glb",
+      "sha256": "155f56b02eff7ad13abeebae03b102b4d12a5437023a41ef7152b25ff16aa7c3",
+      "triangles": 17392,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/flame-sword.lod2.glb",
+      "sha256": "a336677f75d9d61b5f37840a645d2d22ab09e23c4b7c30dda219c072a364da63",
+      "triangles": 920,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/ice-spear.glb",
+      "sha256": "821e78c5767c8373cc8575ad18a98c8304d6189499ea972c126410f03d9b2b02",
+      "triangles": 8928,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/ice-spear.lod1.glb",
+      "sha256": "7c061da09d7de52b1be4a2b1feae3474aa81e99809ec14114a104aedee4580c9",
+      "triangles": 4288,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/ice-spear.lod2.glb",
+      "sha256": "7b60e9a61c8dc93c1a8de6102f3f15c41deb470273c12b46d9078bb2cc0efdc3",
+      "triangles": 660,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/crystal-scythe.glb",
+      "sha256": "7cdba0faa816d46b37f23edd4d177d6bd148aa8fc02186ec2abe1ed8f547ae96",
+      "triangles": 8772,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/crystal-scythe.lod1.glb",
+      "sha256": "b86274b5fc2ef03aeda29c3beaea40939c9ef440d6c5ab54192886220eca4b46",
+      "triangles": 4276,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/crystal-scythe.lod2.glb",
+      "sha256": "04582c88709a8fcf2abf47151106df5a15063d91f5e9857ce9509c4c7f312133",
+      "triangles": 605,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/light-blade.glb",
+      "sha256": "a1ea92165b1f6bba2eb03ab8fb96e2fef1d0386381783a07f14c275043b765b3",
+      "triangles": 47264,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/light-blade.lod1.glb",
+      "sha256": "2a36f3f471fe9d682833727e6ff759109ccd435b477537c2794e54866ed988d4",
+      "triangles": 12176,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/light-blade.lod2.glb",
+      "sha256": "23f759f2271cc254c4e5519c938c9d4f0dc30d1e95bf64d4d26d3907283969e2",
+      "triangles": 928,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/void-disc.glb",
+      "sha256": "27d05f295c56647443b0ddc30c47390f45cdc862c79815109e44db3d45a2a384",
+      "triangles": 33232,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/void-disc.lod1.glb",
+      "sha256": "8795b49cf54269dcbc9ebe57e743de45d845080fb5242588554e1453cc920506",
+      "triangles": 13232,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/manifested/void-disc.lod2.glb",
+      "sha256": "91c7caab3dc2cb4a0996aa44a1b18612fd01fb5b51239ed7e76d64aeaf94cc50",
+      "triangles": 1768,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/turret.glb",
+      "sha256": "2d608ea6ab72de2f0a1fafef84bd569d9620687ebaeba95178fb105fa4e58b72",
+      "triangles": 26160,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/turret.lod1.glb",
+      "sha256": "542ff0d5940f925e83b59c4b707233a13d6f650ad9fed77c550c6dc6983a45a3",
+      "triangles": 11296,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/turret.lod2.glb",
+      "sha256": "6df2492b506e5ac6302f04e0c0386323b388b364d50e8983c48eb3bc8da09120",
+      "triangles": 1372,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/trip-mine.glb",
+      "sha256": "d1a4bee1710a5dd0fddb5bf5535aab85382c5c31ea534089ccde11ec9f9051b2",
+      "triangles": 11696,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/trip-mine.lod1.glb",
+      "sha256": "92078112fbf1135db15aefb98fa7496fd8185388b0c1105f6b6bfb818f13bced",
+      "triangles": 5104,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/trip-mine.lod2.glb",
+      "sha256": "23ae7c8d06fd117b287701c09dfbbe67866c66e52656213a5037943660ada64e",
+      "triangles": 1216,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/combat-drone.glb",
+      "sha256": "3e78a9da6bc052ace53d64e43b6ea22327ad284a1090590034166e761b747fa3",
+      "triangles": 50704,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/combat-drone.lod1.glb",
+      "sha256": "a41777de5dd2d243393427fba6fea53a76973d2674c986c0bd92fd07dc503f29",
+      "triangles": 16640,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/combat-drone.lod2.glb",
+      "sha256": "a51a261ac4a0517cace319412648a6c9a47de698f03f343575854e45885676dc",
+      "triangles": 2340,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/pulse-pylon.glb",
+      "sha256": "09d2f0238428a0fe16d6f9500154f1aadcd1c2e65987f758557efd76b9e8658d",
+      "triangles": 18640,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/pulse-pylon.lod1.glb",
+      "sha256": "1001aab5e7af6bac8068f7a043fa07270a94712a8757256b943a080b759f85cc",
+      "triangles": 8768,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/pulse-pylon.lod2.glb",
+      "sha256": "15743dcc6d057e3ca170f7ea7e05397dd9e9307432427f4b8e788d8b8936ddf4",
+      "triangles": 1220,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/sentry-node.glb",
+      "sha256": "2a586028709fbb57993d602499623e8829aaa267720c143fa1a25a3caf2ed252",
+      "triangles": 33792,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/sentry-node.lod1.glb",
+      "sha256": "d491ccbdfd8a1c4e9969bc081aec8ff46007bd887d4e6243ba9a9e5f41e9a9b6",
+      "triangles": 12464,
+      "clips": 0
+    },
+    {
+      "path": "assets/weapons/deployables/sentry-node.lod2.glb",
+      "sha256": "0dd099d8628a9a5f20e0989e3ca6a4137cde85f99621c73b82724701135882ec",
+      "triangles": 1392,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/helmet/01.glb",
+      "sha256": "11cf746230ba72e097e91259440c5fdf12d2b007e15e1a3a428f3284502a703d",
+      "triangles": 79048,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/helmet/02.glb",
+      "sha256": "d4fd2ae7dab61c5ae957235f7c09ca1f204c227d47154efc25c61f2d0876ccae",
+      "triangles": 108832,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/helmet/03.glb",
+      "sha256": "25ef86c37d2a402559abf7a0c562eea43bc93104c155681a2983b153f9890070",
+      "triangles": 87656,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/helmet/04.glb",
+      "sha256": "c84578af6fbeb98f89b83481ffdc798adfbda9e2158eb01e165694c53995c95d",
+      "triangles": 102968,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/helmet/05.glb",
+      "sha256": "61a0fe1eef08ee257ceab6fd82908ad3be7f4da1c7dc15525796353ea0e14d44",
+      "triangles": 91088,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/chest/01.glb",
+      "sha256": "cb11bb5f51a7af4a22348c0cbe9f07f9c905c5f0bf5e6df1f1d813491952c430",
+      "triangles": 106156,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/chest/02.glb",
+      "sha256": "93c1f3750ad56e3a576baac2b7ddf3d3e2a071272ce3729beccac70f3a725373",
+      "triangles": 195960,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/chest/03.glb",
+      "sha256": "c62838d71a7d36bdfe9f7c8309dad2b332cc3dd49f460222f4837d8eabb9f1f2",
+      "triangles": 138612,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/chest/04.glb",
+      "sha256": "3208ec32466766e934bea72a8508dcfb802c4b215ed6bac628091b817b596e23",
+      "triangles": 129740,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/chest/05.glb",
+      "sha256": "c692cc738a5e71696c674e0e8ba74dc33ea8a6dc72fca63c33c007129ea7feb2",
+      "triangles": 160732,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/shoulder/01.glb",
+      "sha256": "9a508ceb2a1c6cc6f29e99165566e264965192963199288afba222d97d9d7679",
+      "triangles": 53740,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/shoulder/02.glb",
+      "sha256": "58a78a93aa54552936dda40c83cec7b9ffdaba36233c3d0d8bcd517f667256e3",
+      "triangles": 88016,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/shoulder/03.glb",
+      "sha256": "a172c76830fe60602f667d5322273516ad4c5f03313aec7d327cd76d6ae1dbc2",
+      "triangles": 60812,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/shoulder/04.glb",
+      "sha256": "b2415c67caf7dd4e5d88c2658b0b41ba8f1917c8488669994b3ea63af362d281",
+      "triangles": 65460,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/shoulder/05.glb",
+      "sha256": "f675eea43cfbe6a0dfd70a9f7599970eccff0677ca60533065c4a64f5667264b",
+      "triangles": 80628,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/arm/01.glb",
+      "sha256": "17f45b480081da2505f63f7191f5853159bebdacffbb5a37d3430f20a7a74e89",
+      "triangles": 81412,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/arm/02.glb",
+      "sha256": "e9cfcee2b47b61728f803d9128807f0b075de3a861a9ab8d098d985b24322dba",
+      "triangles": 89364,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/arm/03.glb",
+      "sha256": "218a772b0e8da59e3fda927752a6fc18e8a552a50340713b8c4cd36e1e58f629",
+      "triangles": 99564,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/arm/04.glb",
+      "sha256": "8c6109cf85f427607c82620c32789581763143094ced3b9e5407c68680cb0f94",
+      "triangles": 80916,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/arm/05.glb",
+      "sha256": "7df1273f78fd8b64873e54255cf04d12298df1cb31f9182a3929fa60c73ad411",
+      "triangles": 98820,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/glove/01.glb",
+      "sha256": "cfcdf95b76c482adc78244cbb262ab6e23bee778082b0bb9d4ec0a20391afe3b",
+      "triangles": 65720,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/glove/02.glb",
+      "sha256": "fb4ed4f6049523f46f7b968993eb09320bcced6d576fdaa2c8d3603f0d330425",
+      "triangles": 70488,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/glove/03.glb",
+      "sha256": "34c2059fd3c93573ae677eea617ada7c4137fb53a7eb82fb2baa69edc26b14f4",
+      "triangles": 60200,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/glove/04.glb",
+      "sha256": "4fb1db409cb90b387037b449bb1940d960bd4bde05c761a4dcbb3fc23cfc9026",
+      "triangles": 65912,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/glove/05.glb",
+      "sha256": "0051edba7dae4b601d234040b88fab09d587b6049586ea7498bd3ac52b1a4d74",
+      "triangles": 84472,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/belt/01.glb",
+      "sha256": "3ce188d485e3bb4cbc85140de512534e3242e86f79b2481570d6af7f92add50c",
+      "triangles": 65880,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/belt/02.glb",
+      "sha256": "e1e9d6f65a6a51a797b31ac3eb5ad9e7b5d1fd70c20bf2fda3564f000dbaf4b7",
+      "triangles": 94184,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/belt/03.glb",
+      "sha256": "3b60e22a1fe7c9f46a33016d08551b60c13ad3d7ad8af920d3171a7d2cb60e4c",
+      "triangles": 69704,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/belt/04.glb",
+      "sha256": "e2c8fc859e33c5d2c2bf7d39293d1490bd9a0dd115c585a488c51abc8f235dee",
+      "triangles": 80108,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/belt/05.glb",
+      "sha256": "2334386a4374590f767e64b4ade808f33f306c53744391059cb43793b500ad79",
+      "triangles": 101504,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/legs/01.glb",
+      "sha256": "e238adeb6db4e2316792dc954c4465cdde8bedd094391cce2b91dbc703123061",
+      "triangles": 144040,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/legs/02.glb",
+      "sha256": "68b2e3d02458b0d29227124622ffa4e6d00e5de26dec62b34592f7ed57a4f8df",
+      "triangles": 174448,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/legs/03.glb",
+      "sha256": "8054efe97bda0c4775c750378b5448f06dd31abf4028324661ce9c0c93dbd4a2",
+      "triangles": 170440,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/legs/04.glb",
+      "sha256": "62a6fc11b173fdb19678a08ab93ed44637f4fde91f42219b58169855e973ac70",
+      "triangles": 141352,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/legs/05.glb",
+      "sha256": "6a7be34a5a753e728e24b4338740f8102b85ca2012026f07dbb5acfcdf63401a",
+      "triangles": 187080,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/boot/01.glb",
+      "sha256": "bbb4e0285b171dd349c3184861723341740dedb06d1899f77614323ab0de23fd",
+      "triangles": 85264,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/boot/02.glb",
+      "sha256": "d59bd6232921eef468bdea002804c7e3993f2130d769e0e4829fe01b7c3b7ee4",
+      "triangles": 94288,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/boot/03.glb",
+      "sha256": "c695c2ecb5e898f697789167c6e4a2efef37987c335fc2ee523a5df614ff7864",
+      "triangles": 77048,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/boot/04.glb",
+      "sha256": "23bc130cb02e09ebdd154e669536c45c5013e2e1eb2378e2da38395d814fc42a",
+      "triangles": 101984,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/boot/05.glb",
+      "sha256": "12f72f54063dd2be5a50d581e1ee69d839202cfc640b4d5cee6d5b9d27234ef7",
+      "triangles": 113536,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/cloak/01.glb",
+      "sha256": "c5e469515ea55a8a74fd693d8c966f5a6686f162d2caebae63397c45bef63ea5",
+      "triangles": 89064,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/cloak/02.glb",
+      "sha256": "224f2609c969156b469b343a684b72c3fc127bb0fccc0f7d1235e89e3a05f326",
+      "triangles": 137880,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/cloak/03.glb",
+      "sha256": "da3cbb1d8a09782291f1fae912defdf2fc9a2025e4bb373a719f7e6bd722a0bd",
+      "triangles": 96944,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/cloak/04.glb",
+      "sha256": "7039fcc2d4c539c04ef903eafbf949213e6be44ce000af0ac5e10e26c5ba823b",
+      "triangles": 117496,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/cloak/05.glb",
+      "sha256": "f2f6db78e88d1b81bfbaddd2e68bfef52eeafbd5c5006414ebaa13b4e2582d42",
+      "triangles": 141032,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/mask/01.glb",
+      "sha256": "96130966c903b8adc635d5b7f7972c43cc9834dbeaccbd8a8751b409e520fd60",
+      "triangles": 67136,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/mask/02.glb",
+      "sha256": "8af5e75e277719a0c884b109f5d2f0bffc3728982b70cc24bad1bf8b37560622",
+      "triangles": 94456,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/mask/03.glb",
+      "sha256": "ab819a514d3d192b6044c4b2d434cec8e2b1d7fa9531fc546a934e9ebb9f5e39",
+      "triangles": 68584,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/mask/04.glb",
+      "sha256": "b98053b464a043a560b2150072e0107f392d3aa78136c1b871251f38bd4d29e7",
+      "triangles": 67872,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/mask/05.glb",
+      "sha256": "5a001e5ac6c7da553823a0af4bc685f243266b3a181ba55e11f1d851d0fb7ee1",
+      "triangles": 69776,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/robe/01.glb",
+      "sha256": "2d68f09485dc8261ed70b12e26b096d3869f78337212acbfa960e75f298699f8",
+      "triangles": 120000,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/robe/02.glb",
+      "sha256": "85c77eba9577996cf0d9484fff0e84e3613356749c4a677dab9e31f38aa803a1",
+      "triangles": 177120,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/robe/03.glb",
+      "sha256": "df6aa2a05c4e27c0ef1d2743677b0f1c045a4955b482c937d3bf65453553c2ec",
+      "triangles": 129648,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/robe/04.glb",
+      "sha256": "7f1cb00c0e5b2f5328296105333b68ddde03cfef43e27b51961360c9f13ce550",
+      "triangles": 127936,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/robe/05.glb",
+      "sha256": "9c2aa1b9bc1719d5fea248f2373178f78628c7952215f2ea4e42b2766c49665f",
+      "triangles": 156656,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/accessory/01.glb",
+      "sha256": "7e8a9e1b72bf6906f25591465bc288668d17131b7622491feeea13dba9649202",
+      "triangles": 28776,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/accessory/02.glb",
+      "sha256": "b2ee955d6aeb49edd70e345927d5201f8089c9e2db1c23a85ca2238b3ca0cf9b",
+      "triangles": 12320,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/accessory/03.glb",
+      "sha256": "ed38ff090a519ddf61fecf3c2f299a22e0d1c7f4998ed8bcbc0cea958fd4023e",
+      "triangles": 20320,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/accessory/04.glb",
+      "sha256": "b4bcad9edd9396ff22b2ad719078e9c0e3f5431a056bc48c6e036120920f3eb5",
+      "triangles": 18896,
+      "clips": 0
+    },
+    {
+      "path": "assets/armor/accessory/05.glb",
+      "sha256": "2ed2dd46ef3a71998106ae1fafcb883100f8e97c4e7975cacf0b186e7ee83300",
+      "triangles": 15344,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/001.glb",
+      "sha256": "f38a2dc2368576dc2c616ad8e4abe7f6587a34fd3270b125947e05878e06d0f1",
+      "triangles": 40512,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/002.glb",
+      "sha256": "3777dde3efda0031da5d735d8c58c433bbafa0b705cc7d339dbe54b617fd23dd",
+      "triangles": 35616,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/003.glb",
+      "sha256": "14400cbf1e7c229e06bf7c3b0d9ff92b05975456adf2c84cafa63534940d5fd3",
+      "triangles": 26032,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/004.glb",
+      "sha256": "0c9f1b90da38d3dc34af66c4b026d492e4848d7d733c7e6fba9e1bbb8e283c34",
+      "triangles": 8288,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/005.glb",
+      "sha256": "171dde0572f2175be67c93c0a226dace56995c3abb6b12772287a32347b77f12",
+      "triangles": 16448,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/006.glb",
+      "sha256": "16e568c04ed31a5ffe681ca2bd1ed5ac06d254fbd01c5323f3e3451c6a767364",
+      "triangles": 18688,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/007.glb",
+      "sha256": "c56cba5bec73df843746a832750182678dc0933cac5de86e02b891944108e1b2",
+      "triangles": 29424,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/008.glb",
+      "sha256": "b26d85557a5ca99c79d05142f8f12ee551413942bca023b8e9c7083dd48f4f39",
+      "triangles": 40160,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/009.glb",
+      "sha256": "20b394e6b9055f497e8008b04f94057cc10fcddc1029db0915c34f309b32a6f0",
+      "triangles": 65728,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/010.glb",
+      "sha256": "efde588f13b8978754763f78b9aba6da688b7fc02fc07cc4bb52bbb9c1c0e748",
+      "triangles": 18096,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/011.glb",
+      "sha256": "cb8157ce649e10c39558b74a7f2156dd97c9d8623eb85abc237ad7e2641f93c9",
+      "triangles": 22976,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/012.glb",
+      "sha256": "dccb0b87d7004cb69878135f2f5b3830b80ebc33a6956b29b0b736593948ed19",
+      "triangles": 21760,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/013.glb",
+      "sha256": "2baa32c203fc16cc8e3cfa227036372fdd90ef560548d1b58f28a9b52e2bd1e6",
+      "triangles": 14400,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/014.glb",
+      "sha256": "dd575aab2e082aa50d1fdcd61cfafca41fe1329b33a88eaae2e49a9d3da715ed",
+      "triangles": 19240,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/015.glb",
+      "sha256": "104a95464c3a4ea9fe75ee1c127ba1c97f5c4cfe2a26e17feabb3e544ac29608",
+      "triangles": 23552,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/016.glb",
+      "sha256": "e41ae6e30c67e4534f2e93f3f4b822e0376f92a509014275b7210527a71f90dc",
+      "triangles": 14480,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/017.glb",
+      "sha256": "59e1f037dc83483ba2e8e4cbaaa0140e1d00067eb8da7b329d562487c1df7679",
+      "triangles": 26616,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/018.glb",
+      "sha256": "9078949d9abdab54ceef0fbb496637284b25eee16c3513ae120910e8acbf9541",
+      "triangles": 9632,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/019.glb",
+      "sha256": "b96765cb20f5b68a6dc5eb9de3436ccc7fa5b3c7789413ccd33f229b7fa4701e",
+      "triangles": 26872,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/020.glb",
+      "sha256": "11b3f15c2e5f44dd5588eb4114f83d567bc944178cc1d3d22c3d6b7d2d69a458",
+      "triangles": 13568,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/021.glb",
+      "sha256": "9ba9fc58c50204c4423f6e802b731a0a4ae85c4eaf1113402da61cad73bb0586",
+      "triangles": 56128,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/022.glb",
+      "sha256": "1aeb7cc944ba016822bfbe812ddf309d90cdef811fbdbead59091700b00ed6cd",
+      "triangles": 50752,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/023.glb",
+      "sha256": "f194e55eb57197bffe70b38f51ab9fda68372cab1b168b7e41b982899c05db5a",
+      "triangles": 34080,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/024.glb",
+      "sha256": "7d0361ae4303bda021d54bfa9fb10cc3220fc4fe8bc7f9c53f2dc19eecc9c835",
+      "triangles": 11088,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/025.glb",
+      "sha256": "b93e0760ff3f48ff168b55c7a9500732c5f9805623562d1ff0245530a06cc8d3",
+      "triangles": 12416,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/026.glb",
+      "sha256": "f9f49c0fb068bb9b135cfeef1e0491ccde5837c2ae43900f1b5fea7bcc926582",
+      "triangles": 13296,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/027.glb",
+      "sha256": "cdefa69f5a1a77f666ced211fcbe983a27e9c7f25d7440ed4036d40af0ad8482",
+      "triangles": 40688,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/028.glb",
+      "sha256": "2726c8f54d8faf640ba6cb7f1c5ae6aaa370f6d75116a63be29948d4445dec33",
+      "triangles": 41632,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/029.glb",
+      "sha256": "62657e8504c36d31a827f70e003ee9c5a66ccf0efec1c6e4db549174a8844d77",
+      "triangles": 26040,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/030.glb",
+      "sha256": "81a8498826f9547d82793ba49da92c440921b23f3abd06e299ea1bd9b4915beb",
+      "triangles": 14752,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/031.glb",
+      "sha256": "0bdd1ff5e05ba31fd2f1adde12f63ea7b57d625d4711b0491625c1eef5710fbc",
+      "triangles": 17856,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/032.glb",
+      "sha256": "efdd1d1859fc1846f7cd2ae74a4b620612b28b3a2a52025dea53152a40ad6ba1",
+      "triangles": 22592,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/033.glb",
+      "sha256": "2cfe7c39fbe12ff65b08ede9b3f48de86e56ea92a6aca186f02071b8737d0fde",
+      "triangles": 24192,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/034.glb",
+      "sha256": "f889b95709e973d2ffa23c92ffd07b18a01dc73f4572f69a28639df81bea1cda",
+      "triangles": 13328,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/035.glb",
+      "sha256": "cb7119af3923574ddc4a88cc91c29d16204e696799fdbd3d96ce2991e34b4893",
+      "triangles": 45664,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/036.glb",
+      "sha256": "34823c19b606f69c722ae1d36773426cd7a70230aa76fd958c746e7921d8ede5",
+      "triangles": 10232,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/037.glb",
+      "sha256": "c4553d62913fb562a7c63e18a0326de84bbeffaeefccc89772ec7133faba45a7",
+      "triangles": 26424,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/038.glb",
+      "sha256": "cde402b798bc6434e8ffaaee5c93779da1322d69fead26278816ca13e813717e",
+      "triangles": 8448,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/039.glb",
+      "sha256": "34cb9e9e6111db69f819eb35e7763509519c7e1d264987eb073f717577e1a2a5",
+      "triangles": 36416,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/040.glb",
+      "sha256": "57c5ab72bf60fc931a5a71f1f587131b7232919e01909bae860fb087e5bfb658",
+      "triangles": 13872,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/041.glb",
+      "sha256": "e95745b8e9ee38d61b3402af2fc94221bbb354bc4c86e5f3c0c4f7667047d2e4",
+      "triangles": 65488,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/042.glb",
+      "sha256": "cfece350eb4fb68bb3fe72339b24e9ab1bd38f2608b62075ed0224328454ba1b",
+      "triangles": 64720,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/043.glb",
+      "sha256": "187f9641b7737cabf8e8daaffe9b06fdce7fbe1a063d413ff2ea810f384cc86e",
+      "triangles": 35888,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/044.glb",
+      "sha256": "6edce16fc8ff05e865ce759bd8790fb2d89f7cd580c9a7a67422cd23ed0d42a4",
+      "triangles": 15200,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/045.glb",
+      "sha256": "778d204db531aec3a5b182f07dd9887fa45424b4d17059e2484f2343169e924b",
+      "triangles": 9568,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/046.glb",
+      "sha256": "2181abc0224bb8221bf68c655b996bc554f95a114708046676c5cb0d0f59bce9",
+      "triangles": 14528,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/047.glb",
+      "sha256": "ec15eb2cc0c3fb93fc6e7175cd22a97f61c375313bd9d8af9c0bb05c6c7bfff7",
+      "triangles": 37744,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/048.glb",
+      "sha256": "fd700fbb4754b2ce6176e5caac844be979f8f17c84d4b124ca370357a0f6e3c9",
+      "triangles": 21072,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/049.glb",
+      "sha256": "39feb2895a4deae74932f3a5c9a342bacf2069e216deb5e831bd5adce3c4aeeb",
+      "triangles": 39808,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/050.glb",
+      "sha256": "36e0979b9256e3a5f2bbf7378ffadb17ebaa2f75a01fe31f545dba65f5176e9f",
+      "triangles": 12272,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/051.glb",
+      "sha256": "e79187a4c9f9b80fc8a26be2e3a0330d090bb334b0e38cbe5f20422639aaf48a",
+      "triangles": 20792,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/052.glb",
+      "sha256": "80f199cba874d79dd67b0208b40a4dea4eef70c280e943b6e07faba1fdd2c176",
+      "triangles": 29008,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/053.glb",
+      "sha256": "99638971f64d2b3b676e4e50aa97bafb64504d1ba0615888e894ac7214fcca55",
+      "triangles": 17296,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/054.glb",
+      "sha256": "1fefa6e50cc3a52a2ff24ddb9f86775fd25ebd80b49f76913b712870d0ab4bb7",
+      "triangles": 12544,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/055.glb",
+      "sha256": "b3e1276a8731096c02ae09da73d5b2bf700058bb89863bb4f1c3cc3e54eb3910",
+      "triangles": 24752,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/056.glb",
+      "sha256": "5537fe17b385983f643ceb7bae7e9944eb3559bd3e7c1d22af81e8d62b50ef97",
+      "triangles": 11664,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/057.glb",
+      "sha256": "3f5251838d13763403f0886688898616f1533dadfa7f67855e7aa9027bb80a8a",
+      "triangles": 30696,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/058.glb",
+      "sha256": "c1c8cbe9eab151e519dbaa46e9a6081c0cc69056a8fde6716df7a9b278eefd38",
+      "triangles": 10912,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/059.glb",
+      "sha256": "a7426c4d6921552dbd361d3ad5ffbf7b566eebc5ac491b56e4090ad7da0cc835",
+      "triangles": 33312,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/060.glb",
+      "sha256": "415c3f265491f93f3617f3bc2f941320cb6f37f8bbb278e32ae3e3d1e7cd6530",
+      "triangles": 14144,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/061.glb",
+      "sha256": "6cf91214249adfa39361b32e7aa365f1a2a287a098490ce7019f1719ffe4f969",
+      "triangles": 56768,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/062.glb",
+      "sha256": "a800f35e337b660d0e5e94cb6ba1dd92d62637f80c0383154980183844b5b97f",
+      "triangles": 19264,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/063.glb",
+      "sha256": "a12ff924799b14c3e2acec00c39d6e68d2c20a5032c33bf0e4798c992e87b59f",
+      "triangles": 24560,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/064.glb",
+      "sha256": "e69069a93e2cae1475d28d48c92838318561704f2c3a60e1cf4eb6f20c44fec7",
+      "triangles": 10272,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/065.glb",
+      "sha256": "6846d2d3a2345013bebfae6026c50396f23945fcd950396c9137c25bc831be5b",
+      "triangles": 8952,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/066.glb",
+      "sha256": "1da56e520d525c6c9d483fee12edfb90f940accce8633b58887ff7bba8982221",
+      "triangles": 13056,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/067.glb",
+      "sha256": "b741af7772de75f8dab91a396397c342d50870b590d745e5b6e2be9e987182f9",
+      "triangles": 51376,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/068.glb",
+      "sha256": "7e91ec3143bea0ca605eef5bb3890cb1972c2f0c8877b3ae5151e63736419767",
+      "triangles": 15840,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/069.glb",
+      "sha256": "4ba712d340c09533c51a2f5656f91552861db4cd7c87ffb211e974faea23f761",
+      "triangles": 30248,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/070.glb",
+      "sha256": "3551d5541dce64ec1f32742739574f705307d976f287a2601f288d5080ed0ba1",
+      "triangles": 25552,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/071.glb",
+      "sha256": "5131fd636e7b131c26b14a2f359760f1488144412fdd58c257398eaa92f5d7d1",
+      "triangles": 13856,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/072.glb",
+      "sha256": "190d6808fae7acf14e692b07d38ad75aeeba229133afa0b6aff7303cfcaadb33",
+      "triangles": 24784,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/073.glb",
+      "sha256": "ca804b7c56f539ebb1d27e353491e91b50565899c35a3dd2a70cf5e0ca321b19",
+      "triangles": 34000,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/074.glb",
+      "sha256": "225a3d820aafe3ae3247a3dfab7460518731ce65e97ab5ded521dd9f755176ad",
+      "triangles": 16136,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/075.glb",
+      "sha256": "cbe5f311dbfa4544e1cf170e5b2fdccc199b6ef47296dcb186a06125eb7810d4",
+      "triangles": 50320,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/076.glb",
+      "sha256": "343f1479803d4d718450d6c8acbcc330171f4c80a333ca5c27d9a33798536055",
+      "triangles": 18160,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/077.glb",
+      "sha256": "e873efa94116946966baa1411cf303d804dad5a26d00d55983218175fc088c76",
+      "triangles": 27144,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/078.glb",
+      "sha256": "d51c3c6021203322d10f2236e9c4196c6882258c025b09b527c300ca6e9125b3",
+      "triangles": 11920,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/079.glb",
+      "sha256": "6ee70a8354e69766b9b57d9605219a108153ac6b3825ea5f8e4922c35796b5c0",
+      "triangles": 18344,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/080.glb",
+      "sha256": "a2f68986342bb85c5eddb803855a41181ebcd07146383701d09d3229d26ff407",
+      "triangles": 19504,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/081.glb",
+      "sha256": "f1c1d2afc61e5e2af37b7e54192da41ff84526a0d8e3b20a7d92a2eb0d1daf24",
+      "triangles": 60248,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/082.glb",
+      "sha256": "cffd8a3dcb09db0268a6728d2b874cf7dc690e81cb2ca2b2a73b54bfdce617e3",
+      "triangles": 54576,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/083.glb",
+      "sha256": "357cf3f649c13dd0831f1631b03c19d6d35f7875df93e5b4b71d13187ed0bfba",
+      "triangles": 49072,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/084.glb",
+      "sha256": "099e22529bb3525bd15aae17a19e0a0519f12f1f2cf82f549ada72f219274e37",
+      "triangles": 11792,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/085.glb",
+      "sha256": "14e96a75eb29467d8fad5cf9cd7b4f0fd54e9d1ce4212da769993ccbc547f0a0",
+      "triangles": 7288,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/086.glb",
+      "sha256": "8d0d4edbf2a91f339330bb1d92fc6ca2bf84bcb0cc63192f9d1058a2efd1f2ac",
+      "triangles": 18336,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/087.glb",
+      "sha256": "c73c0d7d1aeda899d0db51000e73ad7ec7d1b17abfc9f6e6031abed51da42dc1",
+      "triangles": 27952,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/088.glb",
+      "sha256": "21af17f7d2970ba54cfccd5f1e2d406527b7650ee3fdb839df22c04f86790248",
+      "triangles": 41680,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/089.glb",
+      "sha256": "606ec309209fcdcf279bf7bf435d825ddbec27cbc8ef634da7c6ee50c28fdbb8",
+      "triangles": 19680,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/090.glb",
+      "sha256": "21f1e39f90cc60e4c6748c2523cefd6f608c1e251042f723ed719f33f381e30b",
+      "triangles": 50608,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/091.glb",
+      "sha256": "be06367e0ef25ba95c33c2861841f40442b32fe39cffe71ef01e2f14acce52ca",
+      "triangles": 23936,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/092.glb",
+      "sha256": "1c924e23e592a505bf67b846355d30068a282aa4276190df57b7b91c704d6f3b",
+      "triangles": 26384,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/093.glb",
+      "sha256": "e27778c72eed8c2c204c9267a205f401a44618d4e4e7e4b8e365c419858371ce",
+      "triangles": 15168,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/094.glb",
+      "sha256": "f9215853f1d0bc5eba2d96e611f52dd313866fda66d49d01cf678504041f4522",
+      "triangles": 22480,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/095.glb",
+      "sha256": "1d34430651fde17889808d6f972ce0216d881444c89b786e99ec7562780ef472",
+      "triangles": 40256,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/096.glb",
+      "sha256": "ce9c1a3978a93c1f038408f5e36dc1b43b0c217d110d85abe9deeab10b3e41fa",
+      "triangles": 23040,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/097.glb",
+      "sha256": "c97df4e906e4ab4565c8c9a6ed89b17816cb39147bc7607ccbfaf698690b35db",
+      "triangles": 27720,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/098.glb",
+      "sha256": "2e211f5551fe728794135cd1f79c07ed1b894b66fcf0905e7c27353e024c7b70",
+      "triangles": 12352,
+      "clips": 0
+    },
+    {
+      "path": "assets/interactive_props/099.glb",
+      "sha256": "c1d7a13555ebb1b4cbb989b2772eaad5e4ac3603675bd5fcedbb1ad47f7f949e",
+      "triangles": 21528,
+      "clips": 1
+    },
+    {
+      "path": "assets/interactive_props/100.glb",
+      "sha256": "bfaa89ce899ba54ec516346ef56613e22f40bc39cbd21360cc3126ee28f16bc8",
+      "triangles": 26688,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/001.glb",
+      "sha256": "2974f88300244202cf325710358e8ef5f7f84926af7289e33820f357bcfaa223",
+      "triangles": 7664,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/002.glb",
+      "sha256": "c3249a94a628e9e9c8359bc3d88ac579ab21333334bf6d37df55df7177733a89",
+      "triangles": 5040,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/003.glb",
+      "sha256": "22f4775e89c1047cb495c740b8d20e0f7d59c92e72b09374ae7b0f5497c541fa",
+      "triangles": 20588,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/004.glb",
+      "sha256": "2d3cd23e8af00ab61f656e6a3e5d7228c10abd827152adbb69238976a7435ab2",
+      "triangles": 3728,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/005.glb",
+      "sha256": "824a21407cdcebef48e842d4d5ad3477301589cce661dc3ac80aa8bfb6af78f8",
+      "triangles": 11872,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/006.glb",
+      "sha256": "1e2a59d4663d6b0b0235649855ace68d592b5e9b015d396cbfae0efe692193b1",
+      "triangles": 16768,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/007.glb",
+      "sha256": "5b7cf25fde61ecc62e3cd73868715fe2b5a7c7cbb8b737b0a8c752536f737ca8",
+      "triangles": 16336,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/008.glb",
+      "sha256": "a348a1435d58f859c51138f5688ff3d434b780c1235d1265ca6e22454df5746f",
+      "triangles": 2872,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/009.glb",
+      "sha256": "316a59851c32b6ded1d2fbbda9873151f2d4d36b5c0c984c61b84e3131f324b9",
+      "triangles": 15616,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/010.glb",
+      "sha256": "44ed3e7eba62d23317eb4d5357d90ae7da35030692eaf56e103dfe6b16e5fd66",
+      "triangles": 25104,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/011.glb",
+      "sha256": "296240dab7aafa61b9cc3e66516ea74a1ec01f4861f3cd741e26d08fd5845418",
+      "triangles": 15024,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/012.glb",
+      "sha256": "d10076875374b55d73460982740db077ee8aa33c30c6607f058fdef8d492c01a",
+      "triangles": 22096,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/013.glb",
+      "sha256": "6adb9889fa76a2a19d5897fa8c600b686feb16297c4c6abb172fbf089aee6284",
+      "triangles": 1296,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/014.glb",
+      "sha256": "6793d7ad7db426b06208eb4a0c02346e32f18d2f2503830e16ace3724e77d7f9",
+      "triangles": 8184,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/015.glb",
+      "sha256": "707c00de4e84fae1d5b0820a5eec231c098e69987ce6d74bc3ed59f91a2c5f63",
+      "triangles": 4352,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/016.glb",
+      "sha256": "9ac80b35bf6552ed4862698aa4008c5737b050a898510c65b5747b77c6180b35",
+      "triangles": 50384,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/017.glb",
+      "sha256": "7be912c2195c246e17797ad36e906b1d1f8a2bd86af73efaaff0b10d9649d000",
+      "triangles": 11872,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/018.glb",
+      "sha256": "3edd73749201720a615645dc33bed12aa5fe068d694c3446694ec566812b354b",
+      "triangles": 14464,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/019.glb",
+      "sha256": "1a5145e4c80138661cd79232c3eb97a3524d5f22ae45f055830b362f21ed2b88",
+      "triangles": 6272,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/020.glb",
+      "sha256": "5becc0a6b889d6c5bc2d49d37bb6c91a57f08323b5e1fc7a6a4a54804bdecc05",
+      "triangles": 9904,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/021.glb",
+      "sha256": "0df50fbe3ac3e3c3c6579687e3e625b498430cf0d26d969d054ef847896d3c40",
+      "triangles": 27168,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/022.glb",
+      "sha256": "5676677ab830eb97d21f945366ece4f1e728f78ff05c078b3094df3112cfb0da",
+      "triangles": 54000,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/023.glb",
+      "sha256": "63e440b96d5bf8b769fd0c10f96645dd9081b9d8b2e8295c66468fd9fb6e8491",
+      "triangles": 12720,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/024.glb",
+      "sha256": "a18beafc2ca0cc51f2ebac8f62de2e6dcf2cc951e8317c4cca7f1b7927221bd3",
+      "triangles": 37968,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/025.glb",
+      "sha256": "e4f7b4386a0acfdf0917360b6cba6b35dfcee0169a639e0521f3029cd8223ed0",
+      "triangles": 9312,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/026.glb",
+      "sha256": "252cf5c2724b84b55e1813729420ac722f62641d0f9dcb1f840f1fbb23177cb1",
+      "triangles": 4672,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/027.glb",
+      "sha256": "dba0bd72e001314e8593036e96279650324f0695a002f1d1ca874cf1878d3168",
+      "triangles": 31240,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/028.glb",
+      "sha256": "18f1061d1ed345fd664acb332077ebe3657186ae479a8818bdb56214572ec059",
+      "triangles": 4448,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/029.glb",
+      "sha256": "5d8ae26333bc93ce292c773a19f2423e6a08eebb29d1adf87cd4aa7fb768ef7d",
+      "triangles": 13328,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/030.glb",
+      "sha256": "5434e7e39ebb25b32fb81645e89e89ec3dc8fe029cb8f3af3b587874235b2570",
+      "triangles": 18352,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/031.glb",
+      "sha256": "8e11c74f4ad2a52886374e60dde8db7cbfb576dc46625b4a75122c9098c4ce0f",
+      "triangles": 17712,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/032.glb",
+      "sha256": "ff2a60f0bb19e2d4438e42703673c090e75804f7004bb2dba36b59ff6286883f",
+      "triangles": 3392,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/033.glb",
+      "sha256": "821d200bf03beba1aa75368f2f3691ee47359cc8d7a7c1f69b19463d2948d6bd",
+      "triangles": 17632,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/034.glb",
+      "sha256": "7784ab42100c541a30b78cd833cbdb6dbc0708ae16e8a2eabe45d7dd39950dd3",
+      "triangles": 23376,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/035.glb",
+      "sha256": "683936fcac50556a54d1d3619f22baac6a34f9a3e186026711aa0ffcc5f93971",
+      "triangles": 16912,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/036.glb",
+      "sha256": "845abdf6588b9c7b796c014b91520f3fa94a1b16e3072447aa3c44888a6bd4d5",
+      "triangles": 24208,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/037.glb",
+      "sha256": "1345fcb3b28b56bfd5bfe0baaccacf0dcd494917f60863a5cad3319aa10371be",
+      "triangles": 2064,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/038.glb",
+      "sha256": "c716165e9c2851ad73928f5a8d9e28242947cb7e7ba48d34c52709233afd25b5",
+      "triangles": 10872,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/039.glb",
+      "sha256": "dfdec2b44967872793a11401c6048e9a3da5ecbf022c0b527e43a6e6b650f86e",
+      "triangles": 4624,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/040.glb",
+      "sha256": "3a5c202c40f73edb9d9c9626679b3217e92a6e7ca7de07a2cd0a8a9277585aa1",
+      "triangles": 46320,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/041.glb",
+      "sha256": "ec7a4af09daa2ef8b0d3b13cf3f854d9672f99b930be3c60c8487be8262fb16b",
+      "triangles": 14800,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/042.glb",
+      "sha256": "852cf0487721448bf6568a1901b2bd850c2228c11a88f44a1abdf97265a04ace",
+      "triangles": 22464,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/043.glb",
+      "sha256": "9d38e5f578cf1cae389f0713e3aa524b9691704d1b52c30cb0e4ac802fa4310a",
+      "triangles": 7024,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/044.glb",
+      "sha256": "3812b4fd23ba74e923af8687396d5553660c7facd50c58ae72c3290e9e094a3e",
+      "triangles": 8016,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/045.glb",
+      "sha256": "845dddd14e5d6b9bc2a7df7a2d5a097fc532217b6ec1c7f5c64b978fb3ba32e0",
+      "triangles": 4336,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/046.glb",
+      "sha256": "a4fd5679f358ef285db81b17e7a7a94c73a7e39b44bd5787174fc821abed48bd",
+      "triangles": 64816,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/047.glb",
+      "sha256": "d4de2082ee46fbd876c169f239aeac5b8bffd73bc27a88fe0fc60f46ba565ea0",
+      "triangles": 14064,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/048.glb",
+      "sha256": "70fa7655623ea15f7e32d3ac4abda486e771fa2a617415c55719ca3b860dc643",
+      "triangles": 38736,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/049.glb",
+      "sha256": "bf3296287b21e57f949f637af2cb897409b5aad4a7bf88fbce320dd68aa0fad9",
+      "triangles": 6064,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/050.glb",
+      "sha256": "d6dda50c580c3728b0331c79ef5397d38b825232aaa5117a7d5ff32a5eff9553",
+      "triangles": 6128,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/051.glb",
+      "sha256": "79fda551baef22223f3a91edd7ff998bc33b4e53a52e8045574c051f001bc9d0",
+      "triangles": 26168,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/052.glb",
+      "sha256": "a86f8e137efce87018c86018df0b2e0c93dcbb28777b42b9dce9f28e0a24e351",
+      "triangles": 4112,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/053.glb",
+      "sha256": "79de0af53482efa229b75bb63117b5f612f90f00b2bc7ee9a510ede75b94ce80",
+      "triangles": 13664,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/054.glb",
+      "sha256": "f96bee6f6bb0d643b82d265b3dbefdf776e61f32c4dbed6d24bbc6d255c5c4c1",
+      "triangles": 16752,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/055.glb",
+      "sha256": "1ef25201ed529323ea4df8d1693b55da967b2853973bd3332557a026e8f4fe4a",
+      "triangles": 19072,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/056.glb",
+      "sha256": "e308095b9537303d102af9d4e065ab3700e3c10a6b57162c53b092ee5e713460",
+      "triangles": 3472,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/057.glb",
+      "sha256": "06aef2494a8306186451e0777104991ef94118b4e48453ffe425bd5dfbcac95d",
+      "triangles": 19392,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/058.glb",
+      "sha256": "b596262e1e02a472b94002304ae81b4fcf931094635dd6ab98449731a166d5f3",
+      "triangles": 26192,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/059.glb",
+      "sha256": "a6fea6135aa02f0dadf10ebf2451e96bbb4983783850c607156568096d951f74",
+      "triangles": 18672,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/060.glb",
+      "sha256": "c78e716e607d8c0807c29d736ebed98a04a4db8720414f379b7d356f9672c97d",
+      "triangles": 26320,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/061.glb",
+      "sha256": "ba24d249e0316e76312f9ff137d7b0ea28494377472b2adc61d301859cd75acc",
+      "triangles": 3776,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/062.glb",
+      "sha256": "127347367ba52d9fcbe4a5cfaa8808f66ffb6d7675c2df4384470eeafbbab39f",
+      "triangles": 8632,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/063.glb",
+      "sha256": "65ad6eb7d78de703f4a55a69a78525f9b5d13b0d1a80eab127b19022895bb623",
+      "triangles": 4304,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/064.glb",
+      "sha256": "4c62dd2bcd21b845f090ad500919aba84b3efaaa7931d3ede223bec534c6f87c",
+      "triangles": 53024,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/065.glb",
+      "sha256": "aa7e9b9468399346adeb1787a66cc31d72db51aa87f3e0545b96ad38cb5b6d43",
+      "triangles": 15632,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/066.glb",
+      "sha256": "aae52a7b7b45177b8015047beb316af54441194212bcb2cdfa52cca30c0fd447",
+      "triangles": 22624,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/067.glb",
+      "sha256": "ebbf4dcdce5722598f1bdc3a19d7499a5ec4907d6e017f7771b162c2baf4aec9",
+      "triangles": 6272,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/068.glb",
+      "sha256": "36663cab10a9e55dd309bc4b892525936cfa253b6ffaeb7a32ad6cb60d344164",
+      "triangles": 11184,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/069.glb",
+      "sha256": "0f3428c31689df0d9f0e5cf6de8f1953ee8f9da477612261242f6013709e6419",
+      "triangles": 27040,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/070.glb",
+      "sha256": "293816c14e224e9fb00359ef51467ed7d00a5fd82ca8f604cccc9c4965c47e28",
+      "triangles": 52320,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/071.glb",
+      "sha256": "51b01d76390d839af080a271e7b5880012fbd09b77b3aa2683c5824bd61e1986",
+      "triangles": 15408,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/072.glb",
+      "sha256": "8272423be5ddeae2f643aa23c47cd77ebdb1054a872ea8821f02bdfdad7f6991",
+      "triangles": 39504,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/073.glb",
+      "sha256": "8a3311cdeedf78f8fa23548eb9a32ce7afad74635da69dcedb0f5dac755a7381",
+      "triangles": 8176,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/074.glb",
+      "sha256": "629d7b0b8cfc5265d5af7a9c0bcf45e26f024e564395f993f569a5eb6b34eaf8",
+      "triangles": 5840,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/075.glb",
+      "sha256": "b09ac3ba1f5180addfc2617fc73963b139ca9f29704d0a52f4045262e998b491",
+      "triangles": 20368,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/076.glb",
+      "sha256": "3e698a3731e183df31b026be17fe4d5d8b8f5b99804f6a744b7be8ec6a254f94",
+      "triangles": 5328,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/077.glb",
+      "sha256": "08aa25265d82abe97adb283ea9fc8511020e7c7634a46c452c3dedf03876dfbe",
+      "triangles": 18784,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/078.glb",
+      "sha256": "8db289bde1ccdaf92a900ef83a8d2a6fc4edc86ea6450c77f05f6230f69886ed",
+      "triangles": 16848,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/079.glb",
+      "sha256": "b165a19ea746ee5b0deee6f8b195191a2808bb26298c3c873230b6f14bd887c6",
+      "triangles": 20528,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/080.glb",
+      "sha256": "f9ea92e0f5de74fcc71743b19afebaabfc1f10880efd7515a0601fb663124d33",
+      "triangles": 3880,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/081.glb",
+      "sha256": "93a42588e4582c67347a688c8e1f10cecd2be6c2b4dd91eb8059b9eb489cea84",
+      "triangles": 21488,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/082.glb",
+      "sha256": "7ac602656dc20d96024cdbc2e2d35c70047788e54e846a7763660ee775b4de93",
+      "triangles": 30544,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/083.glb",
+      "sha256": "39cdcf72ebcc15d815d280b891656e325ad61fa984fedc5bd0919e1f1ff9ec68",
+      "triangles": 20560,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/084.glb",
+      "sha256": "4afa9ffe5e92b34a434044defd40151d7a8515011af6590cc26046ba9e6017cd",
+      "triangles": 28432,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/085.glb",
+      "sha256": "521b1a4e38a27374ae864957328032b84bf94eb85a2db791064ff9dc82d1895d",
+      "triangles": 8560,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/086.glb",
+      "sha256": "84515ebd2e74c806087e44f92e43d585db865ade05da843bc2a2c4a9b98f725d",
+      "triangles": 6096,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/087.glb",
+      "sha256": "4b63df002f9b34c9f5baf73dca62228612caa8a6f8048d92654f86e54ecbb96f",
+      "triangles": 10144,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/088.glb",
+      "sha256": "a950c87609a8f64588aec8aadbbedcb0251d6f5ed203146a1048da900c6e7f85",
+      "triangles": 48176,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/089.glb",
+      "sha256": "b1ad12447f31cedeb5bd891e1af8dce71827225c7f4dca555eaea1d2fbcda3a3",
+      "triangles": 11872,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/090.glb",
+      "sha256": "9851c017f7b395fdee889df6c957a44bdcb07c4ad4538f92a22435f52d135344",
+      "triangles": 27744,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/091.glb",
+      "sha256": "8da85203747f3fa4b81db6dbe4a7b2d281e0531cc96144ba6546d1083e1e251c",
+      "triangles": 7024,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/092.glb",
+      "sha256": "0821383e84fb792e6b8ca6807a14439620984b8b5bfc5c7c154696a47b5ba286",
+      "triangles": 8912,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/093.glb",
+      "sha256": "e62cff3e6b478447a9eb8822e8b8f2e77010a26d421532416ab283a51f3a28a4",
+      "triangles": 4352,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/094.glb",
+      "sha256": "681cd006f6b39fe21b8560a4de28d16e578e5c1edcee3bb86d90ebfd6c2ef98c",
+      "triangles": 65840,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/095.glb",
+      "sha256": "c6419c8464dc229b9e0c4c55c47c1f0c2df3c251958d6f50a6ba3648a532d4b0",
+      "triangles": 16752,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/096.glb",
+      "sha256": "02d3174bd29203af35efb0e20717a3989d21fb8e6c00a93728c34d51fb1eec71",
+      "triangles": 40272,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/097.glb",
+      "sha256": "c65300b251211944b3cc63014d586da40313a3cc3d401bbe15087c44258e327c",
+      "triangles": 8448,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/098.glb",
+      "sha256": "2ec9331fde4ab099aacab1629a065b91f30a57b31777fd3f6911fe28b75e5084",
+      "triangles": 6336,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/099.glb",
+      "sha256": "49d11fdde7c0f37c211d0ae4e8981a00043b79f0d3a3ee513d58283f484bf296",
+      "triangles": 21308,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/100.glb",
+      "sha256": "67e4de8956760d24f97175adab3ea2bd8cdc28136716896ca638ab85ed205b0a",
+      "triangles": 4272,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/101.glb",
+      "sha256": "9cb435cfb81061b7697b22bf4f7acea4d196bc9cb89d0f94e1e3c286266be610",
+      "triangles": 16528,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/102.glb",
+      "sha256": "b73a68b4ab049407d0332f29ce7145a8f4459c450329d91d0a8c69272e10678e",
+      "triangles": 17792,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/103.glb",
+      "sha256": "c70c6eb16e36542936f52f651104791a20c27ae6c7c4693781baacce4c331d18",
+      "triangles": 21936,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/104.glb",
+      "sha256": "ed68932e518075963d47872dd871b85ce1038532f822a84b7064de60d7e682eb",
+      "triangles": 4192,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/105.glb",
+      "sha256": "344eff9cf24f5f99a017b44e3d827aa7b1dd5b7f0ce96f93497182c8344c106d",
+      "triangles": 23184,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/106.glb",
+      "sha256": "5003d372bf6cbf77ac212a9d46ce511ff1b7cdd43caa6b397e3ec32333caa12e",
+      "triangles": 41744,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/107.glb",
+      "sha256": "5cd38f1f4a24c5aba35cb1773805775c1b76ee66eba9f6810ce94e49d4adeccf",
+      "triangles": 22320,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/108.glb",
+      "sha256": "c0774a1cb178f9f9fe1c2ffa037673dab3b576519f2442a7fdfb22ff9884d4f3",
+      "triangles": 30544,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/109.glb",
+      "sha256": "9ff0fe76745f6e5c2ead31bc4a7afcbe0d91c6fd74e59bf62b138f3aa4c6523e",
+      "triangles": 2480,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/110.glb",
+      "sha256": "32efac2af5336558187b489d2246b6d28f6ee9f2dd601ac1fb12b6de89e7a198",
+      "triangles": 11336,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/111.glb",
+      "sha256": "5e82df8186c991e921b587eb26ca9d5480b25ccd1e4a974422411706da47b8f8",
+      "triangles": 4096,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/112.glb",
+      "sha256": "711982847c9067c23a07c520d2f56dcf9af1cc59e5b69252ac99b7a05050796b",
+      "triangles": 51792,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/113.glb",
+      "sha256": "615bb96d1113959ed03fa8f1c2c9d6c91a70a23090b57098eeb9e6fcf95cf27a",
+      "triangles": 10672,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/114.glb",
+      "sha256": "5f530970a3ebee4c59fab1029dbe560dc93877901e34174dc99fd29bea2aa246",
+      "triangles": 22464,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/115.glb",
+      "sha256": "b37adbf92f1d7795bbfd28a1d6c2e5ca0588d91845719a9b9dea82e0ad76c6f0",
+      "triangles": 6272,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/116.glb",
+      "sha256": "bb92946775fe04b4ab2cfb4e76cc08070ef98ccb4c62eba41b38188cc909d053",
+      "triangles": 11536,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/117.glb",
+      "sha256": "87f70bba70a60e81fd8817a75dacdd19ddebd97be8ff7bc6b0c8e277d5a44ecd",
+      "triangles": 27248,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/118.glb",
+      "sha256": "cc99c09b3cb87f29b565593f269e78dede905231fce0949da927f8cc607cbbf3",
+      "triangles": 73104,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/119.glb",
+      "sha256": "977588d5978ab3c08d08a633a68835cc3332e68056f487b7a7c184a36bf60efb",
+      "triangles": 18096,
+      "clips": 0
+    },
+    {
+      "path": "assets/environment_props/120.glb",
+      "sha256": "a0fdf2bd5fc69e8afb5b1d6edc4f6f2d78122b57a8f000daf1619a6ea5cd0004",
+      "triangles": 41808,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/001.glb",
+      "sha256": "24bb6e16a7bc73086b2b8f82dd7dc85663241f90391f843fbf73e4ee80d49785",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/002.glb",
+      "sha256": "faa800b808c2df32b44fc9b589b19441b1a720392d4fa06f3eb0886d4c82c19f",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/003.glb",
+      "sha256": "7e531d61c890923382b7c12178b08ba44f064146c2d7cbce98d257098f26c27a",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/004.glb",
+      "sha256": "eecdbfa128145c3cf99897a72073a613b0a30b9770de2ebd35a8367877761478",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/005.glb",
+      "sha256": "009b5ed7aae9b69d00270bc5b58a5822305997b7c6e1316341ab63061c122b56",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/006.glb",
+      "sha256": "97ce67accf13f5b77f980549400f4719b2ffa9ebdd6265f94284f9ab2d107efe",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/007.glb",
+      "sha256": "2913cabd5c27a0a012f12a58b5fa5a5dda4e1c780fe2d9a17a582e0e36ca298f",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/008.glb",
+      "sha256": "736d481b94ad70c388fcfc872f0c5c649fbcef889718b5d63ab662a2bb2caf39",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/009.glb",
+      "sha256": "f262d088f91213d88f399720f0e3f24605858a1fdc4bd55d7e7dcf8101aba31d",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/010.glb",
+      "sha256": "a8a46e1c3927b85f2c553d2a17f5372394f6507946c16ed4f42205ebb781648d",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/011.glb",
+      "sha256": "85dd027445e4b6e1c7614c07f903778c1a497656256677e028414bb7e5f71f31",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/012.glb",
+      "sha256": "5d2a4cc8d5021152e1c2cde70c5159830c78c103112bd946918a941ac3fec88a",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/013.glb",
+      "sha256": "34ef571f9fa2c3c2ac4d444eb6f6c82e8c7f2a3bee5aa84c2de8b7568db9907b",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/014.glb",
+      "sha256": "d6a98cad26f2c9368e80713e9005237ef12e4005e5a82089616e1e0d38c10310",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/015.glb",
+      "sha256": "d4f30399e51ec5002624f9c6de364f393cf9d4983701a22195f2c2372f1c1f7b",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/016.glb",
+      "sha256": "4921def878f9dca46791652e2923353509e236e6f2df75651230beeb56b4cd82",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/017.glb",
+      "sha256": "4e2aa977e95d62b59308ce4647325e27505c1be0f3918d6949a2d8502ae7ded6",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/018.glb",
+      "sha256": "db82fbf739fcf230df526be52ff746fc8f2660d0f1589a91f44ecf1eadda3039",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/019.glb",
+      "sha256": "7da1a67020830e6ec4f80d39e62f505b5f289d7620dd31c565759d859bf83ede",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/020.glb",
+      "sha256": "8148152551c08356d0844e0e89f6e4331fe53b4b491f02726a91ac7ed0fece66",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/021.glb",
+      "sha256": "0e9963158e924f3c48bd74e63036d435277afd9109a47e8f364cee81db413e1e",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/022.glb",
+      "sha256": "18d59d1c048f47a5d8d2fef3b7ed1ffff2e7923325d138d2ccc7d79839a91f8a",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/023.glb",
+      "sha256": "5c8e13b9fe9d0526221d1ce024bee1c6361af00df26ff88bff5185d052221601",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/024.glb",
+      "sha256": "d6bba95aaff15a9caec84999cb36af2d8b8d1516183d96265d0c5997f7f0c368",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/025.glb",
+      "sha256": "7fe4a5a8f726a5d9035c2391e3a8cf8cb079e23ff5c04e4f5f8cff231f172600",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/026.glb",
+      "sha256": "0b11b89af62cfb699324a0f84062093e87fa9633d75b8c0d8be886a41e0ac8a4",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/027.glb",
+      "sha256": "c5877d4cb6c73d35518ecbd9a76fd57542e9094635deb45d251837f267f86148",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/028.glb",
+      "sha256": "bccfd95626f8390056c2ae16f6d4273eb15a859fd9f778b966312716a02c521d",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/029.glb",
+      "sha256": "cb6dea8e8b11f5a63fc232eb8a1de3c4d49ecfeb7315f6b9a589147429028fc9",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/030.glb",
+      "sha256": "6c58cb57864acc6c49bb08029a3668e4aa68a5c8fc49621fe957a699d54565d7",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/031.glb",
+      "sha256": "2ae7da6de496c563a3456d1481d84e5f64c9dd550687de807a48e25c8a00279c",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/032.glb",
+      "sha256": "422b052d7262ecc521bde45a77af7906dda48828ee625dfc16501a2777ff75bd",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/033.glb",
+      "sha256": "58255a03fae6650617b1383bdee2c33c6f737f0bc8480eb2528f81fac7fcceb0",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/034.glb",
+      "sha256": "d410c4ff7ef650ccd1f6ecd55ff0a30a663c7b8868f3a05987a5795ed2d6a185",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/035.glb",
+      "sha256": "ca7f35053a038b3eec74a264a1249c60d52604d93fd81b91069ddb3ed9286e23",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/036.glb",
+      "sha256": "4632b48f40410ac5524c2ca5413676fba9fcf0597255b71cf059480e1ef89fac",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/037.glb",
+      "sha256": "fa5f6506a633c0aeb155ed3e7de011388cbd15a2f447eedf7d7833909bde24a8",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/038.glb",
+      "sha256": "9b82bc7bebcdb8fc7c9c3b0cb7d0e555b0e2a0a99648d0aba1f5bc83ecfac34c",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/039.glb",
+      "sha256": "a9e04362136e197354ff2c2e4e6667a17fa0ad41f1f77f79d3be17b0089582de",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/040.glb",
+      "sha256": "17dd5a13e86885c29fc350ebe43d9138cc7881ffce6824f2b87f405d0958efe5",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/041.glb",
+      "sha256": "2dc115c9b48c1f9c20234432894f3589964a89592058d8c4b578b79106673ab8",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/042.glb",
+      "sha256": "bb4dd9668456c1e02ab23d905e6f411fecf642f9ed0b16ec83f95fed06ebbc1c",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/043.glb",
+      "sha256": "d49b677d1f696a51352cf266d4d56b2756dcfae7008cad3a17fadcfb015db7f2",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/044.glb",
+      "sha256": "e7ffb4d20805399d0afc53e1340924961f76be7a607ff41f119e62fcf64cd50e",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/045.glb",
+      "sha256": "bff63d8c1006b9f4311de88b2ad50294984d243405ac6708d4b5fd3078d23b7e",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/046.glb",
+      "sha256": "20464dcd371983df063baf046bdb1540843b3bd65ac9d8d88392034b6ced9eb0",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/047.glb",
+      "sha256": "86306979cef2cfd95a9853ea4f1037fcb55b83cca1ae847a3535cd8517509978",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/048.glb",
+      "sha256": "94c9f48e5af0013c812a7a27ebffd811f8d79ffecf5d80d3bddbe349c642f32b",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/049.glb",
+      "sha256": "d954696fceb63c2879924ce04b710ca1db961703ffa3fe67279a0db276fb2aed",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/050.glb",
+      "sha256": "d9dbaee8650b8a9d4c3451937ccff7a8ab86f12232fbad07213ae03f81cdbda2",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/051.glb",
+      "sha256": "16829f442d552dd5a800d8a42b5120b8d04bf29b88949d3bd1d103302e572b73",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/052.glb",
+      "sha256": "c903b01375374f948afd1d2e01e60dc85f7545d2a4ec92435af104672da4aeed",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/053.glb",
+      "sha256": "9746db089d424cc0cc3aa17a8bd44ed0ace4f0db01db5f199a92a0b8a1ba5351",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/054.glb",
+      "sha256": "5a0b885266bba878124d0e3aa124bc93a991d8c40355bb7a43c00c6b385cc798",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/055.glb",
+      "sha256": "01d64960a3a36433dfad9cf4c962fe47b156b2310b44edc231a46d0559279a8c",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/056.glb",
+      "sha256": "b630450189a0f9ee7e12d77077b9d1e2b11e2d5b0999d2ca7d2866e7e9d9667f",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/057.glb",
+      "sha256": "4dc9efd8db78aed825c5dfab3e5c77c350365fe6830a6d21320add80e30d997d",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/058.glb",
+      "sha256": "8744162e418057d354b6d880d92f207c67ea9f9fee48dc144e16dd6c541f0a0c",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/059.glb",
+      "sha256": "6aa53c24ce0d68026761c60051df331db452eccaae11ad6a8b8a042b571628d6",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/060.glb",
+      "sha256": "85931efc78acca3aec542775997401a733b162bb359819a9ea8092d22c6f309e",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/061.glb",
+      "sha256": "92994500331a7a7d621faf02e96b5166c9106ad86b347e8f74616708fa1fa827",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/062.glb",
+      "sha256": "3370c4632da5838fa8431d72ac57ed8ad43439bf0f283e49806c298358d488ab",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/063.glb",
+      "sha256": "f800980a9cb9be6df88d5ad0491cd5ebfa68065e170a7e7a4c0cf439436c16f4",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/064.glb",
+      "sha256": "14b172899e6446d01fedd46fc3189c58a7107907554cef1ff975617d654fbd4f",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/065.glb",
+      "sha256": "79211c9432ad4f6491a8eccd2a0681e5f095c1507c2f5c8c903fcfa6d0edd826",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/066.glb",
+      "sha256": "cb67b0f0be2b42394763073b667ede5b6549cef00c0f3b8b8bf2ced38b1fac33",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/067.glb",
+      "sha256": "28dc84b3d3653df5c3c4ae1229c1857988488d4eea0d0ef349ae61b5536e4ea2",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/068.glb",
+      "sha256": "f6a872a8e913423080d4aabd61bff2468d4859f4dc7b89d2ce96fda7f3710a90",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/069.glb",
+      "sha256": "8b30f531b1ef51b9089bb25aca7d9552c4c594614a453eb64c26593f61390141",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/070.glb",
+      "sha256": "05c5a2bd647f7e30520780f05f58b66d14090bb133494921bde783fd7563814a",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/071.glb",
+      "sha256": "c6fa82ee78876a52a66f191689e668ac80b22a34d6823b5cba3f451b3a211ed3",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/072.glb",
+      "sha256": "a0553c66aa048d5954ec9f720ff022cd413567f0ec2d793b866c3dfe7fb77708",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/073.glb",
+      "sha256": "4845d066b0c54ebe99a3f6153bb036d8593deef65c3e8e3ca6477bf2ae87a2f4",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/074.glb",
+      "sha256": "e71388243917354e20e919d70c9a131ccbed8e4b75e185758df0c96b8dad9119",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/075.glb",
+      "sha256": "4cc9dd93a5048303b30d357d0b9a468cd149a834bb4f5734355a8e65eff4a6d6",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/076.glb",
+      "sha256": "944cecbc1a67ac82fc33793fce1a5477ff5735acab6160384dfc82d5360fcc19",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/077.glb",
+      "sha256": "dffc6893103cd9d69fd8660a0a806e8b8c64410b77ac22ccbd2688593fea9559",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/078.glb",
+      "sha256": "6f27ffd6e3aa66fefc8809eef0e676f31f890aa21bfc4e55697785254be93dea",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/079.glb",
+      "sha256": "d8911c7eda870b2496af4712383a826ea5d18a57c693178e8cf39ce758ae50e5",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/080.glb",
+      "sha256": "23ca79bd025485081367990691196106b924aadb42471b72012bdfb16f322c97",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/081.glb",
+      "sha256": "8adefb05391963ec9bb9dad306483aef9859c2652f89bef7cd278153a7575970",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/082.glb",
+      "sha256": "a542841ba4bdc74f5ae1f4be1f018ebd7deffcdfbfb9903688b12a513e49d6b5",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/083.glb",
+      "sha256": "18f360bd88f6f859af8d94e9d405f20e87931094e2b684f66897715517cb37eb",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/084.glb",
+      "sha256": "ce8aec571990a9cf7022eb1eaa55440abb1aaebf68c1de3ff254a3e55da65288",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/085.glb",
+      "sha256": "f079a65bae370f8aa216cfc036bba2822031ed97c980c5c22320dbe9617b7248",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/086.glb",
+      "sha256": "2af2179be4340d4c20294b9278e28bfabb22a0f3ea3c3cb0d192622bd949dfd5",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/087.glb",
+      "sha256": "3af31d7cc163c92503e8d4100bf79e5cef60c973e3ffb12f10e9925bd5c1c0f7",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/088.glb",
+      "sha256": "528e9aae8f75b5a2247684653c98cfc8cbcddc82276178bf121664edd1047c3b",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/089.glb",
+      "sha256": "431dcf5886dc7147a77816c6d45db1cffa749979ccd7f846c07ae7f77827050c",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/090.glb",
+      "sha256": "ae3e77b207d6e45fad1bb56645013649b368b44b2688130c917c089e1c989792",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/091.glb",
+      "sha256": "b78eae6e0fd58abc303db50fb5a2796e81f5848033a3500214daae7a5b6554bc",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/092.glb",
+      "sha256": "007a3ffeb5ec7cec99d7bd45d6eb9f19414f5c6a1f92fb9d047aea0947da9fd6",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/093.glb",
+      "sha256": "8ea2022ef1b4eb644c0d4c4de9eb47c8cdf8a6249a3908ed78106361fedfb7f2",
+      "triangles": 30512,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/094.glb",
+      "sha256": "2f995374d2a73d23463648d3d80fcb41e4e66f38397026809884865fb7e50b95",
+      "triangles": 9072,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/095.glb",
+      "sha256": "18d7f90bab62d33fe6386a5b1adeecad9ee56550b12910f58e9f4bad260e21a8",
+      "triangles": 67904,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/096.glb",
+      "sha256": "df7a4ed631afb202467a52af7dfe426b5940515c817c9dab708423220d3bb1d4",
+      "triangles": 39232,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/097.glb",
+      "sha256": "64e7c0822590eebb9367573493e968a1bd0608914aeb0e448b8465cb9e1fff6e",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/098.glb",
+      "sha256": "16e64bcb91a7f7018e5ec9154a37d4125b6f9420ca2cb86fefc976a394e0ad8b",
+      "triangles": 7936,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/099.glb",
+      "sha256": "617714ce7a2a409fb865c593749d1a53f9748ed1ca7f17853037c96d1c565821",
+      "triangles": 28864,
+      "clips": 0
+    },
+    {
+      "path": "assets/materials/100.glb",
+      "sha256": "24e72af0a68b6755713ca8948b8418ca1c6f31b3f4fce28886089e738cc25a2a",
+      "triangles": 7312,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/001.glb",
+      "sha256": "628b9e0a947d3d6e03f44a1b332f23dac67dccce4d7c3c09a4ab139f3e7fe122",
+      "triangles": 37376,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/002.glb",
+      "sha256": "2a0ec4c31ea1647ecd6174c11d1b400e173cf1d1c3d05b393ba47f9a32b4ebc8",
+      "triangles": 44224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/003.glb",
+      "sha256": "e186db9eb6609b0afb2dccfd9e41554360bbe1d2dcc3d881bdf280cc32f82491",
+      "triangles": 15888,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/004.glb",
+      "sha256": "65b172799ed313ee125f06f5bff5eeedda83d9384a39007240b8781bc349440a",
+      "triangles": 12224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/005.glb",
+      "sha256": "83be208862597c2837d946cfd143ddd33facc92b4249b59b38dbaeea47350c1b",
+      "triangles": 18848,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/006.glb",
+      "sha256": "05a635fdb23fa66fef15b5ed0288c1468e8ced516f75e825559f243c44609858",
+      "triangles": 23616,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/007.glb",
+      "sha256": "abc5a5dec3f01b1cd44fff9ac8704a770890d783d0c6ac2310bd84a1e267b0ef",
+      "triangles": 31440,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/008.glb",
+      "sha256": "dcd54185e05f8eab0697f9eed118d27536c660aeaac971bdb4c1db10eb0c3b6c",
+      "triangles": 27552,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/009.glb",
+      "sha256": "d6566c2997fda433ad0211bc0118aa3d493de3fd9c5b58dd1a166c7c49780938",
+      "triangles": 17296,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/010.glb",
+      "sha256": "f75da153ac07bda1316521c90f1f5d5173a85375fbfc393ed272f026d46841c2",
+      "triangles": 20480,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/011.glb",
+      "sha256": "4268d05eae3cad480006feaa6dfafd3652a17847b2e3e31028bedc9075584e8e",
+      "triangles": 37376,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/012.glb",
+      "sha256": "a8185fccc4c2f3cdb7de2c40c526834a5294967f88ddb90ce7172ed32d9e69fd",
+      "triangles": 44224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/013.glb",
+      "sha256": "a4b8bc787c0990230b09e43b606e68e77f8d37b6174e7cf21bd8885f52c960e3",
+      "triangles": 15888,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/014.glb",
+      "sha256": "d2572fbefe3563f9b86916af2a8abbd180ad25cd96b39cc2e623c897967dde60",
+      "triangles": 12224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/015.glb",
+      "sha256": "a681216d553ee348bb0b6cd6df9d4b4e80bfcf897b9ff68f0719e4a3767f7bc1",
+      "triangles": 18848,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/016.glb",
+      "sha256": "b996bde5f9d2aeffc378a0fcf475aaa13e77d9a0e0aa121cb93903af050a0ddd",
+      "triangles": 23616,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/017.glb",
+      "sha256": "33d58605ba3fd8717c87ee5c54fd4387a59a698a59e4b1706bc0cc9fb6dca76e",
+      "triangles": 34080,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/018.glb",
+      "sha256": "6e88547a60a486e9b85cfe75182d22226fb7434542254cb29a3e8cc24aa7c5d0",
+      "triangles": 27552,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/019.glb",
+      "sha256": "175ad118ac93660954d6227a378da70886b3b38f68f053c3386d2c76dd94a244",
+      "triangles": 17296,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/020.glb",
+      "sha256": "880550fe077e15bf76d36b20f3327e0c829871f19c271aeea638399725f80737",
+      "triangles": 21984,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/021.glb",
+      "sha256": "cb4487553f4b113236b09d2a138f296271cc27db4006b735c20336a2e115ee86",
+      "triangles": 45568,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/022.glb",
+      "sha256": "186deb93d5bfd5eb90c9922b4e617f893dc5eeb8dbf120596bdc32b037d2c386",
+      "triangles": 71872,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/023.glb",
+      "sha256": "3fb35bf39ed8c363dad45bb6ff3f06a0aeaede17d986a98fd7ba11d8680d9934",
+      "triangles": 15888,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/024.glb",
+      "sha256": "296888abc409888ddcb5e35986905a1f038982466678e7fea62dc627da56b826",
+      "triangles": 12224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/025.glb",
+      "sha256": "f7e1c4ce2c0c19b96ae7a0ae30cd4e47b058e230960d2e981fa0aed8dd4e52a0",
+      "triangles": 19600,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/026.glb",
+      "sha256": "c322a594cfff5d95b70879ebbfca5d7d5a97c86074016c96fea1f879352dad21",
+      "triangles": 23616,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/027.glb",
+      "sha256": "cc235d87041df58218f41f1626f851563109793b6c0f7afeddeb2e03d0853d15",
+      "triangles": 36720,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/028.glb",
+      "sha256": "7a1980d4458e6f96d6e294bb4dade8d71d2ec56f6e80f87711e843a14ce42ee0",
+      "triangles": 27552,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/029.glb",
+      "sha256": "30067a04b2008652557b9af32048c46f78e6a69edb5959360c48ada5c0fbf43e",
+      "triangles": 17296,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/030.glb",
+      "sha256": "e271c6d1008e30ad958519154807ba2fe0570d6cd6f7686dc5f15e0f618e12c4",
+      "triangles": 22816,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/031.glb",
+      "sha256": "7b12deb2196030377b1d3f100e02a5efeca500f2348e9b66421bb975bc6be4cb",
+      "triangles": 37376,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/032.glb",
+      "sha256": "4837c7cf4624d740f26444285e10b2b95ab583d4e8ce4180c68daa5e6b207609",
+      "triangles": 44224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/033.glb",
+      "sha256": "ebe8583cc7f614472ab5540f1b94bb2898d530f2107b7b29006f370e3e160199",
+      "triangles": 15888,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/034.glb",
+      "sha256": "790492ad214ed547a5a7df25448e0bb03129a35df2220e5ef8b4f3a1f0f6162c",
+      "triangles": 12224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/035.glb",
+      "sha256": "b3fda9bc4cb205973f5ddb93b1713410afc8f0abe0670f4fc1efb628c6b7dd8d",
+      "triangles": 19600,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/036.glb",
+      "sha256": "4910a1cffa74b3f42a8209f74742ad7fe51c471f80f2e49dae954919435ffedb",
+      "triangles": 23616,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/037.glb",
+      "sha256": "9b90bf1fedc8d4db67594c23c1398c65578d0ddb6268480994d64393ce34e951",
+      "triangles": 39360,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/038.glb",
+      "sha256": "f86672240778041fc0040bf6640b443a5850b34839d0fef1a34472e81d9a9250",
+      "triangles": 27552,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/039.glb",
+      "sha256": "8e11497f01129f5725289f8149a6b5cdd3c50218d26f22f492aef0435f3b53fc",
+      "triangles": 17296,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/040.glb",
+      "sha256": "bee0a3e1ab92b548b5152e2b026607a66d615931c60b5c57d7ed95a9ac113a0a",
+      "triangles": 24992,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/041.glb",
+      "sha256": "7fbbc2cc61fd7f5c20364edf40531f78f2b331c73136c8aacf3c88b57c14987d",
+      "triangles": 45568,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/042.glb",
+      "sha256": "acd854e658b33e7815b7921860c48c182a9d039db5bf8d7e82d12b0549f753f9",
+      "triangles": 44224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/043.glb",
+      "sha256": "16002ec62e5d358b137b01c97a4100a72de7dcf1ff456a394b51f483dcbc4758",
+      "triangles": 15888,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/044.glb",
+      "sha256": "a95855a8729dd9dd144a121ded491d632e12915c5ed2d04a50a4ce6ff8daeccc",
+      "triangles": 12224,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/045.glb",
+      "sha256": "09839b6eca01873c7f46d0cd4a68688a9426d49d5b470a65affeed9a4cc2d6d7",
+      "triangles": 19600,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/046.glb",
+      "sha256": "5afefd5cced18cc53ac3b958a5c5a19784520048d8620fb48a1c818d3bd1c672",
+      "triangles": 23616,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/047.glb",
+      "sha256": "33d9027775aafa1d22d978fd190a6a0adcd60c204c9b08a1da0a36dee6b9a487",
+      "triangles": 42000,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/048.glb",
+      "sha256": "34c75cdd6b3e00f4546503ec3f7b1de91e1fae863f08fb98df8ace9671ade38d",
+      "triangles": 27552,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/049.glb",
+      "sha256": "462ee51e1763af13e3b1e77b2ba3ff7ddddc481b308f0b080df7402f8a3bce20",
+      "triangles": 17296,
+      "clips": 0
+    },
+    {
+      "path": "assets/attachments/050.glb",
+      "sha256": "62a9eae5a682e85336d59bbaa25cb28ee560668684043732653714e37e45ace0",
+      "triangles": 26496,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/001.glb",
+      "sha256": "5a565e5c11273cf6d8b108d9131428d48435d5562b87665ad481ac2ebf4cfc12",
+      "triangles": 5360,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/002.glb",
+      "sha256": "8ad50227a96d6cf08fdab8246b1236c0a9358faf8299e5c9845678707114d3d9",
+      "triangles": 5712,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/003.glb",
+      "sha256": "6ea5f6ba356b6c25440700bf59a5dbff3d5ca6b3452f67e7f1f8293c6a6eb8b9",
+      "triangles": 8352,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/004.glb",
+      "sha256": "26599ddd73119faa6c39bf34ea7547310d57ef445530f9001aae245f9bc01074",
+      "triangles": 12848,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/005.glb",
+      "sha256": "153ffb310822a41039c503b2e81938684159b342be9478875fa47215f1dc67c8",
+      "triangles": 8944,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/006.glb",
+      "sha256": "92a54579b71c566d957b3dc706d0959b609bb264a7969e9c992f44fa511c4152",
+      "triangles": 3424,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/007.glb",
+      "sha256": "d549446d1d16322b2bf6651b5b7afca5162326b99a638b7c7587daf85a64c16f",
+      "triangles": 7744,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/008.glb",
+      "sha256": "2ee90c69ddf1f69861f91548627e38c132e606d8dfd9f48adeaded6ef5df6580",
+      "triangles": 19216,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/009.glb",
+      "sha256": "cce7f8c0075acbff40e0e4f0d701927e2a82932fc98793dcded7ec0cb665422f",
+      "triangles": 3552,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/010.glb",
+      "sha256": "36740cb2a70a8ad375c4cb92cae48503342a3101d2cd1cc56f69acd4244a1bce",
+      "triangles": 2768,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/011.glb",
+      "sha256": "bea90173c4cd34e7e24f871b538387a9edd82ddd71612c68419c9f0709e7c125",
+      "triangles": 8096,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/012.glb",
+      "sha256": "b9f6138ff6d1ffeb30cf911564901e9a2c065e9e01b4250d8887091703f559ed",
+      "triangles": 16368,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/013.glb",
+      "sha256": "d0b9ad08f252d439007a1b752573b0337e590218248b76564cbf3f903c3d1b98",
+      "triangles": 8592,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/014.glb",
+      "sha256": "8f64ff090accbe08a3edce18b2d36bcbc56cff162187d1bb6451218803c8165e",
+      "triangles": 9280,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/015.glb",
+      "sha256": "572c3eca009d256fa4f1f9b75e340790cc534c3c97232306becb2c2a42367588",
+      "triangles": 10512,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/016.glb",
+      "sha256": "ec1eaf722988ff4b856015c21e24c6489d62e4ccfb1f289a9ace5a44dc2a0b86",
+      "triangles": 2960,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/017.glb",
+      "sha256": "9afb366af5f8690861542b4e57ccdcdf9be2321bff9823782e7788e9670be037",
+      "triangles": 5152,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/018.glb",
+      "sha256": "d4b5c893b980ceed26c2ef7b0d70b9d791f9e395f91f69eb3ae7a4330743828d",
+      "triangles": 4048,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/019.glb",
+      "sha256": "ce5d3453115ee7323884150463b00c28e9d79cb9b05e40926649ddad34f70f72",
+      "triangles": 6496,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/020.glb",
+      "sha256": "c5983e9e4583336e71cf22e85db625d0e2387025925dcb45fb9f89b43b7923a9",
+      "triangles": 19136,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/021.glb",
+      "sha256": "b5df1279b389bfa1a12213238fa51880b1a7879b751b43f044a96db95ce3051a",
+      "triangles": 2208,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/022.glb",
+      "sha256": "3fb3dfb99055e3a074ceb6b84fb0d6b167255c4f676a6b110a3f0bb804979433",
+      "triangles": 3968,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/023.glb",
+      "sha256": "19b59bf7cf3d75bde6f0c3092152ccb40a573dccc24f7a618aabcc9f0127f372",
+      "triangles": 13232,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/024.glb",
+      "sha256": "d81a7f1ff7d05ef937b753eb1ea030c7140974438c9325670c8b3f4edc642934",
+      "triangles": 6480,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/025.glb",
+      "sha256": "5fc8313f779077a9250878771964a0d9814752f6c863a82df20f1b83b3f40c94",
+      "triangles": 31056,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/026.glb",
+      "sha256": "84b552327bbe191a50d3887fb49d6d8497eb87c8f0d500bf6f58586f4391f815",
+      "triangles": 24720,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/027.glb",
+      "sha256": "fb10c8cd2429fd4eeae1b756a223b8f6dd4ab9e1cad7b42496e1e53a5f2edb14",
+      "triangles": 28592,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/028.glb",
+      "sha256": "87d88dd58d7c8eae481862c6ae277949182f0db0b4ec41557cf9b8ab53b50596",
+      "triangles": 27392,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/029.glb",
+      "sha256": "d27b4a176194719ad2b6839c5c32dc7f1ffc79fdf18c3ee66e0663501b926506",
+      "triangles": 23120,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/030.glb",
+      "sha256": "62ea3457e282d5ae64e08f175de9803964dacfc2281eee43212ad892494a3c5e",
+      "triangles": 4144,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/031.glb",
+      "sha256": "5739cdbe41d9153558bd18de337f7eaa97daecf3ee02413917760d83ae6aad61",
+      "triangles": 10464,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/032.glb",
+      "sha256": "bf22fa9684c74869a2e97035162370f67377788bbf03902c6493d5ba5e80d252",
+      "triangles": 13744,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/033.glb",
+      "sha256": "7017dac361c6b6fec68780c1f757e41d878ede2b2ee9ce2bb24d7a716e78ffd1",
+      "triangles": 3072,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/034.glb",
+      "sha256": "cf9c4a8471f31bf3041adf9ac37d8cb4c02b3757b4c3d4db8814f82d36cb37f4",
+      "triangles": 16144,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/035.glb",
+      "sha256": "52051ed1f75779b32b45978a6652bed0e2c1b63643f7588c40e409cdfe79a1f4",
+      "triangles": 12240,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/036.glb",
+      "sha256": "2ac7ece8c33d4b894b1152f719f981917869015b76bb31df693a9bbfc865e567",
+      "triangles": 31136,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/037.glb",
+      "sha256": "01f7d917966c0cc397ae36d7328a0e51927c8b7cbd4cc1301f9a5bf644cf900a",
+      "triangles": 7888,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/038.glb",
+      "sha256": "16da7e59b76d7e487fc0efb9cc935520121916582faab5e8f7c5d9935cb4362f",
+      "triangles": 9104,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/039.glb",
+      "sha256": "241ba112806251407b36e60137e2c4d7174cb2daa10967ad0a638c98f39128e9",
+      "triangles": 10160,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/040.glb",
+      "sha256": "ec9a8665c8522a083ab5cae77150dc9830ea180ea921d777993de3f6c66f5ef0",
+      "triangles": 4192,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/041.glb",
+      "sha256": "ffe511017fba4748e9b9503208c201e273a2fea5749a73a58649df7a92800942",
+      "triangles": 5760,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/042.glb",
+      "sha256": "f3a69c4a87d4bc5292e51af4ebf17e1a81f2f7f4261a3aa9a6ca570ffb2c6a8d",
+      "triangles": 4784,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/043.glb",
+      "sha256": "9ecaaf63c8a1ba861ca14b293ccebba2b62c68a8567cafdf74b48e46f487634b",
+      "triangles": 15328,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/044.glb",
+      "sha256": "3e72b78642ec02eb3f5ca03a7be91d1f8ce6524e67c685fa590c1815dbfea901",
+      "triangles": 19296,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/045.glb",
+      "sha256": "e35533188db5b6f100b073b3afdf9fb57b2500db84f6e8ffa5a3b0b032438177",
+      "triangles": 2592,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/046.glb",
+      "sha256": "fb2d8ebbc7bd16ddcaa8f1a4dabbd09082b6f1da0b57efa1eb55f8ccecba3482",
+      "triangles": 10352,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/047.glb",
+      "sha256": "559b07d7c6b50599206b4753a20a6bd273e538221b810ad22eead936383fbffe",
+      "triangles": 8448,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/048.glb",
+      "sha256": "305a73059042c12d18e31d047178544772d4c6101034c790d56e631453becfe4",
+      "triangles": 7872,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/049.glb",
+      "sha256": "537a7407a59ee9657a37624867016a7b0530bd3d8066f177bc28bf4ece86fa2a",
+      "triangles": 7264,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/050.glb",
+      "sha256": "fae6406fee9fefe0b70500ab6e6a83520f8b818dc9587a6175f9a53d99fa505c",
+      "triangles": 9728,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/051.glb",
+      "sha256": "b4142cbdfb9496374796f28ceeebe8e27dfff8fe0f93fc19782010cd896acf01",
+      "triangles": 10256,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/052.glb",
+      "sha256": "584750d614f41b3a5153228b5694e44ee1f8e5363757e773fad051ad6f1d3db6",
+      "triangles": 4512,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/053.glb",
+      "sha256": "61592a6a1487298420d4c43365a2c86efd8df565ce6f8a0c3b17891cd18de813",
+      "triangles": 8944,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/054.glb",
+      "sha256": "c7c430c2c3aae0360a77aef1c12de8e3ce099d2d40184c07074de64e8c6be900",
+      "triangles": 3424,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/055.glb",
+      "sha256": "66b7d6eb0376891dd6e7f2e8a55d5a2a523cf670640192c80b9f27c866b415fa",
+      "triangles": 7744,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/056.glb",
+      "sha256": "dd98ca9187199362f5c6331352c7d7bbdc77d65482c8a04529da0f2554559055",
+      "triangles": 7328,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/057.glb",
+      "sha256": "dcc5f1cabe6a4526ab43cc1bb4f8e7e438271ebd77b14560ee6c0ba73c004ae6",
+      "triangles": 3552,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/058.glb",
+      "sha256": "540cf85d1e6f7d4dec4560cc38b075677006705539975f4671e1802ab9a5135f",
+      "triangles": 3680,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/059.glb",
+      "sha256": "66ce9de703f8725b7cfad42513ad674b0e066dbf6946ce7af09c997c60ba9456",
+      "triangles": 8976,
+      "clips": 0
+    },
+    {
+      "path": "assets/construction_modules/060.glb",
+      "sha256": "527365ce1f8cf6be59b3a6bdef69d258725ce365f7bf36854e5b6545d2d17791",
+      "triangles": 8032,
+      "clips": 0
+    },
+    {
+      "path": "assets/animated_mechanisms/001.glb",
+      "sha256": "a5605d962999f61b6871e86aafc17e9682ab0f80f94e91ee53aaf7c7bff55d6c",
+      "triangles": 10416,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/002.glb",
+      "sha256": "d21aba8b00a3806c189bd418a1d3e333d7c1eb89e305c9410cfc93eb9ef82993",
+      "triangles": 17600,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/003.glb",
+      "sha256": "f9468a2e4d199cebb2d120e21d3cfe9739be917ce675619f1d75aca48ca45d1e",
+      "triangles": 39168,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/004.glb",
+      "sha256": "7bb0f2afe0434672848a7a8a568637608d540673787829e75079d4c8c2ec2cdc",
+      "triangles": 23536,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/005.glb",
+      "sha256": "b775bb9121f5fb51e9b8c4e58b89d95316549745519823955617438ae71de1d4",
+      "triangles": 10384,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/006.glb",
+      "sha256": "74c64e3abba653528415bc3d570b3874c1d02f6cf06c25e96002970218630bc7",
+      "triangles": 11904,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/007.glb",
+      "sha256": "26968fd169dd2dfada3e1f703f2c82a4caa6d04b410d2ec4379bf94bfde55b74",
+      "triangles": 11648,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/008.glb",
+      "sha256": "db87ebe226878764e8ac601eb3315722cc4ec75b5b7b9dc083d931624be021a1",
+      "triangles": 18624,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/009.glb",
+      "sha256": "1084d5fc4ef5761643a7ad8ef3cc00b1baab4b3e604fdf93de9abaa72dbd747b",
+      "triangles": 40192,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/010.glb",
+      "sha256": "81c824ff8c3f82c224f4e4f9b9de41d7f21e7f627639c2c82d973bc808f8ce5b",
+      "triangles": 24592,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/011.glb",
+      "sha256": "2809b2d582746521ef4f6ae3a14441c9711feb44816d9b3a9691b3fd2f086400",
+      "triangles": 11440,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/012.glb",
+      "sha256": "80bb47ba5c85759f7ac4c537aada30f88090c5c75b50283f17b886c7d2f19748",
+      "triangles": 12928,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/013.glb",
+      "sha256": "2703055c5f55a5d8b3b8744edf0c87fb59218f6420fe72115169e3fb5d11d8b6",
+      "triangles": 17360,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/014.glb",
+      "sha256": "1deedf5dbbe2f8287568188b48d16976f136b96c2f824a466f9268707a83e2d5",
+      "triangles": 20352,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/015.glb",
+      "sha256": "ada92d6c8fe98ed90728feae798556440e5c27e113dbb71d157ccc26e1ad3004",
+      "triangles": 41920,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/016.glb",
+      "sha256": "5c27043f7244445db0a0f20418e452a534cc16b827f8a8ab070b960d4d4e0f34",
+      "triangles": 26320,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/017.glb",
+      "sha256": "3d7220ea1fb2603edefc00d41021a27b67bac5c0c545a097354294ebcda9a88f",
+      "triangles": 13168,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/018.glb",
+      "sha256": "722d9704d7c02233f1a77fcccd8bfef88484e60e6376dd1e4f56088a34cc25f3",
+      "triangles": 14656,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/019.glb",
+      "sha256": "9aeae60d06914b48255c9c7d714f63546c1c500f4f2e6f987caea6bd460720b6",
+      "triangles": 13056,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/020.glb",
+      "sha256": "12d60b4b2db230788783169747c947330acc84318595de35e2bde2ced5be1f52",
+      "triangles": 20032,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/021.glb",
+      "sha256": "18dd37a5d4a69fc0132d407a4057939782bba502d7b97a23b1098765ec3b1bba",
+      "triangles": 41600,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/022.glb",
+      "sha256": "502713aef4ccbe67c12c6f426d4452d1befc16e58b7622a2be6935ff4ebe32df",
+      "triangles": 26000,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/023.glb",
+      "sha256": "9937e6c744e8c98e429d272a8938bcd66236733cabc4219c44bcf18d8319c686",
+      "triangles": 12848,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/024.glb",
+      "sha256": "99cfa73e7f3cef54da80caabcdd9b00a33489ec60fef340ac9667a73914d627f",
+      "triangles": 14336,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/025.glb",
+      "sha256": "fb9f1952a5af09f8494e48bee63f97df6b75c6dbbe9c2de8540b17ccec2f1779",
+      "triangles": 11280,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/026.glb",
+      "sha256": "7fcfa16e6e28818659715b14e8601a84abdf02f8c694ad03498258448ed11aff",
+      "triangles": 18496,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/027.glb",
+      "sha256": "ac2173ba9e05cd4b28e6340c464e764ad900e784aea30fcfd0325590bd8f480f",
+      "triangles": 40064,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/028.glb",
+      "sha256": "54f3b2d1c1521e453dd3641f1dcb7b24bbd177edf0d71f91ffad487bc0051815",
+      "triangles": 24432,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/029.glb",
+      "sha256": "4daa296c73d69f4a505dd24b656f8370d5b5a23acf10828722ea8931bf1a3113",
+      "triangles": 11280,
+      "clips": 1
+    },
+    {
+      "path": "assets/animated_mechanisms/030.glb",
+      "sha256": "4816be3f91f3955151dc62820b8d8b83539fe68be184968066336ce8fa291342",
+      "triangles": 12800,
+      "clips": 1
+    }
+  ],
+  "failures": []
+}

@@ -29,7 +29,7 @@ Deploy the generated `dist/` folder to any static host, or use Vercel's Vite pre
 
 ## Content status
 
-**595 records; 0 approved shipping assets.** Review geometry is in `public/assets/` and is what Vercel serves: 745 GLBs (75 weapons × LOD 0/1/2, 60 armor pieces, 460 supplementary slots), 300 tileable PBR maps under `public/assets/materials/`, and 595 preview stills. Catalog paths such as `assets/weapons/swords/longsword.glb` resolve at that same URL. Open any record to orbit the shipped model; weapon LOD 0/1/2 can be switched in the viewer. Animated mechanisms play their first clip. Local GLB import still overrides the shipped file for that browser only.
+**595 records; 0 approved shipping assets.** All models, maps and previews carry the `forge-high-detail-2026-10` remaster (see `docs/ARTWORK_UPGRADES.md`). Review geometry is in `public/assets/` and is what Vercel serves: 745 GLBs (75 weapons × LOD 0/1/2, 60 armor pieces, 460 supplementary slots), 300 tileable PBR maps under `public/assets/materials/`, and 595 preview stills. Catalog paths such as `assets/weapons/swords/longsword.glb` resolve at that same URL. Open any record to orbit the shipped model; weapon LOD 0/1/2 can be switched in the viewer. Animated mechanisms play their first clip. Local GLB import still overrides the shipped file for that browser only.
 
 This does not approve art, sockets, rig fit, gameplay, or engine parity. Production stages stay evidence-gated. Provenance is in `docs/ASSET_PROVENANCE.md`. Checksums are in `docs/SHA256SUMS.txt` and are relative to `public/` (`sha256sum -c ../docs/SHA256SUMS.txt`). The pack manifest is `public/assets/manifest.json`.
 

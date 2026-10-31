@@ -70,3 +70,38 @@ photoreal/AAA art signoff. Mechanical object clips are not character attacks.
 The Forge shows authored source evidence separately from availability and later
 acceptance stages. No invented reference, reviewer, frame rate, or integration
 result is used to advance those stages.
+
+## Forge high-detail remaster (`forge-high-detail-2026-10`)
+
+Every delivery file was rebuilt from the PR #3 checkout (`29e7e70`) by the
+deterministic pipeline in `tools/remaster/`: 745 GLBs (catalog models and
+LODs), the 300 tileable material maps and all 595 preview stills. Running the
+pipeline twice yields byte-identical output.
+
+- `remaster.py` verifies each source against its manifest SHA-256, applies
+  seam-aware subdivision (`geometry.py`, skipped for LOD 2), adds hardware and
+  wear detail (`details.py`) and material finish layers
+  (`forge_finishes.py`: sheen, clearcoat, IOR, refined embedded maps).
+- `forge_surface_maps.py` refines the 100 periodic material sets while keeping
+  packed AO and metal masks.
+- `render_previews.py` renders 512px catalog stills headlessly (libEGL/libGL).
+- `runtime-check.mjs` imports every model with Three.js GLTFLoader, checks
+  finite bounds and samples each clip; results are in
+  `docs/evidence/remaster-runtime.json` (745 passed, 0 failed).
+- `refresh.py` rewrites the pack manifest, catalog evidence hashes and
+  `docs/SHA256SUMS.txt`, recording each model's input SHA-256.
+
+```sh
+git worktree add ../forge-base 29e7e70
+python3 tools/remaster/forge_surface_maps.py ../forge-base/public/assets/materials public/assets/materials
+python3 tools/remaster/remaster.py ../forge-base .
+python3 tools/remaster/render_previews.py public
+node tools/remaster/runtime-check.mjs
+python3 tools/remaster/refresh.py . --baseline ../forge-base --runtime-report docs/evidence/remaster-runtime.json
+npm run verify:upload
+```
+
+Catalog triangles rose from 4.64M to 19.2M and the pack (models + LODs) from
+344 MB to 819 MB; 93 models are now `high-detail` (>60k triangles). Runtime
+import is evidenced; visual approval, rig fit, gameplay and Steam Deck
+performance remain unapproved.
