@@ -169,12 +169,11 @@ def refine_glb(data, passes=1):
         for prim in mesh['primitives']:
             ids = prim['attributes']
             if (prim.get('mode', 4) != 4 or 'targets' in prim
-                or 'POSITION' not in ids or any(k.startswith(('JOINTS_', 'WEIGHTS_')) for k in ids)
-                or any(accessors[v]['componentType'] != 5126 for v in ids.values())):
+                or 'POSITION' not in ids or any(k.startswith(('JOINTS_', 'WEIGHTS_')) for k in ids)):
                 continue
             if any(i in replaced for i in [*ids.values(), prim.get('indices')]):
                 raise ValueError('Shared geometry accessor cannot be overwritten')
-            attrs = {key: read(index) for key, index in ids.items()}
+            attrs = {key: read(index).astype('float32', copy=False) for key, index in ids.items()}
             if 'indices' in prim:
                 faces = read(prim['indices']).astype('int64').reshape(-1, 3)
             else:
@@ -194,7 +193,8 @@ def refine_glb(data, passes=1):
             for _ in range(passes):
                 attrs, faces = subdivide(attrs, faces, mat)
             for key, values in attrs.items():
-                write(ids[key], values, 5126)
+                component = accessors[ids[key]]['componentType']
+                write(ids[key], values if component == 5126 else np.rint(values), component)
             write(prim['indices'], faces.reshape(-1, 1), 5123 if faces.max() < 65535 else 5125)
     blob = bytearray()
     for view, chunk in zip(views, chunks):
